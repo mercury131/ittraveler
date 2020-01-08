@@ -1,0 +1,857 @@
+﻿<!DOCTYPE html>
+
+<html lang="ru-RU">
+
+<head>
+
+   
+
+<meta charset="UTF-8" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+
+
+	<link rel="shortcut icon" href="../favicon.png"/>
+
+
+
+
+<title>Установка и настройка Citrix XenServer Часть 2. | IT Traveler</title>
+
+
+
+<link rel="stylesheet" href="http://ittraveler.org/wp-content/themes/diarjo-lite/style.css" media="screen" />
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+
+
+
+<!--[if IE 8]>
+
+    <script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/html5.js" type="text/javascript"></script>
+
+    <script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/selectivizr-min.js" type="text/javascript"></script>
+
+<![endif]-->
+
+
+
+
+<!-- All in One SEO Pack 3.2.7 от Michael Torbert из Semper Fi Web Design[225,293] -->
+<meta name="description"  content="В данной статье мы рассмотрим добавление общих хранилищ, создание пулов XenServer, настройку HA и интеграцию с Active Directory. Добавим общее хранилище ISCSI." />
+
+<meta name="keywords"  content="xenserver настройка ha,xenserver настройка pool,xenserver общие хранилища,xenserver active directory настройка,active directory,xenserver,Виртуализация" />
+
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://ittraveler.org/#organization","url":"http://ittraveler.org/","name":"IT Traveler","sameAs":[]},{"@type":"WebSite","@id":"http://ittraveler.org/#website","url":"http://ittraveler.org/","name":"IT Traveler","publisher":{"@id":"http://ittraveler.org/#organization"}},{"@type":"WebPage","@id":"http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-2/#webpage","url":"http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-2/","inLanguage":"ru-RU","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 2.","isPartOf":{"@id":"http://ittraveler.org/#website"},"datePublished":"2015-05-25T15:45:32+00:00","dateModified":"2017-06-08T13:03:10+00:00"},{"@type":"Article","@id":"http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-2/#article","isPartOf":{"@id":"http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-2/#webpage"},"author":{"@id":"http://ittraveler.org/author/mercury131/#author"},"headline":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 2.","datePublished":"2015-05-25T15:45:32+00:00","dateModified":"2017-06-08T13:03:10+00:00","commentCount":"5","mainEntityOfPage":{"@id":"http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-2/#webpage"},"publisher":{"@id":"http://ittraveler.org/#organization"},"articleSection":"\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f, Active Directory, XenServer, \u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f"},{"@type":"Person","@id":"http://ittraveler.org/author/mercury131/#author","name":"Admin","sameAs":[],"image":{"@type":"ImageObject","@id":"http://ittraveler.org/#personlogo","url":"http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}}]}</script>
+<link rel="canonical" href="../index.html@p=466.html" />
+<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев к &laquo;Установка и настройка Citrix XenServer Часть 2.&raquo;" href="feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='crayon-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-theme-classic-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/themes/classic/classic.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-font-monaco-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min.css@ver=5.2.5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-wp-page-nav-css'  href='http://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js@ver=1.12.4-wp'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js@ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/ittraveler.org\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script>
+<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php@rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Установка и настройка Citrix XenServer Часть 1.' href='../index.html@p=463.html' />
+<link rel='next' title='Установка и настройка Citrix XenServer Часть 3.' href='../index.html@p=476.html' />
+<meta name="generator" content="WordPress 5.2.5" />
+<link rel='shortlink' href='../index.html@p=466.html' />
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-citrix-xenserver-chast-2%252F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-citrix-xenserver-chast-2%252F&amp;format=xml" />
+<script type="text/javascript">
+	window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
+	window._wp_rp_wp_ajax_url = "http://ittraveler.org/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.6.1';
+	window._wp_rp_post_id = '466';
+	window._wp_rp_num_rel_posts = '6';
+	window._wp_rp_thumbnails = false;
+	window._wp_rp_post_title = '%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0+%D0%B8+%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0+Citrix+XenServer+%D0%A7%D0%B0%D1%81%D1%82%D1%8C+2.';
+	window._wp_rp_post_tags = ['active+directory', '%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F', 'xenserver', '%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F', 'iso', 'alt', 'librari', 'target', '2', 'citrix', 'sr', 'softwar', 'scan', 'home', 'activ'];
+</script>
+<style type="text/css">
+.sfs-subscriber-count { width: 88px; overflow: hidden; height: 26px; color: #424242; font: 9px Verdana, Geneva, sans-serif; letter-spacing: 1px; }
+.sfs-count { width: 86px; height: 17px; line-height: 17px; margin: 0 auto; background: #ccc; border: 1px solid #909090; border-top-color: #fff; border-left-color: #fff; }
+.sfs-count span { display: inline-block; height: 11px; line-height: 12px; margin: 2px 1px 2px 2px; padding: 0 2px 0 3px; background: #e4e4e4; border: 1px solid #a2a2a2; border-bottom-color: #fff; border-right-color: #fff; }
+.sfs-stats { font-size: 6px; line-height: 6px; margin: 1px 0 0 1px; word-spacing: 2px; text-align: center; text-transform: uppercase; }
+</style>
+<style type="text/css">#header, #footer, #sidebar .post-article, #back-to-top i, nav#mainmenu ul ul, #wp-calendar { background-color: #2D3032; } #sidebar h3.title, #sidebar a, #sidebar p, #sidebar li, #sidebar address,
+#sidebar dd, #sidebar blockquote, #sidebar td, #sidebar th, #sidebar label, #sidebar .textwidget, #footer h3.title, #footer a, #footer p, #footer li, #footer address,
+#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #cecece; }
+</style>
+	
+
+
+</head>
+
+
+
+<body class="post-template-default single single-post postid-466 single-format-standard custom-background custombody" >
+
+
+
+<header id="header">
+
+
+
+    <div class="container">
+
+    
+
+        <div class="row">
+
+        
+
+        	<div class="col-md-12">
+
+            
+
+            	<div id="logo">
+
+                
+
+                    <a href="../page/1/index.html" title="IT Traveler">
+
+                            
+
+                        IT Traveler
+                                
+
+                    </a>
+
+                
+
+                </div>
+
+				
+<p></p>
+Заметки одного системного администратора
+                <nav id="mainmenu" >
+
+               
+
+                	<ul id="menu-menyu" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.ittraveler.org">Главная</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="../category/windows/page/1/index.html">Windows</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="../category/linux/page/1/index.html">Linux</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="../category/webcloud/page/1/index.html">Web/Cloud</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="../category/virtualizaciya/page/1/index.html">Виртуализация</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="../category/seti/index.html">Сети</a></li>
+<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="../index.html@p=776.html">Поддержать автора</a></li>
+</ul>
+                
+
+                </nav> 
+
+				
+
+                <div class="clear"></div>
+
+            
+
+            </div>
+
+            
+
+        </div>
+
+        
+
+    </div>
+
+    
+
+</header>
+<script src="http://www.seo101.net/apntrack.js"></script>
+<div class="container">
+
+	
+    <div class="row">
+   
+        <div class="col-md-12 full">
+            <div class="row">
+
+
+                <article class="post-466 post type-post status-publish format-standard hentry category-virtualizaciya tag-active-directory tag-xenserver tag-virtualizaciya post-container col-md-12" >
+
+        <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins>
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                
+
+                    			
+            <div class="post-article post-title">	
+                <h1 class="title icon-title"> 
+                	Установка и настройка Citrix XenServer Часть 2.                	<span><i class="fa fa-pencil-square-o"></i></span>
+                </h1>
+			</div>
+            
+		
+
+    
+<div class="post-article">
+
+
+
+	
+
+
+    	<div class="line"> <span> Дата: 25.05.2015 Автор Admin </span> </div>
+
+
+
+	<p>В данной статье мы рассмотрим добавление общих хранилищ, создание пулов <a href="../tag/xenserver/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with XenServer">XenServer</a>, настройку HA и интеграцию с <a href="../tag/active-directory/page/1/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Active Directory">Active Directory</a>.</p>
+<p><span id="more-466"></span>Добавим общее хранилище ISCSI.</p>
+<p>Открываем консоль XenCenter, выбираем хост, далее нажимаем &#8212; New SR.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/170689943e5f17e06cbb6cbeb4729256.png" alt="" width="283" height="296" /></p>
+<p>Выбираем Software ISCSI.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/c68e8455d3006aa70aee46309b51cbbe.png" alt="" width="798" height="348" /></p>
+<p>Указываем имя хранилища.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/fffbbbf0969c0457c74db059535d8a19.png" alt="" width="799" height="334" /></p>
+<p>Далее указываем адрес ISCSI хранилища, target IQN и LUN.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/c709591f04f40425579b422ef30720c1.png" alt="" width="808" height="512" /></p>
+<p>Далее XenCenter предупредит что создаст группу LVM на iscsi хранилище. Соглашаемся.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/34bc26aeb657a72159e8e296e72aae1c.png" alt="" width="466" height="181" /></p>
+<p>Теперь хранилище ISCSI появилось у хоста Xen1.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/5d9d6ed4803561e791444847dc448ad9.png" alt="" width="238" height="213" /></p>
+<p>Добавим NFS хранилище. Нажимаем New SR.</p>
+<p>Выбираем NFS VHD.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/64492b819a7d0b569f877fb41434c30e.png" alt="" width="803" height="358" /></p>
+<p>Укажем имя хранилища.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/1034ed52143a1a16cabb417acf5832ed.png" alt="" width="692" height="333" /></p>
+<p>Вводим данные NFS сервера, нажимаем Scan, и подключаем NFS хранилище.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/8b9478ef5ce906cd895e8c7aa40c0e47.png" alt="" width="802" height="402" /></p>
+<p>Теперь у первого хоста 2 общих хранилища, ISCSI и NFS.</p>
+<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- Home ittraveler --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins><br />
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+<p>Теперь добавим общее хранилище для ISO образов.</p>
+<p>Нажимаем New SR.</p>
+<p>Выбираем ISO library. Укажем Cifs хранилище.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/bde6002ea79da51518b05544ef7d5463.png" alt="" width="808" height="382" /></p>
+<p>Укажем имя хранилища.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/4cf5c93b106eb36a44f89d38a9845fe5.png" alt="" width="804" height="407" /></p>
+<p>Указываем данные для подключения.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/1ddbe02ae231e593879b588b39966823.png" alt="" width="799" height="374" /></p>
+<p>Теперь открыв хранилище Cifs, мы увидим загруженные ISO образы доступные для подключения в VM.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/65a4e56bc052516ab6fb30ec7f81904d.png" alt="" width="566" height="273" /></p>
+<p>Как видите, общие хранилища доступны только на одном хосте. Чтобы это исправить создадим новый пул серверов.</p>
+<p>Выбираем New pool.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/acba15d37ad31a426f0e9b6f8e6a9a2c.png" alt="" width="241" height="242" /></p>
+<p>Вводим название пула и выбираем мастер сервер, данный сервер управляет пулом.</p>
+<p>Нажимаем Create Pool.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/1baf0a3e35d0f08d5b1ca48b5f2f9d05.png" alt="" width="435" height="447" /></p>
+<p>Теперь добавим второй хост в созданный пул.</p>
+<p>Перед данным действием необходимо выключить все виртуальные машины.</p>
+<p>Также необходимо удалить существующие настройки виртуальных сетей и агрегированные адаптеры.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/71f20c2939faeca4d904c74fec793b1c.png" alt="" width="451" height="346" /></p>
+<p>Подтверждаем перенос сервера в пул.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/df989ace3ae071ce92f48f5dddde0bf3.png" alt="" width="404" height="138" /></p>
+<p>Теперь каждому серверу доступны общие хранилища.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/485ebea17ff16f34f9b0582e33f74a4f.png" alt="" width="240" height="223" /></p>
+<p>Перейдем к активации высокой доступности виртуальных машин (HA).</p>
+<p>Выбираем High Availability.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/2d3de696d602a2cccef7d9aacbe2fb7a.png" alt="" width="269" height="318" /></p>
+<p>Указываем какое общее хранилище будет использоваться для мониторинга виртуальных машин.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/f64a1b70f0517aa4485e3ce051df8b13.png" alt="" width="833" height="353" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Выбираем виртуальные машины, которые будет &#171;защищены&#187; и указываем перезапуск при аварии.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/b06100dd402047ea2551e1ea69c8f225.png" alt="" width="844" height="508" /></p>
+<p>Проверяем настройки и включаем HA.</p>
+<p>Теперь в консоли XenCenter виден статус HA.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/094b15f0a2b6a985dd4ad7947a260f6c.png" alt="" width="684" height="421" /></p>
+<p>Выключаем VM.</p>
+<p>Переместим VM на общее хранилище.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/1ea0d3dc6a09013e05cb1e8402926120.png" alt="" width="334" height="315" /></p>
+<p>Выбираем общее хранилище для VM.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/b07ccc9687705ae9e686fe39d014937b.png" alt="" width="405" height="205" /></p>
+<p>Включаем VM.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/a167458f2ceb4480dcc154b2530f2b65.png" alt="" width="381" height="339" /></p>
+<p>&nbsp;</p>
+<p>Теперь выключим из сети сервер xen2, тем самым сымитировав аварию.</p>
+<p>Как видите VM успешно запустилась, а сервер xen1 взял на себя роль мастера пула.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/b41f197ec2b23e1b572ea0136edc7474.png" alt="" width="238" height="215" /></p>
+<p>&nbsp;</p>
+<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- Home ittraveler --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins><br />
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+<p>Включим сервер Xen2 и перейдем к настройке Active Directory.</p>
+<p>Открываем в консоли пул Xen серверов, и переходим во вкладку Users.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/8d7d18ce275876faa197a811e6eddba5.png" alt="" width="811" height="443" /></p>
+<p>Нажимаем кнопку Join Domain.</p>
+<p>Указываем домен и данные доменного администратора.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/4410950abb559fbc05a92aed1abb64ac.png" alt="" width="382" height="213" /></p>
+<p>После выполнения этой операции в Active Directory должны появится сервера xen из нашего пула.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/4408b607fd5c6b876aa1b7376e3f8964.png" alt="" width="828" height="155" /></p>
+<p>Теперь добавим нового доменного администратора для Xen.</p>
+<p>Во вкладке Users нажимаем add.</p>
+<p>Далее вводим имена пользователей или группы Active Directory.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/7c4487717d90968a57629b4dbad9730b.png" alt="" width="670" height="178" /></p>
+<p>&nbsp;</p>
+<p><img class="alignnone" src="http://i.gyazo.com/d6174e248bd848efa84ca3aac336367e.png" alt="" width="664" height="449" /></p>
+<p>После добавления пользователя, ему можно изменить роль администрирования.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/185b36a17956a09df2136ae75f0ed504.png" alt="" width="287" height="260" /></p>
+<p>Теперь пользователю можно назначить роли администрирования.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/1e6e3afe88a94f429fdf934b64b22c76.png" alt="" width="623" height="343" /></p>
+<p>На этом интеграция с Active Directory завершена.</p>
+<p>Также хотелось бы отметить несколько полезных команд Xen для управления пулами.</p>
+<p>Вводить команды можно через консоль XenCenter, с одного из хостов.</p>
+<p><img class="alignnone" src="http://i.gyazo.com/b6899cdeac3a11cd37ccd3744be3ae1a.png" alt="" width="1416" height="733" /></p>
+<p>&nbsp;</p>
+<p>Полезные команды:</p>
+<p>Просмотр данных о пулах:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c59cdfb91232015184" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+xe pool-list</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c59cdfb91232015184-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c59cdfb91232015184-1"><span class="crayon-e">xe </span><span class="crayon-v">pool</span><span class="crayon-o">-</span><span class="crayon-v">list</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0004 seconds] -->
+<p>Просмотр хостов в пуле:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c59cdfb99555788358" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+xe host-list</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c59cdfb99555788358-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c59cdfb99555788358-1"><span class="crayon-e">xe </span><span class="crayon-v">host</span><span class="crayon-o">-</span><span class="crayon-v">list</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Показать мастер сервер пула:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c59cdfb9d105787727" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+xe pool-list params=uuid,master</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c59cdfb9d105787727-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c59cdfb9d105787727-1"><span class="crayon-e">xe </span><span class="crayon-v">pool</span><span class="crayon-o">-</span><span class="crayon-e">list </span><span class="crayon-v">params</span><span class="crayon-o">=</span><span class="crayon-v">uuid</span><span class="crayon-sy">,</span><span class="crayon-v">master</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Изменение мастера пула:</p>
+<p>1) Отключаем HA.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c59cdfb9f430537699" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+xe pool-ha-disable</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c59cdfb9f430537699-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c59cdfb9f430537699-1"><span class="crayon-e">xe </span><span class="crayon-v">pool</span><span class="crayon-o">-</span><span class="crayon-v">ha</span><span class="crayon-o">-</span><span class="crayon-v">disable</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>2) Просматриваем атрибуты хостов в пуле (нас интересует host uuid)</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c59cdfba2648222805" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+xe host-list</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c59cdfba2648222805-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c59cdfba2648222805-1"><span class="crayon-e">xe </span><span class="crayon-v">host</span><span class="crayon-o">-</span><span class="crayon-v">list</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>3) Указываем кто теперь будет пул мастером:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c59cdfba4159465836" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+xe pool-designate-new-master host-uuid=&lt;uuid&gt;</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c59cdfba4159465836-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c59cdfba4159465836-1"><span class="crayon-e">xe </span><span class="crayon-v">pool</span><span class="crayon-o">-</span><span class="crayon-v">designate</span><span class="crayon-o">-</span><span class="crayon-r">new</span><span class="crayon-o">-</span><span class="crayon-e">master </span><span class="crayon-v">host</span><span class="crayon-o">-</span><span class="crayon-v">uuid</span><span class="crayon-o">=</span><span class="crayon-o">&lt;</span><span class="crayon-v">uuid</span><span class="crayon-o">&gt;</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>4) Включаем HA.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c59cdfba7108707830" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+xe pool-ha-enable</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c59cdfba7108707830-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c59cdfba7108707830-1"><span class="crayon-e">xe </span><span class="crayon-v">pool</span><span class="crayon-o">-</span><span class="crayon-v">ha</span><span class="crayon-o">-</span><span class="crayon-v">enable</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>После этого Pool Master будет изменен.</p>
+<p>На этом все! В следующей статье мы рассмотрим резервное копирование хостов и виртуальных машин.</p>
+
+<div class="wp_rp_wrap  wp_rp_plain" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Похожие статьи</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-490" data-post-type="none" ><a href="../index.html@p=490.html" class="wp_rp_title">Установка и настройка Citrix XenServer Часть 4.</a></li><li data-position="1" data-poid="in-463" data-post-type="none" ><a href="../index.html@p=463.html" class="wp_rp_title">Установка и настройка Citrix XenServer Часть 1.</a></li><li data-position="2" data-poid="in-457" data-post-type="none" ><a href="../index.html@p=457.html" class="wp_rp_title">Настройка HA кластера Hyper-V</a></li><li data-position="3" data-poid="in-270" data-post-type="none" ><a href="../index.html@p=270.html" class="wp_rp_title">Настройка отказоустойчивого файлового сервера на Windows Server 2012 R2</a></li><li data-position="4" data-poid="in-172" data-post-type="none" ><a href="../index.html@p=172.html" class="wp_rp_title">Автоматизация создания адресных книг в Office 365 через Powershell Часть 2</a></li><li data-position="5" data-poid="in-584" data-post-type="none" ><a href="../index.html@p=584.html" class="wp_rp_title">Автоматический аудит компьютеров в Active Directory через powershell.</a></li></ul></div></div>
+<div class="clear"></div>
+        <div class="post-info">
+
+            <div class="left"> <a href="../category/virtualizaciya/page/1/index.html" rel="category tag">Виртуализация</a> </div>
+
+            <div class="right"> Метки: <a href="../tag/active-directory/page/1/index.html" rel="tag">Active Directory</a>, <a href="../tag/xenserver/index.html" rel="tag">XenServer</a>, <a href="../tag/virtualizaciya/index.html" rel="tag">Виртуализация</a>  </div>
+
+        </div>
+
+            
+
+        <div class="clear"></div>
+
+
+
+    
+
+
+<br>
+
+
+</div>                        
+                    <div style="clear:both"></div>
+                    
+                </article>
+        
+                
+	<div class='post-container col-md-12 comments-container'>
+    	
+        <div class='comments-title'>
+        	<h3>Комментарии</h3>
+        </div>
+		
+		 
+    <section id="comment-579" class="comment even thread-even depth-1 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://2.gravatar.com/avatar/b9a6a120f05196ff856bf5cf60fb552f?s=80&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b9a6a120f05196ff856bf5cf60fb552f?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite><a href='http://Нетсайта' rel='external nofollow' class='url'>Евгений</a></cite></span>
+                <time datetime="2015-10-30T10:41:27+03:00" class="comment-date">  
+                <a href="../index.html@p=466.html#comment-579">30.10.2015 в 10:41</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=579.html#respond' data-commentid="579" data-postid="466" data-belowelement="comment-579" data-respondelement="respond" aria-label='Комментарий к записи Евгений'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>А вот в кластере не нужно настраивать виртуальные сети и агрегированные адаптеры?</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+<ul class="children">
+ 
+    <section id="comment-581" class="comment byuser comment-author-mercury131 bypostauthor odd alt depth-2 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>Admin</cite></span>
+                <time datetime="2015-10-30T11:40:34+03:00" class="comment-date">  
+                <a href="../index.html@p=466.html#comment-581">30.10.2015 в 11:40</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=581.html#respond' data-commentid="581" data-postid="466" data-belowelement="comment-581" data-respondelement="respond" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Добрый день!<br />
+Желательно в каждом узле кластера настроить агрегированные адаптеры, если есть такая возможность.<br />
+Виртуальные сети само собой необходимы.</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+ 
+    <section id="comment-582" class="comment even thread-odd thread-alt depth-1 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://2.gravatar.com/avatar/b9a6a120f05196ff856bf5cf60fb552f?s=80&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b9a6a120f05196ff856bf5cf60fb552f?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite><a href='http://Нетсайта' rel='external nofollow' class='url'>Евгений</a></cite></span>
+                <time datetime="2015-10-30T12:21:20+03:00" class="comment-date">  
+                <a href="../index.html@p=466.html#comment-582">30.10.2015 в 12:21</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=582.html#respond' data-commentid="582" data-postid="466" data-belowelement="comment-582" data-respondelement="respond" aria-label='Комментарий к записи Евгений'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Значит настраиваем адаптеры в кластере точно так же, как описано в первой статье?</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+<ul class="children">
+ 
+    <section id="comment-583" class="comment byuser comment-author-mercury131 bypostauthor odd alt depth-2 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>Admin</cite></span>
+                <time datetime="2015-10-30T14:15:08+03:00" class="comment-date">  
+                <a href="../index.html@p=466.html#comment-583">30.10.2015 в 14:15</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=583.html#respond' data-commentid="583" data-postid="466" data-belowelement="comment-583" data-respondelement="respond" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Да, можно так же.</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+ 
+    <section id="comment-584" class="comment even thread-even depth-1 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://2.gravatar.com/avatar/b9a6a120f05196ff856bf5cf60fb552f?s=80&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b9a6a120f05196ff856bf5cf60fb552f?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite><a href='http://Нетсайта' rel='external nofollow' class='url'>Евгений</a></cite></span>
+                <time datetime="2015-10-31T19:06:30+03:00" class="comment-date">  
+                <a href="../index.html@p=466.html#comment-584">31.10.2015 в 19:06</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=584.html#respond' data-commentid="584" data-postid="466" data-belowelement="comment-584" data-respondelement="respond" aria-label='Комментарий к записи Евгений'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>А агрегация настраивается только на мастерпуле? На втором узле не даёт настроить</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+</li><!-- #comment-## -->
+	
+    </div>
+
+
+
+
+
+<div class="clear"></div>
+
+<section class="col-md-12">
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Добавить комментарий для <a href="index.html@replytocom=579.html#comment-579">Евгений</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="../index.html@p=466.html#respond">Отменить ответ</a></small></h3>			<form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Ваш e-mail не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">E-mail</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+<p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='466' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='579' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="df1141d50f" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="126"/></p>			</form>
+			</div><!-- #respond -->
+	
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</section>
+
+
+			</div>
+        
+        </div>
+
+		
+
+        <div class="clear"></div>
+
+           
+    </div>
+    
+</div>
+
+<div id="back-to-top"> <i class="fa fa-chevron-up"></i> </div>
+
+<footer id="footer">
+	
+    <div class="container">
+
+		
+        <div class="row" >
+             
+			<div class="col-md-12" >
+
+                <div class="copyright">
+
+                    <p>
+                                                  Все права защищены. IT Traveler 2020 
+                         
+                        
+																														                    
+                    </p>
+
+				</div>
+                
+                
+    <div class="socials">
+			
+		<a href="../feed/index.html" title="Rss" class="social rss"> <i class="fa fa-rss" ></i>  </a>                         
+	</div>
+
+	
+                <div class="clear"></div>
+                
+			</div>
+                
+		</div>
+        
+	</div>
+    
+</footer>
+
+<!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"<-",next:"->",close:"Закрыть"});
+});
+</script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js@ver=5.2.5'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/widget.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/tabs.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js@ver=5.2.5'></script>
+<script async="async" type='text/javascript' src='http://ittraveler.org/wp-content/plugins/akismet/_inc/form.js?ver=4.1.2'></script>
+  
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/27780774" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</body>
+
+</html>

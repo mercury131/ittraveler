@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="favicon.png"/>
+<title>Настраиваем Postfix как антиспам Frontend. | IT Traveler</title>
+<link rel="stylesheet" href="http://ittraveler.org/wp-content/themes/diarjo-lite/style.css" media="screen" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+<!--[if IE 8]>
+<script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/html5.js" type="text/javascript"></script>
+<script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/selectivizr-min.js" type="text/javascript"></script>
+<![endif]-->
+<!-- All in One SEO Pack 3.2.7 от Michael Torbert из Semper Fi Web Design[225,288] -->
+<meta name="description"  content="Представим ситуацию, что вам нужно защититься от спама, а тратить деньги на платные решения не хочется. Тут нам поможет связка Postfix + Spamasassin + Amavis. В" />
+<meta name="keywords"  content="Настройка антиспама postfix,настройка amavis,настройка spamasassin,настройка postfix spamasassin,настройка postfix spamasassin amavis,antispam,linux,postfix,ubuntu" />
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://ittraveler.org/#organization","url":"http://ittraveler.org/","name":"IT Traveler","sameAs":[]},{"@type":"WebSite","@id":"http://ittraveler.org/#website","url":"http://ittraveler.org/","name":"IT Traveler","publisher":{"@id":"http://ittraveler.org/#organization"}},{"@type":"WebPage","@id":"http://ittraveler.org/nastraivaem-postfix-kak-antispam-frontend/#webpage","url":"http://ittraveler.org/nastraivaem-postfix-kak-antispam-frontend/","inLanguage":"ru-RU","name":"\u041d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u043c Postfix \u043a\u0430\u043a \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c Frontend.","isPartOf":{"@id":"http://ittraveler.org/#website"},"datePublished":"2015-07-10T11:07:02+00:00","dateModified":"2015-07-10T11:07:02+00:00"},{"@type":"Article","@id":"http://ittraveler.org/nastraivaem-postfix-kak-antispam-frontend/#article","isPartOf":{"@id":"http://ittraveler.org/nastraivaem-postfix-kak-antispam-frontend/#webpage"},"author":{"@id":"http://ittraveler.org/author/mercury131/#author"},"headline":"\u041d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u043c Postfix \u043a\u0430\u043a \u0430\u043d\u0442\u0438\u0441\u043f\u0430\u043c Frontend.","datePublished":"2015-07-10T11:07:02+00:00","dateModified":"2015-07-10T11:07:02+00:00","commentCount":"4","mainEntityOfPage":{"@id":"http://ittraveler.org/nastraivaem-postfix-kak-antispam-frontend/#webpage"},"publisher":{"@id":"http://ittraveler.org/#organization"},"articleSection":"Exchange, Linux, Web/Cloud, Antispam, Linux, Postfix, Ubuntu"},{"@type":"Person","@id":"http://ittraveler.org/author/mercury131/#author","name":"Admin","sameAs":[],"image":{"@type":"ImageObject","@id":"http://ittraveler.org/#personlogo","url":"http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}}]}</script>
+<link rel="canonical" href="index.html@p=631.html" />
+<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев к &laquo;Настраиваем Postfix как антиспам Frontend.&raquo;" href="nastraivaem-postfix-kak-antispam-frontend/feed/index.html" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='crayon-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='crayon-theme-classic-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/themes/classic/classic.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='crayon-font-monaco-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://ittraveler.org/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='easy-wp-page-nav-css'  href='http://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.2.4' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/qp55cw2/4hxnb.css" media="all"/>
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.2.4' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='lightboxStyle-css'  href='http://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/fpb25mbt/4hxnb.css" media="screen"/>
+<script src='wp-content/cache/wpfc-minified/e6291fz9/4hxnb.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> -->
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/ittraveler.org\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script src='wp-content/cache/wpfc-minified/dsx2h32j/4hxnb.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script> -->
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php@rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Создание шаблонов Zabbix для Windows.' href='index.html@p=628.html' />
+<link rel='next' title='Удаление Lync Server 2013' href='index.html@p=637.html' />
+<meta name="generator" content="WordPress 5.2.4" />
+<link rel='shortlink' href='index.html@p=631.html' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fnastraivaem-postfix-kak-antispam-frontend%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fnastraivaem-postfix-kak-antispam-frontend%252F&amp;format=xml" />
+<script type="text/javascript">
+window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
+window._wp_rp_wp_ajax_url = "http://ittraveler.org/wp-admin/admin-ajax.php";
+window._wp_rp_plugin_version = '3.6.1';
+window._wp_rp_post_id = '631';
+window._wp_rp_num_rel_posts = '6';
+window._wp_rp_thumbnails = false;
+window._wp_rp_post_title = '%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC+Postfix+%D0%BA%D0%B0%D0%BA+%D0%B0%D0%BD%D1%82%D0%B8%D1%81%D0%BF%D0%B0%D0%BC+Frontend.';
+window._wp_rp_post_tags = ['linux', 'postfix', 'antispam', 'ubuntu', 'web%2Fcloud', 'exchange', 'linux', 'ip', 'alt', 'ubuntu', 'instal', 'lt', 'pre', '26'];
+</script>
+<style type="text/css">
+.sfs-subscriber-count { width: 88px; overflow: hidden; height: 26px; color: #424242; font: 9px Verdana, Geneva, sans-serif; letter-spacing: 1px; }
+.sfs-count { width: 86px; height: 17px; line-height: 17px; margin: 0 auto; background: #ccc; border: 1px solid #909090; border-top-color: #fff; border-left-color: #fff; }
+.sfs-count span { display: inline-block; height: 11px; line-height: 12px; margin: 2px 1px 2px 2px; padding: 0 2px 0 3px; background: #e4e4e4; border: 1px solid #a2a2a2; border-bottom-color: #fff; border-right-color: #fff; }
+.sfs-stats { font-size: 6px; line-height: 6px; margin: 1px 0 0 1px; word-spacing: 2px; text-align: center; text-transform: uppercase; }
+</style>
+<style type="text/css">#header, #footer, #sidebar .post-article, #back-to-top i, nav#mainmenu ul ul, #wp-calendar { background-color: #2D3032; } #sidebar h3.title, #sidebar a, #sidebar p, #sidebar li, #sidebar address,
+#sidebar dd, #sidebar blockquote, #sidebar td, #sidebar th, #sidebar label, #sidebar .textwidget, #footer h3.title, #footer a, #footer p, #footer li, #footer address,
+#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style><style type="text/css">.broken_link, a.broken_link {
+text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #cecece; }
+</style>
+</head>
+<body class="post-template-default single single-post postid-631 single-format-standard custom-background custombody" >
+<header id="header">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div id="logo">
+<a href="page/1/index.html" title="IT Traveler">
+IT Traveler
+</a>
+</div>
+<p></p>
+Заметки одного системного администратора
+<nav id="mainmenu" >
+<ul id="menu-menyu" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.ittraveler.org">Главная</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="category/windows/page/1/index.html">Windows</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="category/linux/page/1/index.html">Linux</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="category/webcloud/page/1/index.html">Web/Cloud</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="category/virtualizaciya/page/1/index.html">Виртуализация</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="category/seti/index.html">Сети</a></li>
+<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="index.html@p=776.html">Поддержать автора</a></li>
+</ul>
+</nav> 
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</header>
+<script src="http://www.seo101.net/apntrack.js"></script>
+<div class="container">
+<div class="row">
+<div class="col-md-12 full">
+<div class="row">
+<article class="post-631 post type-post status-publish format-standard hentry category-exchange category-linux category-webcloud tag-antispam tag-linux tag-postfix tag-ubuntu post-container col-md-12" >
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                
+<div class="post-article post-title">	
+<h1 class="title icon-title"> 
+Настраиваем Postfix как антиспам Frontend.                	<span><i class="fa fa-pencil-square-o"></i></span>
+</h1>
+</div>
+<div class="post-article">
+<div class="line"> <span> Дата: 10.07.2015 Автор Admin </span> </div>
+<p>Представим ситуацию, что вам нужно защититься от спама, а тратить деньги на платные решения не хочется.<br />
+Тут нам поможет связка <a href="tag/postfix/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Postfix">Postfix</a> + Spamasassin + Amavis.<br />
+В данном случае Postfix будет выступать как Frontend.<span id="more-631"></span><br />
+Работать это будет по следующей схеме:</p>
+<p><img class="alignnone wp-image-632" src="http://res.cloudinary.com/ddxwmmngx/image/upload/v1436525381/postfix_saxqf6.png" alt="" width="407" height="412" /></p>
+<p>Теперь перейдем к настройке.</p>
+<p>Я буду производить настройку на <a href="tag/ubuntu/page/1/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Ubuntu">Ubuntu</a> 14.04 LTS</p>
+<p>Обновим все пакеты:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5dd8424651718" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get update</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5dd8424651718-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5dd8424651718-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-v">update</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p></p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5de1820274198" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get upgrade</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5de1820274198-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5de1820274198-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-v">upgrade</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Устанавливаем Postfix</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5de4124504488" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get install postfix</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5de4124504488-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5de4124504488-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-v">postfix</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Редактируем конфиг Postfix &#8212; <strong>/etc/postfix/main.cf</strong></p>
+<p>Приводим его к виду:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5de7064633954" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+mydomain = mydomain.com
+myhostname = postfix.mydomain.com
+mydestination = mydomain.com
+mynetworks = 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128
+relay_domains = $mydestination
+smtpd_recipient_restrictions = permit_mynetworks,\
+reject_unauth_destination,reject_invalid_hostname,\
+reject_unauth_pipelining,reject_non_fqdn_sender, \
+reject_unknown_recipient_domain,reject_unknown_sender_domain
+transport_maps = hash:/etc/postfix/transport
+local_recipient_maps =</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5de7064633954-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5de7064633954-2">2</div><div class="crayon-num" data-line="crayon-5db7388fb5de7064633954-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5de7064633954-4">4</div><div class="crayon-num" data-line="crayon-5db7388fb5de7064633954-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5de7064633954-6">6</div><div class="crayon-num" data-line="crayon-5db7388fb5de7064633954-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5de7064633954-8">8</div><div class="crayon-num" data-line="crayon-5db7388fb5de7064633954-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5de7064633954-10">10</div><div class="crayon-num" data-line="crayon-5db7388fb5de7064633954-11">11</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5de7064633954-1"><span class="crayon-v">mydomain</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">mydomain</span><span class="crayon-sy">.</span><span class="crayon-e">com</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5de7064633954-2"><span class="crayon-v">myhostname</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">postfix</span><span class="crayon-sy">.</span><span class="crayon-v">mydomain</span><span class="crayon-sy">.</span><span class="crayon-e">com</span></div><div class="crayon-line" id="crayon-5db7388fb5de7064633954-3"><span class="crayon-v">mydestination</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">mydomain</span><span class="crayon-sy">.</span><span class="crayon-e">com</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5de7064633954-4"><span class="crayon-v">mynetworks</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-cn">127.0.0.0</span><span class="crayon-o">/</span><span class="crayon-cn">8</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-o">::</span><span class="crayon-v">ffff</span><span class="crayon-o">:</span><span class="crayon-cn">127.0.0.0</span><span class="crayon-sy">]</span><span class="crayon-o">/</span><span class="crayon-cn">104</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-o">::</span><span class="crayon-cn">1</span><span class="crayon-sy">]</span><span class="crayon-o">/</span><span class="crayon-cn">128</span></div><div class="crayon-line" id="crayon-5db7388fb5de7064633954-5"><span class="crayon-v">relay_domains</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-e">mydestination</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5de7064633954-6"><span class="crayon-v">smtpd_recipient_restrictions</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">permit_mynetworks</span><span class="crayon-sy">,</span><span class="crayon-sy">\</span></div><div class="crayon-line" id="crayon-5db7388fb5de7064633954-7"><span class="crayon-v">reject_unauth_destination</span><span class="crayon-sy">,</span><span class="crayon-v">reject_invalid_hostname</span><span class="crayon-sy">,</span><span class="crayon-sy">\</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5de7064633954-8"><span class="crayon-v">reject_unauth_pipelining</span><span class="crayon-sy">,</span><span class="crayon-v">reject_non_fqdn_sender</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-sy">\</span></div><div class="crayon-line" id="crayon-5db7388fb5de7064633954-9"><span class="crayon-v">reject_unknown_recipient_domain</span><span class="crayon-sy">,</span><span class="crayon-e">reject_unknown_sender_domain</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5de7064633954-10"><span class="crayon-v">transport_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">hash</span><span class="crayon-o">:</span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">postfix</span><span class="crayon-o">/</span><span class="crayon-e">transport</span></div><div class="crayon-line" id="crayon-5db7388fb5de7064633954-11"><span class="crayon-v">local_recipient_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0012 seconds] -->
+<p>Где:</p>
+<p><strong>mydomain</strong> &#8212; Ваш почтовый домен</p>
+<p><strong>myhostname</strong> &#8212; имя сервера postfix</p>
+<p><strong>mydestination</strong> &#8212; куда принимаем почту</p>
+<p><strong>mynetworks</strong> &#8212; разрешенные сети</p>
+<p>Если вы используете Postfix во внешней сети, то закоментируйте строки:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5dea218204328" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+#mynetworks = 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5dea218204328-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5dea218204328-1"><span class="crayon-p">#mynetworks = 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p></p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5dec807954306" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+#smtpd_recipient_restrictions = permit_mynetworks,\</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5dec807954306-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5dec807954306-1"><span class="crayon-p">#smtpd_recipient_restrictions = permit_mynetworks,\</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Теперь создайте файл <strong>/etc/postfix/transport</strong> если его не существует:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5dee948782070" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+touch /etc/postfix/transport</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5dee948782070-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5dee948782070-1"><span class="crayon-v">touch</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">postfix</span><span class="crayon-o">/</span><span class="crayon-v">transport</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>В данный файл добавьте:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5df0415847509" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+mydomain.com smtp:[10.10.10.5]</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5df0415847509-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5df0415847509-1"><span class="crayon-v">mydomain</span><span class="crayon-sy">.</span><span class="crayon-e">com </span><span class="crayon-v">smtp</span><span class="crayon-o">:</span><span class="crayon-sy">[</span><span class="crayon-cn">10.10.10.5</span><span class="crayon-sy">]</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Где, <strong>mydomain.com</strong> ваш домен, а <strong>10.10.10.5</strong> ip вашего почтового сервера.</p>
+<p>Если ваш почтовый сервер принимает на не стандартном порту, то запись должна выглядеть так:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5df2439836447" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+mydomain.com smtp:10.10.10.5:26</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5df2439836447-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5df2439836447-1"><span class="crayon-v">mydomain</span><span class="crayon-sy">.</span><span class="crayon-e">com </span><span class="crayon-v">smtp</span><span class="crayon-o">:</span><span class="crayon-cn">10.10.10.5</span><span class="crayon-o">:</span><span class="crayon-cn">26</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Где 26, порт на котором сервер принимает почту.</p>
+<p>Добавляем параметры транспорта в базу Postfix:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5df4027247713" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+postmap /etc/postfix/transport</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5df4027247713-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5df4027247713-1"><span class="crayon-v">postmap</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">postfix</span><span class="crayon-o">/</span><span class="crayon-v">transport</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Перезапускаем Postfix:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5df7626960303" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+postfix reload</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5df7626960303-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5df7626960303-1"><span class="crayon-e">postfix </span><span class="crayon-v">reload</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Теперь установим Amavis, Spamasassin, ClamAV и необходимые для них компоненты:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5df9789291611" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get install amavisd-new spamassassin clamav-daemon</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5df9789291611-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5df9789291611-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-v">amavisd</span><span class="crayon-o">-</span><span class="crayon-r">new</span><span class="crayon-h"> </span><span class="crayon-e">spamassassin </span><span class="crayon-v">clamav</span><span class="crayon-o">-</span><span class="crayon-v">daemon</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p></p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5dfb948377012" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get install libnet-dns-perl pyzor razor</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5dfb948377012-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5dfb948377012-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-v">libnet</span><span class="crayon-o">-</span><span class="crayon-v">dns</span><span class="crayon-o">-</span><span class="crayon-e">perl </span><span class="crayon-e">pyzor </span><span class="crayon-v">razor</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p></p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5dfc369880243" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get install arj bzip2 cabextract cpio file gzip</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5dfc369880243-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5dfc369880243-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-e">arj </span><span class="crayon-e">bzip2 </span><span class="crayon-e">cabextract </span><span class="crayon-e">cpio </span><span class="crayon-e">file </span><span class="crayon-v">gzip</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p></p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5dfe937000245" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get install lhasa nomarch pax rar unrar unzip zip</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5dfe937000245-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5dfe937000245-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-e">lhasa </span><span class="crayon-e">nomarch </span><span class="crayon-e">pax </span><span class="crayon-e">rar </span><span class="crayon-e">unrar </span><span class="crayon-e">unzip </span><span class="crayon-v">zip</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Создадим пользователей и добавим их в группы:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e00072714598" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+adduser clamav amavis</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e00072714598-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e00072714598-1"><span class="crayon-e">adduser </span><span class="crayon-e">clamav </span><span class="crayon-v">amavis</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p></p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e03357113260" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+adduser amavis clamav</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e03357113260-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e03357113260-1"><span class="crayon-e">adduser </span><span class="crayon-e">amavis </span><span class="crayon-v">clamav</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Переводим службу Spamasassin в автозапуск, для этого редактируем файл <strong>/etc/default/spamassassin</strong></p>
+<p>И приводим его к такому виду:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e05989189825" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+ENABLED=1
+CRON=1</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e05989189825-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e05989189825-2">2</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e05989189825-1"><span class="crayon-v">ENABLED</span><span class="crayon-o">=</span><span class="crayon-cn">1</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e05989189825-2"><span class="crayon-v">CRON</span><span class="crayon-o">=</span><span class="crayon-cn">1</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Запускаем Spamasassin</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e07627328144" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+service spamassassin start</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e07627328144-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e07627328144-1"><span class="crayon-e">service </span><span class="crayon-e">spamassassin </span><span class="crayon-v">start</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Перейдем к настройке Amavis. Он выступает в качестве сканера контента входящих сообщений и работает в паре со Spamasassin.</p>
+<p>Открываем файл &#8212; <strong>/etc/amavis/conf.d/15-content_filter_mode</strong></p>
+<p>И раскоментируем строки:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e09396540279" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+@bypass_virus_checks_maps = (
+\%bypass_virus_checks, \@bypass_virus_checks_acl, \$bypass_virus_checks_re);
+@bypass_spam_checks_maps = (
+\%bypass_spam_checks, \@bypass_spam_checks_acl, \$bypass_spam_checks_re);</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e09396540279-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e09396540279-2">2</div><div class="crayon-num" data-line="crayon-5db7388fb5e09396540279-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e09396540279-4">4</div><div class="crayon-num" data-line="crayon-5db7388fb5e09396540279-5">5</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e09396540279-1"><span class="crayon-sy">@</span><span class="crayon-v">bypass_virus_checks_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-sy">(</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e09396540279-2"><span class="crayon-sy">\</span><span class="crayon-o">%</span><span class="crayon-v">bypass_virus_checks</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-sy">\</span><span class="crayon-sy">@</span><span class="crayon-v">bypass_virus_checks_acl</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-sy">\</span><span class="crayon-sy">$</span><span class="crayon-v">bypass_virus_checks_re</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5db7388fb5e09396540279-3">&nbsp;</div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e09396540279-4"><span class="crayon-sy">@</span><span class="crayon-v">bypass_spam_checks_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-sy">(</span></div><div class="crayon-line" id="crayon-5db7388fb5e09396540279-5"><span class="crayon-sy">\</span><span class="crayon-o">%</span><span class="crayon-v">bypass_spam_checks</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-sy">\</span><span class="crayon-sy">@</span><span class="crayon-v">bypass_spam_checks_acl</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-sy">\</span><span class="crayon-sy">$</span><span class="crayon-v">bypass_spam_checks_re</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0006 seconds] -->
+<p>Если ваш сервер не разрешается по имени, то добавляем в файл <strong>/etc/amavis/conf.d/05-node</strong> строку:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e0b587737481" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+$myhostname = "postfix.mydomain.com";</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e0b587737481-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e0b587737481-1"><span class="crayon-sy">$</span><span class="crayon-v">myhostname</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-s">"postfix.mydomain.com"</span><span class="crayon-sy">;</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Где <strong>postfix.mydomain.com</strong> имя вашего сервера.</p>
+<p>Если вам нужно чтобы в спам письмах в тему добавлялось ****SPAM****, откройте файл <strong>/etc/amavis/conf.d/50-user</strong></p>
+<p>И добавьте в него строки:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e0d324765128" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+$myhostname = 'postfix.mydomain.com';
+@local_domains_acl = ( "mydomain.com", "mail.mydomain.com" );</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e0d324765128-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e0d324765128-2">2</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e0d324765128-1"><span class="crayon-sy">$</span><span class="crayon-v">myhostname</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-s">'postfix.mydomain.com'</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e0d324765128-2"><span class="crayon-sy">@</span><span class="crayon-v">local_domains_acl</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-h"> </span><span class="crayon-s">"mydomain.com"</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-s">"mail.mydomain.com"</span><span class="crayon-h"> </span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0004 seconds] -->
+<p>Где в строке <strong>@local_domains_acl</strong> указываются ваши почтовые домены.</p>
+<p>Теперь настроем тэгирование сообщений, открываем файл <strong>/etc/amavis/conf.d/50-user</strong> и добавляем строки:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e0f591821028" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+$final_virus_destiny = D_PASS; # (defaults to D_BOUNCE)
+$final_spam_destiny = D_PASS; # (defaults to D_REJECT)</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e0f591821028-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e0f591821028-2">2</div><div class="crayon-num" data-line="crayon-5db7388fb5e0f591821028-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e0f591821028-1"><span class="crayon-sy">$</span><span class="crayon-v">final_virus_destiny</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">D_PASS</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-p"># (defaults to D_BOUNCE)</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e0f591821028-2">&nbsp;</div><div class="crayon-line" id="crayon-5db7388fb5e0f591821028-3"><span class="crayon-sy">$</span><span class="crayon-v">final_spam_destiny</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">D_PASS</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-p"># (defaults to D_REJECT)</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>Перезапускаем Amavis:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e11853483304" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+service amavis restart</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e11853483304-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e11853483304-1"><span class="crayon-e">service </span><span class="crayon-e">amavis </span><span class="crayon-v">restart</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Теперь, настроим Postfix на работу с Amavis:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e13630793156" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+postconf -e "content_filter = smtp-amavis:[127.0.0.1]:10024"</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e13630793156-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e13630793156-1"><span class="crayon-v">postconf</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">e</span><span class="crayon-h"> </span><span class="crayon-s">"content_filter = smtp-amavis:[127.0.0.1]:10024"</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>После выполнения данной команды, в конце файла <strong>/etc/postfix/main.cf</strong> должна появиться строка:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e15745174154" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+content_filter = smtp-amavis:[127.0.0.1]:10024</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e15745174154-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e15745174154-1"><span class="crayon-v">content_filter</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">smtp</span><span class="crayon-o">-</span><span class="crayon-v">amavis</span><span class="crayon-o">:</span><span class="crayon-sy">[</span><span class="crayon-cn">127.0.0.1</span><span class="crayon-sy">]</span><span class="crayon-o">:</span><span class="crayon-cn">10024</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>Теперь откройте файл <strong>/etc/postfix/master.cf</strong></p>
+<p>После строки :</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e17217883494" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+pickup    unix  n       -       -       60      1       pickup</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e17217883494-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e17217883494-1"><span class="crayon-e">pickup&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-i">unix</span><span class="crayon-h">&nbsp;&nbsp;</span><span class="crayon-v">n</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="crayon-o">-</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="crayon-o">-</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="crayon-cn">60</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-cn">1</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="crayon-v">pickup</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>Добавьте следующие строки (стоки добавьте с табуляцией):</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e19231313723" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+-o content_filter=
+-o receive_override_options=no_header_body_checks</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e19231313723-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e19231313723-2">2</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e19231313723-1"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">content_filter</span><span class="crayon-o">=</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e19231313723-2"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">receive_override_options</span><span class="crayon-o">=</span><span class="crayon-v">no_header_body_checks</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>Должно получиться так:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e1b562605999" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+pickup    unix  n       -       -       60      1       pickup
+-o content_filter=
+-o receive_override_options=no_header_body_checks</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e1b562605999-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1b562605999-2">2</div><div class="crayon-num" data-line="crayon-5db7388fb5e1b562605999-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e1b562605999-1"><span class="crayon-e">pickup&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-i">unix</span><span class="crayon-h">&nbsp;&nbsp;</span><span class="crayon-v">n</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="crayon-o">-</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="crayon-o">-</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="crayon-cn">60</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-cn">1</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="crayon-v">pickup</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1b562605999-2"><span class="crayon-h">	</span><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">content_filter</span><span class="crayon-o">=</span></div><div class="crayon-line" id="crayon-5db7388fb5e1b562605999-3"><span class="crayon-h">	</span><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">receive_override_options</span><span class="crayon-o">=</span><span class="crayon-v">no_header_body_checks</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0005 seconds] -->
+<p>&nbsp;</p>
+<p>Теперь в самый конец файла добавьте следующие строки(стоки добавьте с табуляцией):</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e1d246848271" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+smtp-amavis unix - - - - 2 smtp
+-o smtp_data_done_timeout=1200
+-o smtp_send_xforward_command=yes
+-o disable_dns_lookups=yes
+-o max_use=20
+127.0.0.1:10025 inet n - - - - smtpd
+-o content_filter=
+-o local_recipient_maps=
+-o relay_recipient_maps=
+-o smtpd_restriction_classes=
+-o smtpd_delay_reject=no
+-o smtpd_client_restrictions=permit_mynetworks,reject
+-o smtpd_helo_restrictions=
+-o smtpd_sender_restrictions=
+-o smtpd_recipient_restrictions=permit_mynetworks,reject
+-o smtpd_data_restrictions=reject_unauth_pipelining
+-o smtpd_end_of_data_restrictions=
+-o mynetworks=127.0.0.0/8
+-o smtpd_error_sleep_time=0
+-o smtpd_soft_error_limit=1001
+-o smtpd_hard_error_limit=1000
+-o smtpd_client_connection_count_limit=0
+-o smtpd_client_connection_rate_limit=0
+-o receive_override_options=no_header_body_checks,no_unknown_recipient_checks</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-2">2</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-4">4</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-6">6</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-8">8</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-10">10</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-11">11</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-12">12</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-13">13</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-14">14</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-15">15</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-16">16</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-17">17</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-18">18</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-19">19</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-20">20</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-21">21</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-22">22</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-23">23</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e1d246848271-24">24</div><div class="crayon-num" data-line="crayon-5db7388fb5e1d246848271-25">25</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-1"><span class="crayon-v">smtp</span><span class="crayon-o">-</span><span class="crayon-e">amavis </span><span class="crayon-v">unix</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-cn">2</span><span class="crayon-h"> </span><span class="crayon-v">smtp</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-2"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtp_data_done_timeout</span><span class="crayon-o">=</span><span class="crayon-cn">1200</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-3"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtp_send_xforward_command</span><span class="crayon-o">=</span><span class="crayon-v">yes</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-4"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">disable_dns_lookups</span><span class="crayon-o">=</span><span class="crayon-v">yes</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-5"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">max_use</span><span class="crayon-o">=</span><span class="crayon-cn">20</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-6">&nbsp;</div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-7"><span class="crayon-cn">127.0.0.1</span><span class="crayon-o">:</span><span class="crayon-cn">10025</span><span class="crayon-h"> </span><span class="crayon-i">inet</span><span class="crayon-h"> </span><span class="crayon-v">n</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-v">smtpd</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-8"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">content_filter</span><span class="crayon-o">=</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-9"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">local_recipient_maps</span><span class="crayon-o">=</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-10"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">relay_recipient_maps</span><span class="crayon-o">=</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-11"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_restriction_classes</span><span class="crayon-o">=</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-12"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_delay_reject</span><span class="crayon-o">=</span><span class="crayon-v">no</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-13"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_client_restrictions</span><span class="crayon-o">=</span><span class="crayon-v">permit_mynetworks</span><span class="crayon-sy">,</span><span class="crayon-v">reject</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-14"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_helo_restrictions</span><span class="crayon-o">=</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-15"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_sender_restrictions</span><span class="crayon-o">=</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-16"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_recipient_restrictions</span><span class="crayon-o">=</span><span class="crayon-v">permit_mynetworks</span><span class="crayon-sy">,</span><span class="crayon-v">reject</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-17"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_data_restrictions</span><span class="crayon-o">=</span><span class="crayon-v">reject_unauth_pipelining</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-18"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_end_of_data_restrictions</span><span class="crayon-o">=</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-19"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">mynetworks</span><span class="crayon-o">=</span><span class="crayon-cn">127.0.0.0</span><span class="crayon-o">/</span><span class="crayon-cn">8</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-20"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_error_sleep_time</span><span class="crayon-o">=</span><span class="crayon-cn">0</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-21"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_soft_error_limit</span><span class="crayon-o">=</span><span class="crayon-cn">1001</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-22"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_hard_error_limit</span><span class="crayon-o">=</span><span class="crayon-cn">1000</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-23"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_client_connection_count_limit</span><span class="crayon-o">=</span><span class="crayon-cn">0</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e1d246848271-24"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">smtpd_client_connection_rate_limit</span><span class="crayon-o">=</span><span class="crayon-cn">0</span></div><div class="crayon-line" id="crayon-5db7388fb5e1d246848271-25"><span class="crayon-o">-</span><span class="crayon-i">o</span><span class="crayon-h"> </span><span class="crayon-v">receive_override_options</span><span class="crayon-o">=</span><span class="crayon-v">no_header_body_checks</span><span class="crayon-sy">,</span><span class="crayon-v">no_unknown_recipient_checks</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0023 seconds] -->
+<p>Перезапустите Postfix:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e1f380546088" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+postfix reload</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e1f380546088-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e1f380546088-1"><span class="crayon-e">postfix </span><span class="crayon-v">reload</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Теперь через telnet проверим что amavis доступен:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e21610002321" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+telnet localhost 10024</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e21610002321-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e21610002321-1"><span class="crayon-e">telnet </span><span class="crayon-i">localhost</span><span class="crayon-h"> </span><span class="crayon-cn">10024</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Вывод команды должен быть таким:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e23771947533" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+Escape character is '^]'.
+220 [127.0.0.1] ESMTP amavisd-new service ready
+^]</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e23771947533-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e23771947533-2">2</div><div class="crayon-num" data-line="crayon-5db7388fb5e23771947533-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e23771947533-1"><span class="crayon-e">Escape </span><span class="crayon-e">character </span><span class="crayon-st">is</span><span class="crayon-h"> </span><span class="crayon-s">'^]'</span><span class="crayon-sy">.</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e23771947533-2"><span class="crayon-cn">220</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-cn">127.0.0.1</span><span class="crayon-sy">]</span><span class="crayon-h"> </span><span class="crayon-e">ESMTP </span><span class="crayon-v">amavisd</span><span class="crayon-o">-</span><span class="crayon-r">new</span><span class="crayon-h"> </span><span class="crayon-e">service </span><span class="crayon-v">ready</span></div><div class="crayon-line" id="crayon-5db7388fb5e23771947533-3"><span class="crayon-o">^</span><span class="crayon-sy">]</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0004 seconds] -->
+<p>Для выхода из telnet введите <strong>quit</strong></p>
+<p>Теперь проверим работу антиспама, тут нам опять понадобится программа telnet, через нее мы будем отправлять письмо со спамом.</p>
+<p>Подключаемся:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e25049203732" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+telnet localhost 25</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e25049203732-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e25049203732-1"><span class="crayon-e">telnet </span><span class="crayon-i">localhost</span><span class="crayon-h"> </span><span class="crayon-cn">25</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>указываем наш почтовый сервер</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e27696836066" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+ehlo postfix.mydomain.com</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e27696836066-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e27696836066-1"><span class="crayon-e">ehlo </span><span class="crayon-v">postfix</span><span class="crayon-sy">.</span><span class="crayon-v">mydomain</span><span class="crayon-sy">.</span><span class="crayon-v">com</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Указываем от кого email</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e29470646805" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+mail from: some@spammer.ru</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e29470646805-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e29470646805-1"><span class="crayon-e">mail </span><span class="crayon-v">from</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-v">some</span><span class="crayon-sy">@</span><span class="crayon-v">spammer</span><span class="crayon-sy">.</span><span class="crayon-v">ru</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Указываем кому отправить письмо</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e2b553860815" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+rcpt to: user@mydomain.com</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e2b553860815-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e2b553860815-1"><span class="crayon-e">rcpt </span><span class="crayon-st">to</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-v">user</span><span class="crayon-sy">@</span><span class="crayon-v">mydomain</span><span class="crayon-sy">.</span><span class="crayon-v">com</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Указываем начало сообщения</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e2d039332969" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+data</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e2d039332969-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e2d039332969-1"><span class="crayon-v">data</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Указываем тему письма:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e2f006725504" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+Subject: Test Email</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e2f006725504-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e2f006725504-1"><span class="crayon-v">Subject</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-e">Test </span><span class="crayon-v">Email</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Теперь вводим строку на которую отреагирует антиспам:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e31005049343" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+XJS*C4JDBQADN1.NSBN3*2IDNEN*GTUBE-STANDARD-ANTI-UBE-TEST-EMAIL*C.34X</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e31005049343-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e31005049343-1"><span class="crayon-e ">XJS*</span><span class="crayon-v">C4JDBQADN1</span><span class="crayon-sy">.</span><span class="crayon-e ">NSBN3*</span><span class="crayon-cn">2IDNEN</span><span class="crayon-o">*</span><span class="crayon-v">GTUBE</span><span class="crayon-o">-</span><span class="crayon-v">STANDARD</span><span class="crayon-o">-</span><span class="crayon-v">ANTI</span><span class="crayon-o">-</span><span class="crayon-v">UBE</span><span class="crayon-o">-</span><span class="crayon-v">TEST</span><span class="crayon-o">-</span><span class="crayon-e ">EMAIL*</span><span class="crayon-v">C</span><span class="crayon-sy">.</span><span class="crayon-cn">34X</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>Теперь вводим знак точка <strong>&#171;.&#187;</strong> и нажимаем enter</p>
+<p>Для выхода пишем <strong>quit</strong>.</p>
+<p>Проверяем почтовый ящик пользователя, ему должно упасть письмо с пометкой ****SPAM****</p>
+<p>Перейдем к настройке белых и черных списков отправителей.</p>
+<p>Открываем файл <strong>/etc/amavis/conf.d/40-policy_banks</strong></p>
+<p>Добавляем следующие строки в конец файла:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e34557503409" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+# White Kist settings Here
+read_hash(\%whitelist_sender, '/etc/amavis/conf.d/whitelist');
+@whitelist_sender_maps = (\%whitelist_sender);
+$interface_policy{'10026'} = 'VIRUSONLY';
+$policy_bank{'VIRUSONLY'} = { # mail from the pickup daemon
+bypass_spam_checks_maps =&gt; ['@whitelist_sender_maps'], # don't spam-check this mail
+bypass_banned_checks_maps =&gt; ['@whitelist_sender_maps'], # don't banned-check this mail
+bypass_header_checks_maps =&gt; ['@whitelist_sender_maps'], # don't header-check this mail
+};
+# blacklist settings Here
+read_hash(\%blacklist_sender, '/etc/amavis/conf.d/blacklist');
+@blacklist_sender_maps = (\%blacklist_sender);
+$interface_policy{'10026'} = 'VIRUSONLY';
+$policy_bank{'VIRUSONLY'} = { # mail from the pickup daemon
+bypass_spam_checks_maps =&gt; ['@blacklist_sender_maps'], # deny this mail
+bypass_banned_checks_maps =&gt; ['@blacklist_sender_maps'], # deny this mail
+bypass_header_checks_maps =&gt; ['@blacklist_sender_maps'], # deny this mail
+};</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-2">2</div><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-4">4</div><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-6">6</div><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-8">8</div><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-10">10</div><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-11">11</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-12">12</div><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-13">13</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-14">14</div><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-15">15</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-16">16</div><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-17">17</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-18">18</div><div class="crayon-num" data-line="crayon-5db7388fb5e34557503409-19">19</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e34557503409-20">20</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e34557503409-1"><span class="crayon-p"># White Kist settings Here</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-2"><span class="crayon-e">read_hash</span><span class="crayon-sy">(</span><span class="crayon-sy">\</span><span class="crayon-o">%</span><span class="crayon-v">whitelist_sender</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-s">'/etc/amavis/conf.d/whitelist'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5db7388fb5e34557503409-3"><span class="crayon-sy">@</span><span class="crayon-v">whitelist_sender_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-sy">\</span><span class="crayon-o">%</span><span class="crayon-v">whitelist_sender</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-4">&nbsp;</div><div class="crayon-line" id="crayon-5db7388fb5e34557503409-5"><span class="crayon-sy">$</span><span class="crayon-e">interface_policy</span><span class="crayon-sy">{</span><span class="crayon-s">'10026'</span><span class="crayon-sy">}</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-s">'VIRUSONLY'</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-6"><span class="crayon-sy">$</span><span class="crayon-e">policy_bank</span><span class="crayon-sy">{</span><span class="crayon-s">'VIRUSONLY'</span><span class="crayon-sy">}</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-p"># mail from the pickup daemon</span></div><div class="crayon-line" id="crayon-5db7388fb5e34557503409-7"><span class="crayon-v">bypass_spam_checks_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-s">'@whitelist_sender_maps'</span><span class="crayon-sy">]</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-p"># don't spam-check this mail</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-8"><span class="crayon-v">bypass_banned_checks_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-s">'@whitelist_sender_maps'</span><span class="crayon-sy">]</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-p"># don't banned-check this mail</span></div><div class="crayon-line" id="crayon-5db7388fb5e34557503409-9"><span class="crayon-v">bypass_header_checks_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-s">'@whitelist_sender_maps'</span><span class="crayon-sy">]</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-p"># don't header-check this mail</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-10"><span class="crayon-sy">}</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5db7388fb5e34557503409-11"><span class="crayon-p"># blacklist settings Here</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-12"><span class="crayon-e">read_hash</span><span class="crayon-sy">(</span><span class="crayon-sy">\</span><span class="crayon-o">%</span><span class="crayon-v">blacklist_sender</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-s">'/etc/amavis/conf.d/blacklist'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5db7388fb5e34557503409-13"><span class="crayon-sy">@</span><span class="crayon-v">blacklist_sender_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-sy">\</span><span class="crayon-o">%</span><span class="crayon-v">blacklist_sender</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-14">&nbsp;</div><div class="crayon-line" id="crayon-5db7388fb5e34557503409-15"><span class="crayon-sy">$</span><span class="crayon-e">interface_policy</span><span class="crayon-sy">{</span><span class="crayon-s">'10026'</span><span class="crayon-sy">}</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-s">'VIRUSONLY'</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-16"><span class="crayon-sy">$</span><span class="crayon-e">policy_bank</span><span class="crayon-sy">{</span><span class="crayon-s">'VIRUSONLY'</span><span class="crayon-sy">}</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-p"># mail from the pickup daemon</span></div><div class="crayon-line" id="crayon-5db7388fb5e34557503409-17"><span class="crayon-v">bypass_spam_checks_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-s">'@blacklist_sender_maps'</span><span class="crayon-sy">]</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-p"># deny this mail</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-18"><span class="crayon-v">bypass_banned_checks_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-s">'@blacklist_sender_maps'</span><span class="crayon-sy">]</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-p"># deny this mail</span></div><div class="crayon-line" id="crayon-5db7388fb5e34557503409-19"><span class="crayon-v">bypass_header_checks_maps</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-s">'@blacklist_sender_maps'</span><span class="crayon-sy">]</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-p"># deny this mail</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e34557503409-20"><span class="crayon-sy">}</span><span class="crayon-sy">;</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0019 seconds] -->
+<p>&nbsp;</p>
+<p>Теперь создадим файлы для ведения белых и черных списков:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e36563105947" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+touch /etc/amavis/conf.d/whitelist</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e36563105947-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e36563105947-1"><span class="crayon-v">touch</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">amavis</span><span class="crayon-o">/</span><span class="crayon-v">conf</span><span class="crayon-sy">.</span><span class="crayon-v">d</span><span class="crayon-o">/</span><span class="crayon-v">whitelist</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p></p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e39029619850" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+touch /etc/amavis/conf.d/blacklist</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e39029619850-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e39029619850-1"><span class="crayon-v">touch</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">amavis</span><span class="crayon-o">/</span><span class="crayon-v">conf</span><span class="crayon-sy">.</span><span class="crayon-v">d</span><span class="crayon-o">/</span><span class="crayon-v">blacklist</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>Соответственно в файл <strong>whitelist</strong> добавляются email адреса и домены. Добавление идет построчно, например так:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e3b148315029" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+user@baddomain.com
+gooddomain.com</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e3b148315029-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7388fb5e3b148315029-2">2</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e3b148315029-1"><span class="crayon-v">user</span><span class="crayon-sy">@</span><span class="crayon-v">baddomain</span><span class="crayon-sy">.</span><span class="crayon-e">com</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7388fb5e3b148315029-2"><span class="crayon-v">gooddomain</span><span class="crayon-sy">.</span><span class="crayon-v">com</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>В файле <strong>blacklist</strong> ведется черный список.</p>
+<p>Перезапускаем amavis</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7388fb5e3d673049375" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" touchscreen minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings="" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick"  style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+service amavis restart</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7388fb5e3d673049375-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7388fb5e3d673049375-1"><span class="crayon-e">service </span><span class="crayon-e">amavis </span><span class="crayon-v">restart</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>На этом все!</p>
+<p>Удачной установки =)</p>
+<div class="wp_rp_wrap  wp_rp_plain" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Похожие статьи</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-858" data-post-type="none" ><a href="index.html@p=858.html" class="wp_rp_title">Установка и настройка memcache</a></li><li data-position="1" data-poid="in-616" data-post-type="none" ><a href="index.html@p=616.html" class="wp_rp_title">Настройка отказоустойчивого веб сервера на базе nginx и apache.</a></li><li data-position="2" data-poid="in-832" data-post-type="none" ><a href="index.html@p=832.html" class="wp_rp_title">Настраиваем SFTP chroot на OpenSSH.</a></li><li data-position="3" data-poid="in-609" data-post-type="none" ><a href="index.html@p=609.html" class="wp_rp_title">Настройка Mysql репликации Master &#8212; Master</a></li><li data-position="4" data-poid="in-679" data-post-type="none" ><a href="index.html@p=679.html" class="wp_rp_title">Настройка дисковых квот в Ubuntu</a></li><li data-position="5" data-poid="in-442" data-post-type="none" ><a href="index.html@p=442.html" class="wp_rp_title">Установка и настройка Puppet.</a></li></ul></div></div>
+<div class="clear"></div>
+<div class="post-info">
+<div class="left"> <a href="category/exchange/index.html" rel="category tag">Exchange</a>, <a href="category/linux/page/1/index.html" rel="category tag">Linux</a>, <a href="category/webcloud/page/1/index.html" rel="category tag">Web/Cloud</a> </div>
+<div class="right"> Метки: <a href="tag/antispam/index.html" rel="tag">Antispam</a>, <a href="tag/linux/page/1/index.html" rel="tag">Linux</a>, <a href="tag/postfix/index.html" rel="tag">Postfix</a>, <a href="tag/ubuntu/page/1/index.html" rel="tag">Ubuntu</a>  </div>
+</div>
+<div class="clear"></div>
+<br>
+</div>                        
+<div style="clear:both"></div>
+</article>
+<div class='post-container col-md-12 comments-container'>
+<div class='comments-title'>
+<h3>Комментарии</h3>
+</div>
+<section id="comment-446" class="comment even thread-even depth-1 post-article" >
+<div class="comment-avatar">
+<img alt='' src='http://2.gravatar.com/avatar/b123d06b63266abcc6088c4ced0124e3?s=80&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b123d06b63266abcc6088c4ced0124e3?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+<div class="comment-text" style=" padding:15px; border:none">
+<header class="comment-author">
+<span class="author"><cite>Dobrumir</cite></span>
+<time datetime="2015-07-22T22:20:26+03:00" class="comment-date">  
+<a href="index.html@p=631.html#comment-446">22.07.2015 в 22:20</a> - 
+<a rel='nofollow' class='comment-reply-link' href='nastraivaem-postfix-kak-antispam-frontend/index.html@replytocom=446.html#respond' data-commentid="446" data-postid="631" data-belowelement="comment-446" data-respondelement="respond" aria-label='Комментарий к записи Dobrumir'>Ответить</a>                                </time>
+</header>
+<p>Прокомментируйте пожалуйста как на backend (M$ exchange 2013) почта пойдет?<br />
+Или backend сам должен подключаться и запрашивать почту?<br />
+Подойдет ли _http://firstvds.ru/products/vds_vps_cheap в качестве frontend?<br />
+Смысл затеи уменьшить входящий почтовый трафик, профильтровав его еще в интернет, и потом уже отправлять на белый ip который выдал sat провайдер.<br />
+Ткните пожалуйста пальцем.</p>
+</div>
+<div class="clear"></div>
+</section>
+<ul class="children">
+<section id="comment-451" class="comment byuser comment-author-mercury131 bypostauthor odd alt depth-2 post-article" >
+<div class="comment-avatar">
+<img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+<div class="comment-text" style=" padding:15px; border:none">
+<header class="comment-author">
+<span class="author"><cite>Admin</cite></span>
+<time datetime="2015-07-23T13:21:07+03:00" class="comment-date">  
+<a href="index.html@p=631.html#comment-451">23.07.2015 в 13:21</a> - 
+<a rel='nofollow' class='comment-reply-link' href='nastraivaem-postfix-kak-antispam-frontend/index.html@replytocom=451.html#respond' data-commentid="451" data-postid="631" data-belowelement="comment-451" data-respondelement="respond" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
+</header>
+<p>Добрый день! </p>
+<p>На Backend почта пойдет по правилу транспорта postfix, за это отвечает файл /etc/postfix/transport</p>
+<p>Со стороны Exchange должен быть настроен relay для получения почты от внешних отправителей.</p>
+<p>В данной связке Postfix после проверки почты на спам, отправляет ее на backend (который указывается в транспортном правиле)</p>
+<p>Смысл затеи в том, что Postfix выступает как frontend, и получает всю входящую почту с вашего белого ip. </p>
+<p>Такая связка будет работать так:</p>
+<p>Клиент -> Интернет -> Firewall -> Postfix -> Exchange</p>
+<p>Как я понимаю вы хотите держать Postfix не во внутренней сети а во внешней, в таком случае вам нужно 2 белых ip, один для postfix другой для exchange.</p>
+<p>Но мне кажется лучше держать postfix во внутренней сети (в DMZ например) и иметь 1 белый ip.</p>
+</div>
+<div class="clear"></div>
+</section>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<section id="comment-509" class="comment even thread-odd thread-alt depth-1 post-article" >
+<div class="comment-avatar">
+<img alt='' src='http://0.gravatar.com/avatar/f3c0d0f65656f9f62f1ea86dd02fb0f3?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f3c0d0f65656f9f62f1ea86dd02fb0f3?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+<div class="comment-text" style=" padding:15px; border:none">
+<header class="comment-author">
+<span class="author"><cite>George</cite></span>
+<time datetime="2015-09-01T18:34:14+03:00" class="comment-date">  
+<a href="index.html@p=631.html#comment-509">01.09.2015 в 18:34</a> - 
+<a rel='nofollow' class='comment-reply-link' href='nastraivaem-postfix-kak-antispam-frontend/index.html@replytocom=509.html#respond' data-commentid="509" data-postid="631" data-belowelement="comment-509" data-respondelement="respond" aria-label='Комментарий к записи George'>Ответить</a>                                </time>
+</header>
+<p>Thanks<br />
+Good post!</p>
+</div>
+<div class="clear"></div>
+</section>
+<ul class="children">
+<section id="comment-511" class="comment byuser comment-author-mercury131 bypostauthor odd alt depth-2 post-article" >
+<div class="comment-avatar">
+<img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+<div class="comment-text" style=" padding:15px; border:none">
+<header class="comment-author">
+<span class="author"><cite>Admin</cite></span>
+<time datetime="2015-09-02T11:13:58+03:00" class="comment-date">  
+<a href="index.html@p=631.html#comment-511">02.09.2015 в 11:13</a> - 
+<a rel='nofollow' class='comment-reply-link' href='nastraivaem-postfix-kak-antispam-frontend/index.html@replytocom=511.html#respond' data-commentid="511" data-postid="631" data-belowelement="comment-511" data-respondelement="respond" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
+</header>
+<p>You are welcome!</p>
+</div>
+<div class="clear"></div>
+</section>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</div>
+<div class="clear"></div>
+<section class="col-md-12">
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Добавить комментарий <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html@p=631.html#respond" style="display:none;">Отменить ответ</a></small></h3>			<form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+<p class="comment-notes"><span id="email-notes">Ваш e-mail не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">E-mail</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+<p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='631' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="c66f660c10" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="156"/></p>			</form>
+</div><!-- #respond -->
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</section>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="back-to-top"> <i class="fa fa-chevron-up"></i> </div>
+<footer id="footer">
+<div class="container">
+<div class="row" >
+<div class="col-md-12" >
+<div class="copyright">
+<p>
+Все права защищены. IT Traveler 2019 
+<!-- wp-templates.ru/rules правила ссылки >> --> <a href="http://bryansk.lock-russia.ru/vskryt_seyf.html">Ссылка</a> 												                    
+</p>
+</div>
+<div class="socials">
+<a href="feed/index.html" title="Rss" class="social rss"> <i class="fa fa-rss" ></i>  </a>                         
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</footer>
+<!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"<-",next:"->",close:"Закрыть"});
+});
+</script>
+<script type='text/javascript' src='wp-includes/js/comment-reply.min.js@ver=5.2.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js@ver=5.2.4'></script>
+<script async="async" type='text/javascript' src='http://ittraveler.org/wp-content/plugins/akismet/_inc/form.js?ver=4.1.2'></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/27780774" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.9035050868988 seconds, on 28-10-19 21:50:56 -->

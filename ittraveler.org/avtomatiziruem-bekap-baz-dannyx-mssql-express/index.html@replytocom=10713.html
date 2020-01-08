@@ -1,0 +1,720 @@
+﻿<!DOCTYPE html>
+
+<html lang="ru-RU">
+
+<head>
+
+   
+
+<meta charset="UTF-8" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+
+
+	<link rel="shortcut icon" href="../favicon.png"/>
+
+
+
+
+<title>Автоматизируем бэкап баз данных MSSQL Express | IT Traveler</title>
+
+
+
+<link rel="stylesheet" href="http://ittraveler.org/wp-content/themes/diarjo-lite/style.css" media="screen" />
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+
+
+
+<!--[if IE 8]>
+
+    <script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/html5.js" type="text/javascript"></script>
+
+    <script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/selectivizr-min.js" type="text/javascript"></script>
+
+<![endif]-->
+
+
+
+
+<!-- All in One SEO Pack 3.2.7 от Michael Torbert из Semper Fi Web Design[225,291] -->
+<meta name="description"  content="В данной статье мы рассмотрим как настроить автоматическое резервное копирование баз данных MSSQL расположенных на бесплатном MSSQL Express. Для автоматизации" />
+
+<meta name="keywords"  content="резервное копирование mssql express,mssql express бэкап баз данных,бэкап баз данныхmssql express,mssql,Резервное копирование" />
+
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://ittraveler.org/#organization","url":"http://ittraveler.org/","name":"IT Traveler","sameAs":[]},{"@type":"WebSite","@id":"http://ittraveler.org/#website","url":"http://ittraveler.org/","name":"IT Traveler","publisher":{"@id":"http://ittraveler.org/#organization"}},{"@type":"WebPage","@id":"http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/#webpage","url":"http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/","inLanguage":"ru-RU","name":"\u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043c \u0431\u044d\u043a\u0430\u043f \u0431\u0430\u0437 \u0434\u0430\u043d\u043d\u044b\u0445 MSSQL Express","isPartOf":{"@id":"http://ittraveler.org/#website"},"datePublished":"2015-05-26T15:45:47+00:00","dateModified":"2018-12-16T08:34:12+00:00"},{"@type":"Article","@id":"http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/#article","isPartOf":{"@id":"http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/#webpage"},"author":{"@id":"http://ittraveler.org/author/mercury131/#author"},"headline":"\u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043c \u0431\u044d\u043a\u0430\u043f \u0431\u0430\u0437 \u0434\u0430\u043d\u043d\u044b\u0445 MSSQL Express","datePublished":"2015-05-26T15:45:47+00:00","dateModified":"2018-12-16T08:34:12+00:00","commentCount":"6","mainEntityOfPage":{"@id":"http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/#webpage"},"publisher":{"@id":"http://ittraveler.org/#organization"},"articleSection":"Windows, Windows Server, MSSQL, \u0420\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435 \u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"},{"@type":"Person","@id":"http://ittraveler.org/author/mercury131/#author","name":"Admin","sameAs":[],"image":{"@type":"ImageObject","@id":"http://ittraveler.org/#personlogo","url":"http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}}]}</script>
+<link rel="canonical" href="../index.html@p=484.html" />
+<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев к &laquo;Автоматизируем бэкап баз данных MSSQL Express&raquo;" href="feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='crayon-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-theme-classic-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/themes/classic/classic.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-font-monaco-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min.css@ver=5.2.5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-wp-page-nav-css'  href='http://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js@ver=1.12.4-wp'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js@ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/ittraveler.org\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script>
+<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php@rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Установка и настройка Citrix XenServer Часть 3.' href='../index.html@p=476.html' />
+<link rel='next' title='Установка и настройка Citrix XenServer Часть 4.' href='../index.html@p=490.html' />
+<meta name="generator" content="WordPress 5.2.5" />
+<link rel='shortlink' href='../index.html@p=484.html' />
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Favtomatiziruem-bekap-baz-dannyx-mssql-express%252F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Favtomatiziruem-bekap-baz-dannyx-mssql-express%252F&amp;format=xml" />
+<script type="text/javascript">
+	window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
+	window._wp_rp_wp_ajax_url = "http://ittraveler.org/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.6.1';
+	window._wp_rp_post_id = '484';
+	window._wp_rp_num_rel_posts = '6';
+	window._wp_rp_thumbnails = false;
+	window._wp_rp_post_title = '%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC+%D0%B1%D1%8D%D0%BA%D0%B0%D0%BF+%D0%B1%D0%B0%D0%B7+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+MSSQL+Express';
+	window._wp_rp_post_tags = [];
+</script>
+<style type="text/css">
+.sfs-subscriber-count { width: 88px; overflow: hidden; height: 26px; color: #424242; font: 9px Verdana, Geneva, sans-serif; letter-spacing: 1px; }
+.sfs-count { width: 86px; height: 17px; line-height: 17px; margin: 0 auto; background: #ccc; border: 1px solid #909090; border-top-color: #fff; border-left-color: #fff; }
+.sfs-count span { display: inline-block; height: 11px; line-height: 12px; margin: 2px 1px 2px 2px; padding: 0 2px 0 3px; background: #e4e4e4; border: 1px solid #a2a2a2; border-bottom-color: #fff; border-right-color: #fff; }
+.sfs-stats { font-size: 6px; line-height: 6px; margin: 1px 0 0 1px; word-spacing: 2px; text-align: center; text-transform: uppercase; }
+</style>
+<style type="text/css">#header, #footer, #sidebar .post-article, #back-to-top i, nav#mainmenu ul ul, #wp-calendar { background-color: #2D3032; } #sidebar h3.title, #sidebar a, #sidebar p, #sidebar li, #sidebar address,
+#sidebar dd, #sidebar blockquote, #sidebar td, #sidebar th, #sidebar label, #sidebar .textwidget, #footer h3.title, #footer a, #footer p, #footer li, #footer address,
+#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #cecece; }
+</style>
+	
+
+
+</head>
+
+
+
+<body class="post-template-default single single-post postid-484 single-format-standard custom-background custombody" >
+
+
+
+<header id="header">
+
+
+
+    <div class="container">
+
+    
+
+        <div class="row">
+
+        
+
+        	<div class="col-md-12">
+
+            
+
+            	<div id="logo">
+
+                
+
+                    <a href="../page/1/index.html" title="IT Traveler">
+
+                            
+
+                        IT Traveler
+                                
+
+                    </a>
+
+                
+
+                </div>
+
+				
+<p></p>
+Заметки одного системного администратора
+                <nav id="mainmenu" >
+
+               
+
+                	<ul id="menu-menyu" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.ittraveler.org">Главная</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="../category/windows/page/1/index.html">Windows</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="../category/linux/page/1/index.html">Linux</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="../category/webcloud/page/1/index.html">Web/Cloud</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="../category/virtualizaciya/page/1/index.html">Виртуализация</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="../category/seti/index.html">Сети</a></li>
+<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="../index.html@p=776.html">Поддержать автора</a></li>
+</ul>
+                
+
+                </nav> 
+
+				
+
+                <div class="clear"></div>
+
+            
+
+            </div>
+
+            
+
+        </div>
+
+        
+
+    </div>
+
+    
+
+</header>
+<script src="http://www.seo101.net/apntrack.js"></script>
+<div class="container">
+
+	
+    <div class="row">
+   
+        <div class="col-md-12 full">
+            <div class="row">
+
+
+                <article class="post-484 post type-post status-publish format-standard hentry category-windows category-windows-server tag-mssql tag-rezervnoe-kopirovanie post-container col-md-12" >
+
+        <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins>
+    <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                
+
+                    			
+            <div class="post-article post-title">	
+                <h1 class="title icon-title"> 
+                	Автоматизируем бэкап баз данных MSSQL Express                	<span><i class="fa fa-pencil-square-o"></i></span>
+                </h1>
+			</div>
+            
+		
+
+    
+<div class="post-article">
+
+
+
+	
+
+
+    	<div class="line"> <span> Дата: 26.05.2015 Автор Admin </span> </div>
+
+
+
+	<p>В данной статье мы рассмотрим как настроить автоматическое резервное копирование баз данных <a href="../tag/mssql/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with MSSQL">MSSQL</a> расположенных на бесплатном <a href="../tag/mssql/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with MSSQL">MSSQL</a> Express.<span id="more-484"></span></p>
+<p>Для автоматизации резервного копирования напишем следующий sql скрипт:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c5ca81428172503302" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div><span class="crayon-language">MySQL</span></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+declare @path varchar(max)=N'C:\Backup\BASE_backup_'+convert(varchar(max),getdate(),102)
+BACKUP DATABASE [BASE_NAME] TO  DISK = @path  WITH  COPY_ONLY, NOFORMAT, NOINIT,  NAME = N'BASE_NAME-Полная База данных Резервное копирование', SKIP, NOREWIND, NOUNLOAD,   STATS = 10
+GO</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c5ca81428172503302-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5e15c5ca81428172503302-2">2</div><div class="crayon-num" data-line="crayon-5e15c5ca81428172503302-3">3</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c5ca81428172503302-1"><span class="crayon-st">declare</span><span class="crayon-h"> </span>@path<span class="crayon-h"> </span><span class="crayon-t">varchar</span>(<span class="crayon-e ">max</span>)=N<span class="crayon-s">'C:\Backup\BASE_backup_'</span>+<span class="crayon-r">convert</span>(<span class="crayon-t">varchar</span>(<span class="crayon-e ">max</span>),getdate(),102)</div><div class="crayon-line crayon-striped-line" id="crayon-5e15c5ca81428172503302-2"><span class="crayon-t">BACKUP</span><span class="crayon-h"> </span><span class="crayon-st">DATABASE</span><span class="crayon-h"> </span>[BASE_NAME]<span class="crayon-h"> </span><span class="crayon-st">TO</span><span class="crayon-h">&nbsp;&nbsp;</span>DISK<span class="crayon-h"> </span>=<span class="crayon-h"> </span>@path<span class="crayon-h">&nbsp;&nbsp;</span><span class="crayon-st">WITH</span><span class="crayon-h">&nbsp;&nbsp;</span>COPY_ONLY,<span class="crayon-h"> </span>NOFORMAT,<span class="crayon-h"> </span>NOINIT,<span class="crayon-h">&nbsp;&nbsp;</span>NAME<span class="crayon-h"> </span>=<span class="crayon-h"> </span>N<span class="crayon-s">'BASE_NAME-Полная База данных Резервное копирование'</span>,<span class="crayon-h"> </span>SKIP,<span class="crayon-h"> </span>NOREWIND,<span class="crayon-h"> </span>NOUNLOAD,<span class="crayon-h">&nbsp;&nbsp; </span>STATS<span class="crayon-h"> </span>=<span class="crayon-h"> </span>10</div><div class="crayon-line" id="crayon-5e15c5ca81428172503302-3">GO</div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0022 seconds] -->
+<p>Кодировка скрипта должны быть &#8212; UCS-2 Little Endian</p>
+<p>Рассмотрим параметры скрипта:</p>
+<p>Путь куда сохранять резервные копии указывается тут &#8212; <strong>C:\Backup\</strong></p>
+<p>Имя резервной копии будет начинаться с <strong>BASE_backup_</strong> и заканчиваться датой резервного копирования.</p>
+<p>Имя базы, которую мы будем сохранять задается тут:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c5ca8142e048514027" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+BACKUP DATABASE [BASE_NAME]</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c5ca8142e048514027-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c5ca8142e048514027-1"><span class="crayon-e">BACKUP </span><span class="crayon-i">DATABASE</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-v">BASE_NAME</span><span class="crayon-sy">]</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>И тут:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5e15c5ca81433935221154" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+			<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+			<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+NAME = N'BASE_NAME</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5e15c5ca81433935221154-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5e15c5ca81433935221154-1"><span class="crayon-v">NAME</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-i">N</span>'<span class="crayon-v">BASE_NAME</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- Home ittraveler --><br />
+<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1890562251101921" data-ad-slot="9117958896" data-ad-format="auto"></ins><br />
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><br />
+Далее открываем планировщик задач Windows и создаем новую задачу.</p>
+<p>В поле &#171;действие&#187; выбираем &#171;Запуск программы&#187;</p>
+<p>Путь к программе &#8212; <strong>&#171;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\SQLCMD.EXE&#187;</strong></p>
+<p>Аргументы &#8212; <strong>-S \sqlexpress  -i &#171;C:\Backup_ScriptDir\backup.sql&#187;</strong></p>
+<p>Рассмотрим параметры:</p>
+<p><strong>-S \sqlexpress</strong> путь к инстансу MSSQL, в данном примере инстанс sqlexpress</p>
+<p>Если у вас используется локальный инстанс укажите просто \</p>
+<p><strong>-i &#171;C:\Backup_ScriptDir\backup.sql&#187;</strong> путь к созданному SQL скрипту.</p>
+<p>Готово! Теперь резервное копирование MSSQL баз автоматизированно!</p>
+
+<div class="wp_rp_wrap  wp_rp_plain" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Похожие статьи</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-476" data-post-type="none" ><a href="../index.html@p=476.html" class="wp_rp_title">Установка и настройка Citrix XenServer Часть 3.</a></li><li data-position="1" data-poid="in-452" data-post-type="none" ><a href="../index.html@p=452.html" class="wp_rp_title">Установка и настройка кластера MSSQL 2012.</a></li><li data-position="2" data-poid="in-352" data-post-type="none" ><a href="../index.html@p=352.html" class="wp_rp_title">Установка и настройка VMWare Vsphere 6. Часть 1.</a></li><li data-position="3" data-poid="in-490" data-post-type="none" ><a href="../index.html@p=490.html" class="wp_rp_title">Установка и настройка Citrix XenServer Часть 4.</a></li><li data-position="4" data-poid="in-1224" data-post-type="none" ><a href="../index.html@p=1224.html" class="wp_rp_title">Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.</a></li><li data-position="5" data-poid="in-291" data-post-type="none" ><a href="../index.html@p=291.html" class="wp_rp_title">Настройка Kerberos авторизации в Apache2</a></li></ul></div></div>
+<div class="clear"></div>
+        <div class="post-info">
+
+            <div class="left"> <a href="../category/windows/page/1/index.html" rel="category tag">Windows</a>, <a href="../category/windows-server/page/1/index.html" rel="category tag">Windows Server</a> </div>
+
+            <div class="right"> Метки: <a href="../tag/mssql/index.html" rel="tag">MSSQL</a>, <a href="../tag/rezervnoe-kopirovanie/index.html" rel="tag">Резервное копирование</a>  </div>
+
+        </div>
+
+            
+
+        <div class="clear"></div>
+
+
+
+    
+
+
+<br>
+
+
+</div>                        
+                    <div style="clear:both"></div>
+                    
+                </article>
+        
+                
+	<div class='post-container col-md-12 comments-container'>
+    	
+        <div class='comments-title'>
+        	<h3>Комментарии</h3>
+        </div>
+		
+		 
+    <section id="comment-1141" class="comment even thread-even depth-1 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://0.gravatar.com/avatar/63ae83b6e8c0174a3e4cf9e3387b0cc3?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/63ae83b6e8c0174a3e4cf9e3387b0cc3?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>Иван</cite></span>
+                <time datetime="2016-04-19T17:01:46+03:00" class="comment-date">  
+                <a href="../index.html@p=484.html#comment-1141">19.04.2016 в 17:01</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=1141.html#respond' data-commentid="1141" data-postid="484" data-belowelement="comment-1141" data-respondelement="respond" aria-label='Комментарий к записи Иван'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Спасибо за статью. Очень полезна и актуальна.</p>
+<p>Небольшая поправочка по синтаксису:<br />
+Нужно добавить точку перед указанием Инстанса SQL, в вашем примере:<br />
+-S .\sqlexpress  -i &#171;C:\Backup_ScriptDir\backup.sql&#187;<br />
+Либо указать название сервера полностью: -S server_name\sqlexpress  -i &#171;C:\Backup_ScriptDir\backup.sql&#187;<br />
+И примечание: при создании задания в &#171;Планировщике задач&#187; указать пользователя, имеющего административные права в SQL Server.<br />
+Также удобно добавить к файлику расширение &#8216;.bak&#8217;, чтобы было проще восстановить бэкап.<br />
+Ещё Майкрософт не рекомендует использовать в запросе признак конца GO при использовании утилиты &#171;SQLCMD.EXE&#187;, так как при его использовании запрос выполняется сразу.<br />
+ссылка на статью: <a href="https://msdn.microsoft.com/ru-ru/library/ms162773(v=sql.120)" rel="nofollow">https://msdn.microsoft.com/ru-ru/library/ms162773(v=sql.120)</a>.aspx</p>
+<p>Таким образом, конечный скрипт будет выглядеть так:</p>
+<p>declare @path varchar(max)=N&#8217;C:\Backup\BASE_backup_&#8217;+convert(varchar(max),getdate(),102)+&#8217;.bak&#8217;<br />
+BACKUP DATABASE [BASE_NAME] TO  DISK = @path  WITH  COPY_ONLY, NOFORMAT, NOINIT,  NAME = N&#8217;BASE_NAME-Полная База данных Резервное копирование&#8217;, SKIP, NOREWIND, NOUNLOAD,   STATS = 10</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+<ul class="children">
+ 
+    <section id="comment-1165" class="comment byuser comment-author-mercury131 bypostauthor odd alt depth-2 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>Admin</cite></span>
+                <time datetime="2016-05-06T23:21:00+03:00" class="comment-date">  
+                <a href="../index.html@p=484.html#comment-1165">06.05.2016 в 23:21</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=1165.html#respond' data-commentid="1165" data-postid="484" data-belowelement="comment-1165" data-respondelement="respond" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Большое спасибо за дополнение!</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+<ul class="children">
+ 
+    <section id="comment-1435" class="comment even depth-3 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://0.gravatar.com/avatar/c394dff3564c8061dd61c761ce1c9bfd?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c394dff3564c8061dd61c761ce1c9bfd?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>Анастасия</cite></span>
+                <time datetime="2016-09-20T11:41:15+03:00" class="comment-date">  
+                <a href="../index.html@p=484.html#comment-1435">20.09.2016 в 11:41</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=1435.html#respond' data-commentid="1435" data-postid="484" data-belowelement="comment-1435" data-respondelement="respond" aria-label='Комментарий к записи Анастасия'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Подскажите, пожалуйста, что писать вместо sqlexpress?</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+<ul class="children">
+ 
+    <section id="comment-4157" class="comment byuser comment-author-mercury131 bypostauthor odd alt depth-4 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>Admin</cite></span>
+                <time datetime="2017-04-24T12:12:04+03:00" class="comment-date">  
+                <a href="../index.html@p=484.html#comment-4157">24.04.2017 в 12:12</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=4157.html#respond' data-commentid="4157" data-postid="484" data-belowelement="comment-4157" data-respondelement="respond" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Тут нужно написать название вашего инстанса MSSQL , его можно посмотреть при подключении через Management Studio.</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+ 
+    <section id="comment-10479" class="comment even thread-odd thread-alt depth-1 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://0.gravatar.com/avatar/6d1eb6ffe4c44311a1a566c0f18d198c?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6d1eb6ffe4c44311a1a566c0f18d198c?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>АЛЕКС</cite></span>
+                <time datetime="2018-07-06T11:29:13+03:00" class="comment-date">  
+                <a href="../index.html@p=484.html#comment-10479">06.07.2018 в 11:29</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=10479.html#respond' data-commentid="10479" data-postid="484" data-belowelement="comment-10479" data-respondelement="respond" aria-label='Комментарий к записи АЛЕКС'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>а в сетевые папки будет копировать?</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+<ul class="children">
+ 
+    <section id="comment-10713" class="comment byuser comment-author-mercury131 bypostauthor odd alt depth-2 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>Admin</cite></span>
+                <time datetime="2018-07-30T10:18:20+03:00" class="comment-date">  
+                <a href="../index.html@p=484.html#comment-10713">30.07.2018 в 10:18</a> - 
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=10713.html#respond' data-commentid="10713" data-postid="484" data-belowelement="comment-10713" data-respondelement="respond" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Если права на сетевую папку есть, то будет</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	
+    </div>
+
+
+
+
+
+<div class="clear"></div>
+
+<section class="col-md-12">
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Добавить комментарий для <a href="index.html@replytocom=10713.html#comment-10713">Admin</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="../index.html@p=484.html#respond">Отменить ответ</a></small></h3>			<form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Ваш e-mail не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">E-mail</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+<p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='484' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='10713' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="ef983236e4" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="32"/></p>			</form>
+			</div><!-- #respond -->
+	
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</section>
+
+
+			</div>
+        
+        </div>
+
+		
+
+        <div class="clear"></div>
+
+           
+    </div>
+    
+</div>
+
+<div id="back-to-top"> <i class="fa fa-chevron-up"></i> </div>
+
+<footer id="footer">
+	
+    <div class="container">
+
+		
+        <div class="row" >
+             
+			<div class="col-md-12" >
+
+                <div class="copyright">
+
+                    <p>
+                                                  Все права защищены. IT Traveler 2020 
+                         
+                        
+																														                    
+                    </p>
+
+				</div>
+                
+                
+    <div class="socials">
+			
+		<a href="../feed/index.html" title="Rss" class="social rss"> <i class="fa fa-rss" ></i>  </a>                         
+	</div>
+
+	
+                <div class="clear"></div>
+                
+			</div>
+                
+		</div>
+        
+	</div>
+    
+</footer>
+
+<!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"<-",next:"->",close:"Закрыть"});
+});
+</script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js@ver=5.2.5'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/widget.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/tabs.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.2.5'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js@ver=5.2.5'></script>
+<script async="async" type='text/javascript' src='http://ittraveler.org/wp-content/plugins/akismet/_inc/form.js?ver=4.1.2'></script>
+  
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/27780774" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</body>
+
+</html>

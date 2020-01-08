@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-admin/
+Disallow: /*.swf
+Disallow: /*.flv
+Disallow: /*.zip
+Allow: /
+
+Host: ittraveler.org
+Sitemap: http://ittraveler.org/sitemap.xml
