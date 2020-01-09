@@ -1,0 +1,156 @@
+# Аудит DNS серверов на Windows Server 2008 R2 через Powershell                	  
+***Дата: 27.02.2015 Автор Admin***
+
+В данной статье я расскажу как с помощью Powershell проводить аудит DNS серверов на Windows Server 2008 R2.
+В средних и крупных организациях, где более одного системного администратора, важно контролировать изменения DNS. Особенно это актуально для статических записей.
+Для реализации данной задачи нам понадобятся 2 Powershell скрипта.
+Первый скрипт будет собирать данные по статическим записям DNS, и хранить их 2-е недели.
+Выглядеть он будет так:
+```
+# Указываем сервер DNS
+$ServerName = "DC.domain.local"
+# Указываем DNS зоны
+$ContainerName = "domain.local"
+$ContainerName1 = "dev.local"
+$ContainerName2 = "domain.com"
+$ContainerName3 = "site.ru"
+# Указываем путь где будем хранить данные
+$comparaPath1 = "C:\Powershell_Scripts\DNS-DHCP-Compare\DNScomp.txt"
+Remove-Item $comparaPath1
+# Получаем данные через WMI и сохраняем
+Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt; $comparaPath1
+Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName1' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath1
+Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName2' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath1
+Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName3' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath1
+# Пример какие еще типы записей можно использовать
+&amp;lt;# other records types are:
+MicrosoftDNS_AType – Address or Host records
+MicrosoftDNS_CNAMEType – Alias records
+MicrosoftDNS_MXType – Mail Exchanger records
+MicrosoftDNS_NSType – Name Server records
+MicrosoftDNS_SRVType – Service records
+MicrosoftDNS_PTRType – Pointer records (Reverse Lookup zone)
+#&amp;gt;
+```
+# Указываем сервер DNS$ServerName = "DC.domain.local"&nbsp;# Указываем DNS зоны$ContainerName = "domain.local"$ContainerName1 = "dev.local"$ContainerName2 = "domain.com"$ContainerName3 = "site.ru"&nbsp;# Указываем путь где будем хранить данные$comparaPath1 = "C:\Powershell_Scripts\DNS-DHCP-Compare\DNScomp.txt"&nbsp;Remove-Item $comparaPath1&nbsp;# Получаем данные через WMI и сохраняемGet-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt; $comparaPath1Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName1' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath1Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName2' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath1Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName3' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath1&nbsp;# Пример какие еще типы записей можно использовать&amp;lt;# other records types are:MicrosoftDNS_AType – Address or Host recordsMicrosoftDNS_CNAMEType – Alias recordsMicrosoftDNS_MXType – Mail Exchanger recordsMicrosoftDNS_NSType – Name Server recordsMicrosoftDNS_SRVType – Service recordsMicrosoftDNS_PTRType – Pointer records (Reverse Lookup zone)#&amp;gt;
+Теперь нам понадобится второй скрипт, который будет сравнивать данные и показывать изменения в статических записях DNS. Выполняться скрипт будет каждую неделю.
+Скрипт будет выглядеть так:
+```
+# Указываем сервер DNS
+$ServerName = "DC.domain.local"
+# Указываем DNS зоны
+$ContainerName = "domain.local"
+$ContainerName1 = "dev.local"
+$ContainerName2 = "domain.com"
+$ContainerName3 = "site.ru"
+# Указываем пути где будем хранить данные
+$comparaPath1 = "C:\Powershell_Scripts\DNS-DHCP-Compare\DNScomp.txt"
+$comparaPath2 = "C:\Powershell_Scripts\DNS-DHCP-Compare\DNScomp1.txt"
+$Outcompare = "C:\Powershell_Scripts\DNS-DHCP-Compare"
+$DnsLog = "C:\Powershell_Scripts\DNS-DHCP-Compare\DNS_LOG.txt"
+Remove-Item $comparaPath2
+Remove-Item $DnsLog
+# Получаем данные через WMI и сохраняем
+Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt; $comparaPath2
+Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName1' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath2
+Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName2' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath2
+Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName3' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath2
+#Сохраняем конфиги в переменные
+$conf1 = get-content  $comparaPath1
+$conf2 = get-content  $comparaPath2
+# устанавливаем дату
+$Date = (Get-Date -format "MM-dd-yyyy")
+Remove-Item $Outcompare\DNS-Report-$Date.txt
+# Сравниваем данные из первого скрипта с данными второго
+Compare-Object $conf1 $conf2 -IncludeEqual | sort SideIndicator -Descending | ft -AutoSize &amp;gt;$Outcompare\DNS-Report-$Date.txt
+# Получаем лог последней автоматической очистки DNS
+Get-EventLog -ComputerName DC 'DNS Server' -Newest 10 | Where-Object {$_.eventid -eq 2501} | ft Message -AutoSize -Wrap &amp;gt; $DnsLog
+Get-EventLog -ComputerName DC 'DNS Server' -Newest 10 | Where-Object {$_.eventid -eq 2501} | ft @{Name='Время последнего запуска'; e={ ($_.TimeGenerated)}} -AutoSize -Wrap &amp;gt;&amp;gt; $DnsLog
+# Пишем дополнительную строку в лог
+echo 'Отчет по изменениям в DNS во вложенном файле' &amp;gt;&amp;gt; $DnsLog
+# формируем строки для тела письма
+get-content $DnsLog | select -Skip 1 | set-content "$DnsLog-temp"
+move "$DnsLog-temp" $DnsLog -Force
+get-content $DnsLog | select -Skip 1 | set-content "$DnsLog-temp"
+move "$DnsLog-temp" $DnsLog -Force
+get-content $DnsLog | select -Skip 1 | set-content "$DnsLog-temp"
+move "$DnsLog-temp" $DnsLog -Force
+# Создаем тело письма
+$body1 = Get-Content $DnsLog | Out-String
+# Отправляем уведомление на Email
+Send-MailMessage -From admin@domain.local -To sysadminmail@domain.local -Attachments $Outcompare\DNS-Report-$Date.txt -Subject "Отчет по DNS серверам"  -Encoding ([System.Text.Encoding]::UTF8) -Body $body1  -SmtpServer mailserver.domain.local
+Remove-Item $Outcompare\DNS-Report-$Date.txt
+```
+# Указываем сервер DNS$ServerName = "DC.domain.local"&nbsp;# Указываем DNS зоны$ContainerName = "domain.local"$ContainerName1 = "dev.local"$ContainerName2 = "domain.com"$ContainerName3 = "site.ru"&nbsp;# Указываем пути где будем хранить данные$comparaPath1 = "C:\Powershell_Scripts\DNS-DHCP-Compare\DNScomp.txt"$comparaPath2 = "C:\Powershell_Scripts\DNS-DHCP-Compare\DNScomp1.txt"&nbsp;$Outcompare = "C:\Powershell_Scripts\DNS-DHCP-Compare"$DnsLog = "C:\Powershell_Scripts\DNS-DHCP-Compare\DNS_LOG.txt"&nbsp;Remove-Item $comparaPath2&nbsp;Remove-Item $DnsLog&nbsp;# Получаем данные через WMI и сохраняемGet-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt; $comparaPath2Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName1' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath2Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName2' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath2Get-WMIObject -Computer $ServerName -Namespace "root\MicrosoftDNS" -Class "MicrosoftDNS_AType" ` -Filter "ContainerName='$ContainerName3' AND TimeStamp=0" | Select-Object OwnerName,IPAddress, @{n="TimeStamp";e={"Static"}} | ft -AutoSize &amp;gt;&amp;gt; $comparaPath2&nbsp;#Сохраняем конфиги в переменные$conf1 = get-content&nbsp;&nbsp;$comparaPath1&nbsp;$conf2 = get-content&nbsp;&nbsp;$comparaPath2&nbsp;# устанавливаем дату$Date = (Get-Date -format "MM-dd-yyyy")&nbsp;Remove-Item $Outcompare\DNS-Report-$Date.txt&nbsp;# Сравниваем данные из первого скрипта с данными второгоCompare-Object $conf1 $conf2 -IncludeEqual | sort SideIndicator -Descending | ft -AutoSize &amp;gt;$Outcompare\DNS-Report-$Date.txt&nbsp;# Получаем лог последней автоматической очистки DNSGet-EventLog -ComputerName DC 'DNS Server' -Newest 10 | Where-Object {$_.eventid -eq 2501} | ft Message -AutoSize -Wrap &amp;gt; $DnsLogGet-EventLog -ComputerName DC 'DNS Server' -Newest 10 | Where-Object {$_.eventid -eq 2501} | ft @{Name='Время последнего запуска'; e={ ($_.TimeGenerated)}} -AutoSize -Wrap &amp;gt;&amp;gt; $DnsLog&nbsp;# Пишем дополнительную строку в логecho 'Отчет по изменениям в DNS во вложенном файле' &amp;gt;&amp;gt; $DnsLog&nbsp;# формируем строки для тела письмаget-content $DnsLog | select -Skip 1 | set-content "$DnsLog-temp"move "$DnsLog-temp" $DnsLog -Force&nbsp;get-content $DnsLog | select -Skip 1 | set-content "$DnsLog-temp"move "$DnsLog-temp" $DnsLog -Force&nbsp;get-content $DnsLog | select -Skip 1 | set-content "$DnsLog-temp"move "$DnsLog-temp" $DnsLog -Force&nbsp;# Создаем тело письма&nbsp;$body1 = Get-Content $DnsLog | Out-String&nbsp;# Отправляем уведомление на EmailSend-MailMessage -From admin@domain.local -To sysadminmail@domain.local -Attachments $Outcompare\DNS-Report-$Date.txt -Subject "Отчет по DNS серверам"&nbsp;&nbsp;-Encoding ([System.Text.Encoding]::UTF8) -Body $body1&nbsp;&nbsp;-SmtpServer mailserver.domain.local&nbsp;Remove-Item $Outcompare\DNS-Report-$Date.txt
+Теперь осталось добавить эти 2 скрипта в планировщик задач.
+Соответственно первый скрипт выполняется раз в 2-е недели, а второй каждую неделю.
+Второй скрипт будет отправлять уведомление на email со следующим содержанием:
+Тема письма &#8212; Отчет по DNS серверам
+Тело письма (пример) :
+DNS-сервер завершил цикл очистки.
+ Просмотрено зон = 31,
+ Просмотрено узлов = 1395,
+ Очищено узлов = 0,
+ Очищено записей = 0.
+Цикл продолжался 0 секунд.
+Следующий цикл очистки запланирован через 168 часов.
+Если при выполнении цикла очистки произошла ошибка, код ошибки содержится в дан
+ ных события.
+ DNS-сервер завершил цикл очистки.
+ Просмотрено зон = 31,
+ Просмотрено узлов = 1395,
+ Очищено узлов = 1,
+ Очищено записей = 1.
+Цикл продолжался 0 секунд.
+Следующий цикл очистки запланирован через 168 часов.
+Если при выполнении цикла очистки произошла ошибка, код ошибки содержится в дан
+ ных события.
+ DNS-сервер завершил цикл очистки.
+ Просмотрено зон = 31,
+ Просмотрено узлов = 1393,
+ Очищено узлов = 0,
+ Очищено записей = 0.
+Цикл продолжался 0 секунд.
+Следующий цикл очистки запланирован через 168 часов.
+Если при выполнении цикла очистки произошла ошибка, код ошибки содержится в дан
+ ных события.
+ DNS-сервер завершил цикл очистки.
+ Просмотрено зон = 31,
+ Просмотрено узлов = 1385,
+ Очищено узлов = 3,
+ Очищено записей = 3.
+Цикл продолжался 0 секунд.
+Следующий цикл очистки запланирован через 168 часов.
+Если при выполнении цикла очистки произошла ошибка, код ошибки содержится в дан
+ ных события.
+ DNS-сервер завершил цикл очистки.
+ Просмотрено зон = 30,
+ Просмотрено узлов = 1420,
+ Очищено узлов = 0,
+ Очищено записей = 0.
+Цикл продолжался 0 секунд.
+Следующий цикл очистки запланирован через 168 часов.
+Если при выполнении цикла очистки произошла ошибка, код ошибки содержится в дан
+ ных события.
+Время последнего запуска
+ &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+ 19.02.2015 23:01:53
+ 12.02.2015 23:00:26
+ 05.02.2015 22:59:17
+ 29.01.2015 22:57:54
+ 22.01.2015 22:57:14
+Отчет по изменениям в DNS во вложенном файле
+&nbsp;
+Во вложении будет файл со следующим содержимым:
+```
+InputObject SideIndicator
+----------- -------------
+site1.local     10.13.1.1 Static =&gt;
+site1.dev.local 10.14.1.1 Static ==
+site1.ru        10.12.1.1 Static &lt;=
+```
+InputObject SideIndicator----------- -------------site1.local     10.13.1.1 Static =&gt;site1.dev.local 10.14.1.1 Static ==site1.ru        10.12.1.1 Static &lt;=
+Знак =&gt; означает что запись была добавлена.
+Знак &lt;= означает что запись была удалена.
+На этом все. Желаю удачной настройки! =)
+&nbsp;
