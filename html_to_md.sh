@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This script convert ittraveler webpages to markdown format
+
 # Example Usage
 
 # find . -name "*.ht*" | while read i; do html_to_md.sh "$i" ; done
