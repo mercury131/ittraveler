@@ -1,4 +1,4 @@
-# Ittraveler
+# Ittraveler Archive Repo
 
 This repo contains:
 * Mirror of ittraveler.org
