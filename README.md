@@ -1,2 +1,1 @@
-# ittraveler
-Mirror of ittraveler.org
+* Mirror of ittraveler.org
