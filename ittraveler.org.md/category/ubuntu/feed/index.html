@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ubuntu &#8212; IT Traveler</title>
+	<atom:link href="http://ittraveler.org/category/ubuntu/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ittraveler.org</link>
+	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
+	<lastBuildDate>Sun, 15 Sep 2019 11:04:36 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>Как работать с LVM</title>
+		<link>http://ittraveler.org/kak-rabotat-s-lvm/</link>
+				<comments>http://ittraveler.org/kak-rabotat-s-lvm/#respond</comments>
+				<pubDate>Sun, 15 Sep 2019 11:04:36 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Debian]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=1278</guid>
+				<description><![CDATA[В этой статье рассмотрим как работать с LVM, а именно как создать/расширить/удалить LVM. Чтобы создать LVM необходимо подготовить physical volumes, который состоит из физических дисков, на которых и будет располагаться Volume Group LVM. Создаем physical volumes на 3-х дисках: [crayon-5db7139e1fa17803770606/] Посмотреть список physical volumes можно командой: [crayon-5db7139e1fa1d568830500/] также можно более детально посмотреть информацию о диске]]></description>
+						<wfw:commentRss>http://ittraveler.org/kak-rabotat-s-lvm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Установка и настройка Foreman + Puppet</title>
+		<link>http://ittraveler.org/ustanovka-i-nastrojka-foreman-puppet/</link>
+				<comments>http://ittraveler.org/ustanovka-i-nastrojka-foreman-puppet/#comments</comments>
+				<pubDate>Fri, 03 Aug 2018 12:15:51 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Bash]]></category>
+		<category><![CDATA[Debian]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Puppet]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[Foreman]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=1137</guid>
+				<description><![CDATA[В данной статье мы рассмотрим как установить и настроить связку foreman + puppet, для  удобного управления конфигурациями Скачиваем и устанавливаем пакет для установки репозитория Puppet [crayon-5db7139e20e6f676627959/] Добавляем репозиторий Foreman Скачиваем установщик Foreman [crayon-5db7139e20e74581335436/] Удалите hostname сервера из /etc/hosts Запустите команду ping $(hostname -f) чтобы убедиться в корректности ip адреса (Адрес должен быть отличным от 127.0.0.1).]]></description>
+						<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-foreman-puppet/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Настройка ZFS в Proxmox</title>
+		<link>http://ittraveler.org/nastrojka-zfs-v-proxmox/</link>
+				<comments>http://ittraveler.org/nastrojka-zfs-v-proxmox/#respond</comments>
+				<pubDate>Sun, 29 Jul 2018 15:20:21 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Bash]]></category>
+		<category><![CDATA[Debian]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Виртуализация]]></category>
+		<category><![CDATA[proxmox]]></category>
+		<category><![CDATA[zfs]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=1128</guid>
+				<description><![CDATA[В этой статье мы рассмотрим как создать ZFS разделы и подключить их как хранилища виртуальных машин в Proxmox . Откроем веб интерфейс Proxmox и перейдем в раздел Disks. Создадим Mirroring раздел ZFS. Использовать в массиве RAID 1 мы будем 2 диска по 100GB , а диск на 60 Gb будем использовать в качестве ssh cache.]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-zfs-v-proxmox/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Установка и настройка Ansible</title>
+		<link>http://ittraveler.org/ustanovka-i-nastrojka-ansible/</link>
+				<comments>http://ittraveler.org/ustanovka-i-nastrojka-ansible/#comments</comments>
+				<pubDate>Fri, 27 Jul 2018 10:23:29 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Bash]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[PowerShell]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows Server]]></category>
+		<category><![CDATA[Ansible]]></category>
+		<category><![CDATA[Powershell]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=1124</guid>
+				<description><![CDATA[В данной статье мы рассмотрим как установить Ansible на Ubuntu server 18.04 и настроить playbook с автоматической установкой обновлений на Windows и Ubuntu хосты. Также рассмотрим простой пример как поднять веб сервер с nginx,php7,mysql и поднять роли iis, fileserver на Windows хостах с помощью playbook Ansible. Поехали! Добавим ключ от репозитория Ansible [crayon-5db7139e22414160016447/] Добавим сам]]></description>
+						<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-ansible/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Балансировка нагрузки веб серверов IIS с Windows аутентификацией через Haproxy</title>
+		<link>http://ittraveler.org/balansirovka-nagruzki-veb-serverov-iis-s-windows-autentifikaciej-cherez-haproxy/</link>
+				<comments>http://ittraveler.org/balansirovka-nagruzki-veb-serverov-iis-s-windows-autentifikaciej-cherez-haproxy/#respond</comments>
+				<pubDate>Wed, 04 Jul 2018 15:05:47 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[haproxy]]></category>
+		<category><![CDATA[iis]]></category>
+		<category><![CDATA[nlb]]></category>
+		<category><![CDATA[webserver]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=978</guid>
+				<description><![CDATA[На днях понадобилось настроить балансировку нагрузки между двумя серверами IIS с Windows аутентификацией. Думал использовать привычный nginx для этих целей, но оказалось из коробки этот функционал доступен только в редакции Nginx Plus. Ну ничего страшного, тут нас выручит не менее крутой Haproxy =) Приступим к настройке, я буду разворачивать балансировщик Haproxy на Ubuntu Server 16.04]]></description>
+						<wfw:commentRss>http://ittraveler.org/balansirovka-nagruzki-veb-serverov-iis-s-windows-autentifikaciej-cherez-haproxy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Настройка работы прокси сервера SQUID через сторонний прокси сервер.</title>
+		<link>http://ittraveler.org/nastrojka-raboty-proksi-servera-squid-cherez-storonnij-proksi-server/</link>
+				<comments>http://ittraveler.org/nastrojka-raboty-proksi-servera-squid-cherez-storonnij-proksi-server/#respond</comments>
+				<pubDate>Mon, 25 Jun 2018 14:21:03 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Сети]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[squid]]></category>
+		<category><![CDATA[Прокси]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=973</guid>
+				<description><![CDATA[Иногда в тестовых средах вы по каким-то причинам не можете использовать прокси сервер с авторизацией по логину и паролю, и прямого доступа в интернет у вас нет. В таком случае вам поможет промежуточный прокси сервер на базе Squid, который будет использовать основной прокси сервер для доступа в интернет. Далее я расскажу как все это настроить.]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-raboty-proksi-servera-squid-cherez-storonnij-proksi-server/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Изменение Hostname в Ubuntu Server 18.04</title>
+		<link>http://ittraveler.org/izmenenie-hostname-v-ubuntu-server-18-04/</link>
+				<comments>http://ittraveler.org/izmenenie-hostname-v-ubuntu-server-18-04/#respond</comments>
+				<pubDate>Sun, 24 Jun 2018 18:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Без рубрики]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=971</guid>
+				<description><![CDATA[В этой статье я расскажу как изменить Hostname в Ubuntu Server 18.04 , т.к эта процедура немного изменилась.Откройте файл /etc/cloud/cloud.cfg командой [crayon-5db7139e23a06002524688/] И измените строку С [crayon-5db7139e23a0a025068576/] На [crayon-5db7139e23a0c630408060/] Теперь измените hostname в файле /etc/hosts командой [crayon-5db7139e23a0e635770158/] и в файле /etc/hostname командой [crayon-5db7139e23a10644557860/] Перезапустите сервер, после этого hostname будет успешно изменен.]]></description>
+						<wfw:commentRss>http://ittraveler.org/izmenenie-hostname-v-ubuntu-server-18-04/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Установка и настройка хостинг панели VestaCP c поддержкой разных версий PHP</title>
+		<link>http://ittraveler.org/ustanovka-i-nastrojka-xosting-paneli-vestacp-v-podderzhkoj-raznyx-versij-php/</link>
+				<comments>http://ittraveler.org/ustanovka-i-nastrojka-xosting-paneli-vestacp-v-podderzhkoj-raznyx-versij-php/#respond</comments>
+				<pubDate>Sun, 24 Jun 2018 17:16:33 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[Без рубрики]]></category>
+		<category><![CDATA[Apache2]]></category>
+		<category><![CDATA[Nginx]]></category>
+		<category><![CDATA[vestacp]]></category>
+		<category><![CDATA[webserver]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=962</guid>
+				<description><![CDATA[В этой статье мы установим хостинг панель VestaCP и добавим в нее поддержку разных версий PHP В качестве основной ОС я буду использовать Ubuntu 16.04 server. Подключаемся к серверу по SSH и следующими командами запустим установку панели VestaCP [crayon-5db7139e23c72131876211/] Далее вы увидите список ПО которое будет использоваться VestaCP. Забегая немного вперед скажу что конфигурация с]]></description>
+						<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-xosting-paneli-vestacp-v-podderzhkoj-raznyx-versij-php/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Установка и настройка memcache</title>
+		<link>http://ittraveler.org/ustanovka-i-nastrojka-memcache/</link>
+				<comments>http://ittraveler.org/ustanovka-i-nastrojka-memcache/#respond</comments>
+				<pubDate>Fri, 12 May 2017 11:23:15 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Bash]]></category>
+		<category><![CDATA[Debian]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[Memcached]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=858</guid>
+				<description><![CDATA[Давайте рассмотрим настройку memcached на примере связки memcached + PHP7. Для начала давайте вспомним для чего нужен memcached. memcached &#8212; это сервис кэширования данных в оперативной памяти на основе хеш-таблиц. Другими словами, с помощью memcached вы можете кэшировать наиболее часто использующиеся данные в вашем приложении, например на вебсайте. Установим memcached на ubuntu server [crayon-5db7139e23fba117124410/] [crayon-5db7139e23fbf774942302/]]]></description>
+						<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-memcache/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Оптимизация изображений на веб сервере</title>
+		<link>http://ittraveler.org/optimizaciya-izobrazhenij-na-veb-servere/</link>
+				<comments>http://ittraveler.org/optimizaciya-izobrazhenij-na-veb-servere/#respond</comments>
+				<pubDate>Fri, 12 May 2017 09:15:10 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Bash]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[оптимизация изображений]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=856</guid>
+				<description><![CDATA[Если вы или ваши пользователи загружают изображения на ваш сайт, то рано или поздно они начнут занимать неприлично много места. В данной статье я расскажу как оптимизировать все jpg и png изображения на вашем веб сервере. В оптимизации изображений нам помогут следующие утилиты &#8212; jpegoptim и optipng. Установим их, в качестве примера я буду использовать]]></description>
+						<wfw:commentRss>http://ittraveler.org/optimizaciya-izobrazhenij-na-veb-servere/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

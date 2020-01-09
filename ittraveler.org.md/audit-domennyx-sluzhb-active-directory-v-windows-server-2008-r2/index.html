@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="../favicon.png"/>
+<title>Аудит доменных служб Active Directory в Windows Server 2008 R2 | IT Traveler</title>
+<link rel="stylesheet" href="http://ittraveler.org/wp-content/themes/diarjo-lite/style.css" media="screen" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+<!--[if IE 8]>
+<script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/html5.js" type="text/javascript"></script>
+<script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/selectivizr-min.js" type="text/javascript"></script>
+<![endif]-->
+<!-- All in One SEO Pack 3.2.7 от Michael Torbert из Semper Fi Web Design[225,308] -->
+<meta name="description"  content="Аудит доменных служб Active Directory в Windows Server 2008 R2" />
+<meta name="keywords"  content="Аудит доменных служб active directory в windows server 2008 r2,active directory,Аудит,windows server" />
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://ittraveler.org/#organization","url":"http://ittraveler.org/","name":"IT Traveler","sameAs":[]},{"@type":"WebSite","@id":"http://ittraveler.org/#website","url":"http://ittraveler.org/","name":"IT Traveler","publisher":{"@id":"http://ittraveler.org/#organization"}},{"@type":"WebPage","@id":"http://ittraveler.org/audit-domennyx-sluzhb-active-directory-v-windows-server-2008-r2/#webpage","url":"http://ittraveler.org/audit-domennyx-sluzhb-active-directory-v-windows-server-2008-r2/","inLanguage":"ru-RU","name":"\u0410\u0443\u0434\u0438\u0442 \u0434\u043e\u043c\u0435\u043d\u043d\u044b\u0445 \u0441\u043b\u0443\u0436\u0431 Active Directory \u0432 Windows Server 2008 R2","isPartOf":{"@id":"http://ittraveler.org/#website"},"datePublished":"2014-12-30T07:23:37+00:00","dateModified":"2014-12-30T13:43:16+00:00","description":"\u0410\u0443\u0434\u0438\u0442 \u0434\u043e\u043c\u0435\u043d\u043d\u044b\u0445 \u0441\u043b\u0443\u0436\u0431 Active Directory \u0432 Windows Server 2008 R2"},{"@type":"Article","@id":"http://ittraveler.org/audit-domennyx-sluzhb-active-directory-v-windows-server-2008-r2/#article","isPartOf":{"@id":"http://ittraveler.org/audit-domennyx-sluzhb-active-directory-v-windows-server-2008-r2/#webpage"},"author":{"@id":"http://ittraveler.org/author/mercury131/#author"},"headline":"\u0410\u0443\u0434\u0438\u0442 \u0434\u043e\u043c\u0435\u043d\u043d\u044b\u0445 \u0441\u043b\u0443\u0436\u0431 Active Directory \u0432 Windows Server 2008 R2","datePublished":"2014-12-30T07:23:37+00:00","dateModified":"2014-12-30T13:43:16+00:00","commentCount":0,"mainEntityOfPage":{"@id":"http://ittraveler.org/audit-domennyx-sluzhb-active-directory-v-windows-server-2008-r2/#webpage"},"publisher":{"@id":"http://ittraveler.org/#organization"},"articleSection":"Active Directory, Windows, Windows Server, Active Directory, Windows Server, \u0410\u0443\u0434\u0438\u0442"},{"@type":"Person","@id":"http://ittraveler.org/author/mercury131/#author","name":"Admin","sameAs":[],"image":{"@type":"ImageObject","@id":"http://ittraveler.org/#personlogo","url":"http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}}]}</script>
+<link rel="canonical" href="../index.html@p=38.html" />
+<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев к &laquo;Аудит доменных служб Active Directory в Windows Server 2008 R2&raquo;" href="feed/index.html" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='crayon-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://ittraveler.org/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='easy-wp-page-nav-css'  href='http://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.2.4' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="../wp-content/cache/wpfc-minified/efxryr5t/4hxo1.css" media="all"/>
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.2.4' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='lightboxStyle-css'  href='http://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="../wp-content/cache/wpfc-minified/fpb25mbt/4hxnb.css" media="screen"/>
+<script src='../wp-content/cache/wpfc-minified/e6291fz9/4hxnb.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> -->
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/ittraveler.org\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script src='../wp-content/cache/wpfc-minified/dsx2h32j/4hxnb.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script> -->
+<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php@rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Принудительная синхронизация контроллеров домена Active Directory' href='../index.html@p=36.html' />
+<link rel='next' title='Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restore Wizard' href='../index.html@p=41.html' />
+<meta name="generator" content="WordPress 5.2.4" />
+<link rel='shortlink' href='../index.html@p=38.html' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Faudit-domennyx-sluzhb-active-directory-v-windows-server-2008-r2%252F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Faudit-domennyx-sluzhb-active-directory-v-windows-server-2008-r2%252F&amp;format=xml" />
+<script type="text/javascript">
+window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
+window._wp_rp_wp_ajax_url = "http://ittraveler.org/wp-admin/admin-ajax.php";
+window._wp_rp_plugin_version = '3.6.1';
+window._wp_rp_post_id = '38';
+window._wp_rp_num_rel_posts = '6';
+window._wp_rp_thumbnails = false;
+window._wp_rp_post_title = '%D0%90%D1%83%D0%B4%D0%B8%D1%82+%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85+%D1%81%D0%BB%D1%83%D0%B6%D0%B1+Active+Directory+%D0%B2+Windows+Server+2008+R2';
+window._wp_rp_post_tags = ['%D0%90%D1%83%D0%B4%D0%B8%D1%82+%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85+%D1%81', 'active+directory', '%D0%90%D1%83%D0%B4%D0%B8%D1%82', 'windows+server', 'active+directory', 'windows', 'windows+server', 'sql', 'ms', 'r2', 'exchang', 'server', '2008', 'window', 'activ', 'directori'];
+</script>
+<style type="text/css">
+.sfs-subscriber-count { width: 88px; overflow: hidden; height: 26px; color: #424242; font: 9px Verdana, Geneva, sans-serif; letter-spacing: 1px; }
+.sfs-count { width: 86px; height: 17px; line-height: 17px; margin: 0 auto; background: #ccc; border: 1px solid #909090; border-top-color: #fff; border-left-color: #fff; }
+.sfs-count span { display: inline-block; height: 11px; line-height: 12px; margin: 2px 1px 2px 2px; padding: 0 2px 0 3px; background: #e4e4e4; border: 1px solid #a2a2a2; border-bottom-color: #fff; border-right-color: #fff; }
+.sfs-stats { font-size: 6px; line-height: 6px; margin: 1px 0 0 1px; word-spacing: 2px; text-align: center; text-transform: uppercase; }
+</style>
+<style type="text/css">#header, #footer, #sidebar .post-article, #back-to-top i, nav#mainmenu ul ul, #wp-calendar { background-color: #2D3032; } #sidebar h3.title, #sidebar a, #sidebar p, #sidebar li, #sidebar address,
+#sidebar dd, #sidebar blockquote, #sidebar td, #sidebar th, #sidebar label, #sidebar .textwidget, #footer h3.title, #footer a, #footer p, #footer li, #footer address,
+#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style><style type="text/css">.broken_link, a.broken_link {
+text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #cecece; }
+</style>
+</head>
+<body class="post-template-default single single-post postid-38 single-format-standard custom-background custombody" >
+<header id="header">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div id="logo">
+<a href="../page/1/index.html" title="IT Traveler">
+IT Traveler
+</a>
+</div>
+<p></p>
+Заметки одного системного администратора
+<nav id="mainmenu" >
+<ul id="menu-menyu" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.ittraveler.org">Главная</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="../category/windows/page/1/index.html">Windows</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="../category/linux/page/1/index.html">Linux</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="../category/webcloud/page/1/index.html">Web/Cloud</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="../category/virtualizaciya/page/1/index.html">Виртуализация</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="../category/seti/index.html">Сети</a></li>
+<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="../index.html@p=776.html">Поддержать автора</a></li>
+</ul>
+</nav> 
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</header>
+<div class="container">
+<div class="row">
+<div class="col-md-12 full">
+<div class="row">
+<article class="post-38 post type-post status-publish format-standard hentry category-active-directory category-windows category-windows-server tag-active-directory tag-windows-server tag-audit post-container col-md-12" >
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                
+<div class="post-article post-title">	
+<h1 class="title icon-title"> 
+Аудит доменных служб Active Directory в Windows Server 2008 R2                	<span><i class="fa fa-pencil-square-o"></i></span>
+</h1>
+</div>
+<div class="post-article">
+<div class="line"> <span> Дата: 30.12.2014 Автор Admin </span> </div>
+<p>ИТ среда не является статичной. Ежеминутно в системах происходят тысячи изменений, которые требуется отследить и запротоколировать. Чем больше размер и сложность структуры, тем выше вероятность появления ошибок в администрировании и раскрытия данных. Без постоянного анализа изменений (удачных или неудачных) нельзя построить действительно безопасную среду. Администратор всегда должен ответить, кто, когда и что изменил, кому делегированы права, что произошло в случае изменений (удачных или неудачных), каковы значения старых и новых параметров, кто смог или не смог зайти в систему или получить доступ к ресурсу, кто удалил данные и так далее. <a href="../tag/audit/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Аудит">Аудит</a> изменений стал неотъемлемой частью управления ИТ инфраструктурой, но в организациях не всегда уделяют внимание аудиту, часто из-за технических проблем. Ведь не совсем понятно, что и как нужно отслеживать, да и документация в этом вопросе не всегда помогает. Количество событий, которые необходимо отслеживать, уже само по себе сложность, объемы данных велики, а штатные инструменты не отличаются удобством и способностью упрощать задачу отслеживания. Специалист должен самостоятельно настроить <a href="../tag/audit/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Аудит">аудит</a>, задав оптимальные параметры аудита, кроме того, на его плечи ложится анализ результатов и построение отчетов по выбранным событиям. Учитывая, что в сети запущено нескольких служб – <a href="../tag/active-directory/page/1/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Active Directory">Active Directory</a>/GPO, Exchange Server, MS SQL Server, виртуальные машины и так далее, генерирующих очень большое количество событий, отобрать из них действительно необходимые, следуя лишь описаниям, очень тяжело.<span id="more-38"></span><br />
+Как результат, администраторы считают достаточными мероприятия резервного копирования, предпочитая в случае возникновения проблем просто произвести откат к старым настройкам. Решение о внедрении аудита часто принимается только после серьезных происшествий. Далее рассмотрим процесс настройки аудита Active Directory на примере <a href="../tag/windows-server/page/1/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Windows Server">Windows Server</a> 2008 R2.</p>
+<p>Аудит Active Directory штатными средствами</p>
+<p>В Windows Server 2008 по сравнению с предыдущей Windows Server 2003 обновлены возможности подсистемы аудита, настраиваемые через политики безопасности, а количество отслеживаемых параметров увеличено на 53. В Windows Server 2003 существовала только политика Аудит доступа к службе каталогов, контролировавшая включение и отключение аудита событий службы каталогов. Теперь управлять аудитом можно на уровне категорий. Например, политики аудита Active Directory разделены на 4 категории, в каждой из которых настраиваются специфические параметры:</p>
+<p>— Directory Service Access (доступ к службе каталогов);<br />
+— Directory Service Changes (изменения службы каталогов);<br />
+&#8212; Directory Service Replication (репликация службы каталогов);<br />
+— Detailed Directory Service Replication (подробная репликация службы каталогов).</p>
+<p>При включении глобальной политики аудита Аудит доступа к службе каталогов автоматически активируются все подкатегории политики служб каталогов.<br />
+Система аудита в Windows Server 2008 отслеживает все попытки создания, изменения, перемещения и восстановление объектов. В журнал записывается предыдущее и текущее значения измененного атрибута и учетная запись пользователя, выполнившего операцию. Но если при создании объектов для атрибутов использовались параметры по умолчанию, их значения в журнал не заносятся.</p>
+<p>ПРИМЕЧАНИЕ: В Windows Server 2003 аудит регистрировал только имя измененного атрибута.</p>
+<p>В Windows Server 2008 R2 аудит внедряется при помощи:</p>
+<p>— глобальной политики аудита (Global Audit Policy, GAP);<br />
+— списка управления доступом (System access control list, SACL) — определяет операции, для которых будет производиться аудит;<br />
+— схемы – используется для окончательного формирования списка событий.</p>
+<p>По умолчанию для клиентских систем аудит отключен, для серверных активна подкатегория Доступ к службе каталогов Active Directory, остальные отключены. Для включения глобальной политики “Аудит доступа к службе каталогов” (Audit directory service access) необходимо вызвать Редактор управления групповыми политиками перейти в ветку Параметры безопасности/Локальные политики/Политика аудита, где активировать политику и установить контролируемые события (успех, отказ).</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/b21/ca6/07a/b21ca607ab7e832aab16f05cb31fb8fb.jpg" alt="" width="800" height="600" /></p>
+<p>Второй путь — использовать для настройки утилиту командной строки auditpol, получить полный список GAP с установленными параметрами. При помощи auditpol достаточно ввести команду:<br />
+&gt; auditpol /list /subcategory:*</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/388/f3e/bc6/388f3ebc6df78d3c36c28dd000dc9f36.jpg" alt="" width="673" height="716" /></p>
+<p>Активируем политику “directory service access”:</p>
+<p>&gt; auditpol /set /subcategory:&#187;directory service changes&#187; /success:enable</p>
+<p>ПРИМЕЧАНИЕ: Подробные сведения о команде можно получить, запустив ее в виде<br />
+auditpol /h</p>
+<p>Чтобы не ждать, обновим политику контролера домена:</p>
+<p>&gt; gpupdate</p>
+<p>Подкатегория политики аудита Доступ к службе каталогов формирует события в журнале безопасности с кодом 4662, которые можно просмотреть при помощи консоли Просмотр событий (Event Viewer) вкладка Журналы Windows – Безопасность.</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/145/8e7/04e/1458e704e8cf79317f4bcdbe98c13aed.jpg" alt="" width="800" height="568" /></p>
+<p>В качестве альтернативного варианта просмотра событий можно использовать командлет Get-EventLog оболочки PowerShell. Например:</p>
+<p>PS&gt; Get-EventLog security | ?{$_.eventid -eq 4662}</p>
+<p>ПРИМЕЧАНИЕ: Командлет Get-EventLog может принимать 14 параметров, позволяющих отфильтровать события по определенным критериям: After, AsBaseObject, AsString, Before, ComputerName, EntryType, Index, InstanceID, List, LogName, Message, Newest, Source и UserName.</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/719/007/c0d/719007c0d4c27513eb0516bd4ab4d15b.jpg" alt="" width="800" height="340" /></p>
+<p>Кроме этого, регистрируется ряд других событий 5136 (изменение атрибута), 5137 (создание атрибута), 5138 (отмена удаления атрибута) и 5139 (перемещение атрибута).<br />
+Для удобства отбора определенных событий в консоли Просмотр событий используют фильтры и настраиваемые представления, а также подписку, позволяющую собирать данные журналов и с других серверов.</p>
+<p>Таблица 1. Список событий аудита событий Active Directory в Windows Server 2008</p>
+<p>Проверка учетных данных<br />
+ИДЕНТИФИКАТОР Сообщение<br />
+4774 Учетная запись была сопоставлена для входа в систему.<br />
+4775 Не удалось сопоставить учетную запись для входа в систему.<br />
+4776 Предпринята попытка проверить учетные данные для учетной записи контроллера домена.<br />
+4777 Не удается проверить учетные данные для учетной записи контроллера домена.</p>
+<p>Управление учетной записью компьютера<br />
+ИДЕНТИФИКАТОР Сообщение<br />
+4741 Создана учетная запись компьютера.<br />
+4742 Изменена учетная запись компьютера.<br />
+4743 Удалена учетная запись компьютера.</p>
+<p>Управление группами рассылки<br />
+ИДЕНТИФИКАТОР Сообщение<br />
+4744 Создана локальная группа с отключенной проверкой безопасности.<br />
+4745 Изменена локальная группа с отключенной проверкой безопасности.<br />
+4746 Добавлен пользователь к локальной группе с отключенной проверкой безопасности.<br />
+4747 Удален пользователь из локальной группы с отключенной проверкой безопасности.<br />
+4748 Удалена локальная группа с отключенной проверкой безопасности.<br />
+4749 Создана глобальная группа с отключенной проверкой безопасности.<br />
+4750 Изменена глобальная группа с отключенной проверкой безопасности.<br />
+4751 Добавлен пользователь к глобальной группе с отключенной проверкой безопасности.<br />
+4752 Удален пользователь из глобальной группы с отключенной проверкой безопасности.<br />
+4753 Удалена глобальная группа с отключенной проверкой безопасности.<br />
+4759 Создана универсальная группа с отключенной проверкой безопасности.<br />
+4760 Изменена универсальная группа с отключенной проверкой безопасности.<br />
+4761 Член добавлен к универсальной группы с отключенной проверкой безопасности.<br />
+4762 Удален пользователь из универсальной группы с отключенной проверкой безопасности.<br />
+Другие события управления учетными записями<br />
+ИДЕНТИФИКАТОР Сообщение<br />
+4739 Изменена политика домена.<br />
+4782 Хэш пароля учетной записи доступа к нему.<br />
+4793 Был вызван API проверку политики паролей.<br />
+Управление группой безопасности<br />
+ИДЕНТИФИКАТОР Сообщение<br />
+4727 Создана глобальная группа с включенной безопасностью.<br />
+4728 Добавлен пользователь к глобальной группе с включенной безопасностью.<br />
+4729 Удален пользователь из глобальной группы с включенной безопасностью.<br />
+4730 Удалена глобальная группа с включенной безопасностью.<br />
+4731 Создана локальная группа с включенной безопасностью.<br />
+4732 Добавлен пользователь в локальную группу с включенной безопасностью.<br />
+4733 Удален пользователь из локальной группы с включенной безопасностью.<br />
+4734 Удалена локальная группа с включенной безопасностью.<br />
+4735 Изменена локальная группа с включенной безопасностью.<br />
+4737 Изменена глобальная группа с включенной безопасностью.<br />
+4754 Создана универсальная группа с включенной безопасностью.<br />
+4755 Изменена универсальная группа с включенной безопасностью.<br />
+4756 Добавлен пользователь к универсальной группе с включенной безопасностью.<br />
+4757 Удален пользователь из универсальной группы с включенной безопасностью.<br />
+4758 Удалена универсальная группа с включенной безопасностью.<br />
+4764 Изменен тип группы.</p>
+<p>Управление учетными записями пользователей<br />
+ИДЕНТИФИКАТОР Сообщение<br />
+4720 Учетная запись пользователя создана.<br />
+4722 Учетная запись пользователя включена.<br />
+4723 Изменен пароль учетной записи.<br />
+4724 Сброс пароля пользователя.<br />
+4725 Учетная запись пользователя отключена.<br />
+4726 Учетная запись пользователя удалена.<br />
+4738 Изменена учетная запись пользователя.<br />
+4740 Учетная запись пользователя заблокирована.<br />
+4765 Журнал SID был добавлен к учетной записи.<br />
+4766 Не удалось добавить журнал SID учетной записи.<br />
+4767 Учетная запись пользователя была разблокирована.<br />
+4780 Список управления Доступом был установлен на учетные записи, которые являются членами группы администраторов.<br />
+4781 Было изменено имя учетной записи.<br />
+4794 Была предпринята попытка задать режим восстановления служб каталогов.<br />
+5376 Диспетчер учетных данных: учетные данные были сохранены.<br />
+5377 Диспетчер учетных данных: учетные данные были восстановлены из резервной копии.</p>
+<p>Другие события<br />
+ИДЕНТИФИКАТОР Сообщение<br />
+1102 Очищен журнал безопасности<br />
+4624 Успешный вход в систему<br />
+4625 Не удачный вход в систему</p>
+<p>В ветке Политика аудита также активируются и другие возможности (см.рис.1): аудит входа/выхода в систему, аудит управления учетными записями, доступ к объектам, изменения политик и так далее. Например, настроим аудит доступа к объектам на примере папки с общим доступом. Для этого активируем, как рассказано выше, политику Audit object access, затем выбираем папку и вызываем меню Свойства папки, в котором переходим в подпункт Безопасность и нажимаем кнопку Дополнительно. Теперь в открывшемся окне “Дополнительные параметры безопасности для ..” переходим во вкладку Аудит и нажимаем кнопку Изменить и затем Добавить и указываем учетную запись или группу, для которой будет осуществляться аудит. Далее отмечаем отслеживаемые события (выполнение, чтение, создание файлов и др.) и результат (успех или отказ). При помощи списка “Применять” указываем область применения политики аудита. Подтверждаем изменения.</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/687/bf4/420/687bf442048dfd727ffbd5b3181568da.jpg" alt="" width="800" height="600" /></p>
+<p>Теперь все указанные операции будут отображаться в журнале безопасности.<br />
+Чтобы упростить настройку аудита при большом количестве объектов, следует активировать флажок Наследование параметров от родительского объекта. При этом в поле Унаследовано от будет показан родительский объект, от которого взяты настройки.<br />
+Больший контроль событий, записываемых в журнал, достигается применением политики детализированного аудита (Granular Audit Policy), которая настраивается в Параметры безопасности/Локальные политики/Advanced Audit Policy Configuration. Здесь 10 подпунктов:</p>
+<p>— Вход учетной записи – аудит проверки учетных данных, службы проверки подлинности Kerberos, операции с билетами службы Kerberos, другие события входа;<br />
+— Управление учетными записями – аудит управления группами приложений, учетными записями компьютеров и пользователей, группами безопасности и распространения;<br />
+— Подробное отслеживание – событий RPC и DPAPI, создания и завершения процессов;<br />
+— Доступ к службе каталогов DS – аудит доступа, изменений, репликации и подробной репликации службы каталогов;<br />
+— Вход/выход – аудит блокировки учетных записей, входа и выхода в систему, использования IPSec, сервера политики сети;<br />
+— Доступ к объектам – аудит объектов ядра, работы с дескрипторами, событий создаваемых приложениями, служб сертификации, файловой системы, общих папок, платформой фильтрации;<br />
+— Изменение политики – изменения политики аудита, проверки подлинности, авторизации, платформы фильтрации, правил службы защиты MPSSVC и другие;<br />
+— Использование прав – аудит прав доступа к различным категориям данных;<br />
+— Система – аудит целостности системы, изменения и расширения состояния безопасности, драйвера IPSec и других событий;<br />
+— Аудит доступа к глобальным объектам – аудит файловой системы и реестра.</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/be9/550/d42/be9550d42db102c888d230a3789ab112.jpg" alt="" width="800" height="569" /></p>
+<p>Активация аудита управления учетными записями пользователей позволит отслеживать: создание, изменение, удаление, блокировку, включение и прочие настройки учетных записей, в том числе пароль и разрешения. Посмотрим, как она работает на практике — выбираем подкатегорию User Account Management и активируем. Команда для auditpol выглядит так:<br />
+&gt; auditpol /set /subcategory:&#187;User Account Management&#187; /success:enable /failure:enable<br />
+&gt; gpudate</p>
+<p>Система аудита в консоли Просмотр события сразу покажет событие с номером 4719 Изменение параметров аудита, в котором показаны название политики и новые значения.</p>
+<p>Чтобы создать событие, откроем консоль Active Directory – пользователи и компьютеры и изменим один из параметров любой учетной записи — например, добавим пользователя в группу безопасности. В консоли Просмотра события сразу будут сгенерировано несколько событий: события с номером 4732 и 4735, показывающие изменение состава группы безопасности, и добавление учетной записи новой группы безопасности (на рис.8 выделены фиолетовым).<br />
+Создадим новую учетную запись – система генерирует несколько событий: 4720 (создание новой учетной записи), 4724 (попытка сброса пароля учетной записи), несколько событий с кодом 4738 (изменение учетной записи) и, наконец, 4722 (включение новой учетной записи). По данным аудита администратор может отследить старое и новое значение атрибута — например, при создании учетной записи меняется значение UAC.</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/b3b/61d/9ff/b3b61d9fff2f5e51450f63b2b3dd53f2.jpg" alt="" width="800" height="600" /></p>
+<p>Недостатки штатной системы аудита</p>
+<p>Штатные инструменты операционной системы часто предлагают лишь базовые наборы средств анализа. Официальная документация (http://technet.microsoft.com/ru-ru/library/dd772623(WS.10).aspx) очень подобно расписывает возможности самого инструмента, практически мало помогая в выборе параметров, изменения которых необходимо отслеживать. В итоге решение этой задачи целиком ложится на плечи системного администратора, который должен полностью разбираться в технических аспектах аудита, и зависит от уровня его подготовки, а значит, велика вероятность ошибки. Кроме того, на его плечи ложится анализ результата, построение разнообразных отчетов.<br />
+Для удобства выбора определенных событий интерфейс консоли Event Viewer позволяет создавать фильтры и настраиваемые представления. В качестве параметров для отбора данных можно указать: дату, журнал и источник событий, уровень (критическое, предупреждение, ошибка и т.д.), код, пользователя или компьютер и ключевые слова. В организации может быть большое количество пользователей, объединенных в группы и подразделения, для которых аудит необходимо настроить персонально, но данная возможность в интерфейсе не предусмотрена.</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/1c3/d51/3af/1c3d513af550e3d3fc3431290bdd2e44.jpg" alt="" width="800" height="600" /></p>
+<p>В случае срабатывания правил в настраиваемом представлении можно создать задачу (меню Привязать задачу к событию): запустить программу, отправить сообщение по электронной почте или отобразить сообщение на рабочем столе.</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/7fb/05a/15b/7fb05a15bb8b1bfe6f0590ba7604cb83.jpg" alt="" width="800" height="600" /></p>
+<p>Но, опять же, реализация оповещений, в частности выбор событий, полностью лежит на администраторе.<br />
+В случае необходимости отката измененного атрибута к предыдущему значению это действие выполняется вручную – консоль лишь показывает значение параметров.</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/549/183/b18/549183b180a848ec479f3527fb67d24b.jpg" alt="" width="632" height="441" /></p>
+<p>Некоторые стандарты безопасности требуют хранения данных, собранных в процессе аудита, в течение продолжительного времени (например, SOX до 7 лет). Системными средствами реализовать это можно, но очень сложно. Размер журнала безопасности (как и других) ограничен 128 Мб, и при большом количестве событий данные могут быть перезаписаны (т.е. утеряны) уже через несколько часов. Чтобы этого избежать, необходимо вызвать окно свойств журнала в Event Viewer, где увеличить размер журнала и активировать его архивацию, установив флажок в “Архивировать журнал при заполнении. Не перезаписывать события”.</p>
+<p><img class="alignnone" src="http://habrastorage.org/storage2/164/702/098/16470209878938225f3c898a90720763.jpg" alt="" width="800" height="566" /></p>
+<p>Но теперь необходимо будет решить проблему поиска событий во множестве архивов.<br />
+Также стоит отметить, что к недостаткам штатной системы аудита относятся ограниченные возможности мониторинга групповых политик. При том, что факт этого изменения штатными средствами можно отслеживать, не фиксируются значения измененных параметров и, таким образом, нельзя ответить на вопрос, что же именно было изменено и каким стало новое значение. В некоторых ситуациях этого достаточно, но назвать это полноценным аудитом затруднительно.</p>
+<p>Источник &#8212; <a href="http://habrahabr.ru/company/netwrix/blog/143878/">http://habrahabr.ru/company/netwrix/blog/143878/ </a></p>
+<div class="wp_rp_wrap  wp_rp_plain" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Похожие статьи</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-79" data-post-type="none" ><a href="../index.html@p=79.html" class="wp_rp_title">Аудит изменений в Active Directory</a></li><li data-position="1" data-poid="in-584" data-post-type="none" ><a href="../index.html@p=584.html" class="wp_rp_title">Автоматический аудит компьютеров в Active Directory через powershell.</a></li><li data-position="2" data-poid="in-660" data-post-type="none" ><a href="../index.html@p=660.html" class="wp_rp_title">Обновление Lync 2013 до Skype for Business</a></li><li data-position="3" data-poid="in-101" data-post-type="none" ><a href="../index.html@p=101.html" class="wp_rp_title">Включение корзины Active Directory</a></li><li data-position="4" data-poid="in-270" data-post-type="none" ><a href="../index.html@p=270.html" class="wp_rp_title">Настройка отказоустойчивого файлового сервера на Windows Server 2012 R2</a></li><li data-position="5" data-poid="in-73" data-post-type="none" ><a href="../index.html@p=73.html" class="wp_rp_title">Активируем LDAP over SSL</a></li></ul></div></div>
+<div class="clear"></div>
+<div class="post-info">
+<div class="left"> <a href="../category/active-directory/page/1/index.html" rel="category tag">Active Directory</a>, <a href="../category/windows/page/1/index.html" rel="category tag">Windows</a>, <a href="../category/windows-server/page/1/index.html" rel="category tag">Windows Server</a> </div>
+<div class="right"> Метки: <a href="../tag/active-directory/page/1/index.html" rel="tag">Active Directory</a>, <a href="../tag/windows-server/page/1/index.html" rel="tag">Windows Server</a>, <a href="../tag/audit/index.html" rel="tag">Аудит</a>  </div>
+</div>
+<div class="clear"></div>
+<br>
+</div>                        
+<div style="clear:both"></div>
+</article>
+<div class="clear"></div>
+<section class="col-md-12">
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Добавить комментарий <small><a rel="nofollow" id="cancel-comment-reply-link" href="../index.html@p=38.html#respond" style="display:none;">Отменить ответ</a></small></h3>			<form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+<p class="comment-notes"><span id="email-notes">Ваш e-mail не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">E-mail</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+<p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='38' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="779851806e" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="32"/></p>			</form>
+</div><!-- #respond -->
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</section>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="back-to-top"> <i class="fa fa-chevron-up"></i> </div>
+<footer id="footer">
+<div class="container">
+<div class="row" >
+<div class="col-md-12" >
+<div class="copyright">
+<p>
+Все права защищены. IT Traveler 2019 
+</p>
+</div>
+<div class="socials">
+<a href="../feed/index.html" title="Rss" class="social rss"> <i class="fa fa-rss" ></i>  </a>                         
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</footer>
+<!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"<-",next:"->",close:"Закрыть"});
+});
+</script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js@ver=5.2.4'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/widget.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/tabs.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js@ver=5.2.4'></script>
+<script async="async" type='text/javascript' src='http://ittraveler.org/wp-content/plugins/akismet/_inc/form.js?ver=4.1.2'></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/27780774" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.55897617340088 seconds, on 28-10-19 20:02:22 -->

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Установка и настройка VMWare Vsphere 6. Часть 2	</title>
+	<atom:link href="http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/</link>
+	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
+	<lastBuildDate>Tue, 05 Mar 2019 07:47:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				Автор: Admin				</title>
+				<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/#comment-13573</link>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 05 Mar 2019 07:47:06 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=356#comment-13573</guid>
+					<description><![CDATA[Добрый день. 
+LSI Logic SAS - можно использовать поумолчанию, т.к. он поддерживается большинством гостевых ОС из коробки и не имеет существенных ограничений. 
+Но, в некоторых случаях использование Paravirtual SCSI может повысить производительость VM, примерно на 12%, но этот тип контроллера имеет ряд ограничений и обычно в гостевых ОС нет его поддержки из коробки, так что при установке ОС могут возникать проблемы. 
+Из ограничений Paravirtual SCSI можно отметить:
+  Hot add or hot remove requires a bus rescan from within the guest.
+  Disks with snapshots might not experience performance gains when used on Paravirtual SCSI adapters if memory on the ESX host is over committed.
+  If you upgrade from RHEL 5 to an unsupported kernel, you might not be able to access data on the virtual machine&#039;s PVSCSI disks. You can run vmware-config-tools.pl with the kernel-version parameter to regain access
+также вот в этой статье можно ознакомиться со списком ОС, которые поддерживают загрузку с данного типа контроллера &lt;a href=&quot;https://kb.vmware.com/s/article/1010398&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot;&gt;https://kb.vmware.com/s/article/1010398&lt;/a&gt; 
+Вообще, я бы рекомендовал ставить ОС на обычный LSI SAS контроллер, а другие диски подключать к Paravirtual SCSI контроллеру (разумеется это имеет смысл если нужно повысить производительность этих дисков, а не диска с ОС)
+Но если честно, в реальной жизни, я большого толку от Paravirtual SCSI и этих +12% к производительности я не заметил. 
+Получалось что тратишь дополнительное время на настройку/перенастройку/поддержку, а профита получаешь совсем мало, либо вообще не получаешь. 
+Так что перед тем как внедрять, тестируйте свой профиль нагрузки на каждом из адаптеров, возможно разницы вы и не заметите.
+
+Ну и по поводу нескольких дисков. А смысл? ведь всегда можно добавить диск при необходимости, далеко не во всех ситуациях нужно несколько разных дисков.
+В этом же плюс виртуализации, что ресурсы можно увеличивать динамически, по мере необходимости.]]></description>
+		<content:encoded><![CDATA[<p>Добрый день.<br />
+LSI Logic SAS &#8212; можно использовать поумолчанию, т.к. он поддерживается большинством гостевых ОС из коробки и не имеет существенных ограничений.<br />
+Но, в некоторых случаях использование Paravirtual SCSI может повысить производительость VM, примерно на 12%, но этот тип контроллера имеет ряд ограничений и обычно в гостевых ОС нет его поддержки из коробки, так что при установке ОС могут возникать проблемы.<br />
+Из ограничений Paravirtual SCSI можно отметить:<br />
+  Hot add or hot remove requires a bus rescan from within the guest.<br />
+  Disks with snapshots might not experience performance gains when used on Paravirtual SCSI adapters if memory on the ESX host is over committed.<br />
+  If you upgrade from RHEL 5 to an unsupported kernel, you might not be able to access data on the virtual machine&#8217;s PVSCSI disks. You can run vmware-config-tools.pl with the kernel-version parameter to regain access<br />
+также вот в этой статье можно ознакомиться со списком ОС, которые поддерживают загрузку с данного типа контроллера <a href="https://kb.vmware.com/s/article/1010398" target="_blank" rel="noopener nofollow">https://kb.vmware.com/s/article/1010398</a><br />
+Вообще, я бы рекомендовал ставить ОС на обычный LSI SAS контроллер, а другие диски подключать к Paravirtual SCSI контроллеру (разумеется это имеет смысл если нужно повысить производительность этих дисков, а не диска с ОС)<br />
+Но если честно, в реальной жизни, я большого толку от Paravirtual SCSI и этих +12% к производительности я не заметил.<br />
+Получалось что тратишь дополнительное время на настройку/перенастройку/поддержку, а профита получаешь совсем мало, либо вообще не получаешь.<br />
+Так что перед тем как внедрять, тестируйте свой профиль нагрузки на каждом из адаптеров, возможно разницы вы и не заметите.</p>
+<p>Ну и по поводу нескольких дисков. А смысл? ведь всегда можно добавить диск при необходимости, далеко не во всех ситуациях нужно несколько разных дисков.<br />
+В этом же плюс виртуализации, что ресурсы можно увеличивать динамически, по мере необходимости.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Автор: Виктор				</title>
+				<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/#comment-13563</link>
+		<dc:creator><![CDATA[Виктор]]></dc:creator>
+		<pubDate>Mon, 04 Mar 2019 16:40:23 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=356#comment-13563</guid>
+					<description><![CDATA[Добрый вечер. А почему не используете Paravirtual SCSI  для виртуальной машины? И сразу не создаёте 2 диска, для дальнейшего распределения на c и d]]></description>
+		<content:encoded><![CDATA[<p>Добрый вечер. А почему не используете Paravirtual SCSI  для виртуальной машины? И сразу не создаёте 2 диска, для дальнейшего распределения на c и d</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Автор: Admin				</title>
+				<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/#comment-1168</link>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Fri, 06 May 2016 20:25:21 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=356#comment-1168</guid>
+					<description><![CDATA[Попробуйте проверить связь с Active Directory.]]></description>
+		<content:encoded><![CDATA[<p>Попробуйте проверить связь с Active Directory.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Автор: Димка				</title>
+				<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/#comment-1145</link>
+		<dc:creator><![CDATA[Димка]]></dc:creator>
+		<pubDate>Wed, 27 Apr 2016 13:18:10 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=356#comment-1145</guid>
+					<description><![CDATA[День добрый, у меня на шаге :
+Переходим в раздел Groups
+
+Открываем нужную группу администрирования (в моем случае это группа Adminstrators)
+
+И добавляем в нее доменных пользователей или группы.
+
+Выходит ошибка:  cannot load the user for the selected domain
+
+Подскажите, пожалуйста, куда копать?]]></description>
+		<content:encoded><![CDATA[<p>День добрый, у меня на шаге :<br />
+Переходим в раздел Groups</p>
+<p>Открываем нужную группу администрирования (в моем случае это группа Adminstrators)</p>
+<p>И добавляем в нее доменных пользователей или группы.</p>
+<p>Выходит ошибка:  cannot load the user for the selected domain</p>
+<p>Подскажите, пожалуйста, куда копать?</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Автор: Admin				</title>
+				<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/#comment-1044</link>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2016 17:51:43 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=356#comment-1044</guid>
+					<description><![CDATA[Так у вас в гостевой ОС проблема была. Я думал Вы не можете в vsphere установить 64 гига памяти.
+По поводу диска, если есть СХД, отдайте с нее LUN по iscsi и все, ну или RAW диск можно подключить. 
+Если СХД нет, то только вариант с большим диском.]]></description>
+		<content:encoded><![CDATA[<p>Так у вас в гостевой ОС проблема была. Я думал Вы не можете в vsphere установить 64 гига памяти.<br />
+По поводу диска, если есть СХД, отдайте с нее LUN по iscsi и все, ну или RAW диск можно подключить.<br />
+Если СХД нет, то только вариант с большим диском.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Автор: Александр				</title>
+				<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/#comment-1043</link>
+		<dc:creator><![CDATA[Александр]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2016 10:59:20 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=356#comment-1043</guid>
+					<description><![CDATA[Разобрались)) системка то Standart, а у нее ограничение по памяти 32Гб ))
+остался последний вопрос можно ли как то выделить весь физический жеский диск системе как в Hype-V ? я сколько мучался только указанное колво Гб и постоянное красное сообщение что место использовано на диске]]></description>
+		<content:encoded><![CDATA[<p>Разобрались)) системка то Standart, а у нее ограничение по памяти 32Гб ))<br />
+остался последний вопрос можно ли как то выделить весь физический жеский диск системе как в Hype-V ? я сколько мучался только указанное колво Гб и постоянное красное сообщение что место использовано на диске</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Автор: Александр				</title>
+				<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/#comment-1042</link>
+		<dc:creator><![CDATA[Александр]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2016 10:24:40 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=356#comment-1042</guid>
+					<description><![CDATA[Проверил
+- vCenter Standart
+-vSphere 6 Enterprise Plus
+-Hardware version 11
+в server 2008r2 память 64Гб доступно 32Гб]]></description>
+		<content:encoded><![CDATA[<p>Проверил<br />
+&#8212; vCenter Standart<br />
+-vSphere 6 Enterprise Plus<br />
+-Hardware version 11<br />
+в server 2008r2 память 64Гб доступно 32Гб</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Автор: Admin				</title>
+				<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/#comment-1041</link>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2016 10:07:02 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=356#comment-1041</guid>
+					<description><![CDATA[Добрый день.
+Не сталкивался с таким.
+Проверьте что лицензии установлены на гипервизоры и vcenter. Также проверьте hardware version у виртуальной машины.
+Ну проверьте что у вас точно есть 64 свободных гигабайта оперативки на хосте.]]></description>
+		<content:encoded><![CDATA[<p>Добрый день.<br />
+Не сталкивался с таким.<br />
+Проверьте что лицензии установлены на гипервизоры и vcenter. Также проверьте hardware version у виртуальной машины.<br />
+Ну проверьте что у вас точно есть 64 свободных гигабайта оперативки на хосте.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Автор: Александр				</title>
+				<link>http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-2/#comment-1040</link>
+		<dc:creator><![CDATA[Александр]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2016 09:38:45 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=356#comment-1040</guid>
+					<description><![CDATA[Доброго времени суток. Не могу никак выделить виртуальной машинке 64Гб памяти - видит только 32 - лицензия интерпрайз плюс. Не подскажете куда мне смотреть?]]></description>
+		<content:encoded><![CDATA[<p>Доброго времени суток. Не могу никак выделить виртуальной машинке 64Гб памяти &#8212; видит только 32 &#8212; лицензия интерпрайз плюс. Не подскажете куда мне смотреть?</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
