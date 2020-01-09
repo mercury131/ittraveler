@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script convert ittraveler webpages to markdown format
+# This script convert ittraveler.org webpages to markdown format
 
 # Example Usage
 
