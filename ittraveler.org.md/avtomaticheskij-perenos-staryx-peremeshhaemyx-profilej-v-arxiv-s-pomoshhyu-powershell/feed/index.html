@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.	</title>
+	<atom:link href="http://ittraveler.org/avtomaticheskij-perenos-staryx-peremeshhaemyx-profilej-v-arxiv-s-pomoshhyu-powershell/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ittraveler.org/avtomaticheskij-perenos-staryx-peremeshhaemyx-profilej-v-arxiv-s-pomoshhyu-powershell/</link>
+	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
+	<lastBuildDate>Wed, 23 Jan 2019 08:04:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				Автор: Admin				</title>
+				<link>http://ittraveler.org/avtomaticheskij-perenos-staryx-peremeshhaemyx-profilej-v-arxiv-s-pomoshhyu-powershell/#comment-13041</link>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2019 08:04:03 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=366#comment-13041</guid>
+					<description><![CDATA[Добрый день! 
+Рад что мой скрипт Вам пригодился. 
+По поводу вашего вопроса. 
+Замените строку 
+&lt;code&gt;
+If($ADUser)
+&lt;/code&gt;
+на
+&lt;code&gt;
+If($ADUser -or $ADUser -eq &quot;UserName&quot;)
+&lt;/code&gt;
+где UserName - название вашего профиля. Обратите внимание что регистр важен, имя должно в точности совпадать.]]></description>
+		<content:encoded><![CDATA[<p>Добрый день!<br />
+Рад что мой скрипт Вам пригодился.<br />
+По поводу вашего вопроса.<br />
+Замените строку<br />
+<code><br />
+If($ADUser)<br />
+</code><br />
+на<br />
+<code><br />
+If($ADUser -or $ADUser -eq "UserName")<br />
+</code><br />
+где UserName &#8212; название вашего профиля. Обратите внимание что регистр важен, имя должно в точности совпадать.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Автор: Maksim				</title>
+				<link>http://ittraveler.org/avtomaticheskij-perenos-staryx-peremeshhaemyx-profilej-v-arxiv-s-pomoshhyu-powershell/#comment-13030</link>
+		<dc:creator><![CDATA[Maksim]]></dc:creator>
+		<pubDate>Tue, 22 Jan 2019 15:04:26 +0000</pubDate>
+		<guid isPermaLink="false">http://ittraveler.org/?p=366#comment-13030</guid>
+					<description><![CDATA[Отличный скрипт, который обленчил работу и помог кое что сделать, однако возник вопрос.
+Если нужно добавить исключение, ну вот 1 профиль который нельзя удалять, как это описать в данном скрипте ?]]></description>
+		<content:encoded><![CDATA[<p>Отличный скрипт, который обленчил работу и помог кое что сделать, однако возник вопрос.<br />
+Если нужно добавить исключение, ну вот 1 профиль который нельзя удалять, как это описать в данном скрипте ?</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

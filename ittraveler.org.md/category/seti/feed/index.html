@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Сети &#8212; IT Traveler</title>
+	<atom:link href="http://ittraveler.org/category/seti/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ittraveler.org</link>
+	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
+	<lastBuildDate>Mon, 25 Jun 2018 14:21:38 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>Настройка работы прокси сервера SQUID через сторонний прокси сервер.</title>
+		<link>http://ittraveler.org/nastrojka-raboty-proksi-servera-squid-cherez-storonnij-proksi-server/</link>
+				<comments>http://ittraveler.org/nastrojka-raboty-proksi-servera-squid-cherez-storonnij-proksi-server/#respond</comments>
+				<pubDate>Mon, 25 Jun 2018 14:21:03 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Сети]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[squid]]></category>
+		<category><![CDATA[Прокси]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=973</guid>
+				<description><![CDATA[Иногда в тестовых средах вы по каким-то причинам не можете использовать прокси сервер с авторизацией по логину и паролю, и прямого доступа в интернет у вас нет. В таком случае вам поможет промежуточный прокси сервер на базе Squid, который будет использовать основной прокси сервер для доступа в интернет. Далее я расскажу как все это настроить.]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-raboty-proksi-servera-squid-cherez-storonnij-proksi-server/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Настройка прокси сервера Tor на Ubuntu.</title>
+		<link>http://ittraveler.org/nastrojka-proksi-servera-tor-na-ubuntu/</link>
+				<comments>http://ittraveler.org/nastrojka-proksi-servera-tor-na-ubuntu/#respond</comments>
+				<pubDate>Tue, 12 May 2015 13:59:56 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Сети]]></category>
+		<category><![CDATA[TOR]]></category>
+		<category><![CDATA[Прокси]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=408</guid>
+				<description><![CDATA[В данной статье мы рассмотрим установку и настройку прокси сервера Tor на Ubuntu. Устанавливаем Tor [crayon-5db7603496fd0187903730/] Устанавливаем прокси сервер privoxy apt-get install tor privoxy Далее открываем конфиг privoxy расположенный по адресу: [crayon-5db7603496fd6409636069/] И добавляем в конфиг строку: [crayon-5db7603496fd8287802865/] Внимание знак &#171;.&#187; (точка) обязателен! Этой записью мы перенаправляем трафик прокси на сеть Tor. Запускаем сервисы [crayon-5db7603496fda306667207/]]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-proksi-servera-tor-na-ubuntu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Установка и настройка Radius сервера на Ubuntu с веб интерфейсом.</title>
+		<link>http://ittraveler.org/ustanovka-i-nastrojka-radius-servera-na-ubuntu-s-veb-interfejsom/</link>
+				<comments>http://ittraveler.org/ustanovka-i-nastrojka-radius-servera-na-ubuntu-s-veb-interfejsom/#comments</comments>
+				<pubDate>Tue, 14 Apr 2015 11:15:14 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Сети]]></category>
+		<category><![CDATA[Radius]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=338</guid>
+				<description><![CDATA[В данной статье будет рассмотрено как установить Radius сервер FreeRadius с веб интерфейсом Daloradius Перед установкой обновите все пакеты в системе [crayon-5db7603497519497391143/] [crayon-5db760349751f349720307/] Установим Apache2 и PHP [crayon-5db7603497521740648406/] [crayon-5db7603497523601560920/] Модули php5-gd php-pear php-db необходимы для работы веб интерфейса Daloradius Устанавливаем Mysql сервер [crayon-5db7603497525272005686/] Устанавливаем FreeRadius [crayon-5db7603497526666997820/] Подключаемся к серверу Mysql [crayon-5db7603497528080488309/] Далее создаем базу данных]]></description>
+						<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-radius-servera-na-ubuntu-s-veb-interfejsom/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+							</item>
+		<item>
+		<title>Настройка сети в организации. Часть 4</title>
+		<link>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-4/</link>
+				<comments>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-4/#respond</comments>
+				<pubDate>Fri, 30 Jan 2015 12:50:28 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Сети]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=253</guid>
+				<description><![CDATA[В этой части статьи мы рассмотрим создание GRE туннеля между офисом нашей компании и дата центром. Создадим инфраструктуру нашего оборудования в ДЦ, перенесем VTP сервер, добавим DMZ сеть и пропишем статические маршруты.Начнем мы с того что добавим новые устройства в нашу топологию, а именно: gw-dc01 &#8212; маршрутизатор coredc &#8212; ядро в сети ДЦ sw-dcsrv01 &#8212;]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-4/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Настройка сети в организации. Часть 3</title>
+		<link>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-3/</link>
+				<comments>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-3/#respond</comments>
+				<pubDate>Tue, 27 Jan 2015 18:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Сети]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=240</guid>
+				<description><![CDATA[В данной статье мы рассмотрим подключение к ISP провайдеру и динамическую маршрутизацию. Итак, добавим отдельную сеть ISP провайдера. добавим 4-е маршрутизатора и соединим их вместе. Будем использовать следующие адреса: 172.16.1.0/24 172.16.2.0/24 172.16.3.0/24 172.16.4.0/24 172.16.5.0/24 172.16.5.0/24 172.16.7.0/24 172.16.8.0/24 172.16.9.0/24 172.16.10.0/24 172.16.11.0/24 Перейдем к настройке назначим адреса первому роутеру. [crayon-5db760349addc654930943/] [crayon-5db760349ade3104297284/] [crayon-5db760349ade5385193589/] Настраиваем 2-й интерфейс. [crayon-5db760349ade7477685004/] [crayon-5db760349ade9879768463/]]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Настройка сети в организации. Часть 2</title>
+		<link>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-2/</link>
+				<comments>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-2/#respond</comments>
+				<pubDate>Fri, 23 Jan 2015 08:34:02 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Сети]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=230</guid>
+				<description><![CDATA[В данной статье мы продолжим настройку нашей сети. В этом выпуске мы настроим: DHCP, ACL и добавим сеть WIFI.Начнем с добавления DHCP. Открываем консоль нашего ядра, и вводим: [crayon-5db760349c14a579503149/] Создадим DHCP pool для Vlan 101 [crayon-5db760349c151522956638/] Теперь укажем сеть [crayon-5db760349c153930655364/] Укажем шлюз [crayon-5db760349c155155843195/] [crayon-5db760349c157428300318/] Теперь укажем какие адреса не нужно раздавать клиентам, в нашем случае]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Настройка сети в организации. Часть 1.</title>
+		<link>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-1/</link>
+				<comments>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-1/#comments</comments>
+				<pubDate>Wed, 21 Jan 2015 11:03:49 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Сети]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=203</guid>
+				<description><![CDATA[В данном цикле статей, я расскажу как настроить сеть на оборудовании Cisco в средней организации. Давайте рассмотрим пример, у нас средняя компания, человек на 100-500. Что нам нужно? Настроить маршрутизаторы и коммутаторы, VLAN, разделить сети, настроить туннель VPN между филиалами, DHCP, ACL, NAT, подключиться к ISP провайдеру, изолировать некоторые сети (DMZ), маршрутизацию (Static, OSPF, ERGRP),]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-seti-v-organizacii-chast-1/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+							</item>
+	</channel>
+</rss>

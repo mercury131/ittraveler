@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apache2 &#8212; IT Traveler</title>
+	<atom:link href="http://ittraveler.org/tag/apache2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ittraveler.org</link>
+	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
+	<lastBuildDate>Sun, 24 Jun 2018 17:16:51 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>Установка и настройка хостинг панели VestaCP c поддержкой разных версий PHP</title>
+		<link>http://ittraveler.org/ustanovka-i-nastrojka-xosting-paneli-vestacp-v-podderzhkoj-raznyx-versij-php/</link>
+				<comments>http://ittraveler.org/ustanovka-i-nastrojka-xosting-paneli-vestacp-v-podderzhkoj-raznyx-versij-php/#respond</comments>
+				<pubDate>Sun, 24 Jun 2018 17:16:33 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[Без рубрики]]></category>
+		<category><![CDATA[Apache2]]></category>
+		<category><![CDATA[Nginx]]></category>
+		<category><![CDATA[vestacp]]></category>
+		<category><![CDATA[webserver]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=962</guid>
+				<description><![CDATA[В этой статье мы установим хостинг панель VestaCP и добавим в нее поддержку разных версий PHP В качестве основной ОС я буду использовать Ubuntu 16.04 server. Подключаемся к серверу по SSH и следующими командами запустим установку панели VestaCP [crayon-5dbd99ac04126493087423/] Далее вы увидите список ПО которое будет использоваться VestaCP. Забегая немного вперед скажу что конфигурация с]]></description>
+						<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-xosting-paneli-vestacp-v-podderzhkoj-raznyx-versij-php/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Настройка отказоустойчивого веб сервера на базе nginx и apache.</title>
+		<link>http://ittraveler.org/nastrojka-otkazoustojchivogo-veb-servera-na-baze-nginx-i-apache/</link>
+				<comments>http://ittraveler.org/nastrojka-otkazoustojchivogo-veb-servera-na-baze-nginx-i-apache/#comments</comments>
+				<pubDate>Tue, 23 Jun 2015 14:01:18 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[Apache2]]></category>
+		<category><![CDATA[Nginx]]></category>
+		<category><![CDATA[веб сервера]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=616</guid>
+				<description><![CDATA[Рассмотрим настройку отказоустойчивых веб серверов. В данном примере мы будем использовать nginx для балансировки нагрузки, а связку nginx + apache будем использовать как веб сервера. Теперь рассмотрим данную реализацию подробнее. Мы можем использовать две схемы отказоустойчивости, это схема 1: В данной схеме точкой отказа является балансировщик, но если вы не располагаете большим количеством серверов, данная схема]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-otkazoustojchivogo-veb-servera-na-baze-nginx-i-apache/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+							</item>
+		<item>
+		<title>Настройка связки веб серверов Nginx + Apache</title>
+		<link>http://ittraveler.org/nastrojka-svyazki-veb-serverov-nginx-apache/</link>
+				<comments>http://ittraveler.org/nastrojka-svyazki-veb-serverov-nginx-apache/#respond</comments>
+				<pubDate>Fri, 19 Jun 2015 13:56:48 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[Apache2]]></category>
+		<category><![CDATA[Nginx]]></category>
+		<category><![CDATA[веб сервера]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=605</guid>
+				<description><![CDATA[В данной связке мы будем использовать 2 веб сервера, nginx будет обрабатывать статический контент, а динамический передавать Apache. Обновим все пакеты: [crayon-5dbd99ac07843969883285/] [crayon-5dbd99ac07849372057475/] Удалим кэш пакетов и ненужные пакеты: [crayon-5dbd99ac0784b647766080/] [crayon-5dbd99ac0784d368852087/] [crayon-5dbd99ac0784f676157857/] Установим часовой пояс. [crayon-5dbd99ac07850138843109/] Установим NTP. [crayon-5dbd99ac07852460260191/] Установим Openssh сервер (если он не установлен). [crayon-5dbd99ac07854510378543/] Устанавливаем веб сервер Apache2. [crayon-5dbd99ac07855243515552/] Устанавливаем PHP. [crayon-5dbd99ac07857871912198/]]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-svyazki-veb-serverov-nginx-apache/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Установка и настройка веб сервера Apache 2</title>
+		<link>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-apache-2/</link>
+				<comments>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-apache-2/#respond</comments>
+				<pubDate>Tue, 16 Jun 2015 14:38:04 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[Apache2]]></category>
+		<category><![CDATA[веб сервера]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=591</guid>
+				<description><![CDATA[В данной статье мы рассмотрим установку и настройку веб сервера Apache 2 на Ubuntu server 14.04 LTS. Также будет рассмотрена настройка сайтов на 80 и 443 портах и создание ssl сертификатов. Перейдем к установке веб сервера. Обновим все пакеты: [crayon-5dbd99ac08b7b442587649/] [crayon-5dbd99ac08b81595598204/] Удалим кэш пакетов и ненужные пакеты: [crayon-5dbd99ac08b83645399748/] [crayon-5dbd99ac08b86416675573/] [crayon-5dbd99ac08b88095278224/] Установим часовой пояс. [crayon-5dbd99ac08b8a826661092/] Установим]]></description>
+						<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-apache-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Настройка Kerberos авторизации в Apache2</title>
+		<link>http://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/</link>
+				<comments>http://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/#respond</comments>
+				<pubDate>Fri, 20 Feb 2015 08:59:07 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[Active Directory]]></category>
+		<category><![CDATA[Web]]></category>
+		<category><![CDATA[Web/Cloud]]></category>
+		<category><![CDATA[Apache2]]></category>
+		<category><![CDATA[Kerberos]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=291</guid>
+				<description><![CDATA[В данной статье мы рассмотрим настройку автоматической Kerberos авторизации в Apache2. Устанавливаем Kerberos [crayon-5dbd99ac095e0665385079/] Приводим файл /etc/krb5.conf к виду: [crayon-5dbd99ac095e5894333758/] Проверяем что права доступа на файл /etc/krb5.conf &#8212; 644 (чтение всем пользователям) Проверяем можем ли мы авторизоваться в домене [crayon-5dbd99ac095e8338247927/] где Administrator учетная запись в AD Смотрим вывод командой [crayon-5dbd99ac095ea143381291/] Если вывод такой : [crayon-5dbd99ac095ec211248889/]]]></description>
+						<wfw:commentRss>http://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

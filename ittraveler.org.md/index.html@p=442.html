@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="favicon.png"/>
+<title>Установка и настройка Puppet. | IT Traveler</title>
+<link rel="stylesheet" href="http://ittraveler.org/wp-content/themes/diarjo-lite/style.css" media="screen" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+<!--[if IE 8]>
+<script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/html5.js" type="text/javascript"></script>
+<script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/selectivizr-min.js" type="text/javascript"></script>
+<![endif]-->
+<!-- All in One SEO Pack 3.2.7 от Michael Torbert из Semper Fi Web Design[225,275] -->
+<meta name="description"  content="Установка и настройка Puppet. В данной статье мы рассмотрим установку и настройку системы управления конфигурациями Puppet. Устанавливать Puppet будем на Ubuntu" />
+<meta name="keywords"  content="Установка puppet ubuntu,установка puppet server,puppet настройка,linux,puppet,ubuntu" />
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://ittraveler.org/#organization","url":"http://ittraveler.org/","name":"IT Traveler","sameAs":[]},{"@type":"WebSite","@id":"http://ittraveler.org/#website","url":"http://ittraveler.org/","name":"IT Traveler","publisher":{"@id":"http://ittraveler.org/#organization"}},{"@type":"WebPage","@id":"http://ittraveler.org/ustanovka-i-nastrojka-puppet/#webpage","url":"http://ittraveler.org/ustanovka-i-nastrojka-puppet/","inLanguage":"ru-RU","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Puppet.","isPartOf":{"@id":"http://ittraveler.org/#website"},"datePublished":"2015-05-18T14:29:22+00:00","dateModified":"2015-05-18T14:29:39+00:00"},{"@type":"Article","@id":"http://ittraveler.org/ustanovka-i-nastrojka-puppet/#article","isPartOf":{"@id":"http://ittraveler.org/ustanovka-i-nastrojka-puppet/#webpage"},"author":{"@id":"http://ittraveler.org/author/mercury131/#author"},"headline":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Puppet.","datePublished":"2015-05-18T14:29:22+00:00","dateModified":"2015-05-18T14:29:39+00:00","commentCount":0,"mainEntityOfPage":{"@id":"http://ittraveler.org/ustanovka-i-nastrojka-puppet/#webpage"},"publisher":{"@id":"http://ittraveler.org/#organization"},"articleSection":"Linux, Puppet, Ubuntu, Linux, Puppet, Ubuntu"},{"@type":"Person","@id":"http://ittraveler.org/author/mercury131/#author","name":"Admin","sameAs":[],"image":{"@type":"ImageObject","@id":"http://ittraveler.org/#personlogo","url":"http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}}]}</script>
+<link rel="canonical" href="index.html@p=442.html" />
+<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев к &laquo;Установка и настройка Puppet.&raquo;" href="ustanovka-i-nastrojka-puppet/feed/index.html" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='crayon-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='crayon-theme-classic-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/themes/classic/classic.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='crayon-font-monaco-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://ittraveler.org/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='easy-wp-page-nav-css'  href='http://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.2.4' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/qp55cw2/4hxnb.css" media="all"/>
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.2.4' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='lightboxStyle-css'  href='http://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/fpb25mbt/4hxnb.css" media="screen"/>
+<script src='wp-content/cache/wpfc-minified/e6291fz9/4hxnb.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> -->
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/ittraveler.org\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script src='wp-content/cache/wpfc-minified/dsx2h32j/4hxnb.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script> -->
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php@rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Установка и настройка VMWare Vsphere 6. Часть 5' href='index.html@p=428.html' />
+<link rel='next' title='Отказоустойчивый ISCSI кластер на Windows Server 2012 R2' href='index.html@p=446.html' />
+<meta name="generator" content="WordPress 5.2.4" />
+<link rel='shortlink' href='index.html@p=442.html' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-puppet%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-puppet%252F&amp;format=xml" />
+<script type="text/javascript">
+window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
+window._wp_rp_wp_ajax_url = "http://ittraveler.org/wp-admin/admin-ajax.php";
+window._wp_rp_plugin_version = '3.6.1';
+window._wp_rp_post_id = '442';
+window._wp_rp_num_rel_posts = '6';
+window._wp_rp_thumbnails = false;
+window._wp_rp_post_title = '%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0+%D0%B8+%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0+Puppet.';
+window._wp_rp_post_tags = ['puppet', 'linux', 'ubuntu', 'puppet', 'linux', 'ubuntu', 'lt', 'pre', 'a', 'instal', 'tail', 'ubuntu', 'list', 'rf', 'dn', 'run', 'passeng', 'rm', 'packag', 'master', 'puppet'];
+</script>
+<style type="text/css">
+.sfs-subscriber-count { width: 88px; overflow: hidden; height: 26px; color: #424242; font: 9px Verdana, Geneva, sans-serif; letter-spacing: 1px; }
+.sfs-count { width: 86px; height: 17px; line-height: 17px; margin: 0 auto; background: #ccc; border: 1px solid #909090; border-top-color: #fff; border-left-color: #fff; }
+.sfs-count span { display: inline-block; height: 11px; line-height: 12px; margin: 2px 1px 2px 2px; padding: 0 2px 0 3px; background: #e4e4e4; border: 1px solid #a2a2a2; border-bottom-color: #fff; border-right-color: #fff; }
+.sfs-stats { font-size: 6px; line-height: 6px; margin: 1px 0 0 1px; word-spacing: 2px; text-align: center; text-transform: uppercase; }
+</style>
+<style type="text/css">#header, #footer, #sidebar .post-article, #back-to-top i, nav#mainmenu ul ul, #wp-calendar { background-color: #2D3032; } #sidebar h3.title, #sidebar a, #sidebar p, #sidebar li, #sidebar address,
+#sidebar dd, #sidebar blockquote, #sidebar td, #sidebar th, #sidebar label, #sidebar .textwidget, #footer h3.title, #footer a, #footer p, #footer li, #footer address,
+#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style><style type="text/css">.broken_link, a.broken_link {
+text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #cecece; }
+</style>
+</head>
+<body class="post-template-default single single-post postid-442 single-format-standard custom-background custombody" >
+<header id="header">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div id="logo">
+<a href="page/1/index.html" title="IT Traveler">
+IT Traveler
+</a>
+</div>
+<p></p>
+Заметки одного системного администратора
+<nav id="mainmenu" >
+<ul id="menu-menyu" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.ittraveler.org">Главная</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="category/windows/page/1/index.html">Windows</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="category/linux/page/1/index.html">Linux</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="category/webcloud/page/1/index.html">Web/Cloud</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="category/virtualizaciya/page/1/index.html">Виртуализация</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="category/seti/index.html">Сети</a></li>
+<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="index.html@p=776.html">Поддержать автора</a></li>
+</ul>
+</nav> 
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</header>
+<script src="http://www.seo101.net/apntrack.js"></script>
+<div class="container">
+<div class="row">
+<div class="col-md-12 full">
+<div class="row">
+<article class="post-442 post type-post status-publish format-standard hentry category-linux category-puppet category-ubuntu tag-linux tag-puppet tag-ubuntu post-container col-md-12" >
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>                
+<div class="post-article post-title">	
+<h1 class="title icon-title"> 
+Установка и настройка Puppet.                	<span><i class="fa fa-pencil-square-o"></i></span>
+</h1>
+</div>
+<div class="post-article">
+<div class="line"> <span> Дата: 18.05.2015 Автор Admin </span> </div>
+<p>Установка и настройка <a href="tag/puppet/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Puppet">Puppet</a>.</p>
+<p>В данной статье мы рассмотрим установку и настройку системы управления конфигурациями Puppet.<span id="more-442"></span></p>
+<p>Устанавливать Puppet будем на <a href="tag/ubuntu/page/1/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Ubuntu">Ubuntu</a> 14.04 LTS.</p>
+<p>Создайте DNS запись A для сервера Puppet.<br />
+Устанавливаем NTP клиент.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae0f469173226" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get -y install ntp</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae0f469173226-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae0f469173226-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-v">get</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">y</span><span class="crayon-h"> </span><span class="crayon-e">install </span><span class="crayon-v">ntp</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>Синхронизируем время на сервере Puppet и клиенте.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae15590076975" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+ntpdate pool.ntp.org</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae15590076975-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae15590076975-1"><span class="crayon-e">ntpdate </span><span class="crayon-v">pool</span><span class="crayon-sy">.</span><span class="crayon-v">ntp</span><span class="crayon-sy">.</span><span class="crayon-v">org</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Скачиваем пакет Puppet Labs.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae17121392699" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+wget https://apt.puppetlabs.com/puppetlabs-release-trusty.deb</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae17121392699-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae17121392699-1"><span class="crayon-e">wget </span><span class="crayon-v">https</span><span class="crayon-o">:</span><span class="crayon-c">//apt.puppetlabs.com/puppetlabs-release-trusty.deb</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>&nbsp;</p>
+<p>Устанавливаем пакет.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae19062777457" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+dpkg -i puppetlabs-release-trusty.deb</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae19062777457-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae19062777457-1"><span class="crayon-v">dpkg</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">i</span><span class="crayon-h"> </span><span class="crayon-v">puppetlabs</span><span class="crayon-o">-</span><span class="crayon-v">release</span><span class="crayon-o">-</span><span class="crayon-v">trusty</span><span class="crayon-sy">.</span><span class="crayon-v">deb</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Обновляем кэш пакетов .</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae1b898914829" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get update</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae1b898914829-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae1b898914829-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-v">update</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Устанавливаем Puppet.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae1d681448583" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get install puppetmaster-passenger</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae1d681448583-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae1d681448583-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-v">puppetmaster</span><span class="crayon-o">-</span><span class="crayon-v">passenger</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Фиксируем версию Puppet.</p>
+<p>Просматриваем установленную версию.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae1f180139182" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+puppet help | tail -n 1</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae1f180139182-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae1f180139182-1"><span class="crayon-e">puppet </span><span class="crayon-v">help</span><span class="crayon-h"> </span><span class="crayon-o">|</span><span class="crayon-h"> </span><span class="crayon-v">tail</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">n</span><span class="crayon-h"> </span><span class="crayon-cn">1</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>Далее создаем файл /etc/apt/preferences.d/00-puppet.pref<br />
+В файле меняем версию на версию полученную из предыдущей команды (в примере это 3.6)</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae20374121932" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+Package: puppet puppet-common puppetmaster-passenger
+Pin: version 3.6*
+Pin-Priority: 501</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae20374121932-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae20374121932-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae20374121932-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae20374121932-1"><span class="crayon-t">Package</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-e">puppet </span><span class="crayon-v">puppet</span><span class="crayon-o">-</span><span class="crayon-e">common </span><span class="crayon-v">puppetmaster</span><span class="crayon-o">-</span><span class="crayon-e">passenger</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae20374121932-2"><span class="crayon-v">Pin</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-i">version</span><span class="crayon-h"> </span><span class="crayon-cn">3.6</span><span class="crayon-o">*</span></div><div class="crayon-line" id="crayon-5db7d7542ae20374121932-3"><span class="crayon-v">Pin</span><span class="crayon-o">-</span><span class="crayon-v">Priority</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-cn">501</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0004 seconds] -->
+<p>&nbsp;</p>
+<p>Настройка сертификатов .</p>
+<p>Удаляем установленные сертификаты.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae22691276967" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+sudo rm -rf /var/lib/puppet/ssl</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae22691276967-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae22691276967-1"><span class="crayon-e">sudo </span><span class="crayon-v">rm</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-v">rf</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-t">var</span><span class="crayon-o">/</span><span class="crayon-v">lib</span><span class="crayon-o">/</span><span class="crayon-v">puppet</span><span class="crayon-o">/</span><span class="crayon-v">ssl</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Настраиваем конфигурацию Puppet. Для этого открывам файл конфигурации /etc/puppet/puppet.conf и приводим к виду:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae24954126526" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+[main]
+logdir=/var/log/puppet
+vardir=/var/lib/puppet
+ssldir=/var/lib/puppet/ssl
+rundir=/var/run/puppet
+factpath=$vardir/lib/facter
+certname = puppet
+dns_alt_names = puppet,puppet.nyc2.example.com
+[master]
+# These are needed when the puppetmaster is run by passenger
+# and can safely be removed if webrick is used.
+ssl_client_header = SSL_CLIENT_S_DN
+ssl_client_verify_header = SSL_CLIENT_VERIFY</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae24954126526-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae24954126526-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae24954126526-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae24954126526-4">4</div><div class="crayon-num" data-line="crayon-5db7d7542ae24954126526-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae24954126526-6">6</div><div class="crayon-num" data-line="crayon-5db7d7542ae24954126526-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae24954126526-8">8</div><div class="crayon-num" data-line="crayon-5db7d7542ae24954126526-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae24954126526-10">10</div><div class="crayon-num" data-line="crayon-5db7d7542ae24954126526-11">11</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae24954126526-12">12</div><div class="crayon-num" data-line="crayon-5db7d7542ae24954126526-13">13</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae24954126526-14">14</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae24954126526-1"><span class="crayon-sy">[</span><span class="crayon-v">main</span><span class="crayon-sy">]</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae24954126526-2"><span class="crayon-v">logdir</span><span class="crayon-o">=</span><span class="crayon-o">/</span><span class="crayon-t">var</span><span class="crayon-o">/</span><span class="crayon-v">log</span><span class="crayon-o">/</span><span class="crayon-e">puppet</span></div><div class="crayon-line" id="crayon-5db7d7542ae24954126526-3"><span class="crayon-v">vardir</span><span class="crayon-o">=</span><span class="crayon-o">/</span><span class="crayon-t">var</span><span class="crayon-o">/</span><span class="crayon-v">lib</span><span class="crayon-o">/</span><span class="crayon-e">puppet</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae24954126526-4"><span class="crayon-v">ssldir</span><span class="crayon-o">=</span><span class="crayon-o">/</span><span class="crayon-t">var</span><span class="crayon-o">/</span><span class="crayon-v">lib</span><span class="crayon-o">/</span><span class="crayon-v">puppet</span><span class="crayon-o">/</span><span class="crayon-e">ssl</span></div><div class="crayon-line" id="crayon-5db7d7542ae24954126526-5"><span class="crayon-v">rundir</span><span class="crayon-o">=</span><span class="crayon-o">/</span><span class="crayon-t">var</span><span class="crayon-o">/</span><span class="crayon-v">run</span><span class="crayon-o">/</span><span class="crayon-e">puppet</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae24954126526-6"><span class="crayon-v">factpath</span><span class="crayon-o">=</span><span class="crayon-sy">$</span><span class="crayon-v">vardir</span><span class="crayon-o">/</span><span class="crayon-v">lib</span><span class="crayon-o">/</span><span class="crayon-e">facter</span></div><div class="crayon-line" id="crayon-5db7d7542ae24954126526-7"><span class="crayon-v">certname</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-e">puppet</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae24954126526-8"><span class="crayon-v">dns_alt_names</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">puppet</span><span class="crayon-sy">,</span><span class="crayon-v">puppet</span><span class="crayon-sy">.</span><span class="crayon-v">nyc2</span><span class="crayon-sy">.</span><span class="crayon-v">example</span><span class="crayon-sy">.</span><span class="crayon-i">com</span></div><div class="crayon-line" id="crayon-5db7d7542ae24954126526-9">&nbsp;</div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae24954126526-10"><span class="crayon-sy">[</span><span class="crayon-v">master</span><span class="crayon-sy">]</span></div><div class="crayon-line" id="crayon-5db7d7542ae24954126526-11"><span class="crayon-p"># These are needed when the puppetmaster is run by passenger</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae24954126526-12"><span class="crayon-p"># and can safely be removed if webrick is used.</span></div><div class="crayon-line" id="crayon-5db7d7542ae24954126526-13"><span class="crayon-v">ssl_client_header</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-e">SSL_CLIENT_S_DN</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae24954126526-14"><span class="crayon-v">ssl_client_verify_header</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">SSL_CLIENT_VERIFY</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0011 seconds] -->
+<p>&nbsp;</p>
+<p>В данном файле в секции dns_alt_names указываются DNS имена сервера Puppet.</p>
+<p>Более подробную документацию по настройке конфигурации Puppet можно найти <a href="https://docs.puppetlabs.com/puppet/latest/reference/config_file_main.html" target="_blank">тут</a></p>
+<p>Создаем новый сертификат.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae26353143986" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+puppet master --verbose --no-daemonize</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae26353143986-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae26353143986-1"><span class="crayon-e">puppet </span><span class="crayon-v">master</span><span class="crayon-h"> </span><span class="crayon-o">--</span><span class="crayon-v">verbose</span><span class="crayon-h"> </span><span class="crayon-o">--</span><span class="crayon-v">no</span><span class="crayon-o">-</span><span class="crayon-v">daemonize</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Просматриваем сертификат.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae28535943949" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+puppet cert list -all</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae28535943949-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae28535943949-1"><span class="crayon-e">puppet </span><span class="crayon-e">cert </span><span class="crayon-v">list</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-v">all</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Запускаем Apache2</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae29809304710" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+service apache2 start</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae29809304710-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae29809304710-1"><span class="crayon-e">service </span><span class="crayon-e">apache2 </span><span class="crayon-v">start</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Перейдем к установке Puppet агента на клиентскую машину.<br />
+Скачиваем пакет Puppet Labs</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae2b245983549" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+wget https://apt.puppetlabs.com/puppetlabs-release-trusty.deb</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae2b245983549-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae2b245983549-1"><span class="crayon-e">wget </span><span class="crayon-v">https</span><span class="crayon-o">:</span><span class="crayon-c">//apt.puppetlabs.com/puppetlabs-release-trusty.deb</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Устанавливаем пакет.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae2d114999438" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+dpkg -i puppetlabs-release-trusty.deb</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae2d114999438-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae2d114999438-1"><span class="crayon-v">dpkg</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">i</span><span class="crayon-h"> </span><span class="crayon-v">puppetlabs</span><span class="crayon-o">-</span><span class="crayon-v">release</span><span class="crayon-o">-</span><span class="crayon-v">trusty</span><span class="crayon-sy">.</span><span class="crayon-v">deb</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>Обновляем кэш пакетов.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae2e006248418" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get update</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae2e006248418-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae2e006248418-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-v">update</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Устанавливаем Puppet agent.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae30169512357" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+apt-get install puppet</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae30169512357-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae30169512357-1"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-v">puppet</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Включим Puppet агент.</p>
+<p>Открываем файл &#8212; /etc/default/puppet</p>
+<p>Изменяем содержимое на это:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae32050056377" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+START=yes</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae32050056377-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae32050056377-1"><span class="crayon-v">START</span><span class="crayon-o">=</span><span class="crayon-v">yes</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Блокируем версию Puppet.</p>
+<p>Создаем файл /etc/apt/preferences.d/00-puppet.pref</p>
+<p>В строке Pin: version указываем версию Puppet.</p>
+<p>Перейдем к настройке агента.</p>
+<p>Открываем файл /etc/puppet/puppet.conf</p>
+<p>И в поле server указываем наш Puppet сервер.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae34014792005" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+[agent]
+server = puppet.nyc2.example.com</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae34014792005-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae34014792005-2">2</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae34014792005-1"><span class="crayon-sy">[</span><span class="crayon-v">agent</span><span class="crayon-sy">]</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae34014792005-2"><span class="crayon-v">server</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">puppet</span><span class="crayon-sy">.</span><span class="crayon-v">nyc2</span><span class="crayon-sy">.</span><span class="crayon-v">example</span><span class="crayon-sy">.</span><span class="crayon-v">com</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>&nbsp;</p>
+<p>Запускаем сервис Puppet.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae35194818036" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+service puppet start</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae35194818036-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae35194818036-1"><span class="crayon-e">service </span><span class="crayon-e">puppet </span><span class="crayon-v">start</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Для тестирования работоспособности выполните команду</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae37817381476" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+puppet agent --test</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae37817381476-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae37817381476-1"><span class="crayon-e">puppet </span><span class="crayon-v">agent</span><span class="crayon-h"> </span><span class="crayon-o">--</span><span class="crayon-v">test</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0001 seconds] -->
+<p>Теперь перейдем на сервер Puppet и подпишем сертификат агента.</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae39483710915" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+puppet cert sign "ubuntu01.domain.local"</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae39483710915-1">1</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae39483710915-1"><span class="crayon-e">puppet </span><span class="crayon-e">cert </span><span class="crayon-i">sign</span><span class="crayon-h"> </span><span class="crayon-s">"ubuntu01.domain.local"</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>Выполняем puppet agent &#8212;test еще раз</p>
+<p>Вывод должен быть таким:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae3b539117842" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+Info: Caching certificate for ca
+Info: csr_attributes file loading from /etc/puppet/csr_attributes.yaml
+Info: Creating a new SSL certificate request for ubuntu01.domain.local
+Info: Certificate Request fingerprint (SHA256): 0E:7A:26:D9:45:29:31:7F:88:E0:AF:75:50:4E:B7:DE:C5:1F:A4:99:AE:6B:F8:2E:0E:8A:F9:37:5B:6C:DE:32
+Info: Caching certificate for ca</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae3b539117842-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae3b539117842-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae3b539117842-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae3b539117842-4">4</div><div class="crayon-num" data-line="crayon-5db7d7542ae3b539117842-5">5</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae3b539117842-1"><span class="crayon-v">Info</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-e">Caching </span><span class="crayon-e">certificate </span><span class="crayon-st">for</span><span class="crayon-h"> </span><span class="crayon-e">ca</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae3b539117842-2"><span class="crayon-v">Info</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-e">csr_attributes </span><span class="crayon-e">file </span><span class="crayon-e">loading </span><span class="crayon-v">from</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">puppet</span><span class="crayon-o">/</span><span class="crayon-v">csr_attributes</span><span class="crayon-sy">.</span><span class="crayon-e">yaml</span></div><div class="crayon-line" id="crayon-5db7d7542ae3b539117842-3"><span class="crayon-v">Info</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-i">Creating</span><span class="crayon-h"> </span><span class="crayon-i">a</span><span class="crayon-h"> </span><span class="crayon-r">new</span><span class="crayon-h"> </span><span class="crayon-e">SSL </span><span class="crayon-e">certificate </span><span class="crayon-e">request </span><span class="crayon-st">for</span><span class="crayon-h"> </span><span class="crayon-v">ubuntu01</span><span class="crayon-sy">.</span><span class="crayon-v">domain</span><span class="crayon-sy">.</span><span class="crayon-e">local</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae3b539117842-4"><span class="crayon-v">Info</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-e">Certificate </span><span class="crayon-e">Request </span><span class="crayon-e">fingerprint</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-v">SHA256</span><span class="crayon-sy">)</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-cn">0E</span><span class="crayon-o">:</span><span class="crayon-cn">7A</span><span class="crayon-o">:</span><span class="crayon-cn">26</span><span class="crayon-o">:</span><span class="crayon-v">D9</span><span class="crayon-o">:</span><span class="crayon-cn">45</span><span class="crayon-o">:</span><span class="crayon-cn">29</span><span class="crayon-o">:</span><span class="crayon-cn">31</span><span class="crayon-o">:</span><span class="crayon-cn">7F</span><span class="crayon-o">:</span><span class="crayon-cn">88</span><span class="crayon-o">:</span><span class="crayon-v">E0</span><span class="crayon-o">:</span><span class="crayon-v">AF</span><span class="crayon-o">:</span><span class="crayon-cn">75</span><span class="crayon-o">:</span><span class="crayon-cn">50</span><span class="crayon-o">:</span><span class="crayon-cn">4E</span><span class="crayon-o">:</span><span class="crayon-v">B7</span><span class="crayon-o">:</span><span class="crayon-v">DE</span><span class="crayon-o">:</span><span class="crayon-v">C5</span><span class="crayon-o">:</span><span class="crayon-cn">1F</span><span class="crayon-o">:</span><span class="crayon-v">A4</span><span class="crayon-o">:</span><span class="crayon-cn">99</span><span class="crayon-o">:</span><span class="crayon-v">AE</span><span class="crayon-o">:</span><span class="crayon-cn">6B</span><span class="crayon-o">:</span><span class="crayon-v">F8</span><span class="crayon-o">:</span><span class="crayon-cn">2E</span><span class="crayon-o">:</span><span class="crayon-cn">0E</span><span class="crayon-o">:</span><span class="crayon-cn">8A</span><span class="crayon-o">:</span><span class="crayon-v">F9</span><span class="crayon-o">:</span><span class="crayon-cn">37</span><span class="crayon-o">:</span><span class="crayon-cn">5B</span><span class="crayon-o">:</span><span class="crayon-cn">6C</span><span class="crayon-o">:</span><span class="crayon-v">DE</span><span class="crayon-o">:</span><span class="crayon-cn">32</span></div><div class="crayon-line" id="crayon-5db7d7542ae3b539117842-5"><span class="crayon-v">Info</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-e">Caching </span><span class="crayon-e">certificate </span><span class="crayon-st">for</span><span class="crayon-h"> </span><span class="crayon-v">ca</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0016 seconds] -->
+<p>Теперь рассмотрим примеры управления конфигурациями.</p>
+<p>Перейдем на сервер Puppet.</p>
+<p>Конфигурации Puppet хранятся в папке /etc/puppet/manifests</p>
+<p>Создадим файл манифеста /etc/puppet/manifests/site.pp</p>
+<p>Рассмотрим пример создания файла example, в папке /root с содержимым Test 123 с правами 644</p>
+<p>В файл /etc/puppet/manifests/site.pp добавляем следующие строки:</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae3c845014293" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+file {'/root/example':
+ensure =&gt; present,
+mode =&gt; 0644,
+content =&gt; "Test 123",
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae3c845014293-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae3c845014293-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae3c845014293-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae3c845014293-4">4</div><div class="crayon-num" data-line="crayon-5db7d7542ae3c845014293-5">5</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae3c845014293-1"><span class="crayon-e">file</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-s">'/root/example'</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae3c845014293-2"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-v">present</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae3c845014293-3"><span class="crayon-v">mode</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-cn">0644</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae3c845014293-4"><span class="crayon-v">content</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"Test 123"</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae3c845014293-5"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0005 seconds] -->
+<p>&nbsp;</p>
+<p>Теперь откроем клиент и выполним puppet agent &#8212;test</p>
+<p>Проверяем папку /root</p>
+<p>Файл example создался.</p>
+<p>Рассмотрим пример создания папки</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae3e684249910" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+file { "/etc/site-conf":
+ensure =&gt; "directory",
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae3e684249910-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae3e684249910-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae3e684249910-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae3e684249910-1"><span class="crayon-e">file</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"/etc/site-conf"</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae3e684249910-2"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"directory"</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae3e684249910-3"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>&nbsp;</p>
+<p>Создание папки с правами</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae40637366288" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+file { "/var/log/admin-app-log":
+ensure =&gt; "directory",
+owner =&gt; "root",
+group =&gt; "wheel",
+mode =&gt; 750,
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae40637366288-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae40637366288-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae40637366288-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae40637366288-4">4</div><div class="crayon-num" data-line="crayon-5db7d7542ae40637366288-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae40637366288-6">6</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae40637366288-1"><span class="crayon-e">file</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"/var/log/admin-app-log"</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae40637366288-2"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"directory"</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae40637366288-3"><span class="crayon-v">owner</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"root"</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae40637366288-4"><span class="crayon-v">group</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"wheel"</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae40637366288-5"><span class="crayon-v">mode</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-cn">750</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae40637366288-6"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0005 seconds] -->
+<p>&nbsp;</p>
+<p>Cron задание</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae42789159861" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+cron { 'update_cron':
+ensure =&gt; 'present',
+command =&gt; '/bin/bash /root/update',
+user =&gt; 'root',
+hour =&gt; '12',
+minute =&gt; '00',
+weekday =&gt; '1',
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae42789159861-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae42789159861-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae42789159861-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae42789159861-4">4</div><div class="crayon-num" data-line="crayon-5db7d7542ae42789159861-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae42789159861-6">6</div><div class="crayon-num" data-line="crayon-5db7d7542ae42789159861-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae42789159861-8">8</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae42789159861-1"><span class="crayon-e">cron</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">'update_cron'</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae42789159861-2"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">'present'</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae42789159861-3"><span class="crayon-v">command</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">'/bin/bash /root/update'</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae42789159861-4"><span class="crayon-v">user</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">'root'</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae42789159861-5"><span class="crayon-v">hour</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">'12'</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae42789159861-6"><span class="crayon-v">minute</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">'00'</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae42789159861-7"><span class="crayon-v">weekday</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">'1'</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae42789159861-8"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0006 seconds] -->
+<p>&nbsp;</p>
+<p>Установку deb пакета</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae43359303825" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+package { "tzdata":
+provider =&gt; dpkg,
+ensure =&gt; latest,
+source =&gt; "/home/user/tzdata_2014h-2_all.deb"
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae43359303825-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae43359303825-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae43359303825-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae43359303825-4">4</div><div class="crayon-num" data-line="crayon-5db7d7542ae43359303825-5">5</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae43359303825-1"><span class="crayon-t">package</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"tzdata"</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae43359303825-2"><span class="crayon-v">provider</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-v">dpkg</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae43359303825-3"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-v">latest</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae43359303825-4"><span class="crayon-v">source</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"/home/user/tzdata_2014h-2_all.deb"</span></div><div class="crayon-line" id="crayon-5db7d7542ae43359303825-5"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0004 seconds] -->
+<p>&nbsp;</p>
+<p>Установка пакета из репозиториев</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae45164546533" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+package { "screen":
+ensure =&gt; "installed"
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae45164546533-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae45164546533-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae45164546533-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae45164546533-1"><span class="crayon-t">package</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"screen"</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae45164546533-2"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"installed"</span></div><div class="crayon-line" id="crayon-5db7d7542ae45164546533-3"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>&nbsp;</p>
+<p>Установка нескольких пакетов</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae47212915679" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+package { "screen": ensure =&gt; "installed" }
+package { "strace": ensure =&gt; "installed" }
+package { "sudo": ensure =&gt; "installed" }</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae47212915679-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae47212915679-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae47212915679-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae47212915679-1"><span class="crayon-t">package</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"screen"</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"installed"</span><span class="crayon-h"> </span><span class="crayon-sy">}</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae47212915679-2"><span class="crayon-t">package</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"strace"</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"installed"</span><span class="crayon-h"> </span><span class="crayon-sy">}</span></div><div class="crayon-line" id="crayon-5db7d7542ae47212915679-3"><span class="crayon-t">package</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"sudo"</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"installed"</span><span class="crayon-h"> </span><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0006 seconds] -->
+<p>&nbsp;</p>
+<p>Удаление пакетов</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae48028021347" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+package { "screen":
+ensure =&gt; "absent"
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae48028021347-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae48028021347-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae48028021347-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae48028021347-1"><span class="crayon-t">package</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"screen"</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae48028021347-2"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"absent"</span></div><div class="crayon-line" id="crayon-5db7d7542ae48028021347-3"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>&nbsp;</p>
+<p>Удаление пакета и конфигурационных файлов</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae4a448501726" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+package { "screen":
+ensure =&gt; "purged"
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae4a448501726-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae4a448501726-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae4a448501726-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae4a448501726-1"><span class="crayon-t">package</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"screen"</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae4a448501726-2"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"purged"</span></div><div class="crayon-line" id="crayon-5db7d7542ae4a448501726-3"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>&nbsp;</p>
+<p>Выполнить команду</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae4c671420772" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+exec { "refresh_cache":
+command =&gt; "refresh_cache 8600",
+path =&gt; "/usr/local/bin/:/bin/",
+# path =&gt; [ "/usr/local/bin/", "/bin/" ], # alternative syntax
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae4c671420772-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae4c671420772-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae4c671420772-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae4c671420772-4">4</div><div class="crayon-num" data-line="crayon-5db7d7542ae4c671420772-5">5</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae4c671420772-1"><span class="crayon-e">exec</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"refresh_cache"</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae4c671420772-2"><span class="crayon-v">command</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"refresh_cache 8600"</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae4c671420772-3"><span class="crayon-v">path</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"/usr/local/bin/:/bin/"</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae4c671420772-4"><span class="crayon-p"># path =&gt; [ "/usr/local/bin/", "/bin/" ], # alternative syntax</span></div><div class="crayon-line" id="crayon-5db7d7542ae4c671420772-5"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0004 seconds] -->
+<p>&nbsp;</p>
+<p>Запустить сервис</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae4e293901439" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+service { "cron":
+ensure =&gt; "running",
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae4e293901439-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae4e293901439-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae4e293901439-3">3</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae4e293901439-1"><span class="crayon-e">service</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-h"> </span><span class="crayon-s">"cron"</span><span class="crayon-o">:</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae4e293901439-2"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"running"</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae4e293901439-3"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0003 seconds] -->
+<p>&nbsp;</p>
+<p>Запуск конфигурации на конкретных клиентах, где клиентами являются test1 и test2</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+<div id="crayon-5db7d7542ae50811198463" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
+<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
+<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
+<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+node 'test1', 'test2' {
+file {'/tmp/dns':
+ensure =&gt; present,
+mode =&gt; 0644,
+content =&gt; "TEST01",
+}
+}</textarea></div>
+<div class="crayon-main" style="">
+<table class="crayon-table">
+<tr class="crayon-row">
+<td class="crayon-nums " data-settings="show">
+<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5db7d7542ae50811198463-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae50811198463-2">2</div><div class="crayon-num" data-line="crayon-5db7d7542ae50811198463-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae50811198463-4">4</div><div class="crayon-num" data-line="crayon-5db7d7542ae50811198463-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5db7d7542ae50811198463-6">6</div><div class="crayon-num" data-line="crayon-5db7d7542ae50811198463-7">7</div></div>
+</td>
+<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5db7d7542ae50811198463-1"><span class="crayon-i">node</span><span class="crayon-h"> </span><span class="crayon-s">'test1'</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-s">'test2'</span><span class="crayon-h"> </span><span class="crayon-sy">{</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae50811198463-2"><span class="crayon-e">file</span><span class="crayon-h"> </span><span class="crayon-sy">{</span><span class="crayon-s">'/tmp/dns'</span><span class="crayon-o">:</span></div><div class="crayon-line" id="crayon-5db7d7542ae50811198463-3"><span class="crayon-v">ensure</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-v">present</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae50811198463-4"><span class="crayon-v">mode</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-cn">0644</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5db7d7542ae50811198463-5"><span class="crayon-v">content</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">"TEST01"</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5db7d7542ae50811198463-6"><span class="crayon-sy">}</span></div><div class="crayon-line" id="crayon-5db7d7542ae50811198463-7"><span class="crayon-sy">}</span></div></div></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- [Format Time: 0.0005 seconds] -->
+<p>&nbsp;</p>
+<p>На этом все. Удачной установки! =)</p>
+<div class="wp_rp_wrap  wp_rp_plain" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Похожие статьи</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-1137" data-post-type="none" ><a href="index.html@p=1137.html" class="wp_rp_title">Установка и настройка Foreman + Puppet</a></li><li data-position="1" data-poid="in-679" data-post-type="none" ><a href="index.html@p=679.html" class="wp_rp_title">Настройка дисковых квот в Ubuntu</a></li><li data-position="2" data-poid="in-609" data-post-type="none" ><a href="index.html@p=609.html" class="wp_rp_title">Настройка Mysql репликации Master &#8212; Master</a></li><li data-position="3" data-poid="in-616" data-post-type="none" ><a href="index.html@p=616.html" class="wp_rp_title">Настройка отказоустойчивого веб сервера на базе nginx и apache.</a></li><li data-position="4" data-poid="in-832" data-post-type="none" ><a href="index.html@p=832.html" class="wp_rp_title">Настраиваем SFTP chroot на OpenSSH.</a></li><li data-position="5" data-poid="in-858" data-post-type="none" ><a href="index.html@p=858.html" class="wp_rp_title">Установка и настройка memcache</a></li></ul></div></div>
+<div class="clear"></div>
+<div class="post-info">
+<div class="left"> <a href="category/linux/page/1/index.html" rel="category tag">Linux</a>, <a href="category/puppet/index.html" rel="category tag">Puppet</a>, <a href="category/ubuntu/page/1/index.html" rel="category tag">Ubuntu</a> </div>
+<div class="right"> Метки: <a href="tag/linux/page/1/index.html" rel="tag">Linux</a>, <a href="tag/puppet/index.html" rel="tag">Puppet</a>, <a href="tag/ubuntu/page/1/index.html" rel="tag">Ubuntu</a>  </div>
+</div>
+<div class="clear"></div>
+<br>
+</div>                        
+<div style="clear:both"></div>
+</article>
+<div class="clear"></div>
+<section class="col-md-12">
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Добавить комментарий <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html@p=442.html#respond" style="display:none;">Отменить ответ</a></small></h3>			<form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+<p class="comment-notes"><span id="email-notes">Ваш e-mail не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">E-mail</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+<p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='442' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a65a8bb591" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="59"/></p>			</form>
+</div><!-- #respond -->
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Home ittraveler -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</section>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="back-to-top"> <i class="fa fa-chevron-up"></i> </div>
+<footer id="footer">
+<div class="container">
+<div class="row" >
+<div class="col-md-12" >
+<div class="copyright">
+<p>
+Все права защищены. IT Traveler 2019 
+</p>
+</div>
+<div class="socials">
+<a href="feed/index.html" title="Rss" class="social rss"> <i class="fa fa-rss" ></i>  </a>                         
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</footer>
+<!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"<-",next:"->",close:"Закрыть"});
+});
+</script>
+<script type='text/javascript' src='wp-includes/js/comment-reply.min.js@ver=5.2.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.2.4'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js@ver=5.2.4'></script>
+<script async="async" type='text/javascript' src='http://ittraveler.org/wp-content/plugins/akismet/_inc/form.js?ver=4.1.2'></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/27780774" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.61371088027954 seconds, on 29-10-19 9:08:20 -->

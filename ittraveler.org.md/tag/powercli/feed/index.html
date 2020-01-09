@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>powercli &#8212; IT Traveler</title>
+	<atom:link href="http://ittraveler.org/tag/powercli/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ittraveler.org</link>
+	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
+	<lastBuildDate>Wed, 22 Jun 2016 07:40:27 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>Выполняем команды внутри гостевых ОС через PowerCLI</title>
+		<link>http://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/</link>
+				<comments>http://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/#respond</comments>
+				<pubDate>Wed, 22 Jun 2016 07:38:24 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[PowerShell]]></category>
+		<category><![CDATA[Виртуализация]]></category>
+		<category><![CDATA[powercli]]></category>
+		<category><![CDATA[vsphere]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=750</guid>
+				<description><![CDATA[Порой нужно запустить скрипт на множестве VM, или выполнить одну и туже команду. Под катом я расскажу как выполнять команды внутри гостевых ОС через PowerCLI Поможет нам скрипт: [crayon-5dbfa92256250301964647/] Заполняем переменные: $vcenter &#8212; ваш vcenter сервер $csv &#8212; путь к файлу с параметрами Создайте CSV файл с параметрами, следующего вида: vcenteruser;vcenterpass;guestuser;guestpass;vm;vcenter user;your_pass;localOSuser;PASS;vm01;vcenter.test.local user;your_pass;localOSuser;PASS;vm02;vcenter.test.local user;your_pass;localOSuser;PASS;vm03;vcenter.test.local user;your_pass;localOSuser;PASS;vm04;vcenter.test.local]]></description>
+						<wfw:commentRss>http://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Vsphere. Поиск виртуальных машин с толстыми дисками</title>
+		<link>http://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/</link>
+				<comments>http://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/#respond</comments>
+				<pubDate>Mon, 23 May 2016 20:41:53 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+				<category><![CDATA[PowerShell]]></category>
+		<category><![CDATA[Виртуализация]]></category>
+		<category><![CDATA[powercli]]></category>
+		<category><![CDATA[Powershell]]></category>
+		<category><![CDATA[vmware]]></category>
+
+		<guid isPermaLink="false">http://ittraveler.org/?p=737</guid>
+				<description><![CDATA[Иногда, требуется найти на датасторе виртуальные машины с толстыми дисками. Это не вызывает проблем, если виртуальных машин немного, но если их тысяча? Под катом я покажу как через PowerCLI найти машины с толстыми дисками. В решении данной задачи нам поможет следующий скрипт: [crayon-5dbfa922576ee757138051/] Заполняем переменные: $vcenter &#8212; ваш сервер vcenter $datastore &#8212; ваш датастор Вывод]]></description>
+						<wfw:commentRss>http://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
