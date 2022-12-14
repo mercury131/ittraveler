@@ -83,3 +83,332 @@
 Теперь можно подключиться к VCENTER через браузер.
 После перехода по ссылке и авторизации, вы попадете в интерфейс Vcenter.
 В следующей статье мы рассмотрим базовую настройку Vcenter и хостов ESXI.
+Related posts:LVM переезд с диска на диск в виртуальной среде.Установка и настройка VMWare Vsphere 6. Часть 5Установка и настройка Citrix XenServer Часть 3.
+        
+             Виртуализация 
+             Метки: vmware, vsphere  
+        
+            
+        
+    
+
+
+
+                        
+                    
+                    
+                
+        
+                
+	
+    	
+        
+        	Комментарии
+        
+		
+		 
+    
+    
+        
+                    
+         
+        
+            
+            
+                
+                Fenomen51
+                  
+                16.07.2016 в 19:27 - 
+                Ответить                                
+                
+            
+    
+                      
+            Имеет смысл написать, чем Platform Services Controller от vCenter отличается вообще и что делают, прежде чем их устанавливать. Оф. сайтом занимаются явно маркетологи &#8212; не для людей, то ли после перевода становится ни фига не понятно, если уже до чтения не знал. Мысль, что что-то из этого ни фига не обязательно держать постоянно включенным на серваке, а можно установить на десктопе и иногда включать, дабы обновиться, проверить, бекапнуть и тп.
+          
+        
+        
+        
+
+
+    
+    
+
+ 
+    
+    
+        
+                    
+         
+        
+            
+            
+                
+                Admin
+                  
+                24.04.2017 в 12:16 - 
+                Ответить                                
+                
+            
+    
+                      
+            PSC используется для аутентификации пользователей, его нужно выносить отдельно если вы планируете поднять несколько разных Vcenter, но хотите иметь на них сквозную авторизацию и linked mode. Это удобно когда у вас в консоли Vsphere видно 2 Vcenter и не нужно переподключаться к консоли для работы с ними.
+Vcenter &#8212; это сердце Vsphere, это управляющий сервер, который отвечает за всю работу с серверами ESXI.
+          
+        
+        
+        
+
+
+    
+    
+
+ 
+    
+    
+        
+                    
+         
+        
+            
+            
+                
+                Александр
+                  
+                25.11.2016 в 11:37 - 
+                Ответить                                
+                
+            
+    
+                      
+            Извините за, возможно, глупый вопросКуда ставить PSC и VMware-ClientIntegrationPlugin-6.0.0.exe?
+ESXI поставил на голое железо.
+          
+        
+        
+        
+
+
+    
+    
+
+ 
+    
+    
+        
+                    
+         
+        
+            
+            
+                
+                Admin
+                  
+                24.04.2017 в 11:58 - 
+                Ответить                                
+                
+            
+    
+                      
+            PSC можно установить отдельно или интегрированный с Vcenter, эти аплаенсы разворачиваются на хост ESXI. Плагины интеграции ставятся на вашу локальную машину, это плагины для браузера.
+          
+        
+        
+        
+
+
+    
+    
+
+ 
+    
+    
+        
+                    
+         
+        
+            
+            
+                
+                Bukas
+                  
+                30.11.2016 в 15:52 - 
+                Ответить                                
+                
+            
+    
+                      
+            После перехода по ссылке в последнем шаге Chrome выдал ошибку
+&#171;Не удается получить доступ к сайту
+Сайт 10.0.0.39 не позволяет установить соединение.&#187;
+          
+        
+        
+        
+
+
+    
+    
+
+ 
+    
+    
+        
+                    
+         
+        
+            
+            
+                
+                Admin
+                  
+                24.04.2017 в 11:57 - 
+                Ответить                                
+                
+            
+    
+                      
+            Возможно вы где-то допустили ошибку при настройке Vcenter, например виртуальная машина с ним не запущена.
+          
+        
+        
+        
+
+
+    
+    
+
+	
+    
+
+
+
+
+
+
+
+
+	
+		
+		Добавить комментарий для Admin Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Email 
+Сайт 
+ 
+&#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+	
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto">
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+			
+        
+        
+
+		
+
+        
+
+           
+    
+    
+
+
+  
+
+
+	
+    
+
+		
+        
+             
+			
+
+                
+
+                    
+                                                  Все права защищены. IT Traveler 2022 
+                         
+                        
+																														                    
+                    
+
+				
+                
+                
+    
+			
+		                            
+	
+
+	
+                
+                
+			
+                
+		
+        
+	
+    
+
+
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+});
+  
+
+
+
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+
+
+
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');
+
+
+
+
+
+

@@ -374,3 +374,69 @@ ln -s /usr/share/foreman-installer/modules/foreman /opt/puppetlabs/puppet/module
 Сообщество puppet где можно задавать вопросы https://puppet.com/community
 Сообщество foreman где можно задавать вопросы https://community.theforeman.org
 Надеюсь моя статья была для вас полезной, удачной установки! =)
+Related posts:Настройка ZFS в ProxmoxУстановка и настройка веб сервера Apache 2Создание шаблонов Zabbix для Windows.
+ Bash, Debian, Linux, Puppet, Ubuntu, Web/Cloud 
+ Метки: Foreman, Linux, Puppet  
+                        
+Комментарии
+        
+Роман
+  
+07.08.2018 в 06:56 - 
+Ответить                                
+Правильно ли я понимаю что управлять конфигами можно только для известного ПО. А если это самописное ПО?
+        
+Admin
+  
+07.08.2018 в 16:08 - 
+Ответить                                
+Смотря как ваше ПО работает.
+Если оно управляется конфигами, то можно доставлять на puppet агенты файлы с конфигурацией или править существующие файлы, вот тут неплохо это описано &#8212; https://doauto.blog/2013/06/22/how-to-change-a-file-using-puppet/
+Если ПО под линукс то можно ставить пакеты &#8212; вот пример как это делается https://serverfault.com/questions/188632/how-to-update-a-package-using-puppet-and-a-deb-file
+Также можно добавить репозиторий, если у вашего ПО свой репозиторий, вот пример https://puppet.com/blog/module-of-week-puppetlabs-apt-pull-apt-strings-puppet
+Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Email 
+Сайт 
+ 
+&#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
+(adsbygoogle = window.adsbygoogle || []).push({});
+  
+Все права защищены. IT Traveler 2022 
+                            
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+});
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');

@@ -8,23 +8,24 @@
 	>
 
 <channel>
-	<title>веб сервера &#8212; IT Traveler</title>
+	<title>веб сервера | IT Traveler</title>
 	<atom:link href="http://ittraveler.org/tag/veb-servera/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ittraveler.org</link>
 	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
-	<lastBuildDate>Mon, 12 Jun 2017 16:53:36 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Apr 2020 15:32:04 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 	<item>
 		<title>Настройка отказоустойчивого веб сервера на базе nginx и apache.</title>
 		<link>http://ittraveler.org/nastrojka-otkazoustojchivogo-veb-servera-na-baze-nginx-i-apache/</link>
-				<comments>http://ittraveler.org/nastrojka-otkazoustojchivogo-veb-servera-na-baze-nginx-i-apache/#comments</comments>
-				<pubDate>Tue, 23 Jun 2015 14:01:18 +0000</pubDate>
+					<comments>http://ittraveler.org/nastrojka-otkazoustojchivogo-veb-servera-na-baze-nginx-i-apache/#comments</comments>
+		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2015 17:01:18 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Ubuntu]]></category>
 		<category><![CDATA[Web]]></category>
@@ -32,18 +33,23 @@
 		<category><![CDATA[Apache2]]></category>
 		<category><![CDATA[Nginx]]></category>
 		<category><![CDATA[веб сервера]]></category>
-
 		<guid isPermaLink="false">http://ittraveler.org/?p=616</guid>
-				<description><![CDATA[Рассмотрим настройку отказоустойчивых веб серверов. В данном примере мы будем использовать nginx для балансировки нагрузки, а связку nginx + apache будем использовать как веб сервера. Теперь рассмотрим данную реализацию подробнее. Мы можем использовать две схемы отказоустойчивости, это схема 1: В данной схеме точкой отказа является балансировщик, но если вы не располагаете большим количеством серверов, данная схема]]></description>
-						<wfw:commentRss>http://ittraveler.org/nastrojka-otkazoustojchivogo-veb-servera-na-baze-nginx-i-apache/feed/</wfw:commentRss>
-		<slash:comments>10</slash:comments>
-							</item>
+
+					<description><![CDATA[<p>Рассмотрим настройку отказоустойчивых веб серверов. В данном примере мы будем использовать nginx для балансировки нагрузки, а связку nginx + apache будем использовать как веб сервера. Теперь рассмотрим данную реализацию подробнее. Мы можем использовать две схемы отказоустойчивости, это схема 1: В данной схеме точкой отказа является балансировщик, но если вы не располагаете большим количеством серверов, данная схема</p>
+The post <a href="http://ittraveler.org/nastrojka-otkazoustojchivogo-veb-servera-na-baze-nginx-i-apache/">Настройка отказоустойчивого веб сервера на базе nginx и apache.</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+		
+					<wfw:commentRss>http://ittraveler.org/nastrojka-otkazoustojchivogo-veb-servera-na-baze-nginx-i-apache/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Настройка связки веб серверов Nginx + Apache</title>
 		<link>http://ittraveler.org/nastrojka-svyazki-veb-serverov-nginx-apache/</link>
-				<comments>http://ittraveler.org/nastrojka-svyazki-veb-serverov-nginx-apache/#respond</comments>
-				<pubDate>Fri, 19 Jun 2015 13:56:48 +0000</pubDate>
+					<comments>http://ittraveler.org/nastrojka-svyazki-veb-serverov-nginx-apache/#respond</comments>
+		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2015 16:56:48 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Ubuntu]]></category>
 		<category><![CDATA[Web]]></category>
@@ -51,47 +57,61 @@
 		<category><![CDATA[Apache2]]></category>
 		<category><![CDATA[Nginx]]></category>
 		<category><![CDATA[веб сервера]]></category>
-
 		<guid isPermaLink="false">http://ittraveler.org/?p=605</guid>
-				<description><![CDATA[В данной связке мы будем использовать 2 веб сервера, nginx будет обрабатывать статический контент, а динамический передавать Apache. Обновим все пакеты: [crayon-5dbecf712168b557240120/] [crayon-5dbecf7121691471870720/] Удалим кэш пакетов и ненужные пакеты: [crayon-5dbecf7121693639774224/] [crayon-5dbecf7121695401718853/] [crayon-5dbecf7121697150794432/] Установим часовой пояс. [crayon-5dbecf7121699675975369/] Установим NTP. [crayon-5dbecf712169b351314587/] Установим Openssh сервер (если он не установлен). [crayon-5dbecf712169d753353983/] Устанавливаем веб сервер Apache2. [crayon-5dbecf712169e304784137/] Устанавливаем PHP. [crayon-5dbecf71216a0808413646/]]]></description>
-						<wfw:commentRss>http://ittraveler.org/nastrojka-svyazki-veb-serverov-nginx-apache/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+
+					<description><![CDATA[<p>В данной связке мы будем использовать 2 веб сервера, nginx будет обрабатывать статический контент, а динамический передавать Apache. Обновим все пакеты: [crayon-61f43e1f450e0472404468/] [crayon-61f43e1f450e5287334582/] Удалим кэш пакетов и ненужные пакеты: [crayon-61f43e1f450e7188596425/] [crayon-61f43e1f450e9314052720/] [crayon-61f43e1f450eb292927227/] Установим часовой пояс. [crayon-61f43e1f450ed584909590/] Установим NTP. [crayon-61f43e1f450ef324138212/] Установим Openssh сервер (если он не установлен). [crayon-61f43e1f450f1913653154/] Устанавливаем веб сервер Apache2. [crayon-61f43e1f450f2996087489/] Устанавливаем PHP. [crayon-61f43e1f450f4398131692/]</p>
+The post <a href="http://ittraveler.org/nastrojka-svyazki-veb-serverov-nginx-apache/">Настройка связки веб серверов Nginx + Apache</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+		
+					<wfw:commentRss>http://ittraveler.org/nastrojka-svyazki-veb-serverov-nginx-apache/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Установка и настройка веб сервера Nginx</title>
 		<link>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-nginx/</link>
-				<comments>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-nginx/#respond</comments>
-				<pubDate>Wed, 17 Jun 2015 14:20:35 +0000</pubDate>
+					<comments>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-nginx/#respond</comments>
+		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2015 17:20:35 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Ubuntu]]></category>
 		<category><![CDATA[Web]]></category>
 		<category><![CDATA[Web/Cloud]]></category>
 		<category><![CDATA[Nginx]]></category>
 		<category><![CDATA[веб сервера]]></category>
-
 		<guid isPermaLink="false">http://ittraveler.org/?p=597</guid>
-				<description><![CDATA[Рассмотрим установку веб сервера Nginx, ssl, и настройку сайтов. Обновим все пакеты: [crayon-5dbecf712246e570093947/] [crayon-5dbecf7122474628039794/] Удалим кэш пакетов и ненужные пакеты: [crayon-5dbecf7122476158785827/] [crayon-5dbecf7122478645468612/] [crayon-5dbecf712247a981562065/] Установим часовой пояс. [crayon-5dbecf712247b107773019/] Установим NTP. [crayon-5dbecf712247d831065262/] Установим Openssh сервер (если он не установлен). [crayon-5dbecf712247f312501591/] Устанавливаем веб сервер Nginx. [crayon-5dbecf7122481004485424/] Устанавливаем Mysql сервер. [crayon-5dbecf7122483182137063/] Настраиваем безопасность Mysql. [crayon-5dbecf7122484400153921/] Устанавливаем PHP. [crayon-5dbecf7122486050009467/] Устанавливаем]]></description>
-						<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-nginx/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+
+					<description><![CDATA[<p>Рассмотрим установку веб сервера Nginx, ssl, и настройку сайтов. Обновим все пакеты: [crayon-61f43e1f45bb0732442661/] [crayon-61f43e1f45bb5848876752/] Удалим кэш пакетов и ненужные пакеты: [crayon-61f43e1f45bb7731794388/] [crayon-61f43e1f45bb9747892246/] [crayon-61f43e1f45bbb954799367/] Установим часовой пояс. [crayon-61f43e1f45bbc721321879/] Установим NTP. [crayon-61f43e1f45bbe870699166/] Установим Openssh сервер (если он не установлен). [crayon-61f43e1f45bc0490138380/] Устанавливаем веб сервер Nginx. [crayon-61f43e1f45bc2249239789/] Устанавливаем Mysql сервер. [crayon-61f43e1f45bc4466967792/] Настраиваем безопасность Mysql. [crayon-61f43e1f45bc5300801059/] Устанавливаем PHP. [crayon-61f43e1f45bc7248771652/] Устанавливаем</p>
+The post <a href="http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-nginx/">Установка и настройка веб сервера Nginx</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+		
+					<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-nginx/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 		<item>
 		<title>Установка и настройка веб сервера Apache 2</title>
 		<link>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-apache-2/</link>
-				<comments>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-apache-2/#respond</comments>
-				<pubDate>Tue, 16 Jun 2015 14:38:04 +0000</pubDate>
+					<comments>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-apache-2/#respond</comments>
+		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 16 Jun 2015 17:38:04 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Ubuntu]]></category>
 		<category><![CDATA[Web]]></category>
 		<category><![CDATA[Web/Cloud]]></category>
 		<category><![CDATA[Apache2]]></category>
 		<category><![CDATA[веб сервера]]></category>
-
 		<guid isPermaLink="false">http://ittraveler.org/?p=591</guid>
-				<description><![CDATA[В данной статье мы рассмотрим установку и настройку веб сервера Apache 2 на Ubuntu server 14.04 LTS. Также будет рассмотрена настройка сайтов на 80 и 443 портах и создание ssl сертификатов. Перейдем к установке веб сервера. Обновим все пакеты: [crayon-5dbecf7122eb3236749182/] [crayon-5dbecf7122eb8230351568/] Удалим кэш пакетов и ненужные пакеты: [crayon-5dbecf7122eba412648271/] [crayon-5dbecf7122ebc282872146/] [crayon-5dbecf7122ebe665930169/] Установим часовой пояс. [crayon-5dbecf7122ec0845630783/] Установим]]></description>
-						<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-apache-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
+
+					<description><![CDATA[<p>В данной статье мы рассмотрим установку и настройку веб сервера Apache 2 на Ubuntu server 14.04 LTS. Также будет рассмотрена настройка сайтов на 80 и 443 портах и создание ssl сертификатов. Перейдем к установке веб сервера. Обновим все пакеты: [crayon-61f43e1f4644e995909267/] [crayon-61f43e1f46453469463987/] Удалим кэш пакетов и ненужные пакеты: [crayon-61f43e1f46455904125655/] [crayon-61f43e1f46457438603774/] [crayon-61f43e1f46458776688214/] Установим часовой пояс. [crayon-61f43e1f4645a803829973/] Установим</p>
+The post <a href="http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-apache-2/">Установка и настройка веб сервера Apache 2</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+		
+					<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-veb-servera-apache-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

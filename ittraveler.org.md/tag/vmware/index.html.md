@@ -43,7 +43,7 @@
  24.04.2015 
  Виртуализация 
         
-Архивы		
+Архивы
 Октябрь 2019
 Сентябрь 2019
 Июнь 2019
@@ -67,7 +67,7 @@
 Январь 2015
 Декабрь 2014
 Календарь
-Ноябрь 2019
+Январь 2022
 Пн
 Вт
 Ср
@@ -75,12 +75,12 @@
 Пт
 Сб
 Вс
+&nbsp;12
+&nbsp;
 &laquo; Окт
 &nbsp;
 &nbsp;
-&nbsp;123
-&nbsp;
-Рубрики		
+Рубрики
 Active Directory
 Asterisk
 Bash
@@ -103,7 +103,7 @@ Windows Server
 Сети
                  
   
-Все права защищены. IT Traveler 2019 
+Все права защищены. IT Traveler 2022 
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});

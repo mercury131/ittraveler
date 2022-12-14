@@ -97,3 +97,100 @@ EXT хранилище создано!
 Удачной установки! =)
 &nbsp;
 &nbsp;
+Related posts:Установка и настройка VMWare Vsphere 6. Часть 2Vsphere. Поиск виртуальных машин с толстыми дискамиKVM восстановление qcow2 диска
+ Виртуализация 
+ Метки: XenServer, Виртуализация  
+                        
+Комментарии
+        
+Андрей.
+  
+19.06.2016 в 00:18 - 
+Ответить                                
+Приветствую автора.
+Интересно было бы увидеть настройку по поводу повышения отказоустойчивости Xen Server.  Касаемо  настройки кластера из двух физических серверов с Xen Server.
+А так же как прикручивать к Xen Server мониторинг raid  если имеется в самом железе в  сервере аппаратный контроллер.
+        
+Admin
+  
+24.04.2017 в 12:19 - 
+Ответить                                
+Новая версия Xenserver вроде умеет мониторить железо сервера, в самом XenCenter можно настроить нотификации.
+По поводу отказоустийчивости есть статья про настройку HA на Xenserver http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-2/
+        
+Андрей
+  
+04.07.2018 в 15:55 - 
+Ответить                                
+Добрый день, а где третья часть 1,2,4 ?
+        
+Admin
+  
+04.07.2018 в 18:10 - 
+Ответить                                
+Третья часть тут http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-3/ 
+        
+Михаил
+  
+27.02.2019 в 11:29 - 
+Ответить                                
+Добрый день
+А можно ли примонтировать диск с имеющейся файлофой системой(к примеру ntfs)
+и подключить его к виртуальной машине?
+Спасибо
+        
+Admin
+  
+05.03.2019 в 10:52 - 
+Ответить                                
+Насколько я помню, CItrixXen поддерживает проброс внешних usb дисков, с этим проблем нет.
+Если нужно целиком пробросить весь диск, то из коробки (через Citrix xen center) такой сценарий не поддерживается.
+Но вообще с помощью консоли, люди пробрасывают диски в виртуальные машины, вот несколько топиков, попробуйте:
+https://discussions.citrix.com/topic/372192-sata-pass-through/
+https://discussions.citrix.com/topic/378709-xenserver-7-sata-passthrough-to-vm/
+Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Email 
+Сайт 
+ 
+&#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
+(adsbygoogle = window.adsbygoogle || []).push({});
+  
+Все права защищены. IT Traveler 2022 
+                            
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+});
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');

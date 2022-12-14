@@ -314,3 +314,91 @@ service amavis restart
 service amavis restart
 На этом все!
 Удачной установки =)
+Related posts:Настройка Mysql репликации Master - MasterНастройка ZFS в ProxmoxСоздание шаблонов Zabbix для Windows.
+ Exchange, Linux, Web/Cloud 
+ Метки: Antispam, Linux, Postfix, Ubuntu  
+                        
+Комментарии
+        
+Dobrumir
+  
+22.07.2015 в 22:20 - 
+Ответить                                
+Прокомментируйте пожалуйста как на backend (M$ exchange 2013) почта пойдет?
+Или backend сам должен подключаться и запрашивать почту?
+Подойдет ли _http://firstvds.ru/products/vds_vps_cheap в качестве frontend?
+Смысл затеи уменьшить входящий почтовый трафик, профильтровав его еще в интернет, и потом уже отправлять на белый ip который выдал sat провайдер.
+Ткните пожалуйста пальцем.
+        
+Admin
+  
+23.07.2015 в 13:21 - 
+Ответить                                
+Добрый день! 
+На Backend почта пойдет по правилу транспорта postfix, за это отвечает файл /etc/postfix/transport
+Со стороны Exchange должен быть настроен relay для получения почты от внешних отправителей.
+В данной связке Postfix после проверки почты на спам, отправляет ее на backend (который указывается в транспортном правиле)
+Смысл затеи в том, что Postfix выступает как frontend, и получает всю входящую почту с вашего белого ip. 
+Такая связка будет работать так:
+Клиент -> Интернет -> Firewall -> Postfix -> Exchange
+Как я понимаю вы хотите держать Postfix не во внутренней сети а во внешней, в таком случае вам нужно 2 белых ip, один для postfix другой для exchange.
+Но мне кажется лучше держать postfix во внутренней сети (в DMZ например) и иметь 1 белый ip.
+        
+George
+  
+01.09.2015 в 18:34 - 
+Ответить                                
+Thanks
+Good post!
+        
+Admin
+  
+02.09.2015 в 11:13 - 
+Ответить                                
+You are welcome!
+Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Email 
+Сайт 
+ 
+&#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
+(adsbygoogle = window.adsbygoogle || []).push({});
+  
+Все права защищены. IT Traveler 2022 
+                            
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+});
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');

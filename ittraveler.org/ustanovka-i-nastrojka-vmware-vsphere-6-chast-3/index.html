@@ -1,30 +1,46 @@
 <!DOCTYPE html>
-<html lang="ru-RU">
+<html lang="ru-RU"
+prefix="og: https://ogp.me/ns#" >
 <head>
 <meta charset="UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="shortcut icon" href="../favicon.png"/>
-<title>Установка и настройка VMWare Vsphere 6. Часть 3 | IT Traveler</title>
 <link rel="stylesheet" href="http://ittraveler.org/wp-content/themes/diarjo-lite/style.css" media="screen" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
 <!--[if IE 8]>
 <script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/html5.js" type="text/javascript"></script>
 <script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/selectivizr-min.js" type="text/javascript"></script>
 <![endif]-->
-<!-- All in One SEO Pack 3.2.7 от Michael Torbert из Semper Fi Web Design[225,293] -->
-<meta name="description"  content="В данной статье мы рассмотрим настройку кластера HA, DRS в Vsphere6. Открываем Vcenter web client, переходим в раздел Hosts and clusters. Выбираем пункт &quot;New" />
-<meta name="keywords"  content="vsphere 6 настройка ha,vsphere 6 настройка drs,vsphere 6 ha,vsphere 6 drs,vsphere 6 настройка evc,vsphere 6 evc,drs,ha,vmware,vsphere" />
-<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://ittraveler.org/#organization","url":"http://ittraveler.org/","name":"IT Traveler","sameAs":[]},{"@type":"WebSite","@id":"http://ittraveler.org/#website","url":"http://ittraveler.org/","name":"IT Traveler","publisher":{"@id":"http://ittraveler.org/#organization"}},{"@type":"WebPage","@id":"http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3/#webpage","url":"http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3/","inLanguage":"ru-RU","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 VMWare Vsphere 6. \u0427\u0430\u0441\u0442\u044c 3","isPartOf":{"@id":"http://ittraveler.org/#website"},"datePublished":"2015-05-12T14:53:17+00:00","dateModified":"2017-06-08T13:01:31+00:00"},{"@type":"Article","@id":"http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3/#article","isPartOf":{"@id":"http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3/#webpage"},"author":{"@id":"http://ittraveler.org/author/mercury131/#author"},"headline":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 VMWare Vsphere 6. \u0427\u0430\u0441\u0442\u044c 3","datePublished":"2015-05-12T14:53:17+00:00","dateModified":"2017-06-08T13:01:31+00:00","commentCount":0,"mainEntityOfPage":{"@id":"http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3/#webpage"},"publisher":{"@id":"http://ittraveler.org/#organization"},"articleSection":"\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f, DRS, HA, vmware, vsphere"},{"@type":"Person","@id":"http://ittraveler.org/author/mercury131/#author","name":"Admin","sameAs":[],"image":{"@type":"ImageObject","@id":"http://ittraveler.org/#personlogo","url":"http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}}]}</script>
+<!-- All in One SEO 4.1.6.2 -->
+<title>Установка и настройка VMWare Vsphere 6. Часть 3 | IT Traveler</title>
+<meta name="description" content="В данной статье мы рассмотрим настройку кластера HA, DRS в Vsphere6. Открываем Vcenter web client, переходим в раздел Hosts and clusters. Выбираем пункт «New cluster» Вводим имя кластера и нажимаем Ok. Далее перемещаем хосты в кластер Выбираем хосты и жмем Ok. Рассмотрим пример включения HA. Выбираем кластер. Переходим в раздел" />
+<meta name="robots" content="max-image-preview:large" />
+<meta name="keywords" content="drs,ha,vmware,vsphere" />
 <link rel="canonical" href="../index.html@p=415.html" />
-<!-- All in One SEO Pack -->
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:site_name" content="IT Traveler | Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом..." />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Установка и настройка VMWare Vsphere 6. Часть 3 | IT Traveler" />
+<meta property="og:description" content="В данной статье мы рассмотрим настройку кластера HA, DRS в Vsphere6. Открываем Vcenter web client, переходим в раздел Hosts and clusters. Выбираем пункт «New cluster» Вводим имя кластера и нажимаем Ok. Далее перемещаем хосты в кластер Выбираем хосты и жмем Ok. Рассмотрим пример включения HA. Выбираем кластер. Переходим в раздел" />
+<meta property="og:url" content="http://ittraveler.org/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3/" />
+<meta property="article:published_time" content="2015-05-12T14:53:17+00:00" />
+<meta property="article:modified_time" content="2017-06-08T13:01:31+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Установка и настройка VMWare Vsphere 6. Часть 3 | IT Traveler" />
+<meta name="twitter:description" content="В данной статье мы рассмотрим настройку кластера HA, DRS в Vsphere6. Открываем Vcenter web client, переходим в раздел Hosts and clusters. Выбираем пункт «New cluster» Вводим имя кластера и нажимаем Ok. Далее перемещаем хосты в кластер Выбираем хосты и жмем Ok. Рассмотрим пример включения HA. Выбираем кластер. Переходим в раздел" />
+<meta name="google" content="nositelinkssearchbox" />
+<script type="application/ld+json" class="aioseo-schema">
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"http:\/\/ittraveler.org\/#website","url":"http:\/\/ittraveler.org\/","name":"IT Traveler","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","inLanguage":"ru-RU","publisher":{"@id":"http:\/\/ittraveler.org\/#organization"}},{"@type":"Organization","@id":"http:\/\/ittraveler.org\/#organization","name":"IT Traveler","url":"http:\/\/ittraveler.org\/"},{"@type":"BreadcrumbList","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/#listItem","position":1,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","url":"http:\/\/ittraveler.org\/"},"nextItem":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/#listItem"},{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/#listItem","position":2,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 VMWare Vsphere 6. \u0427\u0430\u0441\u0442\u044c 3","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u043a\u043b\u0430\u0441\u0442\u0435\u0440\u0430 HA, DRS \u0432 Vsphere6. \u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u043c Vcenter web client, \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u043c \u0432 \u0440\u0430\u0437\u0434\u0435\u043b Hosts and clusters. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u043f\u0443\u043d\u043a\u0442 \u00abNew cluster\u00bb \u0412\u0432\u043e\u0434\u0438\u043c \u0438\u043c\u044f \u043a\u043b\u0430\u0441\u0442\u0435\u0440\u0430 \u0438 \u043d\u0430\u0436\u0438\u043c\u0430\u0435\u043c Ok. \u0414\u0430\u043b\u0435\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u0435\u043c \u0445\u043e\u0441\u0442\u044b \u0432 \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0445\u043e\u0441\u0442\u044b \u0438 \u0436\u043c\u0435\u043c Ok. \u0420\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u043f\u0440\u0438\u043c\u0435\u0440 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f HA. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u043a\u043b\u0430\u0441\u0442\u0435\u0440. \u041f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u043c \u0432 \u0440\u0430\u0437\u0434\u0435\u043b","url":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/"},"previousItem":"http:\/\/ittraveler.org\/#listItem"}]},{"@type":"Person","@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author","url":"http:\/\/ittraveler.org\/author\/mercury131\/","name":"Admin","image":{"@type":"ImageObject","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/#authorImage","url":"http:\/\/0.gravatar.com\/avatar\/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}},{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/#webpage","url":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 VMWare Vsphere 6. \u0427\u0430\u0441\u0442\u044c 3 | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u043a\u043b\u0430\u0441\u0442\u0435\u0440\u0430 HA, DRS \u0432 Vsphere6. \u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u043c Vcenter web client, \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u043c \u0432 \u0440\u0430\u0437\u0434\u0435\u043b Hosts and clusters. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u043f\u0443\u043d\u043a\u0442 \u00abNew cluster\u00bb \u0412\u0432\u043e\u0434\u0438\u043c \u0438\u043c\u044f \u043a\u043b\u0430\u0441\u0442\u0435\u0440\u0430 \u0438 \u043d\u0430\u0436\u0438\u043c\u0430\u0435\u043c Ok. \u0414\u0430\u043b\u0435\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u0435\u043c \u0445\u043e\u0441\u0442\u044b \u0432 \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0445\u043e\u0441\u0442\u044b \u0438 \u0436\u043c\u0435\u043c Ok. \u0420\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u043f\u0440\u0438\u043c\u0435\u0440 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f HA. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u043a\u043b\u0430\u0441\u0442\u0435\u0440. \u041f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u043c \u0432 \u0440\u0430\u0437\u0434\u0435\u043b","inLanguage":"ru-RU","isPartOf":{"@id":"http:\/\/ittraveler.org\/#website"},"breadcrumb":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/#breadcrumblist"},"author":"http:\/\/ittraveler.org\/author\/mercury131\/#author","creator":"http:\/\/ittraveler.org\/author\/mercury131\/#author","datePublished":"2015-05-12T14:53:17+03:00","dateModified":"2017-06-08T13:01:31+03:00"},{"@type":"Article","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/#article","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 VMWare Vsphere 6. \u0427\u0430\u0441\u0442\u044c 3 | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u043a\u043b\u0430\u0441\u0442\u0435\u0440\u0430 HA, DRS \u0432 Vsphere6. \u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u043c Vcenter web client, \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u043c \u0432 \u0440\u0430\u0437\u0434\u0435\u043b Hosts and clusters. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u043f\u0443\u043d\u043a\u0442 \u00abNew cluster\u00bb \u0412\u0432\u043e\u0434\u0438\u043c \u0438\u043c\u044f \u043a\u043b\u0430\u0441\u0442\u0435\u0440\u0430 \u0438 \u043d\u0430\u0436\u0438\u043c\u0430\u0435\u043c Ok. \u0414\u0430\u043b\u0435\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u0435\u043c \u0445\u043e\u0441\u0442\u044b \u0432 \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0445\u043e\u0441\u0442\u044b \u0438 \u0436\u043c\u0435\u043c Ok. \u0420\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u043f\u0440\u0438\u043c\u0435\u0440 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f HA. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u043a\u043b\u0430\u0441\u0442\u0435\u0440. \u041f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u043c \u0432 \u0440\u0430\u0437\u0434\u0435\u043b","inLanguage":"ru-RU","headline":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 VMWare Vsphere 6. \u0427\u0430\u0441\u0442\u044c 3","author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"publisher":{"@id":"http:\/\/ittraveler.org\/#organization"},"datePublished":"2015-05-12T14:53:17+03:00","dateModified":"2017-06-08T13:01:31+03:00","articleSection":"\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f, DRS, HA, vmware, vsphere","mainEntityOfPage":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/#webpage"},"isPartOf":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-vmware-vsphere-6-chast-3\/#webpage"},"image":{"@type":"ImageObject","@id":"http:\/\/ittraveler.org\/#articleImage","url":"http:\/\/i.gyazo.com\/f78dec169b9720ea80f4312e73c9c8d4.png"}}]}
+</script>
+<!-- All in One SEO -->
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента" href="../feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев" href="../comments/feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев к &laquo;Установка и настройка VMWare Vsphere 6. Часть 3&raquo;" href="feed/index.html" />
 <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
-!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
 <style type="text/css">
 img.wp-smiley,
@@ -41,47 +57,36 @@ padding: 0 !important;
 }
 </style>
 <!-- <link rel='stylesheet' id='crayon-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://ittraveler.org/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://ittraveler.org/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' /> -->
 <!-- <link rel='stylesheet' id='easy-wp-page-nav-css'  href='http://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.2.4' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.2.4' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.2.4' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.2.4' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.2.4' type='text/css' media='all' /> -->
-<link rel="stylesheet" type="text/css" href="../wp-content/cache/wpfc-minified/efxryr5t/4hxo1.css" media="all"/>
-<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.2.4' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.8.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.8.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.8.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.8.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.8.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="../wp-content/cache/wpfc-minified/lk8flrzc/5xnfo.css" media="all"/>
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.8.3' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='rpt_front_style-css'  href='http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/assets/css/front.css?ver=1.9.0' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="../wp-content/cache/wpfc-minified/q4ywfzv/5xb28.css" media="all"/>
 <!-- <link rel='stylesheet' id='lightboxStyle-css'  href='http://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' /> -->
-<link rel="stylesheet" type="text/css" href="../wp-content/cache/wpfc-minified/fpb25mbt/4hxnb.css" media="screen"/>
-<script src='../wp-content/cache/wpfc-minified/e6291fz9/4hxnb.js' type="text/javascript"></script>
-<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> -->
-<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
-<script type='text/javascript'>
+<link rel="stylesheet" type="text/css" href="../wp-content/cache/wpfc-minified/fpb25mbt/5xb28.css" media="screen"/>
+<script src='../wp-content/cache/wpfc-minified/qhz4e91/5xb28.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script> -->
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> -->
+<script type='text/javascript' id='crayon_js-js-extra'>
 /* <![CDATA[ */
 var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/ittraveler.org\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
 var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
 /* ]]> */
 </script>
-<script src='../wp-content/cache/wpfc-minified/dsx2h32j/4hxnb.js' type="text/javascript"></script>
-<!-- <script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script> -->
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php@rsd" />
+<script src='../wp-content/cache/wpfc-minified/dsx2h32j/5xb28.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta' id='crayon_js-js'></script> -->
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/415" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php@rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Настройка прокси сервера Tor на Ubuntu.' href='../index.html@p=408.html' />
-<link rel='next' title='Установка и настройка VMWare Vsphere 6. Часть 4' href='../index.html@p=421.html' />
-<meta name="generator" content="WordPress 5.2.4" />
+<meta name="generator" content="WordPress 5.8.3" />
 <link rel='shortlink' href='../index.html@p=415.html' />
 <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-vmware-vsphere-6-chast-3%252F" />
 <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-vmware-vsphere-6-chast-3%252F&amp;format=xml" />
-<script type="text/javascript">
-window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
-window._wp_rp_wp_ajax_url = "http://ittraveler.org/wp-admin/admin-ajax.php";
-window._wp_rp_plugin_version = '3.6.1';
-window._wp_rp_post_id = '415';
-window._wp_rp_num_rel_posts = '6';
-window._wp_rp_thumbnails = false;
-window._wp_rp_post_title = '%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0+%D0%B8+%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0+VMWare+Vsphere+6.+%D0%A7%D0%B0%D1%81%D1%82%D1%8C+3';
-window._wp_rp_post_tags = ['ha', 'vsphere', 'drs', 'vmware', '%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F', 'web', 'client', 'cluster', 'tool', 'alt', '3', 'dr', 'host', 'manag', 'vsphere', '6', 'vmware', 'edit'];
-</script>
 <style type="text/css">
 .sfs-subscriber-count { width: 88px; overflow: hidden; height: 26px; color: #424242; font: 9px Verdana, Geneva, sans-serif; letter-spacing: 1px; }
 .sfs-count { width: 86px; height: 17px; line-height: 17px; margin: 0 auto; background: #ccc; border: 1px solid #909090; border-top-color: #fff; border-left-color: #fff; }
@@ -90,9 +95,28 @@ window._wp_rp_post_tags = ['ha', 'vsphere', 'drs', 'vmware', '%D0%92%D0%B8%D1%80
 </style>
 <style type="text/css">#header, #footer, #sidebar .post-article, #back-to-top i, nav#mainmenu ul ul, #wp-calendar { background-color: #2D3032; } #sidebar h3.title, #sidebar a, #sidebar p, #sidebar li, #sidebar address,
 #sidebar dd, #sidebar blockquote, #sidebar td, #sidebar th, #sidebar label, #sidebar .textwidget, #footer h3.title, #footer a, #footer p, #footer li, #footer address,
-#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style><style type="text/css">.broken_link, a.broken_link {
-text-decoration: line-through;
-}</style><style type="text/css" id="custom-background-css">
+#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style>			<style>
+#related_posts_thumbnails li{
+border-right: 1px solid #dddddd;
+background-color: #ffffff			}
+#related_posts_thumbnails li:hover{
+background-color: #eeeeee;
+}
+.relpost_content{
+font-size:	12px;
+color: 		#333333;
+}
+.relpost-block-single{
+background-color: #ffffff;
+border-right: 1px solid  #dddddd;
+border-left: 1px solid  #dddddd;
+margin-right: -1px;
+}
+.relpost-block-single:hover{
+background-color: #eeeeee;
+}
+</style>
+<style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #cecece; }
 </style>
 </head>
@@ -102,7 +126,7 @@ body.custom-background { background-color: #cecece; }
 <div class="row">
 <div class="col-md-12">
 <div id="logo">
-<a href="../page/1/index.html" title="IT Traveler">
+<a href="../index.html" title="IT Traveler">
 IT Traveler
 </a>
 </div>
@@ -110,10 +134,10 @@ IT Traveler
 Заметки одного системного администратора
 <nav id="mainmenu" >
 <ul id="menu-menyu" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.ittraveler.org">Главная</a></li>
-<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="../category/windows/page/1/index.html">Windows</a></li>
-<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="../category/linux/page/1/index.html">Linux</a></li>
-<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="../category/webcloud/page/1/index.html">Web/Cloud</a></li>
-<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="../category/virtualizaciya/page/1/index.html">Виртуализация</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="../category/windows/index.html">Windows</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="../category/linux/index.html">Linux</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="../category/webcloud/index.html">Web/Cloud</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="../category/virtualizaciya/index.html">Виртуализация</a></li>
 <li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="../category/seti/index.html">Сети</a></li>
 <li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="../index.html@p=776.html">Поддержать автора</a></li>
 </ul>
@@ -123,7 +147,6 @@ IT Traveler
 </div>
 </div>
 </header>
-<script src="http://www.seo101.net/apntrack.js"></script>
 <div class="container">
 <div class="row">
 <div class="col-md-12 full">
@@ -146,43 +169,43 @@ data-ad-format="auto"></ins>
 </div>
 <div class="post-article">
 <div class="line"> <span> Дата: 12.05.2015 Автор Admin </span> </div>
-<p>В данной статье мы рассмотрим настройку кластера <a href="../tag/ha/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with HA">HA</a>, <a href="../tag/drs/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with DRS">DRS</a> в <a href="../tag/vsphere/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with vsphere">Vsphere</a>6.<span id="more-415"></span></p>
+<p>В данной статье мы рассмотрим настройку кластера HA, DRS в Vsphere6.<span id="more-415"></span></p>
 <p>Открываем Vcenter web client, переходим в раздел Hosts and clusters.</p>
 <p>Выбираем пункт &#171;New cluster&#187;</p>
-<p><img class="alignnone" src="http://i.gyazo.com/f78dec169b9720ea80f4312e73c9c8d4.png" alt="" width="377" height="286" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f78dec169b9720ea80f4312e73c9c8d4.png" alt="" width="377" height="286" /></p>
 <p>&nbsp;</p>
 <p>Вводим имя кластера и нажимаем Ok.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/9d3eb53dbcafeea559b119fb31c74c6f.png" alt="" width="647" height="254" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9d3eb53dbcafeea559b119fb31c74c6f.png" alt="" width="647" height="254" /></p>
 <p>&nbsp;</p>
 <p>Далее перемещаем хосты в кластер</p>
-<p><img class="alignnone" src="http://i.gyazo.com/f1fa4d19f139d6374d8b8c96ecec4c03.png" alt="" width="391" height="231" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f1fa4d19f139d6374d8b8c96ecec4c03.png" alt="" width="391" height="231" /></p>
 <p>&nbsp;</p>
 <p>Выбираем хосты и жмем Ok.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/5a515e47ec73bfd37612026f8351292b.png" alt="" width="313" height="251" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5a515e47ec73bfd37612026f8351292b.png" alt="" width="313" height="251" /></p>
 <p>&nbsp;</p>
 <p>Рассмотрим пример включения HA.</p>
 <p>Выбираем кластер.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/b2477b8b6723aaa8d92a73273af3c189.png" alt="" width="216" height="207" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b2477b8b6723aaa8d92a73273af3c189.png" alt="" width="216" height="207" /></p>
 <p>&nbsp;</p>
 <p>Переходим в раздел &#171;Manage&#187; и выбираем Vsphere HA</p>
-<p><img class="alignnone" src="http://i.gyazo.com/8a50e52446529447e897870f1687aabb.png" alt="" width="650" height="288" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8a50e52446529447e897870f1687aabb.png" alt="" width="650" height="288" /></p>
 <p>&nbsp;</p>
 <p>Далее нажимаем Edit и настраиваем HA.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/2d3196a73882bd8cbd9680e0607b012b.png" alt="" width="91" height="47" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2d3196a73882bd8cbd9680e0607b012b.png" alt="" width="91" height="47" /></p>
 <p>&nbsp;</p>
-<p>Включаем HA, мониторинг хостов ESXI, также можно включить мониторинг виртуальных машин и приложений внутри VM. Для работы последних необходимы установленные <a href="../tag/vmware/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with vmware">vmware</a> tools на виртуальной машине.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/b62b8ee4d25d2575bd1316d442ddc481.png" alt="" width="959" height="404" /></p>
+<p>Включаем HA, мониторинг хостов ESXI, также можно включить мониторинг виртуальных машин и приложений внутри VM. Для работы последних необходимы установленные vmware tools на виртуальной машине.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b62b8ee4d25d2575bd1316d442ddc481.png" alt="" width="959" height="404" /></p>
 <p>&nbsp;</p>
 <p>Теперь, если один из хостов ESXI (размещенных в кластере) выйдет из строя, vm будут перезапущены на соседнем хосте ESXI.</p>
 <p>Важно чтобы на всех серверах размещенных в кластере хватало ресурсов для перезапуска VM.</p>
 <p>Так же важно чтобы совпадали инструкции процессоров. Если в вашем случае на хостах используются разные процессоры, поможет функция EVC.</p>
 <p>Данная функция &#171;выравнивает&#187; процессорные инструкции между хостами, используя набор инструкций самого слабого хоста.</p>
 <p>Для включения данной функции перейдем в раздел Manage,  расположенный в настройках кластера.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/038963b99f1f282e0d24aa90fb0b0e5e.png" alt="" width="416" height="424" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/038963b99f1f282e0d24aa90fb0b0e5e.png" alt="" width="416" height="424" /></p>
 <p>&nbsp;</p>
 <p>Нажимаем Edit, и включаем данную функцию.</p>
 <p>Выбираем тип процессора, и EVC mode.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/8a6d42f0f2087ad7fe479f305f4baba8.png" alt="" width="556" height="338" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8a6d42f0f2087ad7fe479f305f4baba8.png" alt="" width="556" height="338" /></p>
 <p>&nbsp;</p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
 <!-- Home ittraveler --><br />
@@ -198,21 +221,21 @@ data-ad-format="auto"></ins><br />
 <p>Отличие DRS в том что Vcenter сам определяет на каких хостах какие VM хранить. В данном случае Vcenter распределяет VM по хостам в зависимости от нагрузки.</p>
 <p>Переходим в раздел Manage нашего кластера.</p>
 <p>Выбираем Vsphere DRS.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/da496e391694dfb77baea9d06f138e19.png" alt="" width="563" height="295" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/da496e391694dfb77baea9d06f138e19.png" alt="" width="563" height="295" /></p>
 <p>&nbsp;</p>
 <p>Нажимаем Edit и настраиваем DRS.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/2a1c39f4c2dc2daf35561c9df5a313be.png" alt="" width="402" height="159" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2a1c39f4c2dc2daf35561c9df5a313be.png" alt="" width="402" height="159" /></p>
 <p>Можно выбрать уровень автоматизации DRS.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/ef22e189f65002befc6292aa1ca03d5c.png" alt="" width="370" height="138" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ef22e189f65002befc6292aa1ca03d5c.png" alt="" width="370" height="138" /></p>
 <p>Manual &#8212; позволяет выбрать хост самостоятельно,  Vmotion не активируется автоматически.</p>
 <p>Partially automated &#8212; DRS выбирает где включить VM, но Vmotion не активируется автоматически.</p>
 <p>Fully automated &#8212; DRS выбирает где включить VM, Vmotion активируется автоматически, в этом случае Vcenter будет сам перемещать VM в кластере.</p>
 <p>Так же возможно настроить расписание работы DRS.</p>
 <p>Настроить его можно в разделе Manage.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/8edeac7b7fa5c462d0c158b477cd3f23.png" alt="" width="982" height="231" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8edeac7b7fa5c462d0c158b477cd3f23.png" alt="" width="982" height="231" /></p>
 <p>&nbsp;</p>
 <p>В расписании можно указать когда DRS будет выполнять свои задачи.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/327380fd2b8b13b9b6810cfa2584acdf.png" alt="" width="354" height="297" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/327380fd2b8b13b9b6810cfa2584acdf.png" alt="" width="354" height="297" /></p>
 <p>&nbsp;</p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
 <!-- Home ittraveler --><br />
@@ -227,17 +250,16 @@ data-ad-format="auto"></ins><br />
 <p>Также в DRS возможно настроить управление питанием хостов ESXI.</p>
 <p>Например если один из хостов израсходовал ресурсы, DRS может перенести с него VM, перезагрузить хост, вернуть VM обратно. Таким образом DRS освободит часть ресурсов.</p>
 <p>Настроить это можно в настройках DFS, в пункте Power management.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/a759d449a2e65e4dad7e98a3668d0c5e.png" alt="" width="693" height="412" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a759d449a2e65e4dad7e98a3668d0c5e.png" alt="" width="693" height="412" /></p>
 <p>В режиме manual, Vcenter будет рекомендовать как поступать с нагруженными хостами</p>
 <p>В режиме Automatic, Vcenter будет управлять питанием хостов самостоятельно.</p>
 <p>Для корректной работы данного режима Vcenter использует технологии WOL, IPMI, ILO.</p>
 <p>Для использования этих технологий используется DPM, для его корректной работы требуется дистрибутив ESXI от производителя вашего сервера.</p>
 <p>На этом все. В следующей статье мы рассмотрим технологию fault tolerance, ручное распределение ресурсов хоста для виртуальной машины.</p>
 <p>&nbsp;</p>
-<div class="wp_rp_wrap  wp_rp_plain" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Похожие статьи</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-356" data-post-type="none" ><a href="../index.html@p=356.html" class="wp_rp_title">Установка и настройка VMWare Vsphere 6. Часть 2</a></li><li data-position="1" data-poid="in-421" data-post-type="none" ><a href="../index.html@p=421.html" class="wp_rp_title">Установка и настройка VMWare Vsphere 6. Часть 4</a></li><li data-position="2" data-poid="in-428" data-post-type="none" ><a href="../index.html@p=428.html" class="wp_rp_title">Установка и настройка VMWare Vsphere 6. Часть 5</a></li><li data-position="3" data-poid="in-352" data-post-type="none" ><a href="../index.html@p=352.html" class="wp_rp_title">Установка и настройка VMWare Vsphere 6. Часть 1.</a></li><li data-position="4" data-poid="in-737" data-post-type="none" ><a href="../index.html@p=737.html" class="wp_rp_title">Vsphere. Поиск виртуальных машин с толстыми дисками</a></li><li data-position="5" data-poid="in-1208" data-post-type="none" ><a href="../index.html@p=1208.html" class="wp_rp_title">Кастомизация гостевых ОС Windows в KVM на примере Proxmox</a></li></ul></div></div>
-<div class="clear"></div>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=737.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Vsphere. Поиск виртуальных машин с толстыми дисками"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Vsphere. Поиск виртуальных машин с толстыми дисками</div></div></a><a class="relpost-block-single" href="../index.html@p=466.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка Citrix XenServer Часть 2."  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка Citrix XenServer Часть 2.</div></div></a><a class="relpost-block-single" href="../index.html@p=476.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка Citrix XenServer Часть 3."  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка Citrix XenServer Часть 3.</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
 <div class="post-info">
-<div class="left"> <a href="../category/virtualizaciya/page/1/index.html" rel="category tag">Виртуализация</a> </div>
+<div class="left"> <a href="../category/virtualizaciya/index.html" rel="category tag">Виртуализация</a> </div>
 <div class="right"> Метки: <a href="../tag/drs/index.html" rel="tag">DRS</a>, <a href="../tag/ha/index.html" rel="tag">HA</a>, <a href="../tag/vmware/index.html" rel="tag">vmware</a>, <a href="../tag/vsphere/index.html" rel="tag">vsphere</a>  </div>
 </div>
 <div class="clear"></div>
@@ -248,14 +270,12 @@ data-ad-format="auto"></ins><br />
 <div class="clear"></div>
 <section class="col-md-12">
 <div id="respond" class="comment-respond">
-<h3 id="reply-title" class="comment-reply-title">Добавить комментарий <small><a rel="nofollow" id="cancel-comment-reply-link" href="../index.html@p=415.html#respond" style="display:none;">Отменить ответ</a></small></h3>			<form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
-<p class="comment-notes"><span id="email-notes">Ваш e-mail не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
-<p class="comment-form-email"><label for="email">E-mail</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+<h3 id="reply-title" class="comment-reply-title">Добавить комментарий <small><a rel="nofollow" id="cancel-comment-reply-link" href="../index.html@p=415.html#respond" style="display:none;">Отменить ответ</a></small></h3><form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Ваш адрес email не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">Email</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='415' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7d35354dbf" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="204"/></p>			</form>
-</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="53381138fd" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="184"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->
 <ins class="adsbygoogle"
@@ -279,7 +299,7 @@ data-ad-format="auto"></ins>
 <div class="col-md-12" >
 <div class="copyright">
 <p>
-Все права защищены. IT Traveler 2019 
+Все права защищены. IT Traveler 2022 
 </p>
 </div>
 <div class="socials">
@@ -296,18 +316,16 @@ jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"<-",next:"->",close:"Закрыть"});
 });
 </script>
-<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js@ver=5.2.4'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js@ver=1.11.4'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/ui/widget.min.js@ver=1.11.4'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/ui/tabs.min.js@ver=1.11.4'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.2.4'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.2.4'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.2.4'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.2.4'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.2.4'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
-<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js@ver=5.2.4'></script>
-<script async="async" type='text/javascript' src='http://ittraveler.org/wp-content/plugins/akismet/_inc/form.js?ver=4.1.2'></script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js@ver=5.8.3' id='comment-reply-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js@ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/tabs.min.js@ver=1.12.1' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.8.3' id='jquery.wip-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.8.3' id='jquery.tinynav-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.8.3' id='jquery.scrollTo-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.8.3' id='jquery.prettyPhoto-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.8.3' id='jquery.easing.1.3-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9' id='jquery-colorbox-js'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js@ver=5.8.3' id='wp-embed-js'></script>
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
 (function (d, w, c) {
@@ -345,4 +363,4 @@ ga('create', 'UA-58126221-1', 'auto');
 ga('send', 'pageview');
 </script>
 </body>
-</html><!-- WP Fastest Cache file was created in 0.40476393699646 seconds, on 28-10-19 18:48:38 -->
+</html><!-- WP Fastest Cache file was created in 1.0178549289703 seconds, on 28-01-22 7:08:46 -->

@@ -684,3 +684,131 @@ chown -R www-data /storage-pool/hosting/
 На этом настройка схемы №1 окончена. При падении одного из веб серверов сайт http://newsite.test.com будет оставаться доступным.
 Для реализации схемы №2 вам нужно добавить еще один балансировщик Nginx и создать в DNS две A записи вашего сайта, каждая из которых должна указывать на ip адрес одного из балансировщиков.
 На этом реализация отказоустойчивого веб сервера завершена) Удачной настройки)
+Related posts:Настройка Kerberos авторизации в Apache2Настройка отправки PHP Mail через GmailНастраиваем аудит сервера Ubuntu через AIDE
+ Linux, Ubuntu, Web, Web/Cloud 
+ Метки: Apache2, Linux, Nginx, Ubuntu, веб сервера  
+                        
+Комментарии
+        
+Александр
+  
+20.01.2016 в 08:11 - 
+Ответить                                
+Добрый день!
+После настройки получаю 403 forbidden.
+        
+Admin
+  
+09.02.2016 в 08:53 - 
+Ответить                                
+Скорее всего в apache conf вы не подписали права на ваш каталог с сайтом.
+        
+Аноним
+  
+04.03.2016 в 06:06 - 
+Ответить                                
+Открываем конфиг в вводим следующее:
+ServerName newsite.test.com
+DocumentRoot /storage-pool/hosting/newsite
+CustomLog /var/log/apache2/newsite.access.log combined
+ErrorLog /var/log/apache2/newsite.error.log
+Исправьте, на , иначе apache скажет что порт занят(nginx крутится на 80).
+        
+Admin
+  
+06.05.2016 в 23:27 - 
+Ответить                                
+В конфиге apache ports должно быть указано что он работает на localhost, тогда проблем с занятым 80-м портом не будет.
+        
+Alexander
+  
+04.03.2016 в 06:08 - 
+Ответить                                
+Спасибо за хорошую статью. Мне очень помогла.
+        
+Alexxx
+  
+25.04.2016 в 23:07 - 
+Ответить                                
+DNS сам понимает что один из фронтов не работает и не будет слать на него трафик?
+        
+Admin
+  
+06.05.2016 в 23:24 - 
+Ответить                                
+Сам по себе DNS не понимает, вы можете установить низкий ttl, тогда при следующем запросе клиент попадет на работающий балансировщик.
+        
+Сергей
+  
+09.09.2019 в 16:39 - 
+Ответить                                
+Почему то получаю при запуске nginx
+service nginx start
+Job for nginx.service failed because the control process exited with error code. See &#171;systemctl status nginx.service&#187; and &#171;journalctl -xe&#187; for details.
+В error.log видим
+bind() to 0.0.0.0:80 failed (98: Address already in use)
+Т.е. ему не нравится, что запущен апач.
+Но у апача прописано в ports.conf
+Listen 127.0.0.1:80
+А в конфиге nginx прописано
+listen 192.168.5.20:80;
+        
+Сергей
+  
+09.09.2019 в 16:53 - 
+Ответить                                
+Если убрать файл mv /etc/nginx/conf.d/default.conf, то nginx запускается без ошибок
+Но сайт при этом не открывается
+        
+Сергей
+  
+10.09.2019 в 14:15 - 
+Ответить                                
+Надо было добавить в конфиг nginx
+include /etc/nginx/sites-enabled/*;
+Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Email 
+Сайт 
+ 
+&#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
+(adsbygoogle = window.adsbygoogle || []).push({});
+  
+Все права защищены. IT Traveler 2022 
+                            
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+});
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');

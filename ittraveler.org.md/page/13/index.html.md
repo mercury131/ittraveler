@@ -21,7 +21,7 @@ Active Directory + Thunderbird = Общая адресная книга
         
 Поиск
 Найти:
-Рубрики		
+Рубрики
 Active Directory
 Asterisk
 Bash
@@ -59,6 +59,7 @@ DNS
 Exchange
 Exchange online
 File-Server
+fsmo
 Get-ADObject
 GLPI
 GPO
@@ -94,10 +95,9 @@ XenServer
 Репликация
 веб сервера
 восстановление удаленных данных
-удаление контроллера домена
             
 « Назад«1&hellip;111213  
-Все права защищены. IT Traveler 2019 
+Все права защищены. IT Traveler 2022 
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});

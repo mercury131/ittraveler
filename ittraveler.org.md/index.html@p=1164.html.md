@@ -87,3 +87,60 @@ bios: ovmfboot: cdnbootdisk: sata0cores: 1efidisk0: Backup_Storage:700/vm-700-di
 Теперь, чтобы при включении VM нормально загрузилась, нужно изменить ее boot order
 Теперь можно включить виртуальную машину и убедиться что она работает.
 &nbsp;
+Related posts:Настройка отказоустойчивого веб сервера на базе nginx и apache.Установка и настройка VMWare Vsphere 6. Часть 2Clickhouse ошибка DB::Exception: Replica already exists..
+ Linux, Windows, Без рубрики, Виртуализация 
+ Метки: kvm, Linux, proxmox  
+                        
+Комментарии
+        
+Виктор
+  
+13.05.2021 в 09:56 - 
+Ответить                                
+Отличная статья, только надо было немного подробней остановиться на создании хранилища (или как здесь он называется датасторе). Я, например, изрядно помучился, прежде чем догадался назначить хранилищу (тип Каталог) права на Образы дисков. Иначе при запуске машины шла ошибка &#171;unable to parse directory volume name&#187;. И кстати, можно пользовать и локальное хранилище local, просто скопировав образ в соответствующее место, без всяких монтировок, но это уже от задач зависит&#8230;
+Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Email 
+Сайт 
+ 
+&#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
+(adsbygoogle = window.adsbygoogle || []).push({});
+  
+Все права защищены. IT Traveler 2022 
+                            
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+});
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');

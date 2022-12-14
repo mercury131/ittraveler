@@ -17,7 +17,7 @@
  
  Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата. 
 Недавно столкнулся с проблемой при создании SSL сертификов. Нужно было подписать сертификат на доменном CA для одного хоста, по привычке я воспользовался командой:
-[crayon-5db7cc6cc6b0a764431475/]
+[crayon-61f43d41ae8f8848455396/]
 Но после установки сертификатов обнаружил что Chrome, в отличие от других браузеров не принимает такой сертификат. В этой заметке я расскажу в чем проблема и как ее исправить.
  [...] 
  25.03.2019 
@@ -82,7 +82,7 @@
         
 Поиск
 Найти:
-Рубрики		
+Рубрики
 Active Directory
 Asterisk
 Bash
@@ -120,6 +120,7 @@ DNS
 Exchange
 Exchange online
 File-Server
+fsmo
 Get-ADObject
 GLPI
 GPO
@@ -155,10 +156,9 @@ XenServer
 Репликация
 веб сервера
 восстановление удаленных данных
-удаление контроллера домена
             
 « Назад«1234&hellip;13»Вперед »  
-Все права защищены. IT Traveler 2019 
+Все права защищены. IT Traveler 2022 
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});

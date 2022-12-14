@@ -25,3 +25,53 @@
 Например в сети может действовать злоумышленник, который пытается подобрать пароль от учетной записи пользователя. Второй распространённый вариант это использование одной учетной записи несколькими пользователями одновременно. В этом случае кто-то может постоянно вводить неверный пароль, тем самым мешать работе остальных пользователей. Начиная расследование, первое, что мы должны установить – это точное время происшествия. Установив время, мы легко сможем найти запись в журнале безопасности и понять с какого компьютера в сети производились попытки ввода неверного пароля. Как видно на рисунке 7 программа сообщает нам эти сведения. Щелкнув правой кнопки мыши по контроллеру домена и выбрав в контекстном меню Open Event Viewer (Открыть Журнал Событий). Так как мы теперь знаем точное время, когда была попытка входа, которая привела к блокировку учетной записи, мы без труда сможем найти событие и определить с какого компьютера было произведено действие повлекшее блокировку. Проблема решена – виновные наказаны!
 Но кроме человеческого фактора есть еще и другие причины. Пожалуй самая распространенная причина в том, что когда вы настраиваете Назначенное Задание, которое выполняется от имени пользователя, а затем меняете пароль этого пользовател. Ваше задание все еще пытается выполнить вход со старым паролем. Естественно у него это не получается и акаунт блокируется.
 Источник &#8212; http://www.samag.ru/
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Отключение Skype UI в Lync 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+ Active Directory, Windows, Windows Server 
+ Метки: Active Directory, Блокировка учетной записи  
+                        
+Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Email 
+Сайт 
+ 
+&#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
+(adsbygoogle = window.adsbygoogle || []).push({});
+  
+Все права защищены. IT Traveler 2022 
+                            
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+});
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');

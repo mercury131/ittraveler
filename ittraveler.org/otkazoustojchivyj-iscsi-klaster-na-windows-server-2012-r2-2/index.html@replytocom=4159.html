@@ -1,6 +1,7 @@
 ﻿<!DOCTYPE html>
 
-<html lang="ru-RU">
+<html dir="ltr" lang="ru-RU"
+	prefix="og: https://ogp.me/ns#" >
 
 <head>
 
@@ -18,7 +19,7 @@
 
 
 
-<title>Отказоустойчивый ISCSI кластер на Windows Server 2012 R2 | IT Traveler</title>
+
 
 
 
@@ -41,22 +42,38 @@
 
 
 
-<!-- All in One SEO Pack 3.2.7 от Michael Torbert из Semper Fi Web Design[225,302] -->
-<meta name="description"  content="В данной статье мы рассмотрим как настроить Отказоустойчивый ISCSI кластер на Windows Server 2012 R2.Для настройки нам понадобятся 2 сервера. Кластер в данной" />
+		<!-- All in One SEO 4.2.8 - aioseo.com -->
+		<title>Отказоустойчивый ISCSI кластер на Windows Server 2012 R2 | IT Traveler</title>
+		<meta name="description" content="В данной статье мы рассмотрим как настроить Отказоустойчивый ISCSI кластер на Windows Server 2012 R2.Для настройки нам понадобятся 2 сервера. Кластер в данной статье будет настраиваться по следующей схеме: Соответственно у вас должна быть сеть хранения данных, подключенная по FC, SAS или ISCSI (необходим ISCSI протокол версии не ниже iSCSI-3) Должна быть настроена LAN сеть" />
+		<meta name="robots" content="max-image-preview:large" />
+		<meta name="keywords" content="cluster,iscsi,windows server" />
+		<link rel="canonical" href="../index.html@p=446.html" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.2.8 " />
+		<meta property="og:locale" content="ru_RU" />
+		<meta property="og:site_name" content="IT Traveler | Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом..." />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Отказоустойчивый ISCSI кластер на Windows Server 2012 R2 | IT Traveler" />
+		<meta property="og:description" content="В данной статье мы рассмотрим как настроить Отказоустойчивый ISCSI кластер на Windows Server 2012 R2.Для настройки нам понадобятся 2 сервера. Кластер в данной статье будет настраиваться по следующей схеме: Соответственно у вас должна быть сеть хранения данных, подключенная по FC, SAS или ISCSI (необходим ISCSI протокол версии не ниже iSCSI-3) Должна быть настроена LAN сеть" />
+		<meta property="og:url" content="http://ittraveler.org/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2/" />
+		<meta property="article:published_time" content="2015-05-19T15:39:20+00:00" />
+		<meta property="article:modified_time" content="2017-06-08T12:55:43+00:00" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Отказоустойчивый ISCSI кластер на Windows Server 2012 R2 | IT Traveler" />
+		<meta name="twitter:description" content="В данной статье мы рассмотрим как настроить Отказоустойчивый ISCSI кластер на Windows Server 2012 R2.Для настройки нам понадобятся 2 сервера. Кластер в данной статье будет настраиваться по следующей схеме: Соответственно у вас должна быть сеть хранения данных, подключенная по FC, SAS или ISCSI (необходим ISCSI протокол версии не ниже iSCSI-3) Должна быть настроена LAN сеть" />
+		<meta name="google" content="nositelinkssearchbox" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/#article","name":"\u041e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 ISCSI \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u043d\u0430 Windows Server 2012 R2 | IT Traveler","headline":"\u041e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 ISCSI \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u043d\u0430 Windows Server 2012 R2","author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"publisher":{"@id":"http:\/\/ittraveler.org\/#organization"},"image":{"@type":"ImageObject","url":"http:\/\/i.gyazo.com\/04183d4f3223a0fd96cba5570a853504.png","@id":"http:\/\/ittraveler.org\/#articleImage"},"datePublished":"2015-05-19T15:39:20+03:00","dateModified":"2017-06-08T12:55:43+03:00","inLanguage":"ru-RU","commentCount":4,"mainEntityOfPage":{"@id":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/#webpage"},"isPartOf":{"@id":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/#webpage"},"articleSection":"Windows, Windows Server, Cluster, ISCSI, Windows Server"},{"@type":"BreadcrumbList","@id":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/#listItem","position":1,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","url":"http:\/\/ittraveler.org\/"},"nextItem":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/#listItem"},{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/#listItem","position":2,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/","name":"\u041e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 ISCSI \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u043d\u0430 Windows Server 2012 R2","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u043a\u0430\u043a \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u041e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 ISCSI \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u043d\u0430 Windows Server 2012 R2.\u0414\u043b\u044f \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043d\u0430\u043c \u043f\u043e\u043d\u0430\u0434\u043e\u0431\u044f\u0442\u0441\u044f 2 \u0441\u0435\u0440\u0432\u0435\u0440\u0430. \u041a\u043b\u0430\u0441\u0442\u0435\u0440 \u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u0431\u0443\u0434\u0435\u0442 \u043d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0441\u0445\u0435\u043c\u0435: \u0421\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0443 \u0432\u0430\u0441 \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u0441\u0435\u0442\u044c \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445, \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u0430\u044f \u043f\u043e FC, SAS \u0438\u043b\u0438 ISCSI (\u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c ISCSI \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0432\u0435\u0440\u0441\u0438\u0438 \u043d\u0435 \u043d\u0438\u0436\u0435 iSCSI-3) \u0414\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0430 LAN \u0441\u0435\u0442\u044c","url":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/"},"previousItem":"http:\/\/ittraveler.org\/#listItem"}]},{"@type":"Organization","@id":"http:\/\/ittraveler.org\/#organization","name":"IT Traveler","url":"http:\/\/ittraveler.org\/"},{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/#webpage","url":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/","name":"\u041e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 ISCSI \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u043d\u0430 Windows Server 2012 R2 | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u043a\u0430\u043a \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u041e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 ISCSI \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u043d\u0430 Windows Server 2012 R2.\u0414\u043b\u044f \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043d\u0430\u043c \u043f\u043e\u043d\u0430\u0434\u043e\u0431\u044f\u0442\u0441\u044f 2 \u0441\u0435\u0440\u0432\u0435\u0440\u0430. \u041a\u043b\u0430\u0441\u0442\u0435\u0440 \u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u0431\u0443\u0434\u0435\u0442 \u043d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u0441\u0445\u0435\u043c\u0435: \u0421\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0443 \u0432\u0430\u0441 \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u0441\u0435\u0442\u044c \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445, \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u0430\u044f \u043f\u043e FC, SAS \u0438\u043b\u0438 ISCSI (\u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c ISCSI \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0432\u0435\u0440\u0441\u0438\u0438 \u043d\u0435 \u043d\u0438\u0436\u0435 iSCSI-3) \u0414\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0430 LAN \u0441\u0435\u0442\u044c","inLanguage":"ru-RU","isPartOf":{"@id":"http:\/\/ittraveler.org\/#website"},"breadcrumb":{"@id":"http:\/\/ittraveler.org\/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2\/#breadcrumblist"},"author":"http:\/\/ittraveler.org\/author\/mercury131\/#author","creator":"http:\/\/ittraveler.org\/author\/mercury131\/#author","datePublished":"2015-05-19T15:39:20+03:00","dateModified":"2017-06-08T12:55:43+03:00"},{"@type":"WebSite","@id":"http:\/\/ittraveler.org\/#website","url":"http:\/\/ittraveler.org\/","name":"IT Traveler","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","inLanguage":"ru-RU","publisher":{"@id":"http:\/\/ittraveler.org\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
 
-<meta name="keywords"  content="Наcтройка iscsi server 2012 r2,Наcтройка отказоустойчивого iscsi server 2012 r2,Наcтройка iscsi server windows,установка iscsi server 2012 r2,cluster,iscsi,windows server" />
-
-<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://ittraveler.org/#organization","url":"http://ittraveler.org/","name":"IT Traveler","sameAs":[]},{"@type":"WebSite","@id":"http://ittraveler.org/#website","url":"http://ittraveler.org/","name":"IT Traveler","publisher":{"@id":"http://ittraveler.org/#organization"}},{"@type":"WebPage","@id":"http://ittraveler.org/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2/#webpage","url":"http://ittraveler.org/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2/","inLanguage":"ru-RU","name":"\u041e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 ISCSI \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u043d\u0430 Windows Server 2012 R2","isPartOf":{"@id":"http://ittraveler.org/#website"},"datePublished":"2015-05-19T15:39:20+00:00","dateModified":"2017-06-08T12:55:43+00:00"},{"@type":"Article","@id":"http://ittraveler.org/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2/#article","isPartOf":{"@id":"http://ittraveler.org/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2/#webpage"},"author":{"@id":"http://ittraveler.org/author/mercury131/#author"},"headline":"\u041e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 ISCSI \u043a\u043b\u0430\u0441\u0442\u0435\u0440 \u043d\u0430 Windows Server 2012 R2","datePublished":"2015-05-19T15:39:20+00:00","dateModified":"2017-06-08T12:55:43+00:00","commentCount":"4","mainEntityOfPage":{"@id":"http://ittraveler.org/otkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2/#webpage"},"publisher":{"@id":"http://ittraveler.org/#organization"},"articleSection":"Windows, Windows Server, Cluster, ISCSI, Windows Server"},{"@type":"Person","@id":"http://ittraveler.org/author/mercury131/#author","name":"Admin","sameAs":[],"image":{"@type":"ImageObject","@id":"http://ittraveler.org/#personlogo","url":"http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}}]}</script>
-<link rel="canonical" href="../index.html@p=446.html" />
-<!-- All in One SEO Pack -->
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента" href="../feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев" href="../comments/feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев к &laquo;Отказоустойчивый ISCSI кластер на Windows Server 2012 R2&raquo;" href="feed/index.html" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.6"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
 img.wp-smiley,
@@ -73,44 +90,31 @@ img.emoji {
 }
 </style>
 	<link rel='stylesheet' id='crayon-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min.css@ver=5.2.5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min.css@ver=5.8.6.css' type='text/css' media='all' />
 <link rel='stylesheet' id='easy-wp-page-nav-css'  href='http://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rpt_front_style-css'  href='http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/assets/css/front.css?ver=1.9.0' type='text/css' media='all' />
 <link rel='stylesheet' id='lightboxStyle-css'  href='http://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' />
-<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js@ver=1.12.4-wp'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js@ver=1.4.1'></script>
-<script type='text/javascript'>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.min.js@ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js@ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='crayon_js-js-extra'>
 /* <![CDATA[ */
 var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/ittraveler.org\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
 var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script>
-<link rel='https://api.w.org/' href='../wp-json/index.html' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php@rsd" />
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta' id='crayon_js-js'></script>
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/posts/446" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php@rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Установка и настройка Puppet.' href='../index.html@p=442.html' />
-<link rel='next' title='Установка и настройка кластера MSSQL 2012.' href='../index.html@p=452.html' />
-<meta name="generator" content="WordPress 5.2.5" />
+<meta name="generator" content="WordPress 5.8.6" />
 <link rel='shortlink' href='../index.html@p=446.html' />
-<meta name='robots' content='noindex,follow' />
 <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fotkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2%252F" />
 <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fotkazoustojchivyj-iscsi-klaster-na-windows-server-2012-r2-2%252F&amp;format=xml" />
-<script type="text/javascript">
-	window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
-	window._wp_rp_wp_ajax_url = "http://ittraveler.org/wp-admin/admin-ajax.php";
-	window._wp_rp_plugin_version = '3.6.1';
-	window._wp_rp_post_id = '446';
-	window._wp_rp_num_rel_posts = '6';
-	window._wp_rp_thumbnails = false;
-	window._wp_rp_post_title = '%D0%9E%D1%82%D0%BA%D0%B0%D0%B7%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D1%8B%D0%B9+ISCSI+%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80+%D0%BD%D0%B0+Windows+Server+2012+R2';
-	window._wp_rp_post_tags = ['iscsi', 'windows+server', 'cluster', 'windows', 'windows+server', '2', 'server', 'script', 'lan', 'fc', 'sa', 'window', '2012', 'home', 'r2', 'alt'];
-</script>
 <style type="text/css">
 .sfs-subscriber-count { width: 88px; overflow: hidden; height: 26px; color: #424242; font: 9px Verdana, Geneva, sans-serif; letter-spacing: 1px; }
 .sfs-count { width: 86px; height: 17px; line-height: 17px; margin: 0 auto; background: #ccc; border: 1px solid #909090; border-top-color: #fff; border-left-color: #fff; }
@@ -119,9 +123,29 @@ var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Cl
 </style>
 <style type="text/css">#header, #footer, #sidebar .post-article, #back-to-top i, nav#mainmenu ul ul, #wp-calendar { background-color: #2D3032; } #sidebar h3.title, #sidebar a, #sidebar p, #sidebar li, #sidebar address,
 #sidebar dd, #sidebar blockquote, #sidebar td, #sidebar th, #sidebar label, #sidebar .textwidget, #footer h3.title, #footer a, #footer p, #footer li, #footer address,
-#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style><style type="text/css">.broken_link, a.broken_link {
-	text-decoration: line-through;
-}</style><style type="text/css" id="custom-background-css">
+#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style>			<style>
+			#related_posts_thumbnails li{
+				border-right: 1px solid #dddddd;
+				background-color: #ffffff			}
+			#related_posts_thumbnails li:hover{
+				background-color: #eeeeee;
+			}
+			.relpost_content{
+				font-size:	12px;
+				color: 		#333333;
+			}
+			.relpost-block-single{
+				background-color: #ffffff;
+				border-right: 1px solid  #dddddd;
+				border-left: 1px solid  #dddddd;
+				margin-right: -1px;
+			}
+			.relpost-block-single:hover{
+				background-color: #eeeeee;
+			}
+		</style>
+
+	<style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #cecece; }
 </style>
 	
@@ -155,7 +179,7 @@ body.custom-background { background-color: #cecece; }
 
                 
 
-                    <a href="../page/1/index.html" title="IT Traveler">
+                    <a href="../index.html" title="IT Traveler">
 
                             
 
@@ -176,10 +200,10 @@ body.custom-background { background-color: #cecece; }
                
 
                 	<ul id="menu-menyu" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.ittraveler.org">Главная</a></li>
-<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="../category/windows/page/1/index.html">Windows</a></li>
-<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="../category/linux/page/1/index.html">Linux</a></li>
-<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="../category/webcloud/page/1/index.html">Web/Cloud</a></li>
-<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="../category/virtualizaciya/page/1/index.html">Виртуализация</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="../category/windows/index.html">Windows</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="../category/linux/index.html">Linux</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="../category/webcloud/index.html">Web/Cloud</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="../category/virtualizaciya/index.html">Виртуализация</a></li>
 <li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="../category/seti/index.html">Сети</a></li>
 <li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="../index.html@p=776.html">Поддержать автора</a></li>
 </ul>
@@ -206,7 +230,7 @@ body.custom-background { background-color: #cecece; }
     
 
 </header>
-<script src="http://www.seo101.net/apntrack.js"></script>
+
 <div class="container">
 
 	
@@ -250,24 +274,24 @@ body.custom-background { background-color: #cecece; }
 
 
 
-	<p>В данной статье мы рассмотрим как настроить Отказоустойчивый <a href="../tag/iscsi/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with ISCSI">ISCSI</a> кластер на <a href="../tag/windows-server/page/1/index.html" class="st_tag internal_tag" rel="tag" title="Posts tagged with Windows Server">Windows Server</a> 2012 R2.<span id="more-446"></span>Для настройки нам понадобятся 2 сервера.</p>
+	<p>В данной статье мы рассмотрим как настроить Отказоустойчивый <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> кластер на <a href="../tag/windows-server/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Windows Server">Windows Server</a> 2012 R2.<span id="more-446"></span>Для настройки нам понадобятся 2 сервера.</p>
 <p>Кластер в данной статье будет настраиваться по следующей схеме:</p>
-<p><img class="alignnone" src="http://i.gyazo.com/04183d4f3223a0fd96cba5570a853504.png" alt="" width="593" height="350" /></p>
-<p>Соответственно у вас должна быть сеть хранения данных, подключенная по FC, SAS или ISCSI (необходим ISCSI протокол версии не ниже iSCSI-3)</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/04183d4f3223a0fd96cba5570a853504.png" alt="" width="593" height="350" /></p>
+<p>Соответственно у вас должна быть сеть хранения данных, подключенная по FC, SAS или ISCSI (необходим <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> протокол версии не ниже iSCSI-3)</p>
 <p>Должна быть настроена LAN сеть на каждом узле кластера, и отдельная сеть между кластерами.</p>
 <p>На первом сервере включаем компонент &#171;отказоустойчивая кластеризация&#187;</p>
-<p><img class="alignnone" src="http://i.gyazo.com/aaca5bca9e949c3d7381265273e8e685.png" alt="" width="791" height="564" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/aaca5bca9e949c3d7381265273e8e685.png" alt="" width="791" height="564" /></p>
 <p>Нажимаем далее, и выбираем установить.</p>
 <p>По аналогии устанавливаем компонент на втором сервере.</p>
 <p>Перейдем на первый сервер и перейдем к созданию кластера.</p>
 <p>Открываем Диспетчер отказоустойчивости кластеров.</p>
 <p>Выбираем создать кластер</p>
-<p><img class="alignnone" src="http://i.gyazo.com/11340bc45a1ff1494b44b70100990fd7.png" alt="" width="345" height="130" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/11340bc45a1ff1494b44b70100990fd7.png" alt="" width="345" height="130" /></p>
 <p>Добавляем сервера (узлы кластера)</p>
-<p><img class="alignnone" src="http://i.gyazo.com/da2bca310064e92f8d3f3d7b3315e2d8.png" alt="" width="679" height="450" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/da2bca310064e92f8d3f3d7b3315e2d8.png" alt="" width="679" height="450" /></p>
 <p>Далее по желанию запускаем проверочные тесты.</p>
 <p>Вводим имя кластера и адреса.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/47e1e0996b963e0d341d1c6677d40a80.png" alt="" width="681" height="458" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/47e1e0996b963e0d341d1c6677d40a80.png" alt="" width="681" height="458" /></p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
 <!-- Home ittraveler --><br />
 <ins class="adsbygoogle"
@@ -279,26 +303,26 @@ body.custom-background { background-color: #cecece; }
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
 <p>Создаем кластер. Обязательно добавляем все допустимые хранилища.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/ec1c4a492bbcc9563ff7a00242864a54.png" alt="" width="680" height="451" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ec1c4a492bbcc9563ff7a00242864a54.png" alt="" width="680" height="451" /></p>
 <p>&nbsp;</p>
 <p>Дождитесь окончания работы мастера. Если мастер не находит узлы кластера, проверьте настройки брандмауэра или сети.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/15a712e7f5f4997b5c53bd6ff607b5fd.png" alt="" width="681" height="455" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/15a712e7f5f4997b5c53bd6ff607b5fd.png" alt="" width="681" height="455" /></p>
 <p>&nbsp;</p>
 <p>Далее в консоли должен появится созданный кластер.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/04fa80c76952ae75aa2e5e034be33319.png" alt="" width="186" height="169" /></p>
-<p>Добавляем роль ISCSI target на каждый узел кластера.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/dc68afe3b9cf2b7ee24af2d5d7c0ce30.png" alt="" width="793" height="564" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/04fa80c76952ae75aa2e5e034be33319.png" alt="" width="186" height="169" /></p>
+<p>Добавляем роль <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> target на каждый узел кластера.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dc68afe3b9cf2b7ee24af2d5d7c0ce30.png" alt="" width="793" height="564" /></p>
 <p>Дожидаемся установки компонента роли.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/6c6f36498b1907f1e8d30d7c72f15f14.png" alt="" width="795" height="563" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6c6f36498b1907f1e8d30d7c72f15f14.png" alt="" width="795" height="563" /></p>
 <p>Возвращаемся в консоль управления кластером, и добавляем новую роль кластера.</p>
 <p>Выбираем &#171;Настроить роль&#187;</p>
-<p><img class="alignnone" src="http://i.gyazo.com/508024471acbaed93cda69fc384f6ff7.png" alt="" width="310" height="205" /></p>
-<p>Выбираем роль ISCSI сервера</p>
-<p><img class="alignnone" src="http://i.gyazo.com/858c41d669b697e4ae3afe13e7b94a2b.png" alt="" width="678" height="467" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/508024471acbaed93cda69fc384f6ff7.png" alt="" width="310" height="205" /></p>
+<p>Выбираем роль <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> сервера</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/858c41d669b697e4ae3afe13e7b94a2b.png" alt="" width="678" height="467" /></p>
 <p>Указываем название кластера и сетевые адреса.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/dd63b0df5d7d44773b650725d6295723.png" alt="" width="681" height="469" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dd63b0df5d7d44773b650725d6295723.png" alt="" width="681" height="469" /></p>
 <p>Выбираем диск кластера.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/639618cd8c3dc37fabd896b1e2abb137.png" alt="" width="680" height="463" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/639618cd8c3dc37fabd896b1e2abb137.png" alt="" width="680" height="463" /></p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
 <!-- Home ittraveler --><br />
 <ins class="adsbygoogle"
@@ -310,40 +334,38 @@ body.custom-background { background-color: #cecece; }
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
 <p>Подтверждаем создание роли.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/eefb8a8a6a7c96015be0cfe70d15cc61.png" alt="" width="679" height="465" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/eefb8a8a6a7c96015be0cfe70d15cc61.png" alt="" width="679" height="465" /></p>
 <p>Дожидаемся установки роли.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/04e02e31221dbcb0b9d16d70011858b0.png" alt="" width="684" height="468" /></p>
-<p>Теперь перейдем к настройке ISCSI сервера.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/04e02e31221dbcb0b9d16d70011858b0.png" alt="" width="684" height="468" /></p>
+<p>Теперь перейдем к настройке <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> сервера.</p>
 <p>На одном из узлов кластера открываем диспетчер сервера, в нем открываем файловые службы и выбираем ISCSI.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/cfc72637729f07297ee2d67a13157dd3.png" alt="" width="327" height="324" /></p>
-<p>Запускаем мастер создания ISCSI диска.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/d57d5eefc212242b66f2824aed7ae4cc.png" alt="" width="358" height="153" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/cfc72637729f07297ee2d67a13157dd3.png" alt="" width="327" height="324" /></p>
+<p>Запускаем мастер создания <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> диска.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d57d5eefc212242b66f2824aed7ae4cc.png" alt="" width="358" height="153" /></p>
 <p>Выбираем кластер и общий кластерный диск.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/f180af7a2b3a3ed2066e08e8bd80aca5.png" alt="" width="708" height="533" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f180af7a2b3a3ed2066e08e8bd80aca5.png" alt="" width="708" height="533" /></p>
 <p>Вводим название диска.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/f081fa52be1c58f1e6e64e95d9be46b7.png" alt="" width="838" height="409" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f081fa52be1c58f1e6e64e95d9be46b7.png" alt="" width="838" height="409" /></p>
 <p>Указываем размер диска и его тип.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/4bd2e22fd43ce10a4a7585dccfb674a4.png" alt="" width="841" height="626" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4bd2e22fd43ce10a4a7585dccfb674a4.png" alt="" width="841" height="626" /></p>
 <p>Далее выбираем пункт &#8212; &#171;Новая цель ISCSI&#187;</p>
 <p>Далее вводим название цели ISCSI.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/b3de96d12ea497ddcc0ea96957e0eb82.png" alt="" width="842" height="413" /></p>
-<p>Указываем каким серверам можно подключаться к ISCSI цели.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/0086deb6072f5667282e1561530ad4bf.png" alt="" width="842" height="493" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b3de96d12ea497ddcc0ea96957e0eb82.png" alt="" width="842" height="413" /></p>
+<p>Указываем каким серверам можно подключаться к <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> цели.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0086deb6072f5667282e1561530ad4bf.png" alt="" width="842" height="493" /></p>
 <p>Указываем учетные данные для подключения.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/413944a3d38ebdf8029bb3c77c943d92.png" alt="" width="839" height="460" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/413944a3d38ebdf8029bb3c77c943d92.png" alt="" width="839" height="460" /></p>
 <p>Далее нажимаем &#171;Создать&#187; и ожидаем окончания работы мастера.</p>
-<p><img class="alignnone" src="http://i.gyazo.com/40af45f243648b1e7a63095406bb4fc4.png" alt="" width="490" height="174" /></p>
-<p>Готово! Теперь указанные клиенты могут подключаться к кластеру ISCSI. Для подключения нужно использовать DNS имя кластера.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/40af45f243648b1e7a63095406bb4fc4.png" alt="" width="490" height="174" /></p>
+<p>Готово! Теперь указанные клиенты могут подключаться к кластеру ISCSI. Для подключения нужно использовать <a href="../tag/dns/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DNS">DNS</a> имя кластера.</p>
 <p>Удачной установки!</p>
 <p>&nbsp;</p>
-
-<div class="wp_rp_wrap  wp_rp_plain" id="wp_rp_first"><div class="wp_rp_content"><h3 class="related_post_title">Похожие статьи</h3><ul class="related_post wp_rp"><li data-position="0" data-poid="in-452" data-post-type="none" ><a href="../index.html@p=452.html" class="wp_rp_title">Установка и настройка кластера MSSQL 2012.</a></li><li data-position="1" data-poid="in-457" data-post-type="none" ><a href="../index.html@p=457.html" class="wp_rp_title">Настройка HA кластера Hyper-V</a></li><li data-position="2" data-poid="in-660" data-post-type="none" ><a href="../index.html@p=660.html" class="wp_rp_title">Обновление Lync 2013 до Skype for Business</a></li><li data-position="3" data-poid="in-741" data-post-type="none" ><a href="../index.html@p=741.html" class="wp_rp_title">Установка и настройка дедупликации  на Windows Server 2012 R2</a></li><li data-position="4" data-poid="in-38" data-post-type="none" ><a href="../index.html@p=38.html" class="wp_rp_title">Аудит доменных служб Active Directory в Windows Server 2008 R2</a></li><li data-position="5" data-poid="in-948" data-post-type="none" ><a href="../index.html@p=948.html" class="wp_rp_title">Установка и настройка Scale-Out File Server + Storage Spaces Direct</a></li></ul></div></div>
-<div class="clear"></div>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=584.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Автоматический аудит компьютеров в Active Directory через powershell."  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Автоматический аудит компьютеров в Active Directory через powershell.</div></div></a><a class="relpost-block-single" href="../index.html@p=297.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Аудит DNS серверов на Windows Server 2008 R2 через Powershell"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Аудит DNS серверов на Windows Server 2008 R2 через Powershell</div></div></a><a class="relpost-block-single" href="../index.html@p=484.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Автоматизируем бэкап баз данных MSSQL Express"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Автоматизируем бэкап баз данных MSSQL Express</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
         <div class="post-info">
 
-            <div class="left"> <a href="../category/windows/page/1/index.html" rel="category tag">Windows</a>, <a href="../category/windows-server/page/1/index.html" rel="category tag">Windows Server</a> </div>
+            <div class="left"> <a href="../category/windows/index.html" rel="category tag">Windows</a>, <a href="../category/windows-server/index.html" rel="category tag">Windows Server</a> </div>
 
-            <div class="right"> Метки: <a href="../tag/cluster/index.html" rel="tag">Cluster</a>, <a href="../tag/iscsi/index.html" rel="tag">ISCSI</a>, <a href="../tag/windows-server/page/1/index.html" rel="tag">Windows Server</a>  </div>
+            <div class="right"> Метки: <a href="../tag/cluster/index.html" rel="tag">Cluster</a>, <a href="../tag/iscsi/index.html" rel="tag">ISCSI</a>, <a href="../tag/windows-server/index.html" rel="tag">Windows Server</a>  </div>
 
         </div>
 
@@ -375,7 +397,7 @@ body.custom-background { background-color: #cecece; }
     <section id="comment-1268" class="comment even thread-even depth-1 post-article" >
     
         <div class="comment-avatar">
-            <img alt='' src='http://1.gravatar.com/avatar/a65b09666aa4469330a3cd1f33a2ade3?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a65b09666aa4469330a3cd1f33a2ade3?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+            <img alt='' src='http://1.gravatar.com/avatar/a65b09666aa4469330a3cd1f33a2ade3?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a65b09666aa4469330a3cd1f33a2ade3?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>        </div>
          
         <div class="comment-text" style=" padding:15px; border:none">
             
@@ -384,7 +406,7 @@ body.custom-background { background-color: #cecece; }
                 <span class="author"><cite>Саян</cite></span>
                 <time datetime="2016-07-21T04:26:53+03:00" class="comment-date">  
                 <a href="../index.html@p=446.html#comment-1268">21.07.2016 в 04:26</a> - 
-                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=1268.html#respond' data-commentid="1268" data-postid="446" data-belowelement="comment-1268" data-respondelement="respond" aria-label='Комментарий к записи Саян'>Ответить</a>                                </time>
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=1268.html#respond' data-commentid="1268" data-postid="446" data-belowelement="comment-1268" data-respondelement="respond" data-replyto="Комментарий к записи Саян" aria-label='Комментарий к записи Саян'>Ответить</a>                                </time>
                 
             </header>
     
@@ -404,7 +426,7 @@ body.custom-background { background-color: #cecece; }
     <section id="comment-4159" class="comment byuser comment-author-mercury131 bypostauthor odd alt depth-2 post-article" >
     
         <div class="comment-avatar">
-            <img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+            <img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>        </div>
          
         <div class="comment-text" style=" padding:15px; border:none">
             
@@ -413,7 +435,7 @@ body.custom-background { background-color: #cecece; }
                 <span class="author"><cite>Admin</cite></span>
                 <time datetime="2017-04-24T12:13:32+03:00" class="comment-date">  
                 <a href="../index.html@p=446.html#comment-4159">24.04.2017 в 12:13</a> - 
-                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=4159.html#respond' data-commentid="4159" data-postid="446" data-belowelement="comment-4159" data-respondelement="respond" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=4159.html#respond' data-commentid="4159" data-postid="446" data-belowelement="comment-4159" data-respondelement="respond" data-replyto="Комментарий к записи Admin" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
                 
             </header>
     
@@ -435,7 +457,7 @@ body.custom-background { background-color: #cecece; }
     <section id="comment-3929" class="comment even thread-odd thread-alt depth-1 post-article" >
     
         <div class="comment-avatar">
-            <img alt='' src='http://1.gravatar.com/avatar/a07b276aaa408799a6a8ef505d678545?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a07b276aaa408799a6a8ef505d678545?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+            <img alt='' src='http://1.gravatar.com/avatar/a07b276aaa408799a6a8ef505d678545?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a07b276aaa408799a6a8ef505d678545?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>        </div>
          
         <div class="comment-text" style=" padding:15px; border:none">
             
@@ -444,7 +466,7 @@ body.custom-background { background-color: #cecece; }
                 <span class="author"><cite>Вячеслав</cite></span>
                 <time datetime="2017-04-04T06:06:23+03:00" class="comment-date">  
                 <a href="../index.html@p=446.html#comment-3929">04.04.2017 в 06:06</a> - 
-                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=3929.html#respond' data-commentid="3929" data-postid="446" data-belowelement="comment-3929" data-respondelement="respond" aria-label='Комментарий к записи Вячеслав'>Ответить</a>                                </time>
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=3929.html#respond' data-commentid="3929" data-postid="446" data-belowelement="comment-3929" data-respondelement="respond" data-replyto="Комментарий к записи Вячеслав" aria-label='Комментарий к записи Вячеслав'>Ответить</a>                                </time>
                 
             </header>
     
@@ -464,7 +486,7 @@ body.custom-background { background-color: #cecece; }
     <section id="comment-4145" class="comment byuser comment-author-mercury131 bypostauthor odd alt depth-2 post-article" >
     
         <div class="comment-avatar">
-            <img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />        </div>
+            <img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>        </div>
          
         <div class="comment-text" style=" padding:15px; border:none">
             
@@ -473,7 +495,7 @@ body.custom-background { background-color: #cecece; }
                 <span class="author"><cite>Admin</cite></span>
                 <time datetime="2017-04-24T11:48:47+03:00" class="comment-date">  
                 <a href="../index.html@p=446.html#comment-4145">24.04.2017 в 11:48</a> - 
-                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=4145.html#respond' data-commentid="4145" data-postid="446" data-belowelement="comment-4145" data-respondelement="respond" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
+                <a rel='nofollow' class='comment-reply-link' href='index.html@replytocom=4145.html#respond' data-commentid="4145" data-postid="446" data-belowelement="comment-4145" data-respondelement="respond" data-replyto="Комментарий к записи Admin" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
                 
             </header>
     
@@ -503,14 +525,12 @@ body.custom-background { background-color: #cecece; }
 <section class="col-md-12">
 	
 		<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Добавить комментарий для <a href="index.html@replytocom=4159.html#comment-4159">Admin</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="../index.html@p=446.html#respond">Отменить ответ</a></small></h3>			<form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
-				<p class="comment-notes"><span id="email-notes">Ваш e-mail не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
-<p class="comment-form-email"><label for="email">E-mail</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
+		<h3 id="reply-title" class="comment-reply-title">Добавить комментарий для <a href="index.html@replytocom=4159.html#comment-4159">Admin</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="../index.html@p=446.html#respond">Отменить ответ</a></small></h3><form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Ваш адрес email не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
+<p class="comment-form-email"><label for="email">Email</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='446' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='4159' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4dc3d324fb" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="158"/></p>			</form>
-			</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7c6b52ae9d" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="55"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->
@@ -553,7 +573,7 @@ body.custom-background { background-color: #cecece; }
                 <div class="copyright">
 
                     <p>
-                                                  Все права защищены. IT Traveler 2020 
+                                                  Все права защищены. IT Traveler 2022 
                          
                         
 																														                    
@@ -584,18 +604,17 @@ jQuery(document).ready(function($){
   $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"<-",next:"->",close:"Закрыть"});
 });
 </script>
-<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js@ver=5.2.5'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js@ver=1.11.4'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/ui/widget.min.js@ver=1.11.4'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/ui/tabs.min.js@ver=1.11.4'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.2.5'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.2.5'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.2.5'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.2.5'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.2.5'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
-<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js@ver=5.2.5'></script>
-<script async="async" type='text/javascript' src='http://ittraveler.org/wp-content/plugins/akismet/_inc/form.js?ver=4.1.2'></script>
+<script type='text/javascript' src='../wp-includes/js/comment-reply.min.js@ver=5.8.6' id='comment-reply-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js@ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/tabs.min.js@ver=1.12.1' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.8.6' id='jquery.easing.1.3-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.8.6' id='jquery.scrollTo-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.8.6' id='jquery.prettyPhoto-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.8.6' id='jquery.wip-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.8.6' id='jquery.tinynav-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9' id='jquery-colorbox-js'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min.js@ver=5.8.6' id='wp-embed-js'></script>
+<script defer type='text/javascript' src='http://ittraveler.org/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1669935051' id='akismet-frontend-js'></script>
   
 
 <!-- Yandex.Metrika counter -->
