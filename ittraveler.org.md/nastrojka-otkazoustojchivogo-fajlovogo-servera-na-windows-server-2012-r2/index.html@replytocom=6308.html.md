@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Создание пользователей Active Directory через CSV файлПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Решаем проблему внезапной блокировки учетной записиСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

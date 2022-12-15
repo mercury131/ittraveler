@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПеренос базы данных Active DirectoryСброс настроек GPO на стандартные
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILРешаем проблему внезапной блокировки учетной записиСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

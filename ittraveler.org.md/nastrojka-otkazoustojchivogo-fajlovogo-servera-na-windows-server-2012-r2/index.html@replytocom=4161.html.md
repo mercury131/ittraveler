@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереСоздание индивидуальных адресных книг в Office 365 и Exchange onlineКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Обновление схемы Active DirectoryУстановка и настройка Lync 2013Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание шаблонов Zabbix для Windows.
+Related posts:Создание пользователей Active Directory через CSV файлПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

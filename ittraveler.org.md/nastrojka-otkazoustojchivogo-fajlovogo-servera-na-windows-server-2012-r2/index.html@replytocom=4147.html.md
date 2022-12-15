@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleПринудительная синхронизация Office 365 и локальной Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Получаем MD5 файла или переменной в PowershellУдаление Lync Server 2013Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

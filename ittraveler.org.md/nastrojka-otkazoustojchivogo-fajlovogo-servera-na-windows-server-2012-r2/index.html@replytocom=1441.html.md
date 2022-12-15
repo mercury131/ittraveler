@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectПереход на репликацию SYSVOL по DFS
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Принудительная синхронизация контроллеров домена Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

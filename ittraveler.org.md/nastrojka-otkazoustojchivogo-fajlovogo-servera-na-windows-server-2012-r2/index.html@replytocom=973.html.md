@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellWindows WSL подключение к сетевым шарамНастройка Kerberos авторизации в Apache2
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Добавление UPN суффикса в Active DirectoryАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

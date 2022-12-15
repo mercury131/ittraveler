@@ -115,7 +115,7 @@
 Проверяем настройки, и запускаем процесс создания виртуальной машины.
 На этом базовую настройку Vcenter можно считать законченной.
 В следующей статье мы рассмотрим настройку HA и многое другое.
-Related posts:Установка и настройка VMWare Vsphere 6. Часть 5Кастомизация гостевых ОС Windows в KVM на примере ProxmoxLVM Добавляем место на диске в виртуальной среде
+Related posts:Запуск команд внутри гостевых ОС в гипервизоре KVM на примере ProxmoxKVM восстановление qcow2 дискаУстановка и настройка VMWare Vsphere 6. Часть 5
  Виртуализация 
  Метки: vmware, vsphere  
                         
@@ -215,7 +215,6 @@ data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
   
 Все права защищены. IT Traveler 2022 
-> --> gigastudio.com 												                    
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});

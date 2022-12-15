@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellОтключение Skype UI в Lync 2013Аудит изменений в Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Принудительная синхронизация контроллеров домена Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

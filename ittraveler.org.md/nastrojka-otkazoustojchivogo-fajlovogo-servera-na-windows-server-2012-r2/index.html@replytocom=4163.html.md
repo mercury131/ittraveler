@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxПереход на репликацию SYSVOL по DFS
+Related posts:Автоматическая активация пользователей Lync через PowershellПринудительная синхронизация контроллеров домена Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

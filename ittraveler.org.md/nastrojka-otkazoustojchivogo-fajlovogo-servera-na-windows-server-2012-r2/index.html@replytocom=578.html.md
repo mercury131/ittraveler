@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка AlwaysOn на MS SQL 2016Создание пользователей Active Directory через CSV файл
+Related posts:Передача и захват ролей FSMOАудит изменений групповых политик через PowerShellУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

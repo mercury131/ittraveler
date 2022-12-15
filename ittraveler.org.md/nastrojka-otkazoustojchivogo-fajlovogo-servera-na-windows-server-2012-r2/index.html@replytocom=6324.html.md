@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУдаление Lync Server 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Удаление Lync Server 2013Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

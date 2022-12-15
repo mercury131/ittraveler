@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryОтключение Skype UI в Lync 2013Передача и захват ролей FSMO
+Related posts:Удаление Lync Server 2013Установка и настройка AlwaysOn на MS SQL 2016Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

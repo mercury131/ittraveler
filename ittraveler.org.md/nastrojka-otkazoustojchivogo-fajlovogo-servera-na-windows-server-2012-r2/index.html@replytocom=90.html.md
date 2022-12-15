@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VАвтоматизируем бэкап баз данных MSSQL ExpressКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

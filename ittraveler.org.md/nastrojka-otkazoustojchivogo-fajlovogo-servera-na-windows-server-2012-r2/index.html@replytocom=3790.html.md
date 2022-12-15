@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматический аудит компьютеров в Active Directory через powershell.Получаем MD5 файла или переменной в Powershell
+Related posts:Удаление Lync Server 2013Подключение к Office 365 через Powershell и зашифрованный парольАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

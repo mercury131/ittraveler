@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПоиск старых почтовых ящиков в Exchange 2010Переход на репликацию SYSVOL по DFS
+Related posts:Отключение Skype UI в Lync 2013Аудит доменных служб Active Directory в Windows Server 2008 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка дедупликации  на Windows Server 2012 R2Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

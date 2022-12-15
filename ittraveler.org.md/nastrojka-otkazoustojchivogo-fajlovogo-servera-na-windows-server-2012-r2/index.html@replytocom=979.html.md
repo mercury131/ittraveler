@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамСоздание шаблонов Zabbix для Windows.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Аудит изменений в Active DirectoryАктивируем LDAP over SSLАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

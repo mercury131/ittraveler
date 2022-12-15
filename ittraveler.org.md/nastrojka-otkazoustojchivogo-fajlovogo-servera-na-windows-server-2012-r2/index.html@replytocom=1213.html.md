@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУправление репликацией Active DirectoryВключение корзины Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellПоиск старых почтовых ящиков в Exchange 2010Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

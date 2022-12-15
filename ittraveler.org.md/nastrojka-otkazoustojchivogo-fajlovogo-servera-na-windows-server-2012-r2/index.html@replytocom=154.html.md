@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка Scale-Out File Server + Storage Spaces DirectПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Автоматическая активация пользователей Lync через PowershellПереход на репликацию SYSVOL по DFSАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

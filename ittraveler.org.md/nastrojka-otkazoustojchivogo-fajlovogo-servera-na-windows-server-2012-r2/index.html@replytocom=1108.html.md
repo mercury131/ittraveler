@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryВключение корзины Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Обновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

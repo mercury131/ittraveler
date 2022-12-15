@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTОбновление схемы Active Directory
+Related posts:Сброс настроек GPO на стандартныеСоздание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
