@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматизируем бэкап баз данных MSSQL ExpressПереход на репликацию SYSVOL по DFS
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание индивидуальных адресных книг в Office 365 и Exchange onlineОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНастройка HA кластера Hyper-VАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка кластера MSSQL 2012.Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

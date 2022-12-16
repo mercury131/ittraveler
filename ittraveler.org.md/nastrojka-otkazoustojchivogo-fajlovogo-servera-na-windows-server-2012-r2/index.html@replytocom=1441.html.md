@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Принудительная синхронизация контроллеров домена Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка Lync 2013Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

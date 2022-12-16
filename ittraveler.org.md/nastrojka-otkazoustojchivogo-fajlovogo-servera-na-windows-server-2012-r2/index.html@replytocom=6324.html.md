@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Передача и захват ролей FSMOКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

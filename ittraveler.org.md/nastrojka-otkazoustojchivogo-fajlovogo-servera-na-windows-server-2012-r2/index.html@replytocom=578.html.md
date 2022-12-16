@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOАудит изменений групповых политик через PowerShellУстановка RSAT на Windows 10 1809
+Related posts:Новые компьютеры не появляются на WSUS сервереСброс пароля администратора Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

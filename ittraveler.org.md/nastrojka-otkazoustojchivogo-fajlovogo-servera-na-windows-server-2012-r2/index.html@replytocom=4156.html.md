@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Аудит доменных служб Active Directory в Windows Server 2008 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Решаем проблему внезапной блокировки учетной записиУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

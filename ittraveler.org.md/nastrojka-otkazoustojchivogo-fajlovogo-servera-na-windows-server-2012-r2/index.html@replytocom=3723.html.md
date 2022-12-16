@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Обновление Lync 2013 до Skype for BusinessСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

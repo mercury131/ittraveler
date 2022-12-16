@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryУстановка и настройка Lync 2013Сброс пароля компьютера в домене без перезагрузки
+Related posts:Переход на репликацию SYSVOL по DFSНастройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
