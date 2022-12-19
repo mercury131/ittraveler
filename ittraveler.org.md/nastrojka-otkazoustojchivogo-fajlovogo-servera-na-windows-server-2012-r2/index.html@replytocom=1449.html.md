@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Active Directory + Thunderbird = Общая адресная книга
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVНастройка Kerberos авторизации в Apache2Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

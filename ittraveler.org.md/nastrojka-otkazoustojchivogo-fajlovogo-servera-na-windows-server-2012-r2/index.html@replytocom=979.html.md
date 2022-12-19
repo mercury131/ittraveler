@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка растянутого кластера (stretch-cluster) на Windows server 2016Переход на репликацию SYSVOL по DFS
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание шаблонов Zabbix для Windows.Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

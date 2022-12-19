@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Аудит изменений групповых политик через PowerShellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка AnsibleОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

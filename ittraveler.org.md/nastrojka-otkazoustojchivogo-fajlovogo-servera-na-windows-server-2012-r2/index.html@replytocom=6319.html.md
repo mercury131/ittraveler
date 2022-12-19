@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПередача и захват ролей FSMOАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка AnsibleДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

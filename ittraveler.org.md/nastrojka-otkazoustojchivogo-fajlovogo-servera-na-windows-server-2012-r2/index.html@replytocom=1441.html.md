@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Установка и настройка дедупликации  на Windows Server 2012 R2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка кластера MSSQL 2012.Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

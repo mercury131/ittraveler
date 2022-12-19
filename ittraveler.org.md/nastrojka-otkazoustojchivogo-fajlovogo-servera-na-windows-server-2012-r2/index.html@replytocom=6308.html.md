@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереПодключение к Office 365 через Powershell и зашифрованный парольАудит изменений в Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Новые компьютеры не появляются на WSUS сервереАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

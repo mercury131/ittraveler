@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Получаем MD5 файла или переменной в PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Настройка Kerberos авторизации в Apache2Назначение служб для сертификатов Exchange через Powershell.Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

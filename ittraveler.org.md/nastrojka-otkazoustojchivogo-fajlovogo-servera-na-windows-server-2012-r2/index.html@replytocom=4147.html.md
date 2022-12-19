@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Сброс настроек GPO на стандартныеНастройка Kerberos авторизации в Apache2
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит незаполненных полей в Active Directory через PowershellСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

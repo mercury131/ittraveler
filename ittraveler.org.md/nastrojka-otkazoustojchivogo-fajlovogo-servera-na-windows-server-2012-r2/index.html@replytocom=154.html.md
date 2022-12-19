@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellНастройка Kerberos авторизации в Apache2Установка RSAT на Windows 10 1809
+Related posts:Настройка HA кластера Hyper-VАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryУстановка и настройка Lync 2013Аудит изменений в Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит изменений в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

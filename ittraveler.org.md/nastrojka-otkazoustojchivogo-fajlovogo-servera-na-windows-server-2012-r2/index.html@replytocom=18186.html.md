@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАктивируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMOЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

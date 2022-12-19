@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Переход на репликацию SYSVOL по DFSПолучаем MD5 файла или переменной в Powershell
+Related posts:Обновление схемы Active DirectoryWindows WSL подключение к сетевым шарамУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Установка и настройка дедупликации  на Windows Server 2012 R2Аудит изменений в Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит DNS серверов на Windows Server 2008 R2 через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

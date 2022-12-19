@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellПереход на репликацию SYSVOL по DFSУстановка и настройка Ansible
+Related posts:Windows WSL подключение к сетевым шарамНастройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

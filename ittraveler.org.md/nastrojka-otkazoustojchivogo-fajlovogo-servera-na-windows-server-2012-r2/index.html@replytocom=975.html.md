@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание email рассылки через Powershell
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит доменных служб Active Directory в Windows Server 2008 R2Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryУправление репликацией Active DirectoryПередача и захват ролей FSMO
+Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений в Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

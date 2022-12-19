@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VActive Directory + Thunderbird = Общая адресная книгаСоздание email рассылки через Powershell
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание email рассылки через PowershellОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

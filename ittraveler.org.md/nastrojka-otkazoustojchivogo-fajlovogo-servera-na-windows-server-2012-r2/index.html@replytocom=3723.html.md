@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Аудит доменных служб Active Directory в Windows Server 2008 R2Обновление схемы Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSLАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
