@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит незаполненных полей в Active Directory через PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка AnsibleДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

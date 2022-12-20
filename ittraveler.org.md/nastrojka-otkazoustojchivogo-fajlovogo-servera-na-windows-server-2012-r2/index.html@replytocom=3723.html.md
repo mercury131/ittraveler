@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSLАудит незаполненных полей в Active Directory через Powershell
+Related posts:Автоматическая активация пользователей Lync через PowershellУправление репликацией Active DirectoryСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

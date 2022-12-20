@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка AnsibleАудит изменений в Active Directory
+Related posts:Решаем проблему внезапной блокировки учетной записиАудит доменных служб Active Directory в Windows Server 2008 R2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

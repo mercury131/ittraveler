@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Назначение служб для сертификатов Exchange через Powershell.Сброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка HA кластера Hyper-VУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

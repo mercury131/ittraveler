@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryОбновление Lync 2013 до Skype for BusinessОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

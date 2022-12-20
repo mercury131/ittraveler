@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVНастройка Kerberos авторизации в Apache2Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Добавление почтовых контактов в Office 365 через Powershell и CSVПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка AnsibleОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Настройка HA кластера Hyper-VДобавление почтовых контактов в Office 365 через Powershell и CSVОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

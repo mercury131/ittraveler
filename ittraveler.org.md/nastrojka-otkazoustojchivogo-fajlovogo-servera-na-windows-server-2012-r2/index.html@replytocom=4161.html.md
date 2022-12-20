@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений в Active DirectoryУстановка и настройка Ansible
+Related posts:Установка и настройка AnsibleУстановка RSAT на Windows 10 1809Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

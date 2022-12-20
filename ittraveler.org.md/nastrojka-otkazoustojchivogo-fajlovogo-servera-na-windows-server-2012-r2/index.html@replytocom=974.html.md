@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellАудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Установка и настройка Lync 2013Сброс пароля администратора Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

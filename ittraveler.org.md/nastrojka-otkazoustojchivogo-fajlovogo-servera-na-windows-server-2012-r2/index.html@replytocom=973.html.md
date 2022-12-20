@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellНастройка Kerberos авторизации в Apache2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Автоматическая активация пользователей Lync через PowershellАудит изменений в Active DirectoryПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

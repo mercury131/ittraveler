@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Обновление Lync 2013 до Skype for BusinessУстановка и настройка Lync 2013
+Related posts:Сброс настроек GPO на стандартныеПередача и захват ролей FSMOПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

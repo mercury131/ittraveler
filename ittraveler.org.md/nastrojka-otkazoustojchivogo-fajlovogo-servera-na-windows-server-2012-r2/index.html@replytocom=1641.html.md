@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Получаем MD5 файла или переменной в PowershellСброс пароля компьютера в домене без перезагрузки
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectНастройка HA кластера Hyper-VНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит доменных служб Active Directory в Windows Server 2008 R2Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

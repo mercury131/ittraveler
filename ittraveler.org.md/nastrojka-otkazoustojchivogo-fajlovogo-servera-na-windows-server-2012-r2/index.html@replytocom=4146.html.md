@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Отключение Skype UI в Lync 2013
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка Lync 2013Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

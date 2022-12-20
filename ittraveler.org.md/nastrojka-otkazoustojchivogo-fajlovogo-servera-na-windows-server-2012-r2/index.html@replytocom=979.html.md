@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание шаблонов Zabbix для Windows.Сброс настроек GPO на стандартные
+Related posts:Удаление Lync Server 2013Аудит изменений в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

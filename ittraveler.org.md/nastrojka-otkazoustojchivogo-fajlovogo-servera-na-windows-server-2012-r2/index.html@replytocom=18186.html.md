@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMOЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Передача и захват ролей FSMOДобавление UPN суффикса в Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Новые компьютеры не появляются на WSUS сервереАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматическая активация пользователей Lync через PowershellВосстановление объектов Active Directory: сборник сценариевНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Принудительная синхронизация Office 365 и локальной Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

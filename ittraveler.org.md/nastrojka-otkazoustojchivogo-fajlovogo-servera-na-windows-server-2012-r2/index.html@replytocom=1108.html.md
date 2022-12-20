@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка растянутого кластера (stretch-cluster) на Windows server 2016Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Сброс пароля администратора Active DirectoryСоздание email рассылки через PowershellИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
