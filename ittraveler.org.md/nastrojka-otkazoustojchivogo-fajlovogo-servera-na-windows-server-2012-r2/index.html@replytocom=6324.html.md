@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевУдаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книга
+Related posts:Изменение UPN суффикса в Active Directory через PowershellОбновление схемы Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Аудит изменений в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Удаление Lync Server 2013Создание пользователей Active Directory через CSV файлАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
