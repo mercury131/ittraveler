@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMOРешаем проблему внезапной блокировки учетной записи
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАудит изменений в Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
