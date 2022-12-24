@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Новые компьютеры не появляются на WSUS сервереПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПолучаем MD5 файла или переменной в PowershellУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

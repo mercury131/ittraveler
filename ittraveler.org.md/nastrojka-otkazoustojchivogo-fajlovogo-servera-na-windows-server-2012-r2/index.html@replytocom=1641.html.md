@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамАктивируем LDAP over SSLСоздание email рассылки через Powershell
+Related posts:Настройка Kerberos авторизации в Apache2Добавление UPN суффикса в Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

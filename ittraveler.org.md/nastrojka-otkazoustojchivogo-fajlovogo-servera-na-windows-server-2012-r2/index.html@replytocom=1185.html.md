@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСброс пароля администратора Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Установка и настройка кластера MSSQL 2012.Автоматический аудит компьютеров в Active Directory через powershell.Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

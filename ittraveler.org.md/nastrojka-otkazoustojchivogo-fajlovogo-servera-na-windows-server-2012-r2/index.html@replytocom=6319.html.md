@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПодключение к Office 365 через Powershell и зашифрованный парольКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

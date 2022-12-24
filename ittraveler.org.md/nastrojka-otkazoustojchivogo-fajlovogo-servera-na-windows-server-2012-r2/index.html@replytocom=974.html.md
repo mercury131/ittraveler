@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.Сброс настроек GPO на стандартные
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Добавление почтовых контактов в Office 365 через Powershell и CSVВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

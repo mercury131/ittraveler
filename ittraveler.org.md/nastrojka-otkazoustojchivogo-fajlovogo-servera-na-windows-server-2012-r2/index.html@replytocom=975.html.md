@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Управление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Автоматическая активация пользователей Lync через PowershellНазначение служб для сертификатов Exchange через Powershell.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

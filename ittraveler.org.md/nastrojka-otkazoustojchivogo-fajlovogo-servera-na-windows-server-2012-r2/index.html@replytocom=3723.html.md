@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиДобавление UPN суффикса в Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Установка и настройка Lync 2013Принудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

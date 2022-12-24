@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active Directory
+Related posts:Настройка HA кластера Hyper-VАудит изменений групповых политик через PowerShellОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

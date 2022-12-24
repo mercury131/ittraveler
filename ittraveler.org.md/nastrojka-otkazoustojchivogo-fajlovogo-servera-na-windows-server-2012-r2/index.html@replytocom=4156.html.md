@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryПереход на репликацию SYSVOL по DFSАудит изменений групповых политик через PowerShell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Управление репликацией Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

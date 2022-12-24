@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка RSAT на Windows 10 1809
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит DNS серверов на Windows Server 2008 R2 через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

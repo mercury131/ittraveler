@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Аудит изменений групповых политик через PowerShellАвтоматизируем бэкап баз данных MSSQL ExpressОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

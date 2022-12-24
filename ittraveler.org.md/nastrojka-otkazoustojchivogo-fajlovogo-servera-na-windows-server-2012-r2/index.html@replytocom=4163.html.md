@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Добавление почтовых контактов в Office 365 через Powershell и CSVАудит незаполненных полей в Active Directory через Powershell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание email рассылки через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
