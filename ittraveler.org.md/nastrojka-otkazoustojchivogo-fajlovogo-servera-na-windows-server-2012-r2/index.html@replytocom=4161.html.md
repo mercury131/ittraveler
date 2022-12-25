@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLАвтоматическая активация пользователей Lync через PowershellПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellУправление репликацией Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
