@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПодключение к Office 365 через Powershell и зашифрованный парольНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Отключение Skype UI в Lync 2013Настройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressActive Directory + Thunderbird = Общая адресная книга
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматическая активация пользователей Lync через PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

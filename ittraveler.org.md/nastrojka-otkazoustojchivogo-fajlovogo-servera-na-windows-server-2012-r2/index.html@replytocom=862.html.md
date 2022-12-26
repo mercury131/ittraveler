@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Активируем LDAP over SSLУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
