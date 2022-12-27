@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Активируем LDAP over SSL
+Related posts:Создание пользователей Active Directory через CSV файлОтключение Skype UI в Lync 2013Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

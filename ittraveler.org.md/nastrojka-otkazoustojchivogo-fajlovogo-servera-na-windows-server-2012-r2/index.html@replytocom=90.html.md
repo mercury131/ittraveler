@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиАктивируем LDAP over SSLНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Сброс настроек GPO на стандартныеАвтоматическая активация пользователей Lync через PowershellПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

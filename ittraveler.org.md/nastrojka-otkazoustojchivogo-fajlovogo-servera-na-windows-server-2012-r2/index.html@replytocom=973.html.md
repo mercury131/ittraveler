@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Настройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книга
+Related posts:Сброс пароля администратора Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
