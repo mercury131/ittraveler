@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеАвтоматическая активация пользователей Lync через PowershellПередача и захват ролей FSMO
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Удаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
