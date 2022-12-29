@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит изменений в Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Обновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка RSAT на Windows 10 1809
+Related posts:Установка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

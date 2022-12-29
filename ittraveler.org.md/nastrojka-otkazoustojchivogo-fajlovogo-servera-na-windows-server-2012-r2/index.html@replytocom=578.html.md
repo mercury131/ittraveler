@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПередача и захват ролей FSMOРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxНовые компьютеры не появляются на WSUS сервере
+Related posts:Новые компьютеры не появляются на WSUS сервереУправление репликацией Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

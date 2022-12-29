@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Передача и захват ролей FSMOПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

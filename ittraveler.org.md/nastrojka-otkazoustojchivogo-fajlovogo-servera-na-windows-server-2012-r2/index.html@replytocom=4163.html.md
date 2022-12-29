@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Включение корзины Active DirectoryУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСброс пароля компьютера в домене без перезагрузкиНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

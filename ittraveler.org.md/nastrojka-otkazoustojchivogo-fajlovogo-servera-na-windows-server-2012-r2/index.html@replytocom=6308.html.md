@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеСоздание email рассылки через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Установка и настройка Lync 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

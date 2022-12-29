@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Удаление Lync Server 2013Новые компьютеры не появляются на WSUS сервереАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

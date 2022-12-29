@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessНастройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит изменений в Active Directory
+Related posts:Отключение Skype UI в Lync 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

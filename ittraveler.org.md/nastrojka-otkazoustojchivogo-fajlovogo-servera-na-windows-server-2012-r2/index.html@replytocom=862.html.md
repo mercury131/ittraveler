@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАвтоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через Powershell
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Удаление Lync Server 2013Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Удаление Lync Server 2013Аудит незаполненных полей в Active Directory через PowershellДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

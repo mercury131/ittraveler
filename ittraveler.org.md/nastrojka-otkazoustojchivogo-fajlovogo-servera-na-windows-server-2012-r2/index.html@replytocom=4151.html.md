@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевАудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Перенос базы данных Active DirectoryПередача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

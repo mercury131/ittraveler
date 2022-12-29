@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Решаем проблему внезапной блокировки учетной записиАктивируем LDAP over SSL
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит доменных служб Active Directory в Windows Server 2008 R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

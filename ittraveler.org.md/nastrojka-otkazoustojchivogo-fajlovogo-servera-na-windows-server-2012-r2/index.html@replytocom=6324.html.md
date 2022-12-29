@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Настройка HA кластера Hyper-VАвтоматический аудит компьютеров в Active Directory через powershell.Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

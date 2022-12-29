@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАвтоматизируем бэкап баз данных MSSQL ExpressДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

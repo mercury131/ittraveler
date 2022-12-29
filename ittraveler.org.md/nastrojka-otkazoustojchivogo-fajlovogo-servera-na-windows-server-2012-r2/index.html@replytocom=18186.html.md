@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Решаем проблему внезапной блокировки учетной записиПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

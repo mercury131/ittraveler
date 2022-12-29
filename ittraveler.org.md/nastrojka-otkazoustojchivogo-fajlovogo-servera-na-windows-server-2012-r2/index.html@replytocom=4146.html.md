@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через PowershellПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

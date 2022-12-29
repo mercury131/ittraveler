@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Создание шаблонов Zabbix для Windows.Сброс настроек GPO на стандартные
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Перенос базы данных Active DirectoryПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

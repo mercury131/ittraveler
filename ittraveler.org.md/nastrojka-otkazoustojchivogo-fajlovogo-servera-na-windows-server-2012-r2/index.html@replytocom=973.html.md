@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСброс пароля компьютера в домене без перезагрузкиПолучаем MD5 файла или переменной в Powershell
+Related posts:Отключение Skype UI в Lync 2013Управление репликацией Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
