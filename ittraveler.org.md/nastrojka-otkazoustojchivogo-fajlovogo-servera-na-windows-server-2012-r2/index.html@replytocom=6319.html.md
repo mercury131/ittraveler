@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереУправление репликацией Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Передача и захват ролей FSMOСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

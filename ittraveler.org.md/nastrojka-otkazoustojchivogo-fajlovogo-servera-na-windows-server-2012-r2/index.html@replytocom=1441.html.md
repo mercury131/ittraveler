@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит доменных служб Active Directory в Windows Server 2008 R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУправление репликацией Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

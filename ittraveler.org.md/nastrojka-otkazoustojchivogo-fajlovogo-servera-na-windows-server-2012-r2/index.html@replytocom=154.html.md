@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

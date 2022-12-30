@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryПередача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Включение корзины Active DirectoryСоздание пользователей Active Directory через CSV файлОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

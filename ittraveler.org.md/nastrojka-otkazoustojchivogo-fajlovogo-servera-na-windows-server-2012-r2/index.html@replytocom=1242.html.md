@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013Сброс настроек GPO на стандартные
+Related posts:Передача и захват ролей FSMOОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

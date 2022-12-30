@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаНастройка HA кластера Hyper-VНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Обновление Lync 2013 до Skype for BusinessКак узнать WWN (World Wide Name)  в Windows Server 2012R2Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

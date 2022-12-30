@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Включение корзины Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Аудит изменений групповых политик через PowerShellСброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Решаем проблему внезапной блокировки учетной записиПолучаем MD5 файла или переменной в Powershell
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАктивируем LDAP over SSLПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
