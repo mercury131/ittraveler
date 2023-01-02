@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Перенос базы данных Active DirectoryСброс настроек GPO на стандартные
+Related posts:Установка и настройка кластера MSSQL 2012.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Аудит изменений в Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Принудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

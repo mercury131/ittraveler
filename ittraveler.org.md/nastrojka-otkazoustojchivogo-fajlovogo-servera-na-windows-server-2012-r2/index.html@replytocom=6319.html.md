@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУправление репликацией Active DirectoryПеренос базы данных Active Directory
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс настроек GPO на стандартныеАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

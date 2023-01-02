@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellСоздание пользователей Active Directory через CSV файлАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

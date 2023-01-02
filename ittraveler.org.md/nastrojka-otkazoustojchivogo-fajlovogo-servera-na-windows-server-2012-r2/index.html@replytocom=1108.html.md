@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит доменных служб Active Directory в Windows Server 2008 R2Получаем MD5 файла или переменной в Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

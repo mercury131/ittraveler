@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Принудительная синхронизация Office 365 и локальной Active DirectoryСброс пароля администратора Active Directory
+Related posts:Решаем проблему внезапной блокировки учетной записиАудит незаполненных полей в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание email рассылки через PowershellОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

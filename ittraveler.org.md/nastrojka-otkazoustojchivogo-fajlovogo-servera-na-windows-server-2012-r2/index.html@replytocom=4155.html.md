@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellВосстановление объектов Active Directory: сборник сценариевСброс пароля компьютера в домене без перезагрузки
+Related posts:Сброс настроек GPO на стандартныеПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleУстановка и настройка дедупликации  на Windows Server 2012 R2Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Перенос базы данных Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

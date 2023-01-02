@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка AnsibleСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка Lync 2013Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

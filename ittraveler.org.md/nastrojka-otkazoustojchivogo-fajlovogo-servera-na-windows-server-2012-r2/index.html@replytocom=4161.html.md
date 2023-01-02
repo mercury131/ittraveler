@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSАудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Ansible
+Related posts:Обновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

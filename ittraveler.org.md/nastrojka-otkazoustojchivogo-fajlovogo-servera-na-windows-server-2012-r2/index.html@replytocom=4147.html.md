@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУправление репликацией Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПередача и захват ролей FSMOДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

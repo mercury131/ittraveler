@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереПередача и захват ролей FSMOКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Удаление Lync Server 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

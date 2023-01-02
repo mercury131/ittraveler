@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Обновление Lync 2013 до Skype for BusinessУстановка и настройка Ansible
+Related posts:Создание пользователей Active Directory через CSV файлСброс настроек GPO на стандартныеНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

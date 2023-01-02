@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

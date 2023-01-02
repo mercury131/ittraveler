@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматическая активация пользователей Lync через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

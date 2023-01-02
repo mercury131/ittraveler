@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryАудит изменений групповых политик через PowerShellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Передача и захват ролей FSMOСоздание email рассылки через PowershellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

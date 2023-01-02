@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Windows WSL подключение к сетевым шарамУстановка и настройка кластера MSSQL 2012.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

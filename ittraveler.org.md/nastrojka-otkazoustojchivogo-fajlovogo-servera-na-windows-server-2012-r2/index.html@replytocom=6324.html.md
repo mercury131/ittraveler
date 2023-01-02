@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Обновление Lync 2013 до Skype for BusinessРешаем проблему внезапной блокировки учетной записи
+Related posts:Установка RSAT на Windows 10 1809Управление репликацией Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

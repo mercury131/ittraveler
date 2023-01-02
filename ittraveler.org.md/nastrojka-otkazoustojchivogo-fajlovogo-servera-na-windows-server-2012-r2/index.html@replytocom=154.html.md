@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryСоздание пользователей Active Directory через CSV файлДобавление UPN суффикса в Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Windows WSL подключение к сетевым шарамНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
