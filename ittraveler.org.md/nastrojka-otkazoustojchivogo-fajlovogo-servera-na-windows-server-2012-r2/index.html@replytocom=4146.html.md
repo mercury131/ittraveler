@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПодключение к Office 365 через Powershell и зашифрованный парольОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

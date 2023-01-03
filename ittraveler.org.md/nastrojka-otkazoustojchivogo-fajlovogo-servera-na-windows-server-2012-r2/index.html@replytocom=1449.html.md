@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Решаем проблему внезапной блокировки учетной записи
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка AnsibleПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

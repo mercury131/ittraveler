@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлСброс настроек GPO на стандартныеНастройка HA кластера Hyper-V
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILОтключение Skype UI в Lync 2013Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

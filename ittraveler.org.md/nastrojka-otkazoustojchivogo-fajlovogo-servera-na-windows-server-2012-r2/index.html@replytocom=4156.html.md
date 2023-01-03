@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOСоздание email рассылки через PowershellУправление репликацией Active Directory
+Related posts:Передача и захват ролей FSMOНовые компьютеры не появляются на WSUS сервереЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка кластера MSSQL 2012.Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

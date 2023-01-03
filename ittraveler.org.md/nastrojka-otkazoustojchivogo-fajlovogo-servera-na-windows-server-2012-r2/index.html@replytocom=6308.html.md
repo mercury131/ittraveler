@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание email рассылки через PowershellОбновление Lync 2013 до Skype for Business
+Related posts:Включение корзины Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

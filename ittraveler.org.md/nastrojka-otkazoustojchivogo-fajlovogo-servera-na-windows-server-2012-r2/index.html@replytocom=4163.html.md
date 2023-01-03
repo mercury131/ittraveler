@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Обновление схемы Active Directory
+Related posts:Установка RSAT на Windows 10 1809Аудит изменений групповых политик через PowerShellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

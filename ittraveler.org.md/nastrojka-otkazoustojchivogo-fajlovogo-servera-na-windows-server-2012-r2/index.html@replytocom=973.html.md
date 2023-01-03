@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSL
+Related posts:Создание email рассылки через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

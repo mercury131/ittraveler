@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка кластера MSSQL 2012.
+Related posts:Включение корзины Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
