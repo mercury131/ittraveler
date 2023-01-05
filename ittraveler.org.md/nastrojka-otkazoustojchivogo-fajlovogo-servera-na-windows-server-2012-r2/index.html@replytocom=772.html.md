@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Настройка HA кластера Hyper-VАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Передача и захват ролей FSMOРешаем проблему внезапной блокировки учетной записиАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
