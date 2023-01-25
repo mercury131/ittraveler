@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Добавление UPN суффикса в Active Directory
+Related posts:Переход на репликацию SYSVOL по DFSПолучаем MD5 файла или переменной в PowershellОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
