@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILПереход на репликацию SYSVOL по DFS
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание шаблонов Zabbix для Windows.Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
