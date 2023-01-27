@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLАвтоматизируем бэкап баз данных MSSQL ExpressПередача и захват ролей FSMO
+Related posts:Аудит изменений групповых политик через PowerShellНастройка Kerberos авторизации в Apache2Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

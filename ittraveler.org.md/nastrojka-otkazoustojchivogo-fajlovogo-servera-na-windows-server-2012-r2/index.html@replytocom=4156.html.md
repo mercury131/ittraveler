@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУдаление Lync Server 2013Обновление Lync 2013 до Skype for Business
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Управление репликацией Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

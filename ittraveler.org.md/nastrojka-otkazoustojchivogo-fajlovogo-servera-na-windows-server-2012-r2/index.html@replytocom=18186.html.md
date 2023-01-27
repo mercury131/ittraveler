@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Сброс настроек GPO на стандартныеИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Аудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

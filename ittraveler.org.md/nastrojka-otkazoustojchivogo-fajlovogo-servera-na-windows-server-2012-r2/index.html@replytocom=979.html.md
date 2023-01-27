@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOАудит изменений в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Windows WSL подключение к сетевым шарамАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
