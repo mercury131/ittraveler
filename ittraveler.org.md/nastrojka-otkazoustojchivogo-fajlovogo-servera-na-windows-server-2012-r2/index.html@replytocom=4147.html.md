@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleПереход на репликацию SYSVOL по DFSСоздание шаблонов Zabbix для Windows.
+Related posts:Получаем MD5 файла или переменной в PowershellНастройка HA кластера Hyper-VУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

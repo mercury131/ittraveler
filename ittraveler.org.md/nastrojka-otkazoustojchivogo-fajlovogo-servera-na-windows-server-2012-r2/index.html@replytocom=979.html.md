@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Windows WSL подключение к сетевым шарамАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

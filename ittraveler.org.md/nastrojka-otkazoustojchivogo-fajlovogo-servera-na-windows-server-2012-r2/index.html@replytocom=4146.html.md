@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellСброс пароля администратора Active DirectoryПереход на репликацию SYSVOL по DFS
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка RSAT на Windows 10 1809Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryДобавление UPN суффикса в Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

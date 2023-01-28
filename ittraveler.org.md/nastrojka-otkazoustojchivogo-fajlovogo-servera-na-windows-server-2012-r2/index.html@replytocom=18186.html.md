@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записи
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПередача и захват ролей FSMOActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит доменных служб Active Directory в Windows Server 2008 R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПолучаем MD5 файла или переменной в PowershellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
