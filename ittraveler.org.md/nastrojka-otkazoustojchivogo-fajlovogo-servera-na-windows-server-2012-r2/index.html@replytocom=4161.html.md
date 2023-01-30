@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

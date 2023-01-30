@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellИзменение UPN суффикса в Active Directory через PowershellСброс пароля компьютера в домене без перезагрузки
+Related posts:Установка и настройка кластера MSSQL 2012.Решаем проблему внезапной блокировки учетной записиСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

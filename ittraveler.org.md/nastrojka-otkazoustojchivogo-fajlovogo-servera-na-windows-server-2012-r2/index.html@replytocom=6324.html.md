@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Сброс настроек GPO на стандартныеАудит изменений в Active Directory
+Related posts:Активируем LDAP over SSLУстановка и настройка дедупликации  на Windows Server 2012 R2Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

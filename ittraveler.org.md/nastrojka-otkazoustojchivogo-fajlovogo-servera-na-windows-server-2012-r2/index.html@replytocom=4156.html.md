@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Удаление Lync Server 2013
+Related posts:Создание email рассылки через PowershellУдаление Lync Server 2013Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

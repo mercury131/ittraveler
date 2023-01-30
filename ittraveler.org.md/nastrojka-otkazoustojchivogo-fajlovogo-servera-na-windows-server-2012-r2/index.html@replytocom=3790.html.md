@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматическая активация пользователей Lync через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Установка и настройка Lync 2013Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

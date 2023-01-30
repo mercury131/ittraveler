@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление схемы Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Подключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Отключение Skype UI в Lync 2013
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПереход на репликацию SYSVOL по DFSСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

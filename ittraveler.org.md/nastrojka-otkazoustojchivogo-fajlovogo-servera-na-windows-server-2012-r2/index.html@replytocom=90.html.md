@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Создание шаблонов Zabbix для Windows.Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Установка RSAT на Windows 10 1809Активируем LDAP over SSLАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

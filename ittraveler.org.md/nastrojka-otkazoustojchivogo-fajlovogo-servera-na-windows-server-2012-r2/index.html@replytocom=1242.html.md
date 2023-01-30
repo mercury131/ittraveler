@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАвтоматизируем бэкап баз данных MSSQL ExpressУстановка RSAT на Windows 10 1809
+Related posts:Удаление Lync Server 2013Передача и захват ролей FSMOАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

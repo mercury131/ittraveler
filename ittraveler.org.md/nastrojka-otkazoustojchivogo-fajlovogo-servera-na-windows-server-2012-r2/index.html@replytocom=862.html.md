@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Перенос базы данных Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

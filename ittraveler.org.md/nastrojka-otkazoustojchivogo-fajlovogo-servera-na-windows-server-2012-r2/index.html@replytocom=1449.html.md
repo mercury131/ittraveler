@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка Kerberos авторизации в Apache2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка и настройка Lync 2013Перенос базы данных Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

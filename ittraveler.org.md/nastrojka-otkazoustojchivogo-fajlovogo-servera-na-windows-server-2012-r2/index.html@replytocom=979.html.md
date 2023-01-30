@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Active Directory + Thunderbird = Общая адресная книга
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУправление репликацией Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

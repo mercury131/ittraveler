@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Отключение Skype UI в Lync 2013
+Related posts:Установка и настройка кластера MSSQL 2012.Передача и захват ролей FSMOАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

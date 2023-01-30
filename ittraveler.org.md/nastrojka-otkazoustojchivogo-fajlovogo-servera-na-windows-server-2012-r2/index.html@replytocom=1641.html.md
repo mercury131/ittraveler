@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереОбновление Lync 2013 до Skype for BusinessПолучаем MD5 файла или переменной в Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиАвтоматизируем бэкап баз данных MSSQL ExpressПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

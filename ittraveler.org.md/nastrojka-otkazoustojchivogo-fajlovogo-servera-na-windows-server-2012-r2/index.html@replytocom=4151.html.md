@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces DirectСброс настроек GPO на стандартные
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПоиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

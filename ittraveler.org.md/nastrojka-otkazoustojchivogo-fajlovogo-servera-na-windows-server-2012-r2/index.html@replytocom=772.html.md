@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлДобавление почтовых контактов в Office 365 через Powershell и CSVЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПередача и захват ролей FSMOПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

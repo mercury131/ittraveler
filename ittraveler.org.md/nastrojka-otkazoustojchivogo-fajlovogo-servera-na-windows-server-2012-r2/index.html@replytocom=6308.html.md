@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Новые компьютеры не появляются на WSUS сервере
+Related posts:Получаем MD5 файла или переменной в PowershellНастройка Kerberos авторизации в Apache2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
