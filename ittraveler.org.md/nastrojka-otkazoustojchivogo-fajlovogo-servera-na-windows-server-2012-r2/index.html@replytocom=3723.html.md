@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellВключение корзины Active DirectoryУстановка и настройка Lync 2013
+Related posts:Управление репликацией Active DirectoryСоздание пользователей Active Directory через CSV файлОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

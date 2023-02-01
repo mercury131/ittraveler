@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Переход на репликацию SYSVOL по DFSУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Установка и настройка AnsibleСброс пароля компьютера в домене без перезагрузкиДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

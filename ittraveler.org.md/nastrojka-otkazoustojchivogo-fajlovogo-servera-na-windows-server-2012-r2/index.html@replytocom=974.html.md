@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VПереход на репликацию SYSVOL по DFSПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Активируем LDAP over SSLПодключение к Office 365 через Powershell и зашифрованный парольАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
