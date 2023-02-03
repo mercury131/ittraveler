@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание шаблонов Zabbix для Windows.
+Related posts:Добавление UPN суффикса в Active DirectoryОбновление Lync 2013 до Skype for BusinessУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

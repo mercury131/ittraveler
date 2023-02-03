@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереПолучаем MD5 файла или переменной в PowershellОбновление Lync 2013 до Skype for Business
+Related posts:Восстановление объектов Active Directory: сборник сценариевСброс пароля администратора Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

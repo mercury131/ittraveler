@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Изменение UPN суффикса в Active Directory через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

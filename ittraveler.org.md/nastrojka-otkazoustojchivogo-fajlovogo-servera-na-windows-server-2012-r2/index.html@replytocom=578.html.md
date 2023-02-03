@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressКастомизация гостевых ОС Windows в KVM на примере ProxmoxДобавление UPN суффикса в Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Решаем проблему внезапной блокировки учетной записиНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

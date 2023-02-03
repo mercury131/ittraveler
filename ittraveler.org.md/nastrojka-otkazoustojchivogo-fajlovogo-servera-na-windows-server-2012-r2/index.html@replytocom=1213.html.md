@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВосстановление объектов Active Directory: сборник сценариевУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

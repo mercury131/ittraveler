@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for BusinessСоздание пользователей Active Directory через CSV файл
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПеренос базы данных Active DirectoryПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

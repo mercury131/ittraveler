@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryОтключение Skype UI в Lync 2013Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Восстановление объектов Active Directory: сборник сценариевОтключение Skype UI в Lync 2013Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

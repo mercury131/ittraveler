@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VНастройка растянутого кластера (stretch-cluster) на Windows server 2016Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Включение корзины Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
