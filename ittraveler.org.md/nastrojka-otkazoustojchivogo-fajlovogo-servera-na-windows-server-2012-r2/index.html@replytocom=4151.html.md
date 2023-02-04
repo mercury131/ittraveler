@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Установка и настройка Lync 2013
+Related posts:Аудит изменений групповых политик через PowerShellДобавление почтовых контактов в Office 365 через Powershell и CSVПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

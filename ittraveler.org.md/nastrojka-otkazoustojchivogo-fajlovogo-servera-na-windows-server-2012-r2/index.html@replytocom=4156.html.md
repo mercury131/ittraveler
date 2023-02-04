@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryИзменение UPN суффикса в Active Directory через PowershellПеренос базы данных Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание шаблонов Zabbix для Windows.Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

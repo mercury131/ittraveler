@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПеренос базы данных Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Активируем LDAP over SSLАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

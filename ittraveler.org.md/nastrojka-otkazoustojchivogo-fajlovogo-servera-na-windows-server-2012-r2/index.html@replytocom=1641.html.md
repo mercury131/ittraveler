@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

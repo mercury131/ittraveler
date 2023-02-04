@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Управление репликацией Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

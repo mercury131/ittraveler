@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2Сброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматическая активация пользователей Lync через PowershellСоздание пользователей Active Directory через CSV файлАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка кластера MSSQL 2012.Создание email рассылки через Powershell
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

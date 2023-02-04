@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Решаем проблему внезапной блокировки учетной записиНастройка Kerberos авторизации в Apache2
+Related posts:Сброс пароля компьютера в домене без перезагрузкиОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВосстановление объектов Active Directory: сборник сценариевУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Настройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

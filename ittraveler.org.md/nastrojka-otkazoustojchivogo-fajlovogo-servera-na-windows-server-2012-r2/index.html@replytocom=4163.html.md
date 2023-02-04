@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryWindows WSL подключение к сетевым шарамСброс пароля компьютера в домене без перезагрузки
+Related posts:Новые компьютеры не появляются на WSUS сервереОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

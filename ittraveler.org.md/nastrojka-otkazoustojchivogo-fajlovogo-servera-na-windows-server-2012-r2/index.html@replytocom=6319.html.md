@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевСброс пароля администратора Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
+Related posts:Установка и настройка AnsibleНазначение служб для сертификатов Exchange через Powershell.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

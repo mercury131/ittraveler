@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellАудит DNS серверов на Windows Server 2008 R2 через PowershellОбновление Lync 2013 до Skype for Business
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПринудительная синхронизация Office 365 и локальной Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

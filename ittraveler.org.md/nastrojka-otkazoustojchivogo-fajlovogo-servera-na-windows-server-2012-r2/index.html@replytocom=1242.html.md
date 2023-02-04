@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Добавление почтовых контактов в Office 365 через Powershell и CSVУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка RSAT на Windows 10 1809Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

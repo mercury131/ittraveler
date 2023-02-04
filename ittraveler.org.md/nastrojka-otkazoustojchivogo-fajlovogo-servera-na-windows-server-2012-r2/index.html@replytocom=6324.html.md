@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервереПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Активируем LDAP over SSLБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

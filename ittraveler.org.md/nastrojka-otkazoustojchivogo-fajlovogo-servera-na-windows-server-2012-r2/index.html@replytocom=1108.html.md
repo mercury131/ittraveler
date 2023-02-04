@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВосстановление объектов Active Directory: сборник сценариевУстановка и настройка Lync 2013
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Переход на репликацию SYSVOL по DFSActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Отключение Skype UI в Lync 2013Настройка Kerberos авторизации в Apache2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

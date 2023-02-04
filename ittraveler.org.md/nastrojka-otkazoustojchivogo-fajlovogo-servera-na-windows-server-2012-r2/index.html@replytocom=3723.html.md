@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Получаем MD5 файла или переменной в PowershellРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

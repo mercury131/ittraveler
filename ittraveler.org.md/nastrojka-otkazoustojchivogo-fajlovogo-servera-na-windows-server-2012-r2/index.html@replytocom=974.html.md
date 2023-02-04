@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевОтключение Skype UI в Lync 2013Удаление Lync Server 2013
+Related posts:Переход на репликацию SYSVOL по DFSНовые компьютеры не появляются на WSUS сервереActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
