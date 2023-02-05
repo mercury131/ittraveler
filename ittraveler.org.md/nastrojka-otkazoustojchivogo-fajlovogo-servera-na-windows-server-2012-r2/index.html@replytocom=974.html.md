@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSНовые компьютеры не появляются на WSUS сервереActive Directory + Thunderbird = Общая адресная книга
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПолучаем MD5 файла или переменной в PowershellОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

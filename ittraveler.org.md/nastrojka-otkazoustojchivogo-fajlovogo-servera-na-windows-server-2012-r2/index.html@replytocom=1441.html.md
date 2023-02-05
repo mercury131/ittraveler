@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellСоздание пользователей Active Directory через CSV файлАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Active Directory + Thunderbird = Общая адресная книгаПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
