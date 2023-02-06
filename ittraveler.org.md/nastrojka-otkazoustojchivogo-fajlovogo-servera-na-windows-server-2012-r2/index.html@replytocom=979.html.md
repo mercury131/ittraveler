@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Создание email рассылки через PowershellСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Active Directory + Thunderbird = Общая адресная книга
+Related posts:Сброс пароля администратора Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

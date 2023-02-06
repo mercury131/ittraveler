@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Изменение UPN суффикса в Active Directory через PowershellУправление репликацией Active Directory
+Related posts:Решаем проблему внезапной блокировки учетной записиActive Directory + Thunderbird = Общая адресная книгаНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

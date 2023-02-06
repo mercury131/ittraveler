@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевСоздание пользователей Active Directory через CSV файлУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка кластера MSSQL 2012.Подключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

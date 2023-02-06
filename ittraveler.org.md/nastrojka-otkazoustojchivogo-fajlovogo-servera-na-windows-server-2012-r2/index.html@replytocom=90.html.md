@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Принудительная синхронизация контроллеров домена Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

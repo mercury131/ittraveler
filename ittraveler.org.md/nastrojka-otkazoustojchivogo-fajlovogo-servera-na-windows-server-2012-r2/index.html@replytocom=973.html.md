@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Аудит изменений в Active Directory
+Related posts:Сброс пароля администратора Active DirectoryОтключение Skype UI в Lync 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

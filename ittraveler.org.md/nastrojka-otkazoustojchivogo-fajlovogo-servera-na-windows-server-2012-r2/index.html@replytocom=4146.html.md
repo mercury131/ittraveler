@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSАудит изменений в Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Аудит изменений групповых политик через PowerShellПереход на репликацию SYSVOL по DFSСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

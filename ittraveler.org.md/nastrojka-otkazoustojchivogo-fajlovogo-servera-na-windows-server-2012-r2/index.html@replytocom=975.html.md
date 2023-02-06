@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellСоздание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Обновление Lync 2013 до Skype for BusinessНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

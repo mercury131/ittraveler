@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматическая активация пользователей Lync через PowershellСброс пароля компьютера в домене без перезагрузки
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс пароля компьютера в домене без перезагрузкиАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

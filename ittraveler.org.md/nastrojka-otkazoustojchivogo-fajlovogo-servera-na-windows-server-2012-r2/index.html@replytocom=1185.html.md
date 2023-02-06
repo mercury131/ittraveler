@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит доменных служб Active Directory в Windows Server 2008 R2Обновление схемы Active Directory
+Related posts:Перенос базы данных Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

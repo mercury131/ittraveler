@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOСброс пароля администратора Active DirectoryСброс настроек GPO на стандартные
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Перенос базы данных Active DirectoryНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

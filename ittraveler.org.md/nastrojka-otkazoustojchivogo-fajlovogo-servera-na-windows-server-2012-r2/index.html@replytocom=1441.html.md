@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Active Directory + Thunderbird = Общая адресная книгаПеренос базы данных Active Directory
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

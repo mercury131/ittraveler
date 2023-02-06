@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлНовые компьютеры не появляются на WSUS сервереНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка HA кластера Hyper-VНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

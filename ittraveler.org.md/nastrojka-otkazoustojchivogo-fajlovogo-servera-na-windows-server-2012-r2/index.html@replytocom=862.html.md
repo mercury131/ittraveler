@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Решаем проблему внезапной блокировки учетной записиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Управление репликацией Active DirectoryПередача и захват ролей FSMOActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

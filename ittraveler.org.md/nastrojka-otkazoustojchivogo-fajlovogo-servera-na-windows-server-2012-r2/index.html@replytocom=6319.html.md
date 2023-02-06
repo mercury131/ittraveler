@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILПереход на репликацию SYSVOL по DFS
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка кластера MSSQL 2012.Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

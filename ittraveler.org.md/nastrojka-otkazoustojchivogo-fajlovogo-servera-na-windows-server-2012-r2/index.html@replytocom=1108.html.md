@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Сброс пароля администратора Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
