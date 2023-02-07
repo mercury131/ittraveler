@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Обновление Lync 2013 до Skype for BusinessНовые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка Lync 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

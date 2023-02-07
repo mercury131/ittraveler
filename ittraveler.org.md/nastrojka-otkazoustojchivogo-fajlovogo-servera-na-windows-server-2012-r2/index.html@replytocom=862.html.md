@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryПередача и захват ролей FSMOActive Directory + Thunderbird = Общая адресная книга
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольКак узнать WWN (World Wide Name)  в Windows Server 2012R2Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

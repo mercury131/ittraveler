@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellНастройка Kerberos авторизации в Apache2Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Сброс пароля компьютера в домене без перезагрузкиБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Перенос базы данных Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

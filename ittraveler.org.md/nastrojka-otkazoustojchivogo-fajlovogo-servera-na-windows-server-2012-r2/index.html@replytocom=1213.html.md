@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Управление репликацией Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание email рассылки через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

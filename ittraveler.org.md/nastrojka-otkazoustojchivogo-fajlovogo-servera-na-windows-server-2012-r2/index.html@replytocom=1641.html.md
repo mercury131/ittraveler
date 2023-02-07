@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка кластера MSSQL 2012.Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Восстановление объектов Active Directory: сборник сценариевУправление репликацией Active DirectoryУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

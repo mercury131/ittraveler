@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиActive Directory + Thunderbird = Общая адресная книгаНовые компьютеры не появляются на WSUS сервере
+Related posts:Включение корзины Active DirectoryНастройка HA кластера Hyper-VОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

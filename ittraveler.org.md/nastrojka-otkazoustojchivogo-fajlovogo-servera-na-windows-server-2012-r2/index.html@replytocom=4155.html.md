@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамПринудительная синхронизация контроллеров домена Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка RSAT на Windows 10 1809Переход на репликацию SYSVOL по DFSНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

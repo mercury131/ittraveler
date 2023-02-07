@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Windows WSL подключение к сетевым шарамПринудительная синхронизация контроллеров домена Active DirectoryНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
