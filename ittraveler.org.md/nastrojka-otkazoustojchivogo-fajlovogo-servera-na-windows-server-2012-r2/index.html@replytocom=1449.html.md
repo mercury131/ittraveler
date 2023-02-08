@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Аудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Перенос базы данных Active DirectoryПередача и захват ролей FSMOАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
