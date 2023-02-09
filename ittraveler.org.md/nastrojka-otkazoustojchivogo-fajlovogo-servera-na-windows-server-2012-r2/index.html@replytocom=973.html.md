@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellНастройка Kerberos авторизации в Apache2Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Аудит изменений групповых политик через PowerShellПолучаем MD5 файла или переменной в PowershellПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

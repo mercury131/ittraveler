@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиКак узнать WWN (World Wide Name)  в Windows Server 2012R2Передача и захват ролей FSMO
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка Lync 2013Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

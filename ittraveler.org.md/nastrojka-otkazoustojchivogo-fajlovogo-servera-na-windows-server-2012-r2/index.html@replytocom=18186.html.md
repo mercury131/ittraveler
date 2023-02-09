@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressИзменение UPN суффикса в Active Directory через PowershellУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
