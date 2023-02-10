@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Передача и захват ролей FSMO
+Related posts:Добавление UPN суффикса в Active DirectoryПеренос базы данных Active DirectoryАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

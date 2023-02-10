@@ -405,9 +405,9 @@ body.custom-background { background-color: #cecece; }
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
 <p>Перейдем к настройке общих хранилищ.</p>
-<p>Добавим на наши хосты <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> хранилище.</p>
+<p>Добавим на наши хосты ISCSI хранилище.</p>
 <p>Открываем хост ESXI, далее вкладка manage, в ней выбираем storage.</p>
-<p>Добавляем Software <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> адаптер, если у нас нет физического адаптера.</p>
+<p>Добавляем Software ISCSI адаптер, если у нас нет физического адаптера.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4edd064e8fe6688a31c60c4d6a808a55.png" alt="" width="571" height="302" /></p>
 <p>Соглашаемся.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/faedb789dce3b93d94322130ab5d81ac.png" alt="" width="543" height="112" /></p>
@@ -415,14 +415,14 @@ body.custom-background { background-color: #cecece; }
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/bbad71e61c4cbc3109f6a8c3af2cae91.png" alt="" width="706" height="225" /></p>
 <p>Указываем Dynamic discovery, и нажимаем add.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3642de1a47c63e0b967fa881548050d5.png" alt="" width="259" height="73" /></p>
-<p>Далее указываете адрес вашего <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> хранилища.</p>
+<p>Далее указываете адрес вашего ISCSI хранилища.</p>
 <p>Теперь укажите учетные данные для подключения. Для этого нажмите кнопку Authentication</p>
 <p>В моем случае настройки выглядят так</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c8c9d3427825fa1c840bceb68d22b101.png" alt="" width="573" height="236" /></p>
 <p>Теперь нажимаем кнопку Rescan , после этого Lun будет подключен к хосту.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dce4c17226a22cb18b15532ab1e53403.png" alt="" width="190" height="64" /></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7d018f65e5edc11528295275a0957118.png" alt="" width="421" height="164" /></p>
-<p>Теперь создадим Datastore с новым диском, подключенным по <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> ранее.</p>
+<p>Теперь создадим Datastore с новым диском, подключенным по ISCSI ранее.</p>
 <p>Переходим в раздел Datastore, и выбираем add datastore</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d0a63fd1163ad5e158b37d610c43ad28.png" alt="" width="530" height="303" /></p>
 <p>Выбираем наш датацентр, выбираем VMFS</p>
@@ -436,7 +436,7 @@ body.custom-background { background-color: #cecece; }
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4e04c40ba8c2b16f9f4d92a9131df165.png" alt="" width="522" height="103" /></p>
 <p>Проверяем параметры и создаем.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fbbb299622b74db06ea6005f1e3985d7.png" alt="" width="405" height="253" /></p>
-<p>Чтобы данный датастор был доступен на других хостах, нужно по аналогии добавить <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">ISCSI</a> адаптер и настроить подключение к данному LUN. Создавать датастор заново не нужно.</p>
+<p>Чтобы данный датастор был доступен на других хостах, нужно по аналогии добавить ISCSI адаптер и настроить подключение к данному LUN. Создавать датастор заново не нужно.</p>
 <p>Теперь создадим новый NFS датастор.</p>
 <p>Переходим в раздел Datastore.</p>
 <p>Создаем новый датастор</p>
@@ -473,7 +473,7 @@ body.custom-background { background-color: #cecece; }
 <p>Проверяем настройки, и запускаем процесс создания виртуальной машины.</p>
 <p>На этом базовую настройку Vcenter можно считать законченной.</p>
 <p>В следующей статье мы рассмотрим настройку <a href="../tag/ha/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with HA">HA</a> и многое другое.</p>
-<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=463.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка Citrix XenServer Часть 1."  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка Citrix XenServer Часть 1.</div></div></a><a class="relpost-block-single" href="../index.html@p=737.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Vsphere. Поиск виртуальных машин с толстыми дисками"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Vsphere. Поиск виртуальных машин с толстыми дисками</div></div></a><a class="relpost-block-single" href="../index.html@p=750.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Выполняем команды внутри гостевых ОС через PowerCLI"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Выполняем команды внутри гостевых ОС через PowerCLI</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=750.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Выполняем команды внутри гостевых ОС через PowerCLI"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Выполняем команды внутри гостевых ОС через PowerCLI</div></div></a><a class="relpost-block-single" href="../index.html@p=1164.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Перенос виртуальной машины из Hyper-V в Proxmox (KVM)"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Перенос виртуальной машины из Hyper-V в Proxmox (KVM)</div></div></a><a class="relpost-block-single" href="../index.html@p=428.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка VMWare Vsphere 6. Часть 5"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка VMWare Vsphere 6. Часть 5</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
         <div class="post-info">
 
             <div class="left"> <a href="../category/virtualizaciya/index.html" rel="category tag">Виртуализация</a> </div>
@@ -820,7 +820,7 @@ LSI Logic SAS &#8212; можно использовать поумолчанию
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='356' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='1145' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="846899606d" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="110"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="b28c6e05bb" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="146"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->

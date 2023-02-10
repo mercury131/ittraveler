@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольУправление репликацией Active Directory
+Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка AnsibleАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

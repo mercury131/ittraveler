@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.Удаление Lync Server 2013
+Related posts:Windows WSL подключение к сетевым шарамСоздание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

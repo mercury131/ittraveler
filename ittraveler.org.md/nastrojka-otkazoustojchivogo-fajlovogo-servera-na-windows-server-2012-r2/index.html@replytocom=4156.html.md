@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Установка и настройка Lync 2013Active Directory + Thunderbird = Общая адресная книга
+Related posts:Новые компьютеры не появляются на WSUS сервереОбновление схемы Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
