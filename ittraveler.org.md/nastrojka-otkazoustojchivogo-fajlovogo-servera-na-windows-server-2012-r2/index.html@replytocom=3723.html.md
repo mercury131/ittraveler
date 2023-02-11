@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание email рассылки через PowershellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит изменений групповых политик через PowerShellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Поиск старых почтовых ящиков в Exchange 2010Отключение Skype UI в Lync 2013
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка Lync 2013Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

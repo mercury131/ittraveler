@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VВключение корзины Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Получаем MD5 файла или переменной в PowershellОбновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

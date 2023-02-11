@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Сброс настроек GPO на стандартныеРешаем проблему внезапной блокировки учетной записи
+Related posts:Сброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузкиНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

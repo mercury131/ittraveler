@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевАктивируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Lync 2013Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

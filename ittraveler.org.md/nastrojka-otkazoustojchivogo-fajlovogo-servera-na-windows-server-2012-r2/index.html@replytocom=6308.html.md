@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Передача и захват ролей FSMOАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Перенос базы данных Active DirectoryНастройка HA кластера Hyper-VУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

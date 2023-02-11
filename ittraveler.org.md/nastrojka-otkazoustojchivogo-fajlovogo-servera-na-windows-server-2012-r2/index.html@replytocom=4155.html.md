@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматизируем бэкап баз данных MSSQL ExpressАвтоматическая активация пользователей Lync через Powershell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка RSAT на Windows 10 1809Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

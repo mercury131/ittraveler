@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУдаление Lync Server 2013Аудит изменений в Active Directory
+Related posts:Установка и настройка AnsibleУстановка и настройка Scale-Out File Server + Storage Spaces DirectПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
