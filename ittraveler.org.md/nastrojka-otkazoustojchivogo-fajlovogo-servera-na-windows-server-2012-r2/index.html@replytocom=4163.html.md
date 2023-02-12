@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellОбновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active Directory
+Related posts:Перенос базы данных Active DirectoryВосстановление объектов Active Directory: сборник сценариевНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

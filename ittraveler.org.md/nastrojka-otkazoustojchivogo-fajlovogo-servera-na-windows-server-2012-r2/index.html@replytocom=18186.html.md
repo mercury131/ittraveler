@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСброс настроек GPO на стандартныеСоздание email рассылки через Powershell
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАудит незаполненных полей в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

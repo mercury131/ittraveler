@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOПолучаем MD5 файла или переменной в PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Удаление Lync Server 2013Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

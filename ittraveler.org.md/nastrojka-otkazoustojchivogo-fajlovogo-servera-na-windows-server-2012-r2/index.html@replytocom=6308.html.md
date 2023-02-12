@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryНастройка HA кластера Hyper-VУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Windows WSL подключение к сетевым шарамОбновление Lync 2013 до Skype for BusinessКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

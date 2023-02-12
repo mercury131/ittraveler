@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит изменений групповых политик через PowerShellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

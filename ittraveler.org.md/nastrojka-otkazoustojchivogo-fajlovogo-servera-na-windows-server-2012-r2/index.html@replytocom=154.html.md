@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузкиНастройка HA кластера Hyper-V
+Related posts:Переход на репликацию SYSVOL по DFSНовые компьютеры не появляются на WSUS сервереВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
