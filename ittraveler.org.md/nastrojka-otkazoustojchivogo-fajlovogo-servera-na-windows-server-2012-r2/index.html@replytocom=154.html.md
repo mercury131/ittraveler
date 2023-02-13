@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSНовые компьютеры не появляются на WSUS сервереВключение корзины Active Directory
+Related posts:Перенос базы данных Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

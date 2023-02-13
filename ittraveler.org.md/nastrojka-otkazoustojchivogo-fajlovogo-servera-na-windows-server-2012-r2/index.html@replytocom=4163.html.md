@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryВосстановление объектов Active Directory: сборник сценариевНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Установка и настройка AnsibleДобавление UPN суффикса в Active DirectoryАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

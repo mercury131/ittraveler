@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Обновление схемы Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиКастомизация гостевых ОС Windows в KVM на примере ProxmoxНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
