@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАвтоматическая активация пользователей Lync через PowershellWindows WSL подключение к сетевым шарам
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxДобавление почтовых контактов в Office 365 через Powershell и CSVАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

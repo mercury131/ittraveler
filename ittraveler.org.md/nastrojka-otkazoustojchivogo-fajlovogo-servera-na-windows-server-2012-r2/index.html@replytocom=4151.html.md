@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Управление репликацией Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Управление репликацией Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

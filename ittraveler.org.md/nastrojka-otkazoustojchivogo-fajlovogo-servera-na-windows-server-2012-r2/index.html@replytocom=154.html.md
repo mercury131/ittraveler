@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Включение корзины Active DirectoryУдаление Lync Server 2013Подключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

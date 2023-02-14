@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Отключение Skype UI в Lync 2013Добавление UPN суффикса в Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПередача и захват ролей FSMOАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Управление репликацией Active Directory
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОтключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

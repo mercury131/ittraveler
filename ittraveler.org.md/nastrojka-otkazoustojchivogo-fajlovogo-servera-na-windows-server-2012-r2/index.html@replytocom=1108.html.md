@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Новые компьютеры не появляются на WSUS сервереПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryУдаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
