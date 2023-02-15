@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Перенос базы данных Active Directory
+Related posts:Активируем LDAP over SSLУстановка и настройка кластера MSSQL 2012.Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

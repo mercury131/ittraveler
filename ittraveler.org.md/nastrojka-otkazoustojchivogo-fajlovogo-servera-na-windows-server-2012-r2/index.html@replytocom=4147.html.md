@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевАудит изменений групповых политик через PowerShellУстановка RSAT на Windows 10 1809
+Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка кластера MSSQL 2012.Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПеренос базы данных Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

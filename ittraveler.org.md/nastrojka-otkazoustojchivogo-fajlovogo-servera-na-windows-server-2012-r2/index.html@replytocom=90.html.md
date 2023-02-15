@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Перенос базы данных Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит изменений в Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

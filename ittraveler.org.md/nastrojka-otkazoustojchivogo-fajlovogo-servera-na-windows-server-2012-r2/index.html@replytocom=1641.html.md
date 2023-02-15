@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОтключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Восстановление объектов Active Directory: сборник сценариевЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

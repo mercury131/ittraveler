@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Переход на репликацию SYSVOL по DFSОбновление схемы Active Directory
+Related posts:Автоматическая активация пользователей Lync через PowershellАудит DNS серверов на Windows Server 2008 R2 через PowershellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

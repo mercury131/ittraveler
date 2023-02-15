@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressНовые компьютеры не появляются на WSUS сервере
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Active Directory + Thunderbird = Общая адресная книгаНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryНовые компьютеры не появляются на WSUS сервереАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

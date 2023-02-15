@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryУдаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книга
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка RSAT на Windows 10 1809Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

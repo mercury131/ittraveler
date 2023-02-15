@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellОтключение Skype UI в Lync 2013Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Автоматизируем бэкап баз данных MSSQL ExpressАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

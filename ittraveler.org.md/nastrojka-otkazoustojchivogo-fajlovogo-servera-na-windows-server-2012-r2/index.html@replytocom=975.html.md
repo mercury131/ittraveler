@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxДобавление почтовых контактов в Office 365 через Powershell и CSVАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Передача и захват ролей FSMOАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

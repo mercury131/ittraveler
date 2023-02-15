@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleДобавление почтовых контактов в Office 365 через Powershell и CSVАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Обновление схемы Active DirectoryWindows WSL подключение к сетевым шарамСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

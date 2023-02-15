@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Настройка Kerberos авторизации в Apache2
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Восстановление объектов Active Directory: сборник сценариевСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

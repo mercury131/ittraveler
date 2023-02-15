@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellWindows WSL подключение к сетевым шарамАктивируем LDAP over SSL
+Related posts:Восстановление объектов Active Directory: сборник сценариевОтключение Skype UI в Lync 2013Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

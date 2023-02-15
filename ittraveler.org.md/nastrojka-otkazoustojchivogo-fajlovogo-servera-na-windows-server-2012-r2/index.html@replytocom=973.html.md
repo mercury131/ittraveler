@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILWindows WSL подключение к сетевым шарам
+Related posts:Новые компьютеры не появляются на WSUS сервереПередача и захват ролей FSMOКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

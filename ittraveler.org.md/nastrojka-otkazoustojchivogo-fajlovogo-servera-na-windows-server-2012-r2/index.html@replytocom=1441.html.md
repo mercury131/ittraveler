@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевСоздание шаблонов Zabbix для Windows.Получаем MD5 файла или переменной в Powershell
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Lync 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

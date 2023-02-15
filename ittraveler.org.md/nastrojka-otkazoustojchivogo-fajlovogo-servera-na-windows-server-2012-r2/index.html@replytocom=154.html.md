@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryУдаление Lync Server 2013Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Управление репликацией Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

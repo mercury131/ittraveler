@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Автоматизируем бэкап баз данных MSSQL ExpressActive Directory + Thunderbird = Общая адресная книга
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Решаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Настройка HA кластера Hyper-V
+Related posts:Настройка Kerberos авторизации в Apache2Создание email рассылки через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
