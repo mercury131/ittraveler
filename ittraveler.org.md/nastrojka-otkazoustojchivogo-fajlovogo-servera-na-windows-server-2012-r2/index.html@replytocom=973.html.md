@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереПередача и захват ролей FSMOКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Установка RSAT на Windows 10 1809Active Directory + Thunderbird = Общая адресная книгаБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

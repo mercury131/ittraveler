@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУдаление Lync Server 2013Установка и настройка кластера MSSQL 2012.
+Related posts:Активируем LDAP over SSLWindows WSL подключение к сетевым шарамActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

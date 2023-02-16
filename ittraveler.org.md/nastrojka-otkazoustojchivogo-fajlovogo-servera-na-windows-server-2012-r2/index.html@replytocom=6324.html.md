@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Решаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Автоматическая активация пользователей Lync через PowershellПереход на репликацию SYSVOL по DFSВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

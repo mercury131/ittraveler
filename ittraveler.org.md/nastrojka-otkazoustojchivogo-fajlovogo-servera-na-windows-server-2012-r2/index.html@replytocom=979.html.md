@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Получаем MD5 файла или переменной в Powershell
+Related posts:Перенос базы данных Active DirectoryПолучаем MD5 файла или переменной в PowershellПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellАудит DNS серверов на Windows Server 2008 R2 через PowershellУправление репликацией Active Directory
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольКак узнать WWN (World Wide Name)  в Windows Server 2012R2Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

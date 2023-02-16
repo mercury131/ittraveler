@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Управление репликацией Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Управление репликацией Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

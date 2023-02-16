@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Создание email рассылки через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Добавление UPN суффикса в Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

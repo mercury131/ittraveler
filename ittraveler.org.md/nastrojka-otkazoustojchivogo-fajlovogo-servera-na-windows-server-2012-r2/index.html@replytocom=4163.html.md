@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Решаем проблему внезапной блокировки учетной записиДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Сброс настроек GPO на стандартныеОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

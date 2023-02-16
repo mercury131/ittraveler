@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление схемы Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Решаем проблему внезапной блокировки учетной записиПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

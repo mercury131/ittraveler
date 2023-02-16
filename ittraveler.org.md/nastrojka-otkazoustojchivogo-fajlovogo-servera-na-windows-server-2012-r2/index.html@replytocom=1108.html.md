@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка RSAT на Windows 10 1809Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Управление репликацией Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

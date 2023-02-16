@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Автоматизируем бэкап баз данных MSSQL ExpressАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
