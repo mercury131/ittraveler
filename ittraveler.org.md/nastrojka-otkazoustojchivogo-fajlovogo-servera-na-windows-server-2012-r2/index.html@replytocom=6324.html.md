@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellПереход на репликацию SYSVOL по DFSВключение корзины Active Directory
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка AnsibleПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

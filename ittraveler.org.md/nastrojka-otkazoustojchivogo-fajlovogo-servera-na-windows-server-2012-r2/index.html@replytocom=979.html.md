@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryПолучаем MD5 файла или переменной в PowershellПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Восстановление объектов Active Directory: сборник сценариевАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

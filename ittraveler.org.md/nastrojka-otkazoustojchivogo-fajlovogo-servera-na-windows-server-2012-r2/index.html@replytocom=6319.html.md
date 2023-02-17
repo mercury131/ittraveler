@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Решаем проблему внезапной блокировки учетной записиПолучаем MD5 файла или переменной в Powershell
+Related posts:Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFSИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
