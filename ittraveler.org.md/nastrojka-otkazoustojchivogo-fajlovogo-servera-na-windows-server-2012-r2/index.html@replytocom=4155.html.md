@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Установка RSAT на Windows 10 1809Передача и захват ролей FSMO
+Related posts:Аудит изменений групповых политик через PowerShellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка AnsibleПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Получаем MD5 файла или переменной в PowershellУдаление Lync Server 2013Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

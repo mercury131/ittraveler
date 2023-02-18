@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Обновление схемы Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Получаем MD5 файла или переменной в PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

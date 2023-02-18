@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАудит доменных служб Active Directory в Windows Server 2008 R2Установка RSAT на Windows 10 1809
+Related posts:Перенос базы данных Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

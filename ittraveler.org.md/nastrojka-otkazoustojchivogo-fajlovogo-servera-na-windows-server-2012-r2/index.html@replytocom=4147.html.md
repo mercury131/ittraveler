@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Отключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

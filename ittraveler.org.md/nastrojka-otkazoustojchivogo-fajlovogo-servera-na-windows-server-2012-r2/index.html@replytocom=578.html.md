@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Назначение служб для сертификатов Exchange через Powershell.Создание шаблонов Zabbix для Windows.
+Related posts:Обновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active DirectoryПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

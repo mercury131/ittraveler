@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Назначение служб для сертификатов Exchange через Powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellWindows WSL подключение к сетевым шарамАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

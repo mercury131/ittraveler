@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Восстановление объектов Active Directory: сборник сценариевАктивируем LDAP over SSL
+Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
