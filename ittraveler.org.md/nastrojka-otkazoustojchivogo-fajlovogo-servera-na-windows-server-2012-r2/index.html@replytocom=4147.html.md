@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Отключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Переход на репликацию SYSVOL по DFSУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
