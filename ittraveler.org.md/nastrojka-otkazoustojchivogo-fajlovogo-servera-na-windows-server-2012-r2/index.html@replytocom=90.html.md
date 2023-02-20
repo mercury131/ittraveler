@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевПереход на репликацию SYSVOL по DFSИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Включение корзины Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
