@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOПоиск старых почтовых ящиков в Exchange 2010Перенос базы данных Active Directory
+Related posts:Обновление Lync 2013 до Skype for BusinessСброс пароля администратора Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

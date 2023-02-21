@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Подключение к Office 365 через Powershell и зашифрованный парольРешаем проблему внезапной блокировки учетной записи
+Related posts:Активируем LDAP over SSLПеренос базы данных Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

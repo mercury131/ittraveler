@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryНовые компьютеры не появляются на WSUS сервереДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Обновление схемы Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
