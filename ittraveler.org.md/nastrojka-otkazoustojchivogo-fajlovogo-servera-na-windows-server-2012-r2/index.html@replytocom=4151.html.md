@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLПеренос базы данных Active DirectoryУстановка и настройка Ansible
+Related posts:Настройка Kerberos авторизации в Apache2Автоматизируем бэкап баз данных MSSQL ExpressРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

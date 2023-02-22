@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessСброс пароля администратора Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Аудит незаполненных полей в Active Directory через PowershellПодключение к Office 365 через Powershell и зашифрованный парольАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

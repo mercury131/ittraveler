@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Получаем MD5 файла или переменной в PowershellСброс пароля администратора Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
