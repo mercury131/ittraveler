@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellWindows WSL подключение к сетевым шарамАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

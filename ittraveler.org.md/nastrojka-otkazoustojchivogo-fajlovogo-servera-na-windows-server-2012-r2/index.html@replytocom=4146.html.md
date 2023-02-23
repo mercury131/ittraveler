@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиПринудительная синхронизация контроллеров домена Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Переход на репликацию SYSVOL по DFSАктивируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

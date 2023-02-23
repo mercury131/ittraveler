@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Автоматическая активация пользователей Lync через PowershellВключение корзины Active Directory
+Related posts:Создание email рассылки через PowershellИзменение UPN суффикса в Active Directory через PowershellОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLДобавление UPN суффикса в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка RSAT на Windows 10 1809Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

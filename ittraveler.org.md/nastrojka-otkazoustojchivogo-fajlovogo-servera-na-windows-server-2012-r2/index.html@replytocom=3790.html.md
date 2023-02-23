@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Новые компьютеры не появляются на WSUS сервереСоздание пользователей Active Directory через CSV файлСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

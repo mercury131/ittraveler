@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryАвтоматическая активация пользователей Lync через PowershellОбновление Lync 2013 до Skype for Business
+Related posts:Сброс настроек GPO на стандартныеАвтоматический аудит компьютеров в Active Directory через powershell.Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

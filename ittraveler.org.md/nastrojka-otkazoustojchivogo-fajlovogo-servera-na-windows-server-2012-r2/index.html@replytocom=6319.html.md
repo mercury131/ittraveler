@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellПодключение к Office 365 через Powershell и зашифрованный парольАктивируем LDAP over SSL
+Related posts:Создание шаблонов Zabbix для Windows.Получаем MD5 файла или переменной в PowershellАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
