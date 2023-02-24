@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНазначение служб для сертификатов Exchange через Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryВключение корзины Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

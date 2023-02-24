@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлСброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузки
+Related posts:Управление репликацией Active DirectoryПеренос базы данных Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

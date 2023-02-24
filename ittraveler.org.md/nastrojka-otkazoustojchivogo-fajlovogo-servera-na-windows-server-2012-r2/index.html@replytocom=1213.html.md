@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Установка и настройка AnsibleАвтоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

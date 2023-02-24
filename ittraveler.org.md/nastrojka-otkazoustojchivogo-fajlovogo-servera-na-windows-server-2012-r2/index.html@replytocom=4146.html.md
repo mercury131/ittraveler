@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSАктивируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Обновление схемы Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

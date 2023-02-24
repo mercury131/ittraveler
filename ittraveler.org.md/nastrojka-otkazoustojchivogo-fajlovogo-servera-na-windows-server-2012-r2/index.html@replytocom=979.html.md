@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Кастомизация гостевых ОС Windows в KVM на примере ProxmoxДобавление UPN суффикса в Active Directory
+Related posts:Сброс пароля компьютера в домене без перезагрузкиНазначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

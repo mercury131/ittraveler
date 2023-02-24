@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамУстановка RSAT на Windows 10 1809Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Windows WSL подключение к сетевым шарамActive Directory + Thunderbird = Общая адресная книгаОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

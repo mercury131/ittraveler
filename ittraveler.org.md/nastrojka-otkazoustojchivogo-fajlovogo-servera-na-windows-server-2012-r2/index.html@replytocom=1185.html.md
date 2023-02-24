@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryСброс пароля администратора Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Передача и захват ролей FSMOПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

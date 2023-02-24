@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевНазначение служб для сертификатов Exchange через Powershell.Настройка Kerberos авторизации в Apache2
+Related posts:Обновление схемы Active DirectoryПереход на репликацию SYSVOL по DFSWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

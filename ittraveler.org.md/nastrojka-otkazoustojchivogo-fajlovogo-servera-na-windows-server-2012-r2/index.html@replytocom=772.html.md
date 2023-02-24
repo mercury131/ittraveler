@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryОбновление Lync 2013 до Skype for BusinessВключение корзины Active Directory
+Related posts:Передача и захват ролей FSMOУстановка и настройка Lync 2013Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

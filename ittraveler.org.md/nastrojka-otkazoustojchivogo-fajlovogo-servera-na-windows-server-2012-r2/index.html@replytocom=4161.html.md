@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSВключение корзины Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереСоздание пользователей Active Directory через CSV файлСоздание email рассылки через Powershell
+Related posts:Аудит незаполненных полей в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

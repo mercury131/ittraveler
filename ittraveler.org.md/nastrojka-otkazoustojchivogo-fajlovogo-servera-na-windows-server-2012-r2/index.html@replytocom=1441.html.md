@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleСоздание пользователей Active Directory через CSV файлПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит DNS серверов на Windows Server 2008 R2 через PowershellПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

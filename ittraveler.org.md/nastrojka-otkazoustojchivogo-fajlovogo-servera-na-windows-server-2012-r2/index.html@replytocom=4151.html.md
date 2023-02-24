@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Удаление Lync Server 2013Активируем LDAP over SSL
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Как узнать WWN (World Wide Name)  в Windows Server 2012R2Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

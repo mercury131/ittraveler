@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеАвтоматический аудит компьютеров в Active Directory через powershell.Сброс пароля администратора Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит незаполненных полей в Active Directory через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

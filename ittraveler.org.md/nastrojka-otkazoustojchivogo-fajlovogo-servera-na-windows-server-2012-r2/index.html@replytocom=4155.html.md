@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessВосстановление объектов Active Directory: сборник сценариевАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Настройка Kerberos авторизации в Apache2Создание email рассылки через PowershellУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

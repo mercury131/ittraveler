@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлКак узнать WWN (World Wide Name)  в Windows Server 2012R2Сброс пароля компьютера в домене без перезагрузки
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка AnsibleУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
