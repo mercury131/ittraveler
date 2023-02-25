@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольActive Directory + Thunderbird = Общая адресная книга
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка RSAT на Windows 10 1809Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
