@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка Ansible
+Related posts:Переход на репликацию SYSVOL по DFSПередача и захват ролей FSMOОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
