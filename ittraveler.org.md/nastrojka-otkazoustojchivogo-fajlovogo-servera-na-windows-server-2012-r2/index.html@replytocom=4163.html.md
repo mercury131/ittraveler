@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание email рассылки через Powershell
+Related posts:Перенос базы данных Active DirectoryСброс настроек GPO на стандартныеОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxWindows WSL подключение к сетевым шарамПереход на репликацию SYSVOL по DFS
+Related posts:Сброс пароля компьютера в домене без перезагрузкиОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

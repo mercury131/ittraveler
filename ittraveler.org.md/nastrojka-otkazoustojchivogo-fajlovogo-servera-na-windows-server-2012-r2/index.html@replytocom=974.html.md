@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLРешаем проблему внезапной блокировки учетной записиСброс настроек GPO на стандартные
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Установка и настройка Lync 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
