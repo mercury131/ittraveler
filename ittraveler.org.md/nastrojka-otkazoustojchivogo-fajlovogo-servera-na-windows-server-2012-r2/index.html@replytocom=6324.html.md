@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольОбновление схемы Active DirectoryАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

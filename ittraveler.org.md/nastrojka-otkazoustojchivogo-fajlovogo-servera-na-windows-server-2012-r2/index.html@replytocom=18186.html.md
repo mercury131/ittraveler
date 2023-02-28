@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxДобавление UPN суффикса в Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Управление репликацией Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

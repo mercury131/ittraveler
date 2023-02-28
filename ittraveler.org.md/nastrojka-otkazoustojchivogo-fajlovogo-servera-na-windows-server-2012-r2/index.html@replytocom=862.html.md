@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка дедупликации  на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2
+Related posts:Установка RSAT на Windows 10 1809Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

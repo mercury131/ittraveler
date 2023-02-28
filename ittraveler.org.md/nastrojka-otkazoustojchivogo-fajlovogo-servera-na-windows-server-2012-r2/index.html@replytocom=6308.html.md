@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Обновление схемы Active DirectoryАудит изменений в Active Directory
+Related posts:Настройка Kerberos авторизации в Apache2Принудительная синхронизация Office 365 и локальной Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

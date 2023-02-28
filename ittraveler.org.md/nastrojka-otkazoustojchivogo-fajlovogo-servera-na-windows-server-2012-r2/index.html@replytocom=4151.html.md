@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleВключение корзины Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит изменений групповых политик через PowerShellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

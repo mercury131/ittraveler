@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка Lync 2013
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка Lync 2013Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

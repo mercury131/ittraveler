@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиАвтоматическая активация пользователей Lync через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПередача и захват ролей FSMOСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

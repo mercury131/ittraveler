@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

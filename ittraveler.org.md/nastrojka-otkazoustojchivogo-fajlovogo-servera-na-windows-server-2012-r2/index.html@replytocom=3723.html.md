@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание email рассылки через PowershellСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

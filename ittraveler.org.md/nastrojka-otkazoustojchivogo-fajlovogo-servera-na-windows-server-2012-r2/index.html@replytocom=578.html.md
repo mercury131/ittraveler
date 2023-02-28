@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка AlwaysOn на MS SQL 2016Включение корзины Active Directory
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиНовые компьютеры не появляются на WSUS сервереАудит изменений в Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

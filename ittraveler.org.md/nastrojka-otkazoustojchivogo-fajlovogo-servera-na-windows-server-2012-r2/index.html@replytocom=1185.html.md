@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Активируем LDAP over SSLНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание email рассылки через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

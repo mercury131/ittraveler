@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит изменений в Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

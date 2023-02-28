@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryСброс настроек GPO на стандартныеОбновление Lync 2013 до Skype for Business
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПолучаем MD5 файла или переменной в PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

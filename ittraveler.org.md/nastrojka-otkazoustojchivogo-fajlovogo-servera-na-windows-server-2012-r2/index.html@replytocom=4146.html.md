@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Windows WSL подключение к сетевым шарамОтключение Skype UI в Lync 2013
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание индивидуальных адресных книг в Office 365 и Exchange onlineПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит изменений групповых политик через PowerShell
+Related posts:Создание шаблонов Zabbix для Windows.Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

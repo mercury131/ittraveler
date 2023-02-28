@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Active Directory + Thunderbird = Общая адресная книга
+Related posts:Получаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
