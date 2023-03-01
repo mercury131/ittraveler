@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка дедупликации  на Windows Server 2012 R2Обновление схемы Active Directory
+Related posts:Включение корзины Active DirectoryАвтоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

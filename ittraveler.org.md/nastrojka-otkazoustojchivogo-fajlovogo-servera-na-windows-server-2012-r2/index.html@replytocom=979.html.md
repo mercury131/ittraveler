@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Добавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Lync 2013Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

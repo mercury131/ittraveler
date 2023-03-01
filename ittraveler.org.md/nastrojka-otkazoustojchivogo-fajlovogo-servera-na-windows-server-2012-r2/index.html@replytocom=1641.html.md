@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВключение корзины Active DirectoryАудит изменений в Active Directory
+Related posts:Настройка HA кластера Hyper-VОтключение Skype UI в Lync 2013Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

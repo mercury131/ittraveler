@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеВключение корзины Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Переход на репликацию SYSVOL по DFSНазначение служб для сертификатов Exchange через Powershell.Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
