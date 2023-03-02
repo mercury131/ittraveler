@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryАвтоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Управление репликацией Active DirectoryУдаление Lync Server 2013Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

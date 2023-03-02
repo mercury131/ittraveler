@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлНастройка HA кластера Hyper-VАудит незаполненных полей в Active Directory через Powershell
+Related posts:Получаем MD5 файла или переменной в PowershellНастройка Kerberos авторизации в Apache2Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
