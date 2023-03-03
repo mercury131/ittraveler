@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка Kerberos авторизации в Apache2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Включение корзины Active DirectoryНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

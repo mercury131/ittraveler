@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереСоздание email рассылки через PowershellПереход на репликацию SYSVOL по DFS
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

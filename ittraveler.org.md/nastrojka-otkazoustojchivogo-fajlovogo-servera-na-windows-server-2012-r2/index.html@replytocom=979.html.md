@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineИзменение UPN суффикса в Active Directory через PowershellWindows WSL подключение к сетевым шарам
+Related posts:Автоматическая активация пользователей Lync через PowershellОбновление схемы Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

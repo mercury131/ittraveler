@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит незаполненных полей в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариев
+Related posts:Сброс настроек GPO на стандартныеАвтоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

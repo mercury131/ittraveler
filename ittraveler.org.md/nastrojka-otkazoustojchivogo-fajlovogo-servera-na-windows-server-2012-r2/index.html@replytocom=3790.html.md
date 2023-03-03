@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Ansible
+Related posts:Обновление Lync 2013 до Skype for BusinessУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

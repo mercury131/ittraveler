@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellНастройка Kerberos авторизации в Apache2Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

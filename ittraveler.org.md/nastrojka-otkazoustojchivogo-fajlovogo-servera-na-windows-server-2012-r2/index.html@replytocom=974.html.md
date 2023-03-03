@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Поиск старых почтовых ящиков в Exchange 2010Управление репликацией Active Directory
+Related posts:Аудит незаполненных полей в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариевСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

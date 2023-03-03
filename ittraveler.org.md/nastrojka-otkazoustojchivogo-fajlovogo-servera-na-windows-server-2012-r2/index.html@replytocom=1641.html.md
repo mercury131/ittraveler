@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Изменение UPN суффикса в Active Directory через PowershellПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка Kerberos авторизации в Apache2Подключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

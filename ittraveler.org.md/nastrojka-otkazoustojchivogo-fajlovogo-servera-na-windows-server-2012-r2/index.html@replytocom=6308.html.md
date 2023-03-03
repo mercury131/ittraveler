@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Обновление схемы Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереПоиск старых почтовых ящиков в Exchange 2010Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

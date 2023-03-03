@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

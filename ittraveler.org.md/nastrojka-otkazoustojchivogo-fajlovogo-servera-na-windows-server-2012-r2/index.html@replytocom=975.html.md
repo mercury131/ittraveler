@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит доменных служб Active Directory в Windows Server 2008 R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Добавление UPN суффикса в Active DirectoryПереход на репликацию SYSVOL по DFSАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

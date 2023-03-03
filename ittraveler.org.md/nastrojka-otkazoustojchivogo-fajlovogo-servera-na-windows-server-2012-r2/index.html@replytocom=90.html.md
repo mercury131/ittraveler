@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Lync 2013
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание пользователей Active Directory через CSV файлАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

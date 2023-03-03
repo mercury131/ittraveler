@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений групповых политик через PowerShellВключение корзины Active Directory
+Related posts:Получаем MD5 файла или переменной в PowershellУдаление Lync Server 2013Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

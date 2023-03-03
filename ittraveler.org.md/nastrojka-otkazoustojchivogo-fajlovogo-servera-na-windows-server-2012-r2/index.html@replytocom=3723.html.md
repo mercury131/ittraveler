@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Получаем MD5 файла или переменной в Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиНастройка растянутого кластера (stretch-cluster) на Windows server 2016Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

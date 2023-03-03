@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка AnsibleОтключение Skype UI в Lync 2013
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПеренос базы данных Active DirectoryОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Windows WSL подключение к сетевым шарамПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Решаем проблему внезапной блокировки учетной записиПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

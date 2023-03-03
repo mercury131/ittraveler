@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Автоматизируем бэкап баз данных MSSQL ExpressУдаление Lync Server 2013
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка AlwaysOn на MS SQL 2016Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
