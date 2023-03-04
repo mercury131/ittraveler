@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Как узнать WWN (World Wide Name)  в Windows Server 2012R2Активируем LDAP over SSL
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

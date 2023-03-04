@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиНастройка растянутого кластера (stretch-cluster) на Windows server 2016Получаем MD5 файла или переменной в Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

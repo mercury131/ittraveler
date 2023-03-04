@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиОбновление схемы Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Активируем LDAP over SSLЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

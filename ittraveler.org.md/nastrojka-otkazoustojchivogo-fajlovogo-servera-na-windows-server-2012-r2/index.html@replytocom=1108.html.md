@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеАвтоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active Directory
+Related posts:Сброс настроек GPO на стандартныеБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

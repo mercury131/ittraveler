@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryПереход на репликацию SYSVOL по DFSАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

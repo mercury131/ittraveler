@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellОбновление схемы Active DirectoryПереход на репликацию SYSVOL по DFS
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryОтключение Skype UI в Lync 2013Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

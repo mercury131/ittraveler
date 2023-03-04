@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Windows WSL подключение к сетевым шарамПереход на репликацию SYSVOL по DFS
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАктивируем LDAP over SSLВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

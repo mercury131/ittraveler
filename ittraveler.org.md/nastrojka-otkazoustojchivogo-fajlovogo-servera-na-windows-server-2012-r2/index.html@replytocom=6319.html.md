@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Решаем проблему внезапной блокировки учетной записиПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

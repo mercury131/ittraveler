@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Решаем проблему внезапной блокировки учетной записиНастройка HA кластера Hyper-V
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПередача и захват ролей FSMOПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

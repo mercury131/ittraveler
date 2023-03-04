@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active Directory
+Related posts:Получаем MD5 файла или переменной в PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

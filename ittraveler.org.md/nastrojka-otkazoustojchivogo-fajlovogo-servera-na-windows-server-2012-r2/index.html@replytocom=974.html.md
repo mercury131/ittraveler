@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариевСброс пароля компьютера в домене без перезагрузки
+Related posts:Создание шаблонов Zabbix для Windows.Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

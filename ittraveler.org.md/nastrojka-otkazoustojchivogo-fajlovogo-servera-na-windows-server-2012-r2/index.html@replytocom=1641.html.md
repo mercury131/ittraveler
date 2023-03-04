@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка Kerberos авторизации в Apache2Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectДобавление UPN суффикса в Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

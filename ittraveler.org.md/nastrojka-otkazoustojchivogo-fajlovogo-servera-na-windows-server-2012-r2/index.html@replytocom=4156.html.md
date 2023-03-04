@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Перенос базы данных Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

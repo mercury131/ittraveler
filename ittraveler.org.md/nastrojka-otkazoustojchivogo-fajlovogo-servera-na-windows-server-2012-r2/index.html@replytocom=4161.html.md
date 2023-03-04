@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellСброс пароля администратора Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

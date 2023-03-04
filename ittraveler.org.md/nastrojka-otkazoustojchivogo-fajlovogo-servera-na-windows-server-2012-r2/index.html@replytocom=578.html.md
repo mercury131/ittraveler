@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПеренос базы данных Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Передача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере ProxmoxУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

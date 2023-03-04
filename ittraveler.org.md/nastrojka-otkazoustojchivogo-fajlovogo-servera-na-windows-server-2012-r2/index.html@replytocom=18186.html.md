@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Включение корзины Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений в Active DirectoryАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
