@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНовые компьютеры не появляются на WSUS сервереАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Сброс настроек GPO на стандартныеДобавление UPN суффикса в Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryОтключение Skype UI в Lync 2013Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос базы данных Active DirectoryДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере ProxmoxУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Сброс пароля администратора Active DirectoryАудит незаполненных полей в Active Directory через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessСоздание пользователей Active Directory через CSV файлСоздание email рассылки через Powershell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Active Directory + Thunderbird = Общая адресная книгаАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

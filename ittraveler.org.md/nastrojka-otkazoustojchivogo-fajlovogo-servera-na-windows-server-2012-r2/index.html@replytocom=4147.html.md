@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка Lync 2013
+Related posts:Аудит изменений групповых политик через PowerShellWindows WSL подключение к сетевым шарамАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

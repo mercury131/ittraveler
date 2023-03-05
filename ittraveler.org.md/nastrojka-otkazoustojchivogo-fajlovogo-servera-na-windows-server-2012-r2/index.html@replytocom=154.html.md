@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАктивируем LDAP over SSLКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Удаление Lync Server 2013Добавление почтовых контактов в Office 365 через Powershell и CSVДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

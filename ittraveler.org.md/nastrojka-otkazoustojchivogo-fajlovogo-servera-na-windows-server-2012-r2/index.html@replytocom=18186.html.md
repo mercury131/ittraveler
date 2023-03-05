@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений в Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Создание email рассылки через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
