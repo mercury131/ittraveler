@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка дедупликации  на Windows Server 2012 R2Windows WSL подключение к сетевым шарам
+Related posts:Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

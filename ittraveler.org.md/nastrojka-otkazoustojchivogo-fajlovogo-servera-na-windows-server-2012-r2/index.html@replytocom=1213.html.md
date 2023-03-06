@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка дедупликации  на Windows Server 2012 R2Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

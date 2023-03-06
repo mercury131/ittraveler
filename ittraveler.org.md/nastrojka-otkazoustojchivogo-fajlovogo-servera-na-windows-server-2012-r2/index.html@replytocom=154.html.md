@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Добавление почтовых контактов в Office 365 через Powershell и CSVДобавление UPN суффикса в Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

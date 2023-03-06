@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Active Directory + Thunderbird = Общая адресная книгаАудит изменений в Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

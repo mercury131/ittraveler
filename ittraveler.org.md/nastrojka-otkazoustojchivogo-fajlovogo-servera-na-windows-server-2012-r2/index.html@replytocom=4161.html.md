@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс пароля администратора Active DirectoryВключение корзины Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

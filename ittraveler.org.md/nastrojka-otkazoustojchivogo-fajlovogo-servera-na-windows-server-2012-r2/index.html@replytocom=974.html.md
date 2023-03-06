@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Переход на репликацию SYSVOL по DFSСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

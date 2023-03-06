@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит доменных служб Active Directory в Windows Server 2008 R2Создание email рассылки через Powershell
+Related posts:Включение корзины Active DirectoryВосстановление объектов Active Directory: сборник сценариевУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

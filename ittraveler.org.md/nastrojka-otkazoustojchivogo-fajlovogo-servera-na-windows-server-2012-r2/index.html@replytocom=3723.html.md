@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Отключение Skype UI в Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Получаем MD5 файла или переменной в PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

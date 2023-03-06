@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка HA кластера Hyper-V
+Related posts:Настройка Kerberos авторизации в Apache2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

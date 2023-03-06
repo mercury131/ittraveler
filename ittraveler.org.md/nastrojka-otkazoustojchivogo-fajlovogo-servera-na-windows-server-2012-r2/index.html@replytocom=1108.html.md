@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОбновление схемы Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСброс настроек GPO на стандартныеУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

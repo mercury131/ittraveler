@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПринудительная синхронизация Office 365 и локальной Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Создание шаблонов Zabbix для Windows.Подключение к Office 365 через Powershell и зашифрованный парольПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

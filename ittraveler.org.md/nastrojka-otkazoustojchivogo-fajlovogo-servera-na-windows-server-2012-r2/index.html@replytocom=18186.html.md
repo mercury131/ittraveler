@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Решаем проблему внезапной блокировки учетной записи
+Related posts:Переход на репликацию SYSVOL по DFSДобавление почтовых контактов в Office 365 через Powershell и CSVПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

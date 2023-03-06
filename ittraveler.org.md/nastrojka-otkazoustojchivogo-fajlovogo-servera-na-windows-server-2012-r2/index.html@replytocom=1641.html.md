@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Принудительная синхронизация контроллеров домена Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

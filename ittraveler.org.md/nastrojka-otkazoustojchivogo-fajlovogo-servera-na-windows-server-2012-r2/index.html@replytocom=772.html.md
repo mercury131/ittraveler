@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений групповых политик через PowerShellПередача и захват ролей FSMO
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Сброс пароля администратора Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

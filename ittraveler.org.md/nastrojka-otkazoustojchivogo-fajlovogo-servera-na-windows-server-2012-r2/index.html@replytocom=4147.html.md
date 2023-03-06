@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellWindows WSL подключение к сетевым шарамАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Активируем LDAP over SSLСброс пароля администратора Active DirectoryОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
