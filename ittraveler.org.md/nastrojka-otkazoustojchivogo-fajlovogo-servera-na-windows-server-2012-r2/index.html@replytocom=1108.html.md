@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиСброс настроек GPO на стандартныеУстановка и настройка Lync 2013
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПолучаем MD5 файла или переменной в PowershellWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
