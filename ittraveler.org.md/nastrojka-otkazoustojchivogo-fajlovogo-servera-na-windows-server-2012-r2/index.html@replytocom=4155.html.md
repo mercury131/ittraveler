@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSVУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

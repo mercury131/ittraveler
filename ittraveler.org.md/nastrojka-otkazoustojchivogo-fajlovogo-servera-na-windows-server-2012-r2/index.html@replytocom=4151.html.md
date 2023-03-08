@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеActive Directory + Thunderbird = Общая адресная книгаСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка HA кластера Hyper-VОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Автоматическая активация пользователей Lync через Powershell
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОбновление Lync 2013 до Skype for BusinessПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Создание пользователей Active Directory через CSV файлУстановка RSAT на Windows 10 1809
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

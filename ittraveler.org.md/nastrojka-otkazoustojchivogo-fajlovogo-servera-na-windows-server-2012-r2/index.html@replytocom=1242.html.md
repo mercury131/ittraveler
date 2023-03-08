@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПринудительная синхронизация контроллеров домена Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Создание пользователей Active Directory через CSV файлКак узнать WWN (World Wide Name)  в Windows Server 2012R2Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит DNS серверов на Windows Server 2008 R2 через PowershellРешаем проблему внезапной блокировки учетной записи
+Related posts:Автоматическая активация пользователей Lync через PowershellПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

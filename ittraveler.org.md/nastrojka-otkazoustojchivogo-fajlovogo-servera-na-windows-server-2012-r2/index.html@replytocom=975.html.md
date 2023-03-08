@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит незаполненных полей в Active Directory через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

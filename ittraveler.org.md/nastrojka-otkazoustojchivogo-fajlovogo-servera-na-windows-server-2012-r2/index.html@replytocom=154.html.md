@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLОтключение Skype UI в Lync 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Установка и настройка Lync 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

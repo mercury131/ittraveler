@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Active Directory + Thunderbird = Общая адресная книгаНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Удаление Lync Server 2013Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

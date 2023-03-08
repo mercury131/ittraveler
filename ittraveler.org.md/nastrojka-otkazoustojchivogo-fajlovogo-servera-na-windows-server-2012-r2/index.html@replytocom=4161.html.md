@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка кластера MSSQL 2012.Решаем проблему внезапной блокировки учетной записи
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание индивидуальных адресных книг в Office 365 и Exchange onlineПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

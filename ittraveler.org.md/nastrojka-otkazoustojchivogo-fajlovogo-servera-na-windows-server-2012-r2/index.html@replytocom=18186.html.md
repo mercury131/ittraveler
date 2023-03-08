@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOНастройка Kerberos авторизации в Apache2Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

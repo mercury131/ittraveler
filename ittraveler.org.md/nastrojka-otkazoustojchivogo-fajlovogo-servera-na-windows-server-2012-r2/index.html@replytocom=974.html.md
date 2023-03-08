@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Подключение к Office 365 через Powershell и зашифрованный парольПередача и захват ролей FSMO
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУправление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

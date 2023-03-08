@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Автоматический аудит компьютеров в Active Directory через powershell.Сброс настроек GPO на стандартные
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУдаление Lync Server 2013Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

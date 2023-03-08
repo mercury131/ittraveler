@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

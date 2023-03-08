@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСброс пароля администратора Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Настройка Kerberos авторизации в Apache2Сброс пароля компьютера в домене без перезагрузкиПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

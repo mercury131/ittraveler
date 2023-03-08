@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Включение корзины Active DirectoryПередача и захват ролей FSMO
+Related posts:Получаем MD5 файла или переменной в PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
