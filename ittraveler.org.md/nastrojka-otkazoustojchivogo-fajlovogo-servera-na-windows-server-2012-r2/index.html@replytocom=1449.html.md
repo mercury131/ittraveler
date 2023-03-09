@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Установка и настройка кластера MSSQL 2012.Восстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка Lync 2013Аудит незаполненных полей в Active Directory через PowershellДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

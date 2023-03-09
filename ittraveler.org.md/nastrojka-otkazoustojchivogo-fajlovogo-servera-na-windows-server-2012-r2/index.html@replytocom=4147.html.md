@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Ansible
+Related posts:Создание пользователей Active Directory через CSV файлСброс пароля компьютера в домене без перезагрузкиАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

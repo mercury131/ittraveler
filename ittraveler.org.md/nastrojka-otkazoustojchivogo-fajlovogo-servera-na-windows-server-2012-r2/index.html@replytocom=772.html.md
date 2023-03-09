@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлДобавление UPN суффикса в Active DirectoryПередача и захват ролей FSMO
+Related posts:Установка и настройка кластера MSSQL 2012.Автоматическая активация пользователей Lync через PowershellПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

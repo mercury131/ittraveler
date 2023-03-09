@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит незаполненных полей в Active Directory через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
