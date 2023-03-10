@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Активируем LDAP over SSLАудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

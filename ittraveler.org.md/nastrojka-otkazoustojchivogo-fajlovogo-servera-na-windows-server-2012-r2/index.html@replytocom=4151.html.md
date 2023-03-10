@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Удаление Lync Server 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Новые компьютеры не появляются на WSUS сервереАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessУстановка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Ansible
+Related posts:Включение корзины Active DirectoryОтключение Skype UI в Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

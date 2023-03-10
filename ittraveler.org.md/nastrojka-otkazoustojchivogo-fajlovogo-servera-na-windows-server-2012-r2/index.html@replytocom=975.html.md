@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка AnsibleЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

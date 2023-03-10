@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Включение корзины Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Включение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Установка и настройка Lync 2013Аудит изменений в Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

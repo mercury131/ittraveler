@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Переход на репликацию SYSVOL по DFS
+Related posts:Аудит незаполненных полей в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

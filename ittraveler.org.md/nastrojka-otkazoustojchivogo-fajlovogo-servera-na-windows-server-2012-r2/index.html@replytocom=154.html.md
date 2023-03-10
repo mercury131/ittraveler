@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Автоматическая активация пользователей Lync через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит доменных служб Active Directory в Windows Server 2008 R2Включение корзины Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Отключение Skype UI в Lync 2013Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

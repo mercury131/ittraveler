@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VУдаление Lync Server 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Добавление UPN суффикса в Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

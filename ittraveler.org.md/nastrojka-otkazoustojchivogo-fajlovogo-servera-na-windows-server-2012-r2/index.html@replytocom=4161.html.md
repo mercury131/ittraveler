@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Подключение к Office 365 через Powershell и зашифрованный парольВключение корзины Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Установка и настройка дедупликации  на Windows Server 2012 R2Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

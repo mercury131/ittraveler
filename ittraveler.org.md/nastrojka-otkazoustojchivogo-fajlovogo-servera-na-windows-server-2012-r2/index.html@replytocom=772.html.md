@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматическая активация пользователей Lync через PowershellПередача и захват ролей FSMO
+Related posts:Удаление Lync Server 2013Добавление UPN суффикса в Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

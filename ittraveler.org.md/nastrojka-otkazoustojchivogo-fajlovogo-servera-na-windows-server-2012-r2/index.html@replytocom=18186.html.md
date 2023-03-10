@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Аудит DNS серверов на Windows Server 2008 R2 через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Создание email рассылки через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

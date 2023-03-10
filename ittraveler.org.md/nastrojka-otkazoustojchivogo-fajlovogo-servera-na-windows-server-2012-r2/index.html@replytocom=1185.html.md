@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Сброс пароля администратора Active DirectoryУдаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

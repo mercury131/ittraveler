@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлСброс пароля компьютера в домене без перезагрузкиАудит изменений в Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Активируем LDAP over SSLКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

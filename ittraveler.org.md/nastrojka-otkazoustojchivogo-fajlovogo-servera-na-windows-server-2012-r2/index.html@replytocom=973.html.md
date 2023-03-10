@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСброс пароля компьютера в домене без перезагрузкиАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка дедупликации  на Windows Server 2012 R2Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
