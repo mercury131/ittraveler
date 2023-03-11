@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Обновление схемы Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАктивируем LDAP over SSLВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
