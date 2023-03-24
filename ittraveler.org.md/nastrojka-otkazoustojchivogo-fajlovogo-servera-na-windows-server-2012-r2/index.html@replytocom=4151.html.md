@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаКак узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений в Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Активируем LDAP over SSLОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

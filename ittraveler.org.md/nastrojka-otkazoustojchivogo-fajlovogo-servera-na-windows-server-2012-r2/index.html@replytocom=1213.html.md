@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Настройка HA кластера Hyper-VСброс пароля компьютера в домене без перезагрузки
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаление Lync Server 2013Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

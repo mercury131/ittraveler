@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Автоматический аудит компьютеров в Active Directory через powershell.Active Directory + Thunderbird = Общая адресная книга
+Related posts:Активируем LDAP over SSLНастройка HA кластера Hyper-VОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
