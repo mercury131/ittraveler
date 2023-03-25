@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Активируем LDAP over SSLОтключение Skype UI в Lync 2013
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVВключение корзины Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
