@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАктивируем LDAP over SSLПолучаем MD5 файла или переменной в Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевАудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

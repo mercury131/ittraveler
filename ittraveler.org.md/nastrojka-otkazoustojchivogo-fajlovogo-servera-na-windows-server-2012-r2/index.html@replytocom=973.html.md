@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПолучаем MD5 файла или переменной в PowershellАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

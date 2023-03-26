@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOНастройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНастройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

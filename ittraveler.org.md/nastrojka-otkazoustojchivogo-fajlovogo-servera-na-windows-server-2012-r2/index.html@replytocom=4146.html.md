@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellНастройка HA кластера Hyper-VСброс пароля администратора Active Directory
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПоиск старых почтовых ящиков в Exchange 2010Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАвтоматическая активация пользователей Lync через PowershellАудит изменений групповых политик через PowerShell
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматизируем бэкап баз данных MSSQL ExpressАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellВключение корзины Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

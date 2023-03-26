@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryНастройка HA кластера Hyper-VПолучаем MD5 файла или переменной в Powershell
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание пользователей Active Directory через CSV файлПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
