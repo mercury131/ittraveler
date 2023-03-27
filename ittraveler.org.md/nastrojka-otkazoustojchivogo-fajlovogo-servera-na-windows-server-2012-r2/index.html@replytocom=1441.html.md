@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Сброс пароля администратора Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит незаполненных полей в Active Directory через PowershellПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

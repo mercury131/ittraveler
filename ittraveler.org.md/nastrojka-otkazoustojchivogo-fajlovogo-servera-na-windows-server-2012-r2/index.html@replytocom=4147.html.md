@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевАудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Lync 2013
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Новые компьютеры не появляются на WSUS сервереРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

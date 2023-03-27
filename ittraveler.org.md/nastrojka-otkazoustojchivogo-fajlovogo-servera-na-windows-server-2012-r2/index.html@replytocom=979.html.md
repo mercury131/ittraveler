@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка AlwaysOn на MS SQL 2016Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

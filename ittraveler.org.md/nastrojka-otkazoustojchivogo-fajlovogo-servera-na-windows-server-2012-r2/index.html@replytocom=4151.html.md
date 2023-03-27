@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Передача и захват ролей FSMO
+Related posts:Аудит незаполненных полей в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книгаУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

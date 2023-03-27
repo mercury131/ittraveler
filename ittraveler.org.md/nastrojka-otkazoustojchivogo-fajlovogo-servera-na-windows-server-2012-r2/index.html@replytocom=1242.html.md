@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

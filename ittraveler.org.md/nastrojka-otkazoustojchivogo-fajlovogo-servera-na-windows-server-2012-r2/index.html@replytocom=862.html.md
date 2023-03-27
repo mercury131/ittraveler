@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаление Lync Server 2013
+Related posts:Создание пользователей Active Directory через CSV файлКак узнать WWN (World Wide Name)  в Windows Server 2012R2Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

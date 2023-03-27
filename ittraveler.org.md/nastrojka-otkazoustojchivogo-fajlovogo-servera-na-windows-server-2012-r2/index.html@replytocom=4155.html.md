@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка RSAT на Windows 10 1809Получаем MD5 файла или переменной в Powershell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПодключение к Office 365 через Powershell и зашифрованный парольСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

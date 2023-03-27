@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиПередача и захват ролей FSMOАвтоматическая активация пользователей Lync через Powershell
+Related posts:Автоматическая активация пользователей Lync через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

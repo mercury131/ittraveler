@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматизируем бэкап баз данных MSSQL ExpressАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание email рассылки через PowershellПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
