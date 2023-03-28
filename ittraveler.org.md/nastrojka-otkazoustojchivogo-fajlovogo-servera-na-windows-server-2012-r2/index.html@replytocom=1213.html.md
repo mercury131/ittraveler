@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellСброс пароля администратора Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Включение корзины Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеПеренос базы данных Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Передача и захват ролей FSMOОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
