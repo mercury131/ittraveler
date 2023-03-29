@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Включение корзины Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка кластера MSSQL 2012.Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

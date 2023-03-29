@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryСброс настроек GPO на стандартныеActive Directory + Thunderbird = Общая адресная книга
+Related posts:Создание шаблонов Zabbix для Windows.Поиск старых почтовых ящиков в Exchange 2010Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

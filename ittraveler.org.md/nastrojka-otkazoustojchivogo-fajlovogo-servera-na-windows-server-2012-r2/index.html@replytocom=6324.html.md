@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessУправление репликацией Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка дедупликации  на Windows Server 2012 R2Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
