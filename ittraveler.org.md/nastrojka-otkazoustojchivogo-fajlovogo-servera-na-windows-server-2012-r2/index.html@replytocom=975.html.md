@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Новые компьютеры не появляются на WSUS сервере
+Related posts:Установка RSAT на Windows 10 1809Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

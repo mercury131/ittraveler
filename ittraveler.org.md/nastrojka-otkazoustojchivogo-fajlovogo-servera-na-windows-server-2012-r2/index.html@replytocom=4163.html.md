@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Аудит незаполненных полей в Active Directory через PowershellСоздание email рассылки через Powershell
+Related posts:Windows WSL подключение к сетевым шарамРешаем проблему внезапной блокировки учетной записиДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

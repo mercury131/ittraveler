@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Добавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка кластера MSSQL 2012.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

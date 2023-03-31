@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Удаление Lync Server 2013Переход на репликацию SYSVOL по DFS
+Related posts:Настройка Kerberos авторизации в Apache2Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

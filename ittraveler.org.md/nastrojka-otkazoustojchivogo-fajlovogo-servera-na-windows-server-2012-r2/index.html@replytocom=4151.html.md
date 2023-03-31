@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереАвтоматический аудит компьютеров в Active Directory через powershell.Перенос базы данных Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Сброс пароля администратора Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryПередача и захват ролей FSMOВключение корзины Active Directory
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVОбновление Lync 2013 до Skype for BusinessУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

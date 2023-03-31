@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressКастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка кластера MSSQL 2012.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

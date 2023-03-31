@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевПереход на репликацию SYSVOL по DFSОтключение Skype UI в Lync 2013
+Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка Lync 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

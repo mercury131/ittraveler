@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка Scale-Out File Server + Storage Spaces DirectСброс пароля компьютера в домене без перезагрузки
+Related posts:Включение корзины Active DirectoryИзменение UPN суффикса в Active Directory через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

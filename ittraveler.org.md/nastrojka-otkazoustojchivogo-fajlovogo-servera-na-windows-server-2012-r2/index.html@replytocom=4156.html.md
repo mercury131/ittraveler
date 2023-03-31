@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиПодключение к Office 365 через Powershell и зашифрованный парольПолучаем MD5 файла или переменной в Powershell
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Перенос базы данных Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

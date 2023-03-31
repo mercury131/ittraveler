@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПеренос базы данных Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Active Directory + Thunderbird = Общая адресная книгаНастройка растянутого кластера (stretch-cluster) на Windows server 2016Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
