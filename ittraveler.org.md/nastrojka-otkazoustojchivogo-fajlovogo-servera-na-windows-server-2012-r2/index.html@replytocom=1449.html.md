@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит изменений в Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка AnsibleАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

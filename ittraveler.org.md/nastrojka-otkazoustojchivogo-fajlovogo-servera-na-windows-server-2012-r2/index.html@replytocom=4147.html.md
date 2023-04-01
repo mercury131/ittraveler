@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматизируем бэкап баз данных MSSQL ExpressWindows WSL подключение к сетевым шарам
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУправление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

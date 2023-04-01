@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлПоиск старых почтовых ящиков в Exchange 2010Active Directory + Thunderbird = Общая адресная книга
+Related posts:Аудит изменений в Active DirectoryВключение корзины Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

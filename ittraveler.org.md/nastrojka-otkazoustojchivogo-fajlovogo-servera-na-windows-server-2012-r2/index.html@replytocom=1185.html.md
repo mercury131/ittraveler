@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереДобавление UPN суффикса в Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Включение корзины Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
