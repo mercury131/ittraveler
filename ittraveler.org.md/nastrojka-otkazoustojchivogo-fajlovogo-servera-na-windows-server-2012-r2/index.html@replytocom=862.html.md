@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLПереход на репликацию SYSVOL по DFSПередача и захват ролей FSMO
+Related posts:Установка и настройка кластера MSSQL 2012.Обновление схемы Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

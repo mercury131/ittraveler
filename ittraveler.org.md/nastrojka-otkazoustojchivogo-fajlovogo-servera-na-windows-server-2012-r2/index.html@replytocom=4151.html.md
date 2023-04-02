@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Переход на репликацию SYSVOL по DFSАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка кластера MSSQL 2012.Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
