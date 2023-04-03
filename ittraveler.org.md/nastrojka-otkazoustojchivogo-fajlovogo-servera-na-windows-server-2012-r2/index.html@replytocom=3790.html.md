@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryАудит незаполненных полей в Active Directory через PowershellАудит изменений групповых политик через PowerShell
+Related posts:Создание шаблонов Zabbix для Windows.Создание email рассылки через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

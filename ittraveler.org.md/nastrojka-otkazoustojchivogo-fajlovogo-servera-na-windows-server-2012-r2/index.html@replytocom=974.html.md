@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлВосстановление объектов Active Directory: сборник сценариевActive Directory + Thunderbird = Общая адресная книга
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСброс настроек GPO на стандартныеНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

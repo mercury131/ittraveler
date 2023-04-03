@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереПолучаем MD5 файла или переменной в PowershellСоздание пользователей Active Directory через CSV файл
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Включение корзины Active DirectoryАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
