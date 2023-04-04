@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Создание email рассылки через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

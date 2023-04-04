@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записиБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

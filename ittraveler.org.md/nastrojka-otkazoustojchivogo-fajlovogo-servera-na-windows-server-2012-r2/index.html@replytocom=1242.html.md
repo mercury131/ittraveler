@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellПоиск старых почтовых ящиков в Exchange 2010Решаем проблему внезапной блокировки учетной записи
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматический аудит компьютеров в Active Directory через powershell.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

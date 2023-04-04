@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Создание пользователей Active Directory через CSV файлПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Сброс настроек GPO на стандартныеПоиск старых почтовых ящиков в Exchange 2010Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

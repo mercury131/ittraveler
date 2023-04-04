@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСброс настроек GPO на стандартныеНастройка HA кластера Hyper-V
+Related posts:Active Directory + Thunderbird = Общая адресная книгаНазначение служб для сертификатов Exchange через Powershell.Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

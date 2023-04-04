@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Включение корзины Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПеренос базы данных Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

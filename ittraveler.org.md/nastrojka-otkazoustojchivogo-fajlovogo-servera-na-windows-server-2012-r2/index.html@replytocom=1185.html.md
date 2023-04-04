@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Аудит доменных служб Active Directory в Windows Server 2008 R2Перенос базы данных Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка дедупликации  на Windows Server 2012 R2Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

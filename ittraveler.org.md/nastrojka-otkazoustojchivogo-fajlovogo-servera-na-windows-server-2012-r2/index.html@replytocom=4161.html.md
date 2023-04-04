@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка AnsibleWindows WSL подключение к сетевым шарам
+Related posts:Обновление схемы Active DirectoryУстановка RSAT на Windows 10 1809Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

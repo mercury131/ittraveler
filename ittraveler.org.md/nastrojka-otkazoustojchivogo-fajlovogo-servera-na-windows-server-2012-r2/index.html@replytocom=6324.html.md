@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка дедупликации  на Windows Server 2012 R2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПолучаем MD5 файла или переменной в PowershellПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
