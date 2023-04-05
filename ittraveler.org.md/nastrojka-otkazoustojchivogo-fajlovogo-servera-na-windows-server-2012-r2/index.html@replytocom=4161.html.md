@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryУстановка RSAT на Windows 10 1809Установка и настройка Ansible
+Related posts:Создание пользователей Active Directory через CSV файлАудит изменений групповых политик через PowerShellПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

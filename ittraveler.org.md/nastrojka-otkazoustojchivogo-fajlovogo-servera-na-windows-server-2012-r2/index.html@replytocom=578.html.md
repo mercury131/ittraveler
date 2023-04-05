@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Создание пользователей Active Directory через CSV файл
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка кластера MSSQL 2012.Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

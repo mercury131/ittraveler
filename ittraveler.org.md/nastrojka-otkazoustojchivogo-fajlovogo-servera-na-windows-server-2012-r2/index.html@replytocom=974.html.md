@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаНазначение служб для сертификатов Exchange через Powershell.Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Включение корзины Active DirectoryСоздание шаблонов Zabbix для Windows.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

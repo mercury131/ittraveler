@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматический аудит компьютеров в Active Directory через powershell.Обновление схемы Active Directory
+Related posts:Обновление схемы Active DirectoryРешаем проблему внезапной блокировки учетной записиВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

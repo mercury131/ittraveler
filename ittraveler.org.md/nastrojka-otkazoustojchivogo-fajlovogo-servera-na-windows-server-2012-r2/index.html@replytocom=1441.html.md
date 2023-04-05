@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеПоиск старых почтовых ящиков в Exchange 2010Активируем LDAP over SSL
+Related posts:Удаление Lync Server 2013Решаем проблему внезапной блокировки учетной записиОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
