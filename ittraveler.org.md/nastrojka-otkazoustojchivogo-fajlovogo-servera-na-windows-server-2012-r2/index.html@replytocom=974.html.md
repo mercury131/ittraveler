@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryСоздание шаблонов Zabbix для Windows.Аудит изменений в Active Directory
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка Scale-Out File Server + Storage Spaces DirectАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

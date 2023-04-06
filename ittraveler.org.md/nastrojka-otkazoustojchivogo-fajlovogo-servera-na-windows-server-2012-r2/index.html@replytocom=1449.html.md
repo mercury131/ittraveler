@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryРешаем проблему внезапной блокировки учетной записиВосстановление объектов Active Directory: сборник сценариев
+Related posts:Создание шаблонов Zabbix для Windows.Обновление схемы Active DirectoryАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
