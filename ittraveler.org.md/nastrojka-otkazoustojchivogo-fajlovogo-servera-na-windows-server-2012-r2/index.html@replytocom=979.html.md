@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Передача и захват ролей FSMOWindows WSL подключение к сетевым шарамСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

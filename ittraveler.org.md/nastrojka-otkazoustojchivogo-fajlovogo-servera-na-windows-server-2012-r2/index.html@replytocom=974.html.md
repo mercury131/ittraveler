@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка Scale-Out File Server + Storage Spaces DirectАудит изменений в Active Directory
+Related posts:Настройка HA кластера Hyper-VОбновление Lync 2013 до Skype for BusinessАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
