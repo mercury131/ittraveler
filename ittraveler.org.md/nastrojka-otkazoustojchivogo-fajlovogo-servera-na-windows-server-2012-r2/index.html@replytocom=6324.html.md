@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Установка и настройка кластера MSSQL 2012.Автоматическая активация пользователей Lync через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Настройка HA кластера Hyper-VПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

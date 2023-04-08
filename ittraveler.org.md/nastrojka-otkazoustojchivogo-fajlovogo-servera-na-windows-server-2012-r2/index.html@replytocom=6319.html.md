@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереАудит доменных служб Active Directory в Windows Server 2008 R2Активируем LDAP over SSL
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

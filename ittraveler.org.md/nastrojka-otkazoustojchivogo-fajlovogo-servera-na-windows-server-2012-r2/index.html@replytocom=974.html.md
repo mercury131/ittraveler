@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VОбновление Lync 2013 до Skype for BusinessАвтоматическая активация пользователей Lync через Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Восстановление объектов Active Directory: сборник сценариевАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

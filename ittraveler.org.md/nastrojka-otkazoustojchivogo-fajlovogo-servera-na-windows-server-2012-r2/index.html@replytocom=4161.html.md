@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамПринудительная синхронизация контроллеров домена Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПоиск старых почтовых ящиков в Exchange 2010Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

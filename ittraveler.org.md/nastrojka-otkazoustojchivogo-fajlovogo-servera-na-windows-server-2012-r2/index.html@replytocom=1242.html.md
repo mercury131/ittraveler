@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариевУправление репликацией Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записиWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

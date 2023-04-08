@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиИзменение UPN суффикса в Active Directory через PowershellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

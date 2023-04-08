@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Аудит незаполненных полей в Active Directory через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

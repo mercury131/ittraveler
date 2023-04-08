@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка RSAT на Windows 10 1809Настройка HA кластера Hyper-V
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСброс настроек GPO на стандартныеАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

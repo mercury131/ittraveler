@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Переход на репликацию SYSVOL по DFSУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

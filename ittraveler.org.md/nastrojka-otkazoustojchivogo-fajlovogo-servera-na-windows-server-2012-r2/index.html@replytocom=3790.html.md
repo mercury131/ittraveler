@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Сброс настроек GPO на стандартныеСоздание шаблонов Zabbix для Windows.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

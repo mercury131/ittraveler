@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Обновление Lync 2013 до Skype for BusinessНастройка Kerberos авторизации в Apache2
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПередача и захват ролей FSMOДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

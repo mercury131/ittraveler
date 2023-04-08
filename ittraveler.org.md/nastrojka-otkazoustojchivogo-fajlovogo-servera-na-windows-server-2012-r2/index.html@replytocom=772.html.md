@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Новые компьютеры не появляются на WSUS сервере
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

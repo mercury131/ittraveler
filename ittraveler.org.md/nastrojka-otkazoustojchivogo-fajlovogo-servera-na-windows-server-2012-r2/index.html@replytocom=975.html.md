@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Новые компьютеры не появляются на WSUS сервереПереход на репликацию SYSVOL по DFS
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУправление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

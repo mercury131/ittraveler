@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПолучаем MD5 файла или переменной в PowershellДобавление UPN суффикса в Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Решаем проблему внезапной блокировки учетной записиОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

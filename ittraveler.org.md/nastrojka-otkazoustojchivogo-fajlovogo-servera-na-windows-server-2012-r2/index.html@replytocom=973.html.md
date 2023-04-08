@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

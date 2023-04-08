@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Решаем проблему внезапной блокировки учетной записиУдаление Lync Server 2013
+Related posts:Аудит изменений в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

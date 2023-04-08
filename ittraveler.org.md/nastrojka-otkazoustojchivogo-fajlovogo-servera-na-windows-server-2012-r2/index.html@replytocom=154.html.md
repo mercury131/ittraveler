@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Создание шаблонов Zabbix для Windows.Установка RSAT на Windows 10 1809Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
