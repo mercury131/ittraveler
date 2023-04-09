@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос базы данных Active Directory
+Related posts:Аудит незаполненных полей в Active Directory через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записиWindows WSL подключение к сетевым шарам
+Related posts:Автоматическая активация пользователей Lync через PowershellНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

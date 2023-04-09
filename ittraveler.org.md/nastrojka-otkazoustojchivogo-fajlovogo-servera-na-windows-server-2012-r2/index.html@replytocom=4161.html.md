@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПоиск старых почтовых ящиков в Exchange 2010Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Active Directory + Thunderbird = Общая адресная книгаЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

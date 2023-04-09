@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryWindows WSL подключение к сетевым шарамПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка кластера MSSQL 2012.Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

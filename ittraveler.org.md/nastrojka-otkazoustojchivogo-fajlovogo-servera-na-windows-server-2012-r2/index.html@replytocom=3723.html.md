@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Переход на репликацию SYSVOL по DFSУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание email рассылки через PowershellАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

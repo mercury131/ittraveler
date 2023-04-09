@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Настройка HA кластера Hyper-VПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание email рассылки через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

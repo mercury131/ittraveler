@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Отключение Skype UI в Lync 2013Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

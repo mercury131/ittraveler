@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Удаление Lync Server 2013Сброс настроек GPO на стандартныеУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматическая активация пользователей Lync через Powershell
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Подключение к Office 365 через Powershell и зашифрованный парольАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
