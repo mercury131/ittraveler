@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереПереход на репликацию SYSVOL по DFSПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Восстановление объектов Active Directory: сборник сценариевПеренос базы данных Active DirectoryОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

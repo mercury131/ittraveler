@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessДобавление почтовых контактов в Office 365 через Powershell и CSVВключение корзины Active Directory
+Related posts:Настройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записиАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

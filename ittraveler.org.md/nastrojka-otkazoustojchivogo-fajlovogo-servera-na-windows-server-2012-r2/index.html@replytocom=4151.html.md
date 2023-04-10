@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressДобавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка AnsibleАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

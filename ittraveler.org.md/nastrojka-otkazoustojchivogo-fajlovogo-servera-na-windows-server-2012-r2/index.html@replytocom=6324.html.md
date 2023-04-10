@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание email рассылки через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка AnsibleПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

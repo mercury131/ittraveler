@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Отключение Skype UI в Lync 2013Windows WSL подключение к сетевым шарам
+Related posts:Создание шаблонов Zabbix для Windows.Удаление Lync Server 2013Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

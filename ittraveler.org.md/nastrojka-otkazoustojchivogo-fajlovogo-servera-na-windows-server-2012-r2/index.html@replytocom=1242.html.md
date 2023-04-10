@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

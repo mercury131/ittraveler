@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellСоздание шаблонов Zabbix для Windows.Решаем проблему внезапной блокировки учетной записи
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка Kerberos авторизации в Apache2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
