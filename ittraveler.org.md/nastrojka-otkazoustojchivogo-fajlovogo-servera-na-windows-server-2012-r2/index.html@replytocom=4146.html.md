@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Сброс пароля администратора Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит изменений в Active DirectoryДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

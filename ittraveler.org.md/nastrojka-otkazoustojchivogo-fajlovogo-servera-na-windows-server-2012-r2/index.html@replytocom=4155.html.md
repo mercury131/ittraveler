@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Установка RSAT на Windows 10 1809Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Перенос базы данных Active DirectoryНовые компьютеры не появляются на WSUS сервереУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

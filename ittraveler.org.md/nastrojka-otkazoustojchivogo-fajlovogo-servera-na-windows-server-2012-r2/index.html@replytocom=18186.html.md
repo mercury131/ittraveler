@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Обновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active Directory
+Related posts:Аудит изменений в Active DirectoryУстановка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

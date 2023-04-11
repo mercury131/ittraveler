@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеКак узнать WWN (World Wide Name)  в Windows Server 2012R2Создание шаблонов Zabbix для Windows.
+Related posts:Включение корзины Active DirectoryПередача и захват ролей FSMOУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
