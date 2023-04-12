@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Добавление почтовых контактов в Office 365 через Powershell и CSVВключение корзины Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

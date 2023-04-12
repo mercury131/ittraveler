@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLУдаление Lync Server 2013Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

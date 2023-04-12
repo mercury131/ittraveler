@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryУстановка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Аудит незаполненных полей в Active Directory через PowershellСброс пароля администратора Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

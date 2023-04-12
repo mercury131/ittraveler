@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка RSAT на Windows 10 1809Обновление схемы Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка AnsibleУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

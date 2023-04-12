@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Передача и захват ролей FSMOУстановка RSAT на Windows 10 1809
+Related posts:Сброс пароля администратора Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

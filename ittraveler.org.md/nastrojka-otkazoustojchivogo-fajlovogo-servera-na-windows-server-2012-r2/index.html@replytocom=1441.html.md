@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиОбновление схемы Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматизируем бэкап баз данных MSSQL ExpressОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

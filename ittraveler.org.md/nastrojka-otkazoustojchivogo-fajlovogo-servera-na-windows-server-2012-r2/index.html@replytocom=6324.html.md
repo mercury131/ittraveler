@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Перенос базы данных Active Directory
+Related posts:Настройка HA кластера Hyper-VСброс настроек GPO на стандартныеАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
