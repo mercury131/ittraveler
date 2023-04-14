@@ -42,13 +42,13 @@
 
 
 
-		<!-- All in One SEO 4.3.4.1 - aioseo.com -->
+		<!-- All in One SEO 4.3.5.1 - aioseo.com -->
 		<title>Настройка отказоустойчивого файлового сервера на Windows Server 2012 R2 | IT Traveler</title>
 		<meta name="description" content="В данной статье я расскажу как настроить отказоустойчивый файловый сервер на Windows Server 2012 R2 в домене Active Directory Первым делом убедитесь что сервер введен в домен Active Directory, далее установите роли DFS и файлового сервера Выберите следующие роли и установите их. Далее создайте структуру папок на отдельном диске. Теперь включим общий доступ. Выберите" />
 		<meta name="robots" content="max-image-preview:large" />
 		<meta name="keywords" content="active directory,dfs,file-server" />
 		<link rel="canonical" href="../index.html@p=270.html" />
-		<meta name="generator" content="All in One SEO (AIOSEO) 4.3.4.1 " />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.3.5.1 " />
 		<meta property="og:locale" content="ru_RU" />
 		<meta property="og:site_name" content="IT Traveler | Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом..." />
 		<meta property="og:type" content="article" />
@@ -274,7 +274,8 @@ body.custom-background { background-color: #cecece; }
 
 
 
-	<p>В данной статье я расскажу как настроить отказоустойчивый файловый сервер на <a href="../tag/windows-server/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Windows Server">windows server</a> 2012 R2 в домене <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a> <span id="more-270"></span>  Первым делом убедитесь что сервер введен в домен Active Directory, далее установите роли <a href="../tag/dfs/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DFS">dfs</a> и файлового сервера</p>
+	<p>В данной статье я расскажу как настроить отказоустойчивый файловый сервер на <a href="../tag/windows-server/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Windows Server">Windows Server</a> 2012 R2 в домене <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">Active Directory</a>
+<span id="more-270"></span>  Первым делом убедитесь что сервер введен в домен Active Direc<a href="../tag/tor/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with TOR">TOR</a>y, далее установите роли <a href="../tag/dfs/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DFS">DFS</a> и файлового сервера</p>
 <p>Выберите следующие роли и установите их.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2c089008182b9740ff49658616eab008.png" alt="" width="673" height="475"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b1e2eb658ca473ba3f9387fd0f415c01.png" alt="" width="674" height="476"></p>
@@ -288,7 +289,7 @@ body.custom-background { background-color: #cecece; }
 <p>Теперь нам нужно создать структуру прав для наших каталогов в Active Directory.</p>
 <p>Для начала рассмотрим из чего состоит наша файловая структура.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d2c8e9be414eb9622f04fd9e641fcaf6.gif" alt="" width="428" height="268"></p>
-<p>Теперь на ее основе создадим в Active Directory OU &#8212; File Sharing</p>
+<p>Теперь на ее основе создадим в Active Directory OU &#8212; File S<a href="../tag/ha/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with HA">HA</a>ring</p>
 <p>Переходим в консоль пользователи и компьютеры, и создаем OU</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/da7b393f680d9b73053216ffcdd938df.png" alt="" width="542" height="398"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4f865224a35e129a8626833ec04fb840.png" alt="" width="375" height="322"></p>
@@ -408,7 +409,7 @@ body.custom-background { background-color: #cecece; }
 <p>И так далее.</p>
 <p>Теперь создайте папку в DFS.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/82ac13363d2ea1ed68f80be7e8641f6d.png" alt="" width="347" height="358"></p>
-<p>Должно получится так.</p>
+<p>Должно получится так</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a639704f70787b47ab5c750ada033af0.png" alt="" width="109" height="54"></p>
 <p>Теперь включим ABE.</p>
 <p>В диспетчере сервера откройте &laquo;Файловые службы&raquo; &#8212; &laquo;Общие ресурсы&raquo;.</p>
@@ -450,7 +451,7 @@ body.custom-background { background-color: #cecece; }
 <p>Если вы хотите изменить группы файлов, то это можно сделать тут:</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/16edfb931b35aa0d320b2a9a1eb94137.png" alt="" width="998" height="247"></p>
 <p>Создадим задачу управления файлами.</p>
-<p>Представим что у нас есть папка <a href="../tag/exchange/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Exchange">exchange</a>. в которой пользователи обмениваются файлами.</p>
+<p>Представим что у нас есть папка <a href="../tag/exchange/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Exchange">Exchange</a>. в которой пользователи обмениваются файлами.</p>
 <p>Нам нужно сделать так, чтобы раз в период данная папка очищалась, а удаленные данные перемещались в папку Temp</p>
 <p>Создаем задачу.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ce7a8ea2c15fbb4e9cc1f13d7c704b3.png" alt="" width="375" height="282"></p>
@@ -500,7 +501,7 @@ body.custom-background { background-color: #cecece; }
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/919c1afccc6d498c779e81848bec5349.png" alt="" width="419" height="181"></p>
 <p>И выберем наше пространство имен.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3176cf3ab3b01e194aa893aa912743f7.png" alt="" width="372" height="419"></p>
-<p>Должно получится так.</p>
+<p>Должно получится так</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a4853dca453b56d939e4866f552efdb6.png" alt="" width="338" height="96"></p>
 <p>Теперь добавьте 2-й в &laquo;серверы пространства имен&raquo; на основном сервере.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b04153c5c60561ecea3169cf88175028.png" alt="" width="787" height="467"></p>
@@ -517,7 +518,7 @@ body.custom-background { background-color: #cecece; }
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=73.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Активируем LDAP over SSL" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Активируем LDAP over SSL</div></div></a><a class="relpost-block-single" href="../index.html@p=1124.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка Ansible" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка Ansible</div></div></a><a class="relpost-block-single" href="../index.html@p=484.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Автоматизируем бэкап баз данных MSSQL Express" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Автоматизируем бэкап баз данных MSSQL Express</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=484.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Автоматизируем бэкап баз данных MSSQL Express" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Автоматизируем бэкап баз данных MSSQL Express</div></div></a><a class="relpost-block-single" href="../index.html@p=584.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Автоматический аудит компьютеров в Active Directory через powershell." style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Автоматический аудит компьютеров в Active Directory через powershell.</div></div></a><a class="relpost-block-single" href="../index.html@p=103.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Перенос базы данных Active Directory" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Перенос базы данных Active Directory</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
         <div class="post-info">
 
             <div class="left"> <a href="../category/active-directory/index.html" rel="category tag">Active Directory</a>, <a href="../category/windows/index.html" rel="category tag">Windows</a>, <a href="../category/windows-server/index.html" rel="category tag">Windows Server</a> </div>
@@ -1502,7 +1503,7 @@ body.custom-background { background-color: #cecece; }
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='270' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='154' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="ea7bb8331c" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="234"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="57cb9a6e01" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="112"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->
