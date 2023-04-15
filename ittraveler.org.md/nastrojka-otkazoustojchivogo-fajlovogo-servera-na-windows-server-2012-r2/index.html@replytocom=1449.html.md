@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLВключение корзины Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка RSAT на Windows 10 1809Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
