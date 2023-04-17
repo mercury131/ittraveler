@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСброс пароля компьютера в домене без перезагрузкиАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

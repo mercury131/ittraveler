@@ -166,7 +166,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Установка и настройка кластера MSSQL 2012.Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

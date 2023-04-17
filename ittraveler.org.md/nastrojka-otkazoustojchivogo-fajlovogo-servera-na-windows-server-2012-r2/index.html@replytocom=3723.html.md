@@ -166,7 +166,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПринудительная синхронизация контроллеров домена Active DirectoryДобавление UPN суффикса в Active Directory
+Related posts:Active Directory + Thunderbird = Общая адресная книгаВключение корзины Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -166,7 +166,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellСброс пароля компьютера в домене без перезагрузкиНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОбновление схемы Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Активируем LDAP over SSLСброс настроек GPO на стандартные
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Решаем проблему внезапной блокировки учетной записиДобавление UPN суффикса в Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Управление репликацией Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

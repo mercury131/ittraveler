@@ -166,7 +166,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2Windows WSL подключение к сетевым шарам
+Related posts:Аудит незаполненных полей в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс пароля администратора Active DirectoryОбновление схемы Active Directory
+Related posts:Установка и настройка AnsibleПринудительная синхронизация контроллеров домена Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -166,7 +166,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Решаем проблему внезапной блокировки учетной записиПеренос базы данных Active Directory
+Related posts:Удаление Lync Server 2013Создание пользователей Active Directory через CSV файлПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

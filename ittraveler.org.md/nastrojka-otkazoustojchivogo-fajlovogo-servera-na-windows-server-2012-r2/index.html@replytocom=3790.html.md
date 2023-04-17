@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Lync 2013Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание email рассылки через PowershellActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
