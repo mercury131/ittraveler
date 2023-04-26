@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Настройка Kerberos авторизации в Apache2Создание шаблонов Zabbix для Windows.
+Related posts:Включение корзины Active DirectoryСоздание шаблонов Zabbix для Windows.Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
