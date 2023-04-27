@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Получаем MD5 файла или переменной в PowershellНастройка Kerberos авторизации в Apache2
+Related posts:Удаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

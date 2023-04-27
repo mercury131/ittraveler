@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлПринудительная синхронизация контроллеров домена Active DirectoryВключение корзины Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Новые компьютеры не появляются на WSUS сервереОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка AnsibleНастройка HA кластера Hyper-V
+Related posts:Включение корзины Active DirectoryActive Directory + Thunderbird = Общая адресная книгаПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

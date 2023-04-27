@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАудит незаполненных полей в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Аудит изменений в Active DirectoryОбновление схемы Active DirectoryУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

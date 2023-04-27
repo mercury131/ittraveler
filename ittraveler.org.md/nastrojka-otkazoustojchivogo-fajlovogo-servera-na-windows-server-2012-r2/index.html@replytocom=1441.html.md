@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryПеренос базы данных Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
