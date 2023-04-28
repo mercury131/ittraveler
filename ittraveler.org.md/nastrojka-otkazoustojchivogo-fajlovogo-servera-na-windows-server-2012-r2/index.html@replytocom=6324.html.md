@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Новые компьютеры не появляются на WSUS сервереОтключение Skype UI в Lync 2013
+Related posts:Изменение UPN суффикса в Active Directory через PowershellОтключение Skype UI в Lync 2013Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматическая активация пользователей Lync через PowershellУстановка и настройка Lync 2013
+Related posts:Обновление схемы Active DirectoryУстановка и настройка AnsibleПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка кластера MSSQL 2012.Новые компьютеры не появляются на WSUS сервере
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Активируем LDAP over SSLАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

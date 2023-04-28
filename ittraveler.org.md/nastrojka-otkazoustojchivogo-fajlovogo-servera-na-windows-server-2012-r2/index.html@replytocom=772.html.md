@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active DirectoryПереход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОтключение Skype UI в Lync 2013Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

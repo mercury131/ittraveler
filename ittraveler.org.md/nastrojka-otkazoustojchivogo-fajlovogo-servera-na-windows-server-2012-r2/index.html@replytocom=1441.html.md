@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарамНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

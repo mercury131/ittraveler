@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryActive Directory + Thunderbird = Общая адресная книгаПередача и захват ролей FSMO
+Related posts:Аудит изменений групповых политик через PowerShellСброс настроек GPO на стандартныеСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
