@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Lync 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Передача и захват ролей FSMOУстановка и настройка Lync 2013Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
