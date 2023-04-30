@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка RSAT на Windows 10 1809Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание пользователей Active Directory через CSV файлАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Установка RSAT на Windows 10 1809Active Directory + Thunderbird = Общая адресная книгаОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

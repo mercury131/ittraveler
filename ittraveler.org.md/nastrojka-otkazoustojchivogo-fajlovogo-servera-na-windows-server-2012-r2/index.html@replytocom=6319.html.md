@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLИзменение UPN суффикса в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Создание шаблонов Zabbix для Windows.Создание пользователей Active Directory через CSV файлАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

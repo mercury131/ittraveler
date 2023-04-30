@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellПоиск старых почтовых ящиков в Exchange 2010Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Установка и настройка Lync 2013Автоматический аудит компьютеров в Active Directory через powershell.Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

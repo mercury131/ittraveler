@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Добавление почтовых контактов в Office 365 через Powershell и CSVИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

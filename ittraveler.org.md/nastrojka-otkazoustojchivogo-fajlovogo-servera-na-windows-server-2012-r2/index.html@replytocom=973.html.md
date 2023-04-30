@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАудит незаполненных полей в Active Directory через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматизируем бэкап баз данных MSSQL ExpressОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУстановка и настройка Lync 2013Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

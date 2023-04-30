@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Установка и настройка кластера MSSQL 2012.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамОбновление схемы Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Добавление UPN суффикса в Active DirectoryНастройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

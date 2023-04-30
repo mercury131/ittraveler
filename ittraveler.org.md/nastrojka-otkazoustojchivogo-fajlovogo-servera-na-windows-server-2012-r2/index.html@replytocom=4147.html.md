@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание email рассылки через PowershellПеренос базы данных Active Directory
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVНовые компьютеры не появляются на WSUS сервереСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryСоздание пользователей Active Directory через CSV файлСоздание шаблонов Zabbix для Windows.
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
