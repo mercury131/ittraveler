@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка RSAT на Windows 10 1809Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Получаем MD5 файла или переменной в PowershellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

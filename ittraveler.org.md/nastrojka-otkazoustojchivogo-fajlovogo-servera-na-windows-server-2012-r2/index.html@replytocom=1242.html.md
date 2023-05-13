@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит изменений в Active Directory
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Подключение к Office 365 через Powershell и зашифрованный парольДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление Lync 2013 до Skype for BusinessУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

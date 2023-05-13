@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматическая активация пользователей Lync через PowershellУдаление Lync Server 2013Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

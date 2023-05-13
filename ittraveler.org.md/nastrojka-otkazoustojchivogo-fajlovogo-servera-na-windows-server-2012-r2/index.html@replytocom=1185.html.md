@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка Lync 2013Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Удаление Lync Server 2013Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryНастройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Отключение Skype UI в Lync 2013Обновление схемы Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

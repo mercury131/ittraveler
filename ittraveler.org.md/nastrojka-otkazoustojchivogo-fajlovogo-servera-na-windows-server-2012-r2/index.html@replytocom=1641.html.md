@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVВосстановление объектов Active Directory: сборник сценариевПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Включение корзины Active DirectoryУправление репликацией Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

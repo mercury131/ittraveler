@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание email рассылки через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Добавление UPN суффикса в Active DirectoryАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

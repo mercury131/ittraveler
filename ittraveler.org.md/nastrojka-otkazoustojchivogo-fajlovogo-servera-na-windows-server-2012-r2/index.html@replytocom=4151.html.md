@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка кластера MSSQL 2012.Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Установка RSAT на Windows 10 1809Как узнать WWN (World Wide Name)  в Windows Server 2012R2Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

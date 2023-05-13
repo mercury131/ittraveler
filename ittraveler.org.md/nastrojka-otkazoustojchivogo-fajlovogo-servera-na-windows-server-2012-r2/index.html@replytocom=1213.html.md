@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через PowershellСброс пароля компьютера в домене без перезагрузки
+Related posts:Обновление схемы Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

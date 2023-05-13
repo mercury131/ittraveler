@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Создание пользователей Active Directory через CSV файлАвтоматическая активация пользователей Lync через Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевПринудительная синхронизация контроллеров домена Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
