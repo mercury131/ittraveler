@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessВосстановление объектов Active Directory: сборник сценариевПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУдаление Lync Server 2013Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
