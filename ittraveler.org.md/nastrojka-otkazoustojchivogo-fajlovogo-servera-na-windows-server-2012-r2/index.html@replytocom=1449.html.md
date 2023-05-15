@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellОбновление Lync 2013 до Skype for BusinessВосстановление объектов Active Directory: сборник сценариев
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

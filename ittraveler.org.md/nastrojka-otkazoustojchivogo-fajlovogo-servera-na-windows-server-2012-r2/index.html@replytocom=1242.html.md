@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOНастройка Kerberos авторизации в Apache2Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПолучаем MD5 файла или переменной в PowershellОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

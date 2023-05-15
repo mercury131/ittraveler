@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Настройка Kerberos авторизации в Apache2Добавление UPN суффикса в Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

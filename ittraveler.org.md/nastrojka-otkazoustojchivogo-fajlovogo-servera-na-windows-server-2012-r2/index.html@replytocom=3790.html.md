@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНовые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShell
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryОбновление схемы Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
