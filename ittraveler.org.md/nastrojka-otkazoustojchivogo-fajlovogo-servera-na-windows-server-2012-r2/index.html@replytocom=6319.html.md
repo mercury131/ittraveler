@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryWindows WSL подключение к сетевым шарамАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Создание шаблонов Zabbix для Windows.Аудит изменений групповых политик через PowerShellActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

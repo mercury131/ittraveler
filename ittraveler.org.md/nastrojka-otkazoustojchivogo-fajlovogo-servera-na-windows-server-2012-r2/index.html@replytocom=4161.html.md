@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellОтключение Skype UI в Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Сброс пароля компьютера в домене без перезагрузкиОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

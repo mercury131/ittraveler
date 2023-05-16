@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryАудит изменений в Active DirectoryУправление репликацией Active Directory
+Related posts:Перенос базы данных Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

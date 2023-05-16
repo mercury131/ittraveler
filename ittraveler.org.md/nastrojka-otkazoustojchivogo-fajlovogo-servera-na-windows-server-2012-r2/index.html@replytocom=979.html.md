@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryИзменение UPN суффикса в Active Directory через PowershellНастройка HA кластера Hyper-V
+Related posts:Создание шаблонов Zabbix для Windows.Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
