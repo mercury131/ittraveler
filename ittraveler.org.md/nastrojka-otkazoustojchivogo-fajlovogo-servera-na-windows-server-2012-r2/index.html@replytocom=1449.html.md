@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Обновление схемы Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Удаление Lync Server 2013Установка и настройка AnsibleСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

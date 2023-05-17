@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryПереход на репликацию SYSVOL по DFSАктивируем LDAP over SSL
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Удаление Lync Server 2013Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

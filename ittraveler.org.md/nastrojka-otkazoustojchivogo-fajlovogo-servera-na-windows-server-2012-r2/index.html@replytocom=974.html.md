@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматический аудит компьютеров в Active Directory через powershell.Перенос базы данных Active Directory
+Related posts:Включение корзины Active DirectoryУстановка и настройка кластера MSSQL 2012.Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

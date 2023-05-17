@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Перенос базы данных Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Сброс пароля администратора Active DirectoryНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

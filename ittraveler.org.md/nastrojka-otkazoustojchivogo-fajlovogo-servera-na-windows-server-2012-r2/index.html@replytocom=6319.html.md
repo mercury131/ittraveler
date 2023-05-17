@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Аудит изменений групповых политик через PowerShellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Решаем проблему внезапной блокировки учетной записиПеренос базы данных Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

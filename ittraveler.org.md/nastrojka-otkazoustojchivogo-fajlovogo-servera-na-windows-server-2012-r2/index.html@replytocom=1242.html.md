@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryУстановка и настройка AnsibleУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка AnsibleПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

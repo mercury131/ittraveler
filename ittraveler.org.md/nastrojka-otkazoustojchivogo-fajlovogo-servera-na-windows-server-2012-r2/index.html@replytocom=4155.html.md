@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка кластера MSSQL 2012.Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПеренос базы данных Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

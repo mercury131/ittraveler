@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПередача и захват ролей FSMOАудит изменений в Active Directory
+Related posts:Windows WSL подключение к сетевым шарамОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит незаполненных полей в Active Directory через PowershellСоздание email рассылки через Powershell
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНастройка HA кластера Hyper-VУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

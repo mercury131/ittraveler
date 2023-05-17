@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Обновление схемы Active Directory
+Related posts:Перенос базы данных Active DirectoryВосстановление объектов Active Directory: сборник сценариевСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

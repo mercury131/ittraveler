@@ -165,7 +165,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellУстановка RSAT на Windows 10 1809Сброс пароля администратора Active Directory
+Related posts:Обновление Lync 2013 до Skype for BusinessСоздание email рассылки через PowershellНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
