@@ -277,7 +277,7 @@ body.custom-background { background-color: #cecece; }
 	<p></p><p>В данной статье мы рассмотрим базовую настройку Vcenter и хостов ESXI.</p>
 <p><span id="more-356"></span></p>
 <p>После первой авторизации в Vcenter под локальным пользователем, настроим доменную авторизацию.</p>
-<p>Переходим в раздел Administration -> System Configuration</p>
+<p>Переходим в раздел Administration -&gt; System Configuration</p>
 <p>Выбираем Nodes, и выделяем наш PSC контроллер.</p>
 <p>Выбираем <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/106d00fede08b2d4917f2f0eeb362f7e.png" alt="" width="586" height="378"></p>
@@ -294,7 +294,7 @@ body.custom-background { background-color: #cecece; }
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2c6e663ca59c05c9288a16675793c64e.png" alt="" width="641" height="429"></p>
 <p>После этого должно получится так:</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3159e75dc287b0f35d834d526e1665c5.png" alt="" width="835" height="108"></p>
-<p>&nbsp;</p>
+<p> </p>
 <p>Переходим в раздел Groups</p>
 <p>Открываем нужную группу администрирования (в моем случае это группа Adminstrators)</p>
 <p>И добавляем в нее доменных пользователей или группы.</p>
@@ -304,7 +304,7 @@ body.custom-background { background-color: #cecece; }
 <p>Переходим в раздел Hosts and Clusters.</p>
 <p>Создаем новый датацентр</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e2ff51f9b7ca91d57a18f92d651b4489.png" alt="" width="284" height="370"></p>
-<p>&nbsp;</p>
+<p> </p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1c71c721cc3687c97cf54454f3fd41f5.png" alt="" width="298" height="142"></p>
 <p>Добавляем хост.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7ce237819742675250789d9d6f97f420.png" alt="" width="325" height="123"></p>
@@ -374,13 +374,13 @@ body.custom-background { background-color: #cecece; }
 <p>Указываем настройки группы портов.</p>
 <p>В данном случае число портов статическое, всего портов 8, VLAN 1001</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/643efa4e2444fe72982727e28ad54032.png" alt="" width="619" height="425"></p>
-<p>&nbsp;</p>
+<p> </p>
 <p>По аналогии создаем наши группы портов.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fe05c02919fbe5de8d5f94129127fc63.png" alt="" width="267" height="303"></p>
 <p>Если в вашей инфраструктуре есть хосты использующие группы портов на стандартном Vswitch, то рассмотрим как мигрировать данные хосты и виртуальные машины на них, на распределенный коммутатор.</p>
 <p>Открываем настройки Vswitch на хосте, который собираемся мигрировать.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/01e4b9593d3a717202b3b5e0e692b1bf.png" alt="" width="857" height="316"></p>
-<p>Выбираем &#8212; Manage Physical Network adapters, и отключаем 1 физический адаптер</p>
+<p>Выбираем — Manage Physical Network adapters, и отключаем 1 физический адаптер</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b27819b76a0170cd1c477c4ef7a53163.png" alt="" width="575" height="242"></p>
 <p>Теперь открываем настройки сети, и добавляем хост в распределенный коммутатор.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c9eb1f0878408c20cd9bc20aa1319e6b.png" alt="" width="348" height="399"></p>
@@ -429,7 +429,7 @@ body.custom-background { background-color: #cecece; }
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3e360e8073ad2c449db230c5474ab5b7.png" alt="" width="772" height="237"></p>
 <p>Выбираем хост с подключенным диском.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e00aef105cf8ba11fc2d77e0d1a7bd5f.png" alt="" width="693" height="254"></p>
-<p>&nbsp;</p>
+<p> </p>
 <p>Выбираем VMFS 5 версии.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c913e7db7f903fa2badbdfb69c068768.png" alt="" width="485" height="143"></p>
 <p>Используем весь датастор</p>
@@ -451,9 +451,9 @@ body.custom-background { background-color: #cecece; }
 <p>Перейдем в раздел VM and Templates.</p>
 <p>Создадим новый подкаталог для виртуальных машин.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7e3d01dbe7ab68a8cb0ccf6d943d7739.png" alt="" width="558" height="216"></p>
-<p>&nbsp;</p>
+<p> </p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9d0a318fc7f129953bb29b1b052331d0.png" alt="" width="208" height="126"></p>
-<p>&nbsp;</p>
+<p> </p>
 <p>Теперь создадим новую виртуальную машину.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/71ab390dd519704c45c0e572c519ac62.png" alt="" width="432" height="200"></p>
 <p>Выбираем создание новой VM</p>
@@ -473,7 +473,7 @@ body.custom-background { background-color: #cecece; }
 <p>Проверяем настройки, и запускаем процесс создания виртуальной машины.</p>
 <p>На этом базовую настройку Vcenter можно считать законченной.</p>
 <p>В следующей статье мы рассмотрим настройку <a href="../tag/ha/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with HA">ha</a> и многое другое.</p>
-<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=1276.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="QEMU/KVM проброс физического диска гипевизора в виртуальную машину" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">QEMU/KVM проброс физического диска гипевизора в виртуальную машину</div></div></a><a class="relpost-block-single" href="../index.html@p=490.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка Citrix XenServer Часть 4." style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка Citrix XenServer Часть 4.</div></div></a><a class="relpost-block-single" href="../index.html@p=463.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка Citrix XenServer Часть 1." style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка Citrix XenServer Часть 1.</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=285.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="LVM Добавляем место на диске в виртуальной среде" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">LVM Добавляем место на диске в виртуальной среде</div></div></a><a class="relpost-block-single" href="../index.html@p=1128.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Настройка ZFS в Proxmox" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Настройка ZFS в Proxmox</div></div></a><a class="relpost-block-single" href="../index.html@p=428.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка VMWare Vsphere 6. Часть 5" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка VMWare Vsphere 6. Часть 5</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
         <div class="post-info">
 
             <div class="left"> <a href="../category/virtualizaciya/index.html" rel="category tag">Виртуализация</a> </div>
@@ -820,7 +820,7 @@ LSI Logic SAS &#8212; можно использовать поумолчанию
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='356' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='1043' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="9d2c1665b2" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="102"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4bd83295a0" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="46"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->
