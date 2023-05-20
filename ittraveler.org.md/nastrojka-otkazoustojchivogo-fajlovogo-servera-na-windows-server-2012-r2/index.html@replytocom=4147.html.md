@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Включение корзины Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка RSAT на Windows 10 1809Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
