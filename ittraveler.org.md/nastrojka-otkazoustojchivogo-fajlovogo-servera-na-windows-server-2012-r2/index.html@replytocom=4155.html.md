@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellWindows WSL подключение к сетевым шарамАудит незаполненных полей в Active Directory через Powershell
+Related posts:Windows WSL подключение к сетевым шарамАктивируем LDAP over SSLНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
