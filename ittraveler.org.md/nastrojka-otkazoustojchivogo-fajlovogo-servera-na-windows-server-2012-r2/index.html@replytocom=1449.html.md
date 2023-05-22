@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПеренос базы данных Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Включение корзины Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

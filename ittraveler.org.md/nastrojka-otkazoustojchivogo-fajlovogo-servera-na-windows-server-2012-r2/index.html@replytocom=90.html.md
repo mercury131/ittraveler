@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление схемы Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Добавление UPN суффикса в Active DirectoryАудит изменений групповых политик через PowerShellСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

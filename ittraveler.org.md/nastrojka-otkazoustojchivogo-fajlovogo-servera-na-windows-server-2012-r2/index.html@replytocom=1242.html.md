@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLПоиск старых почтовых ящиков в Exchange 2010Настройка Kerberos авторизации в Apache2
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольОбновление схемы Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

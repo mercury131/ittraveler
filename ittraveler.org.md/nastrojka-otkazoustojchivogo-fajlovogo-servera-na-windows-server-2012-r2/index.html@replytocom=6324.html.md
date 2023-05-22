@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessАктивируем LDAP over SSLАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Новые компьютеры не появляются на WSUS сервереВключение корзины Active DirectoryАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

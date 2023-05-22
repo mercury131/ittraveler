@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Включение корзины Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПеренос базы данных Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
