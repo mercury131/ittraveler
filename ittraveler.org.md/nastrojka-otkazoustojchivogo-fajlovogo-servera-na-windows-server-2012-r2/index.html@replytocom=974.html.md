@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryWindows WSL подключение к сетевым шарамСброс пароля компьютера в домене без перезагрузки
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСброс пароля компьютера в домене без перезагрузкиАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

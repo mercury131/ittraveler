@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевActive Directory + Thunderbird = Общая адресная книгаОтключение Skype UI в Lync 2013
+Related posts:Установка и настройка кластера MSSQL 2012.Сброс пароля администратора Active DirectoryАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
