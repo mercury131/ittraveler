@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСброс пароля компьютера в домене без перезагрузкиАвтоматическая активация пользователей Lync через Powershell
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

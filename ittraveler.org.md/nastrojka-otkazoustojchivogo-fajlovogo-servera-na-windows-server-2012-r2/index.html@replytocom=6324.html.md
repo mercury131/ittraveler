@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VПодключение к Office 365 через Powershell и зашифрованный парольУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Автоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

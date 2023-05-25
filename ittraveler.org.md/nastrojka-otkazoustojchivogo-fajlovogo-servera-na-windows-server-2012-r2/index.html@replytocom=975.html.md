@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлАудит изменений групповых политик через PowerShellПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлАвтоматическая активация пользователей Lync через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

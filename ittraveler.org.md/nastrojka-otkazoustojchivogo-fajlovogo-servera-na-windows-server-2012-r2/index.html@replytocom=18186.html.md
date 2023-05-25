@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУстановка и настройка Lync 2013Автоматическая активация пользователей Lync через Powershell
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSLСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

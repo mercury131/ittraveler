@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellИзменение UPN суффикса в Active Directory через PowershellАудит изменений групповых политик через PowerShell
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка RSAT на Windows 10 1809Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

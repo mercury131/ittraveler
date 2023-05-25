@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматическая активация пользователей Lync через Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиАвтоматизируем бэкап баз данных MSSQL ExpressНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

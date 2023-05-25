@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлНазначение служб для сертификатов Exchange через Powershell.Новые компьютеры не появляются на WSUS сервере
+Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка кластера MSSQL 2012.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Восстановление объектов Active Directory: сборник сценариевАудит незаполненных полей в Active Directory через PowershellОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

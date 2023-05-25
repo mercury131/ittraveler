@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание email рассылки через PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

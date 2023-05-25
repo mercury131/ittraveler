@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Установка и настройка AlwaysOn на MS SQL 2016Создание email рассылки через Powershell
+Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка AlwaysOn на MS SQL 2016Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

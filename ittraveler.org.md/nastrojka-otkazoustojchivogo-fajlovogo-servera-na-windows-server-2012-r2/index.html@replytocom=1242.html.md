@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Windows WSL подключение к сетевым шарамСброс пароля администратора Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записиWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

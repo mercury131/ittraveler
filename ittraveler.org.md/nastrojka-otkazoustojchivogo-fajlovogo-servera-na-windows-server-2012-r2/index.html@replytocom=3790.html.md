@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Обновление схемы Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
