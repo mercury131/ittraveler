@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка RSAT на Windows 10 1809Настройка HA кластера Hyper-V
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

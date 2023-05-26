@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSLСоздание пользователей Active Directory через CSV файл
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Назначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

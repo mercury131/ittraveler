@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Удаление Lync Server 2013Решаем проблему внезапной блокировки учетной записиСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

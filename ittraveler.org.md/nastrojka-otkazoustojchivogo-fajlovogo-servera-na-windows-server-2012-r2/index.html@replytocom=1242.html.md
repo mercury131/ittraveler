@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записиWindows WSL подключение к сетевым шарам
+Related posts:Аудит изменений в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

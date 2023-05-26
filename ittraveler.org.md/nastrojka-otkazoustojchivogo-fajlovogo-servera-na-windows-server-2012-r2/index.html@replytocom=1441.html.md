@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Active Directory + Thunderbird = Общая адресная книгаВосстановление объектов Active Directory: сборник сценариев
+Related posts:Аудит изменений групповых политик через PowerShellПринудительная синхронизация контроллеров домена Active DirectoryНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

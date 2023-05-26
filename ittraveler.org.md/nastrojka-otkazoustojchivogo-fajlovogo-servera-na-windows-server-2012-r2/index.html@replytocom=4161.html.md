@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Управление репликацией Active DirectoryПередача и захват ролей FSMO
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Передача и захват ролей FSMOИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

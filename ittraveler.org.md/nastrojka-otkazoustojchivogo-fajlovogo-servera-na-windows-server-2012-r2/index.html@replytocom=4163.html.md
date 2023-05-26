@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Переход на репликацию SYSVOL по DFS
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит доменных служб Active Directory в Windows Server 2008 R2Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

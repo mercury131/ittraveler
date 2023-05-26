@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеАктивируем LDAP over SSLНовые компьютеры не появляются на WSUS сервере
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

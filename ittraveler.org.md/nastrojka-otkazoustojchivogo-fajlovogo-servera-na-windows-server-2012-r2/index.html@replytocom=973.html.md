@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание email рассылки через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Windows WSL подключение к сетевым шарамСброс настроек GPO на стандартныеПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

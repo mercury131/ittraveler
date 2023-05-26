@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellУправление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка HA кластера Hyper-VИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

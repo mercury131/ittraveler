@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСброс пароля администратора Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTИзменение UPN суффикса в Active Directory через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

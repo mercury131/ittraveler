@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessНастройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Переход на репликацию SYSVOL по DFSАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

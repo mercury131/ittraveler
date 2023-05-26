@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание email рассылки через PowershellУстановка и настройка Lync 2013
+Related posts:Добавление UPN суффикса в Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

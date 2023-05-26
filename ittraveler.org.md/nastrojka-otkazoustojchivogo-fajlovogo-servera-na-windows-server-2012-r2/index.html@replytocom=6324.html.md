@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариев
+Related posts:Включение корзины Active DirectoryУправление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

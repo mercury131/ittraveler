@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка кластера MSSQL 2012.Перенос базы данных Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс настроек GPO на стандартныеДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

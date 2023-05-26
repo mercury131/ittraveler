@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлАвтоматическая активация пользователей Lync через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Установка RSAT на Windows 10 1809Получаем MD5 файла или переменной в PowershellАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

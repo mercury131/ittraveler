@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс пароля администратора Active Directory
+Related posts:Автоматическая активация пользователей Lync через PowershellПодключение к Office 365 через Powershell и зашифрованный парольПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
