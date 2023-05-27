@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАудит изменений групповых политик через PowerShellПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Аудит изменений в Active DirectoryВключение корзины Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

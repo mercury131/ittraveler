@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryУправление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Включение корзины Active DirectoryАвтоматическая активация пользователей Lync через PowershellАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
