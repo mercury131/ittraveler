@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Решаем проблему внезапной блокировки учетной записиУстановка и настройка Ansible
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxОбновление Lync 2013 до Skype for BusinessНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
