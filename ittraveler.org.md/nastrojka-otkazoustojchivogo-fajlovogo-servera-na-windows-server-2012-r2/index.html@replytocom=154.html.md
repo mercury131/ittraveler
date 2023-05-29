@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSАудит доменных служб Active Directory в Windows Server 2008 R2Сброс пароля администратора Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectДобавление UPN суффикса в Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

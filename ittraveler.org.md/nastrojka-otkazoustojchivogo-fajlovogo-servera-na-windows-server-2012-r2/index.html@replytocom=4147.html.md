@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевВключение корзины Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Отключение Skype UI в Lync 2013Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

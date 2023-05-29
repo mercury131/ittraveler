@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка AlwaysOn на MS SQL 2016Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Удаление Lync Server 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

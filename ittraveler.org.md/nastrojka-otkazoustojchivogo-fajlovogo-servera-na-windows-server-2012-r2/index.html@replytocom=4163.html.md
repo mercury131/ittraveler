@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПереход на репликацию SYSVOL по DFSУстановка и настройка Ansible
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

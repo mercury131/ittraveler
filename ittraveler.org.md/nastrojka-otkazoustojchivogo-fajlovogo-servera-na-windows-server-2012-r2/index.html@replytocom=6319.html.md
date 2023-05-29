@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Новые компьютеры не появляются на WSUS сервереПереход на репликацию SYSVOL по DFSСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеНастройка растянутого кластера (stretch-cluster) на Windows server 2016Создание email рассылки через Powershell
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

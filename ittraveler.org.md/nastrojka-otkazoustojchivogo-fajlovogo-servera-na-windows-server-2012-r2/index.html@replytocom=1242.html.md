@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryСоздание пользователей Active Directory через CSV файлУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Сброс настроек GPO на стандартныеПринудительная синхронизация Office 365 и локальной Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

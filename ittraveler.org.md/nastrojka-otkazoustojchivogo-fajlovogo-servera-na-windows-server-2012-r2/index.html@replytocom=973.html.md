@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольActive Directory + Thunderbird = Общая адресная книгаАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Передача и захват ролей FSMOActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Перенос базы данных Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

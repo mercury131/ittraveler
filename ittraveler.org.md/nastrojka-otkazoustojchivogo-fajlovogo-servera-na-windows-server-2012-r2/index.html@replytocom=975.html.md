@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces DirectСброс пароля компьютера в домене без перезагрузки
+Related posts:Включение корзины Active DirectoryРешаем проблему внезапной блокировки учетной записиУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

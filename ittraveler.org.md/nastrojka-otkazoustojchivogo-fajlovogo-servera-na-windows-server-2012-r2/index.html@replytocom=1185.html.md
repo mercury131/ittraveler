@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка дедупликации  на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка RSAT на Windows 10 1809Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

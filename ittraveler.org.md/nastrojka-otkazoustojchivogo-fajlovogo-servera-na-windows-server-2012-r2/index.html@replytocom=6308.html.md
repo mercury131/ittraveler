@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариевУстановка и настройка Lync 2013
+Related posts:Аудит изменений групповых политик через PowerShellОбновление схемы Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

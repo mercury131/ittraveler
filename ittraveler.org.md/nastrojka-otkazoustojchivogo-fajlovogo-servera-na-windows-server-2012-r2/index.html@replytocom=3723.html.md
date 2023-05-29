@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.Восстановление объектов Active Directory: сборник сценариев
+Related posts:Восстановление объектов Active Directory: сборник сценариевСброс настроек GPO на стандартныеАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

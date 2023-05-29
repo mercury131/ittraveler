@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Настройка HA кластера Hyper-V
+Related posts:Добавление UPN суффикса в Active DirectoryWindows WSL подключение к сетевым шарамПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

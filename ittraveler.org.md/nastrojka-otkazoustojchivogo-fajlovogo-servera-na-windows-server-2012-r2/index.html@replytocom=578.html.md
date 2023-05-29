@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellСоздание шаблонов Zabbix для Windows.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит DNS серверов на Windows Server 2008 R2 через PowershellОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

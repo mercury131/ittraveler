@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Добавление почтовых контактов в Office 365 через Powershell и CSVОбновление Lync 2013 до Skype for Business
+Related posts:Автоматическая активация пользователей Lync через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка HA кластера Hyper-VАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

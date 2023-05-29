@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Создание шаблонов Zabbix для Windows.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Установка и настройка кластера MSSQL 2012.Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
