@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectДобавление UPN суффикса в Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryWindows WSL подключение к сетевым шарамУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryWindows WSL подключение к сетевым шарамПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
