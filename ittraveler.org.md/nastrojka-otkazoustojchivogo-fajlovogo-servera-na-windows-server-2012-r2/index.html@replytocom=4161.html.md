@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУдаление Lync Server 2013Решаем проблему внезапной блокировки учетной записи
+Related posts:Получаем MD5 файла или переменной в PowershellАудит изменений групповых политик через PowerShellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

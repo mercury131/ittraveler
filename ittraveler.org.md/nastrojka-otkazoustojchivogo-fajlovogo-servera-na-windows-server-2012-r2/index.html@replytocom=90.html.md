@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVОбновление Lync 2013 до Skype for BusinessАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Переход на репликацию SYSVOL по DFSНастройка Kerberos авторизации в Apache2Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

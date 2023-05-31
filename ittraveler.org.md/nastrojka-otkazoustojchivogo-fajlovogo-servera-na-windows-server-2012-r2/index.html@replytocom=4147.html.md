@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Активируем LDAP over SSLУстановка и настройка кластера MSSQL 2012.
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУдаление Lync Server 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

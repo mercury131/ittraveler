@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Перенос базы данных Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Получаем MD5 файла или переменной в PowershellСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
