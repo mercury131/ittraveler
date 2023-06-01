@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSНастройка Kerberos авторизации в Apache2Получаем MD5 файла или переменной в Powershell
+Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка AnsibleОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
