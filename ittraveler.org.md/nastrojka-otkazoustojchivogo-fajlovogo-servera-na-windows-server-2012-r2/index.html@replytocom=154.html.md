@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание email рассылки через PowershellПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

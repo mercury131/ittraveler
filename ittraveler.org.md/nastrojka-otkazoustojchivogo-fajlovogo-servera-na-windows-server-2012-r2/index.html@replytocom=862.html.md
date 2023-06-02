@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Новые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Изменение UPN суффикса в Active Directory через PowershellАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

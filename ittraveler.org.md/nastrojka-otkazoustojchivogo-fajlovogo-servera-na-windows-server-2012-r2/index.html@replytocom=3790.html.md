@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryПолучаем MD5 файла или переменной в PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Переход на репликацию SYSVOL по DFSАудит незаполненных полей в Active Directory через PowershellОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

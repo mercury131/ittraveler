@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleИзменение UPN суффикса в Active Directory через PowershellПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Получаем MD5 файла или переменной в PowershellСоздание email рассылки через PowershellПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

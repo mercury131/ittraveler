@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Добавление UPN суффикса в Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка RSAT на Windows 10 1809Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

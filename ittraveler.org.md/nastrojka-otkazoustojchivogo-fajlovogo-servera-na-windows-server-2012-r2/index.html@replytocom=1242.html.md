@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Обновление Lync 2013 до Skype for BusinessПринудительная синхронизация контроллеров домена Active DirectoryПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

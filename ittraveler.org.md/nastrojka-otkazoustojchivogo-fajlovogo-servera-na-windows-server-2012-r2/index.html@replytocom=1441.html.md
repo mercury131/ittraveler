@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСоздание пользователей Active Directory через CSV файлУправление репликацией Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellНазначение служб для сертификатов Exchange через Powershell.Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

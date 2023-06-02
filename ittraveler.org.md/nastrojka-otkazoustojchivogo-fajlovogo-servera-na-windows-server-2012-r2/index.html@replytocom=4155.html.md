@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиНазначение служб для сертификатов Exchange через Powershell.Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

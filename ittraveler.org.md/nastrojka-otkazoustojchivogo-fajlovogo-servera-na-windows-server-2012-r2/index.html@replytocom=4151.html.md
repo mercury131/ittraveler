@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Обновление Lync 2013 до Skype for Business
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Принудительная синхронизация Office 365 и локальной Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

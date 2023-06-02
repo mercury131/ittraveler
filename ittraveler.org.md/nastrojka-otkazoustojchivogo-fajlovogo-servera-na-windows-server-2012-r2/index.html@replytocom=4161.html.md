@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка Kerberos авторизации в Apache2
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

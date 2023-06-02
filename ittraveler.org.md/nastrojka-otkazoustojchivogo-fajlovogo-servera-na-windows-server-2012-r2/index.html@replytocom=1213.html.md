@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellВключение корзины Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Аудит изменений групповых политик через PowerShellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

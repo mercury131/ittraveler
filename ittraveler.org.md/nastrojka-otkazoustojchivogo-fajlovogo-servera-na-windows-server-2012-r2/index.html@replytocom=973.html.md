@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellСоздание пользователей Active Directory через CSV файлУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Автоматическая активация пользователей Lync через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
