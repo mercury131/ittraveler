@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиНазначение служб для сертификатов Exchange через Powershell.Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Получаем MD5 файла или переменной в PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

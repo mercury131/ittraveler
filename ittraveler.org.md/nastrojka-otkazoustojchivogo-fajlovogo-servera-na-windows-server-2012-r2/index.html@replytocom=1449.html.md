@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУстановка и настройка AnsibleУстановка RSAT на Windows 10 1809
+Related posts:Добавление UPN суффикса в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

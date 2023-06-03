@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Передача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

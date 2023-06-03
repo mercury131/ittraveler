@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessПринудительная синхронизация контроллеров домена Active DirectoryПередача и захват ролей FSMO
+Related posts:Восстановление объектов Active Directory: сборник сценариевИзменение UPN суффикса в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

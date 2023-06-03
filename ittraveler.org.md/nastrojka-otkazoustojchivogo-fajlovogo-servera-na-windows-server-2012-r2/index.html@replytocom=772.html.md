@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxСброс настроек GPO на стандартные
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Перенос базы данных Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

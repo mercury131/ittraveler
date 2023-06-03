@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces DirectДобавление UPN суффикса в Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Настройка растянутого кластера (stretch-cluster) на Windows server 2016Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

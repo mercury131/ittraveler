@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Изменение UPN суффикса в Active Directory через PowershellАвтоматическая активация пользователей Lync через Powershell
+Related posts:Управление репликацией Active DirectoryОтключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

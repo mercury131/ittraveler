@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записиДобавление UPN суффикса в Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Управление репликацией Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

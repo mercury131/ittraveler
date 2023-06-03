@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Автоматическая активация пользователей Lync через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Настройка HA кластера Hyper-VПринудительная синхронизация Office 365 и локальной Active DirectoryВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

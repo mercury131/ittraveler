@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка кластера MSSQL 2012.
+Related posts:Установка и настройка Lync 2013Новые компьютеры не появляются на WSUS сервереСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellНазначение служб для сертификатов Exchange через Powershell.Удаление Lync Server 2013
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Активируем LDAP over SSLПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

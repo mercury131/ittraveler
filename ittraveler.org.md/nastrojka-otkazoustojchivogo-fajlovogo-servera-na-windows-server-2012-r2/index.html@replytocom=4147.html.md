@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс настроек GPO на стандартные
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание индивидуальных адресных книг в Office 365 и Exchange onlineActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

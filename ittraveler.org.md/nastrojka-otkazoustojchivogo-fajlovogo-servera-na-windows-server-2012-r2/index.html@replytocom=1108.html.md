@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАктивируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

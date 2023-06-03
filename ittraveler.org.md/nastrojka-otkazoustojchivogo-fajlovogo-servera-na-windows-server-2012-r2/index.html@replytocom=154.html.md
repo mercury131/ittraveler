@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание email рассылки через PowershellПеренос базы данных Active Directory
+Related posts:Создание email рассылки через PowershellПередача и захват ролей FSMOАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxВключение корзины Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
