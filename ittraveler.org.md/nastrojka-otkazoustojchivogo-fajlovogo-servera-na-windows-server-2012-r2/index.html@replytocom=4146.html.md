@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книга
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

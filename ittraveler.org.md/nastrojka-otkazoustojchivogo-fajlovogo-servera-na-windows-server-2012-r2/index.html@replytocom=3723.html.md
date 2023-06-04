@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Перенос базы данных Active DirectoryActive Directory + Thunderbird = Общая адресная книга
+Related posts:Сброс пароля администратора Active DirectoryИзменение UPN суффикса в Active Directory через PowershellРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

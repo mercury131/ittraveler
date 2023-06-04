@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Настройка растянутого кластера (stretch-cluster) на Windows server 2016Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Установка RSAT на Windows 10 1809Добавление UPN суффикса в Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Новые компьютеры не появляются на WSUS сервереСброс пароля администратора Active Directory
+Related posts:Переход на репликацию SYSVOL по DFSАктивируем LDAP over SSLВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

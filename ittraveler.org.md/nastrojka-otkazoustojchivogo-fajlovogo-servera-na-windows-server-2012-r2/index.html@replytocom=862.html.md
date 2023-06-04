@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryОтключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Обновление Lync 2013 до Skype for BusinessУстановка и настройка AnsibleОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

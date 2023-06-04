@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля администратора Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
