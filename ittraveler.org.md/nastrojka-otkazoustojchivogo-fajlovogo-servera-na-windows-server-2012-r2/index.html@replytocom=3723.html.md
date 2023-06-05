@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryИзменение UPN суффикса в Active Directory через PowershellРешаем проблему внезапной блокировки учетной записи
+Related posts:Аудит изменений в Active DirectoryУстановка и настройка Lync 2013Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSАктивируем LDAP over SSLВключение корзины Active Directory
+Related posts:Настройка HA кластера Hyper-VУстановка и настройка AnsibleАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

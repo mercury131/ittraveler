@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryУдаление Lync Server 2013Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Активируем LDAP over SSLПередача и захват ролей FSMOОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

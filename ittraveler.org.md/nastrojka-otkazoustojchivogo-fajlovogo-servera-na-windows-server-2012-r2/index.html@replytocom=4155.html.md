@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Передача и захват ролей FSMOПолучаем MD5 файла или переменной в Powershell
+Related posts:Создание пользователей Active Directory через CSV файлПодключение к Office 365 через Powershell и зашифрованный парольРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

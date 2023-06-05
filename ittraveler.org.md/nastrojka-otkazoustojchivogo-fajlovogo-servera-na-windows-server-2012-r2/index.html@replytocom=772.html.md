@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Lync 2013Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

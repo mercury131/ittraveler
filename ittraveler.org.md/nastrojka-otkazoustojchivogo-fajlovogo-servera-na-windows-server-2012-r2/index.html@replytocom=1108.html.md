@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля администратора Active DirectoryУдаление Lync Server 2013
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПолучаем MD5 файла или переменной в PowershellУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

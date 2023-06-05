@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineКак узнать WWN (World Wide Name)  в Windows Server 2012R2Настройка HA кластера Hyper-V
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка кластера MSSQL 2012.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

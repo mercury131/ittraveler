@@ -153,7 +153,7 @@ XenServer
 восстановление удаленных данных
             
 « Назад«12345&hellip;13»Вперед »  
-Все права защищены. IT Traveler 2022 
+Все права защищены. IT Traveler 2023 
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});

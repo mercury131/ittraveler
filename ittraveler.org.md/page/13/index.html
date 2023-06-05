@@ -11,14 +11,14 @@ prefix="og: https://ogp.me/ns#" >
 <script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/html5.js" type="text/javascript"></script>
 <script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/selectivizr-min.js" type="text/javascript"></script>
 <![endif]-->
-<!-- All in One SEO 4.2.8 - aioseo.com -->
+<!-- All in One SEO 4.3.8 - aioseo.com -->
 <title>IT Traveler</title>
 <meta name="description" content="Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом... - Part 13" />
 <meta name="robots" content="noindex, nofollow, max-image-preview:large" />
 <meta name="keywords" content="it,виртуализация,windows server,linux,ubuntu,xen,vm-ware,cloud,active directory,exchange,сети,cisco,web,powershell,bash,системное администрирование" />
 <link rel="canonical" href="index.html" />
 <link rel="prev" href="http://ittraveler.org/page/12/" />
-<meta name="generator" content="All in One SEO (AIOSEO) 4.2.8 " />
+<meta name="generator" content="All in One SEO (AIOSEO) 4.3.8" />
 <meta property="og:locale" content="ru_RU" />
 <meta property="og:site_name" content="IT Traveler | Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом..." />
 <meta property="og:type" content="article" />
@@ -38,7 +38,7 @@ prefix="og: https://ogp.me/ns#" >
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента" href="../../feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев" href="../../comments/feed/index.html" />
 <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.6"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.7"}};
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
 <style type="text/css">
@@ -56,15 +56,15 @@ padding: 0 !important;
 }
 </style>
 <!-- <link rel='stylesheet' id='crayon-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://ittraveler.org/wp-includes/css/dist/block-library/style.min.css?ver=5.8.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://ittraveler.org/wp-includes/css/dist/block-library/style.min.css?ver=5.8.7' type='text/css' media='all' /> -->
 <!-- <link rel='stylesheet' id='easy-wp-page-nav-css'  href='http://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.8.6' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.8.6' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.8.6' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.8.6' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.8.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.8.7' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.8.7' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.8.7' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.8.7' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.8.7' type='text/css' media='all' /> -->
 <link rel="stylesheet" type="text/css" href="../../wp-content/cache/wpfc-minified/drqilwqd/s0n6.css" media="all"/>
-<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.8.7' type='text/css' media='all' />
 <!-- <link rel='stylesheet' id='rpt_front_style-css'  href='http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/assets/css/front.css?ver=1.9.0' type='text/css' media='all' /> -->
 <link rel="stylesheet" type="text/css" href="../../wp-content/cache/wpfc-minified/q4ywfzv/5xb28.css" media="all"/>
 <!-- <link rel='stylesheet' id='lightboxStyle-css'  href='http://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' /> -->
@@ -82,7 +82,7 @@ var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Cl
 <!-- <script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta' id='crayon_js-js'></script> -->
 <link rel="https://api.w.org/" href="../../wp-json/index.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php@rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.8.6" />
+<meta name="generator" content="WordPress 5.8.7" />
 <style type="text/css">
 .sfs-subscriber-count { width: 88px; overflow: hidden; height: 26px; color: #424242; font: 9px Verdana, Geneva, sans-serif; letter-spacing: 1px; }
 .sfs-count { width: 86px; height: 17px; line-height: 17px; margin: 0 auto; background: #ccc; border: 1px solid #909090; border-top-color: #fff; border-left-color: #fff; }
@@ -255,53 +255,53 @@ data-ad-format="auto"></ins>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>
 </div><div class="post-article"><h3 class="title">Облако тегов</h3>
-<!-- Generated by TaxoPress 3.6.4 - https://wordpress.org/plugins/simple-tags/ -->
+<!-- Generated by TaxoPress 3.7.4 - https://wordpress.org/plugins/simple-tags/ -->
 <div class="st-tag-cloud">
-<a href="../../tag/active-directory/index.html" id="tag-link-25" class="st-tags t10" title="29 topics" rel="tag" style="font-size:20pt; color:#cccccc;">Active Directory</a>
-<a href="../../tag/adrestore/index.html" id="tag-link-33" class="st-tags t0" title="1 topics" rel="tag" style="font-size:8pt; color:#cccccc;">adrestore</a>
-<a href="../../tag/apache2/index.html" id="tag-link-76" class="st-tags t1" title="5 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">Apache2</a>
-<a href="../../tag/cisco/index.html" id="tag-link-70" class="st-tags t1" title="4 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">Cisco</a>
-<a href="../../tag/cluster/index.html" id="tag-link-95" class="st-tags t0" title="3 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Cluster</a>
-<a href="../../tag/dns/index.html" id="tag-link-77" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">DNS</a>
-<a href="../../tag/exchange/index.html" id="tag-link-68" class="st-tags t0" title="3 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Exchange</a>
-<a href="../../tag/exchange-online/index.html" id="tag-link-63" class="st-tags t1" title="5 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">Exchange online</a>
-<a href="../../tag/file-server/index.html" id="tag-link-71" class="st-tags t0" title="3 topics" rel="tag" style="font-size:8pt; color:#cccccc;">File-Server</a>
-<a href="../../tag/fsmo/index.html" id="tag-link-41" class="st-tags t0" title="1 topics" rel="tag" style="font-size:8pt; color:#cccccc;">fsmo</a>
-<a href="../../tag/get-adobject/index.html" id="tag-link-34" class="st-tags t0" title="1 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Get-ADObject</a>
-<a href="../../tag/glpi/index.html" id="tag-link-84" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">GLPI</a>
-<a href="../../tag/gpo/index.html" id="tag-link-106" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">GPO</a>
-<a href="../../tag/ldp-exe/index.html" id="tag-link-32" class="st-tags t0" title="1 topics" rel="tag" style="font-size:8pt; color:#cccccc;">ldp.exe</a>
-<a href="../../tag/linix/index.html" id="tag-link-114" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Linix</a>
-<a href="../../tag/linux/index.html" id="tag-link-74" class="st-tags t5" title="17 topics" rel="tag" style="font-size:14pt; color:#cccccc;">Linux</a>
-<a href="../../tag/lvm/index.html" id="tag-link-73" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">LVM</a>
-<a href="../../tag/lync/index.html" id="tag-link-69" class="st-tags t1" title="5 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">Lync</a>
-<a href="../../tag/mssql/index.html" id="tag-link-96" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">MSSQL</a>
-<a href="../../tag/mysql/index.html" id="tag-link-102" class="st-tags t0" title="3 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Mysql</a>
-<a href="../../tag/nginx/index.html" id="tag-link-101" class="st-tags t1" title="4 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">Nginx</a>
-<a href="../../tag/ntdsutil/index.html" id="tag-link-35" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">NTDSUTIL</a>
-<a href="../../tag/office-365/index.html" id="tag-link-60" class="st-tags t2" title="7 topics" rel="tag" style="font-size:10.4pt; color:#cccccc;">Office 365</a>
-<a href="../../tag/openssh/index.html" id="tag-link-118" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">openssh</a>
-<a href="../../tag/powercli/index.html" id="tag-link-109" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">powercli</a>
-<a href="../../tag/powershell/index.html" id="tag-link-64" class="st-tags t8" title="26 topics" rel="tag" style="font-size:17.6pt; color:#cccccc;">Powershell</a>
-<a href="../../tag/proxmox/index.html" id="tag-link-141" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">proxmox</a>
-<a href="../../tag/puppet/index.html" id="tag-link-93" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Puppet</a>
-<a href="../../tag/ssh/index.html" id="tag-link-115" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">ssh</a>
-<a href="../../tag/ubuntu/index.html" id="tag-link-86" class="st-tags t6" title="19 topics" rel="tag" style="font-size:15.2pt; color:#cccccc;">Ubuntu</a>
-<a href="../../tag/upn/index.html" id="tag-link-67" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">UPN</a>
-<a href="../../tag/vmware/index.html" id="tag-link-81" class="st-tags t1" title="6 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">vmware</a>
-<a href="../../tag/vsphere/index.html" id="tag-link-82" class="st-tags t1" title="6 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">vsphere</a>
-<a href="../../tag/webserver/index.html" id="tag-link-132" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">webserver</a>
-<a href="../../tag/windows-server/index.html" id="tag-link-27" class="st-tags t4" title="14 topics" rel="tag" style="font-size:12.8pt; color:#cccccc;">Windows Server</a>
-<a href="../../tag/xenserver/index.html" id="tag-link-98" class="st-tags t1" title="4 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">XenServer</a>
-<a href="../../tag/audit/index.html" id="tag-link-26" class="st-tags t0" title="3 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Аудит</a>
-<a href="../../tag/blokirovka-uchetnoj-zapisi/index.html" id="tag-link-36" class="st-tags t0" title="1 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Блокировка учетной записи</a>
-<a href="../../tag/virtualizaciya/index.html" id="tag-link-52" class="st-tags t1" title="5 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">Виртуализация</a>
-<a href="../../tag/obnovlenie-sxemy/index.html" id="tag-link-39" class="st-tags t0" title="1 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Обновление схемы</a>
-<a href="../../tag/proksi/index.html" id="tag-link-89" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Прокси</a>
-<a href="../../tag/rezervnoe-kopirovanie/index.html" id="tag-link-99" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Резервное копирование</a>
-<a href="../../tag/replikaciya/index.html" id="tag-link-49" class="st-tags t0" title="2 topics" rel="tag" style="font-size:8pt; color:#cccccc;">Репликация</a>
-<a href="../../tag/veb-servera/index.html" id="tag-link-100" class="st-tags t1" title="4 topics" rel="tag" style="font-size:9.2pt; color:#cccccc;">веб сервера</a>
-<a href="../../tag/vosstanovlenie-udalennyx-dannyx/index.html" id="tag-link-29" class="st-tags t0" title="1 topics" rel="tag" style="font-size:8pt; color:#cccccc;">восстановление удаленных данных</a></div>
+<a href="../../tag/active-directory/index.html" id="tag-link-25" class="st-tags t10" title="29 topics" style="font-size:20pt; color:#cccccc;">Active Directory</a>
+<a href="../../tag/adrestore/index.html" id="tag-link-33" class="st-tags t0" title="1 topics" style="font-size:8pt; color:#cccccc;">adrestore</a>
+<a href="../../tag/apache2/index.html" id="tag-link-76" class="st-tags t1" title="5 topics" style="font-size:9.2pt; color:#cccccc;">Apache2</a>
+<a href="../../tag/cisco/index.html" id="tag-link-70" class="st-tags t1" title="4 topics" style="font-size:9.2pt; color:#cccccc;">Cisco</a>
+<a href="../../tag/cluster/index.html" id="tag-link-95" class="st-tags t0" title="3 topics" style="font-size:8pt; color:#cccccc;">Cluster</a>
+<a href="../../tag/dns/index.html" id="tag-link-77" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">DNS</a>
+<a href="../../tag/exchange/index.html" id="tag-link-68" class="st-tags t0" title="3 topics" style="font-size:8pt; color:#cccccc;">Exchange</a>
+<a href="../../tag/exchange-online/index.html" id="tag-link-63" class="st-tags t1" title="5 topics" style="font-size:9.2pt; color:#cccccc;">Exchange online</a>
+<a href="../../tag/file-server/index.html" id="tag-link-71" class="st-tags t0" title="3 topics" style="font-size:8pt; color:#cccccc;">File-Server</a>
+<a href="../../tag/fsmo/index.html" id="tag-link-41" class="st-tags t0" title="1 topics" style="font-size:8pt; color:#cccccc;">fsmo</a>
+<a href="../../tag/get-adobject/index.html" id="tag-link-34" class="st-tags t0" title="1 topics" style="font-size:8pt; color:#cccccc;">Get-ADObject</a>
+<a href="../../tag/glpi/index.html" id="tag-link-84" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">GLPI</a>
+<a href="../../tag/gpo/index.html" id="tag-link-106" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">GPO</a>
+<a href="../../tag/ldp-exe/index.html" id="tag-link-32" class="st-tags t0" title="1 topics" style="font-size:8pt; color:#cccccc;">ldp.exe</a>
+<a href="../../tag/linix/index.html" id="tag-link-114" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">Linix</a>
+<a href="../../tag/linux/index.html" id="tag-link-74" class="st-tags t5" title="17 topics" style="font-size:14pt; color:#cccccc;">Linux</a>
+<a href="../../tag/lvm/index.html" id="tag-link-73" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">LVM</a>
+<a href="../../tag/lync/index.html" id="tag-link-69" class="st-tags t1" title="5 topics" style="font-size:9.2pt; color:#cccccc;">Lync</a>
+<a href="../../tag/mssql/index.html" id="tag-link-96" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">MSSQL</a>
+<a href="../../tag/mysql/index.html" id="tag-link-102" class="st-tags t0" title="3 topics" style="font-size:8pt; color:#cccccc;">Mysql</a>
+<a href="../../tag/nginx/index.html" id="tag-link-101" class="st-tags t1" title="4 topics" style="font-size:9.2pt; color:#cccccc;">Nginx</a>
+<a href="../../tag/ntdsutil/index.html" id="tag-link-35" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">NTDSUTIL</a>
+<a href="../../tag/office-365/index.html" id="tag-link-60" class="st-tags t2" title="7 topics" style="font-size:10.4pt; color:#cccccc;">Office 365</a>
+<a href="../../tag/openssh/index.html" id="tag-link-118" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">openssh</a>
+<a href="../../tag/powercli/index.html" id="tag-link-109" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">powercli</a>
+<a href="../../tag/powershell/index.html" id="tag-link-64" class="st-tags t8" title="26 topics" style="font-size:17.6pt; color:#cccccc;">Powershell</a>
+<a href="../../tag/proxmox/index.html" id="tag-link-141" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">proxmox</a>
+<a href="../../tag/puppet/index.html" id="tag-link-93" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">Puppet</a>
+<a href="../../tag/ssh/index.html" id="tag-link-115" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">ssh</a>
+<a href="../../tag/ubuntu/index.html" id="tag-link-86" class="st-tags t6" title="19 topics" style="font-size:15.2pt; color:#cccccc;">Ubuntu</a>
+<a href="../../tag/upn/index.html" id="tag-link-67" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">UPN</a>
+<a href="../../tag/vmware/index.html" id="tag-link-81" class="st-tags t1" title="6 topics" style="font-size:9.2pt; color:#cccccc;">vmware</a>
+<a href="../../tag/vsphere/index.html" id="tag-link-82" class="st-tags t1" title="6 topics" style="font-size:9.2pt; color:#cccccc;">vsphere</a>
+<a href="../../tag/webserver/index.html" id="tag-link-132" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">webserver</a>
+<a href="../../tag/windows-server/index.html" id="tag-link-27" class="st-tags t4" title="14 topics" style="font-size:12.8pt; color:#cccccc;">Windows Server</a>
+<a href="../../tag/xenserver/index.html" id="tag-link-98" class="st-tags t1" title="4 topics" style="font-size:9.2pt; color:#cccccc;">XenServer</a>
+<a href="../../tag/audit/index.html" id="tag-link-26" class="st-tags t0" title="3 topics" style="font-size:8pt; color:#cccccc;">Аудит</a>
+<a href="../../tag/blokirovka-uchetnoj-zapisi/index.html" id="tag-link-36" class="st-tags t0" title="1 topics" style="font-size:8pt; color:#cccccc;">Блокировка учетной записи</a>
+<a href="../../tag/virtualizaciya/index.html" id="tag-link-52" class="st-tags t1" title="5 topics" style="font-size:9.2pt; color:#cccccc;">Виртуализация</a>
+<a href="../../tag/obnovlenie-sxemy/index.html" id="tag-link-39" class="st-tags t0" title="1 topics" style="font-size:8pt; color:#cccccc;">Обновление схемы</a>
+<a href="../../tag/proksi/index.html" id="tag-link-89" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">Прокси</a>
+<a href="../../tag/rezervnoe-kopirovanie/index.html" id="tag-link-99" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">Резервное копирование</a>
+<a href="../../tag/replikaciya/index.html" id="tag-link-49" class="st-tags t0" title="2 topics" style="font-size:8pt; color:#cccccc;">Репликация</a>
+<a href="../../tag/veb-servera/index.html" id="tag-link-100" class="st-tags t1" title="4 topics" style="font-size:9.2pt; color:#cccccc;">веб сервера</a>
+<a href="../../tag/vosstanovlenie-udalennyx-dannyx/index.html" id="tag-link-29" class="st-tags t0" title="1 topics" style="font-size:8pt; color:#cccccc;">восстановление удаленных данных</a></div>
 </div>            
 </div>
 </section>
@@ -315,7 +315,7 @@ data-ad-format="auto"></ins>
 <div class="col-md-12" >
 <div class="copyright">
 <p>
-Все права защищены. IT Traveler 2022 
+Все права защищены. IT Traveler 2023 
 </p>
 </div>
 <div class="socials">
@@ -334,13 +334,13 @@ $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:
 </script>
 <script type='text/javascript' src='../../wp-includes/js/jquery/ui/core.min.js@ver=1.12.1' id='jquery-ui-core-js'></script>
 <script type='text/javascript' src='../../wp-includes/js/jquery/ui/tabs.min.js@ver=1.12.1' id='jquery-ui-tabs-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.8.6' id='jquery.easing.1.3-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.8.6' id='jquery.scrollTo-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.8.6' id='jquery.prettyPhoto-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.8.6' id='jquery.wip-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.8.6' id='jquery.tinynav-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.8.7' id='jquery.easing.1.3-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.8.7' id='jquery.scrollTo-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.8.7' id='jquery.prettyPhoto-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.8.7' id='jquery.wip-js'></script>
+<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.8.7' id='jquery.tinynav-js'></script>
 <script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9' id='jquery-colorbox-js'></script>
-<script type='text/javascript' src='../../wp-includes/js/wp-embed.min.js@ver=5.8.6' id='wp-embed-js'></script>
+<script type='text/javascript' src='../../wp-includes/js/wp-embed.min.js@ver=5.8.7' id='wp-embed-js'></script>
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
 (function (d, w, c) {
@@ -378,4 +378,4 @@ ga('create', 'UA-58126221-1', 'auto');
 ga('send', 'pageview');
 </script>
 </body>
-</html><!-- WP Fastest Cache file was created in 0.15559697151184 seconds, on 15-12-22 22:00:21 -->
+</html><!-- WP Fastest Cache file was created in 0.60024094581604 seconds, on 05-06-23 17:56:19 -->

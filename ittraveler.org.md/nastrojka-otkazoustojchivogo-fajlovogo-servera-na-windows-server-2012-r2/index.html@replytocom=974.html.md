@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryСоздание пользователей Active Directory через CSV файлСоздание шаблонов Zabbix для Windows.
+Related posts:Windows WSL подключение к сетевым шарамАвтоматическая активация пользователей Lync через PowershellВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
