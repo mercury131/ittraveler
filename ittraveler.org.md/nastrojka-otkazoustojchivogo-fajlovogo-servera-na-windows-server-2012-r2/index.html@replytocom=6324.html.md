@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOУстановка и настройка AnsibleВключение корзины Active Directory
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Восстановление объектов Active Directory: сборник сценариевОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

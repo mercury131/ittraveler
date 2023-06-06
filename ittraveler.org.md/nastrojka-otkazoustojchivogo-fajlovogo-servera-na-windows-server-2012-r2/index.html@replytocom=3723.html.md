@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryУстановка и настройка Lync 2013Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматическая активация пользователей Lync через PowershellРешаем проблему внезапной блокировки учетной записиСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

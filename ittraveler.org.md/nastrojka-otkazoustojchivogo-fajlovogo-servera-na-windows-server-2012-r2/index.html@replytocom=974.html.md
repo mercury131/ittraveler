@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамАвтоматическая активация пользователей Lync через PowershellВосстановление объектов Active Directory: сборник сценариев
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

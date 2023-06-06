@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellWindows WSL подключение к сетевым шарамАудит изменений в Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Управление репликацией Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

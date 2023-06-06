@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Поиск старых почтовых ящиков в Exchange 2010Добавление UPN суффикса в Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереАктивируем LDAP over SSLСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

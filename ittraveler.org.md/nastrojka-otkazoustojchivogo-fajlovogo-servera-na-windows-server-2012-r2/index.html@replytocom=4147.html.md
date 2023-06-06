@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Создание индивидуальных адресных книг в Office 365 и Exchange onlineПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Установка и настройка Lync 2013Восстановление объектов Active Directory: сборник сценариевАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

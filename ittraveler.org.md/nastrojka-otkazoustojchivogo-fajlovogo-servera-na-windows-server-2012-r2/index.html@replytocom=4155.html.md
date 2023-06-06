@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлПодключение к Office 365 через Powershell и зашифрованный парольРешаем проблему внезапной блокировки учетной записи
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Добавление UPN суффикса в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

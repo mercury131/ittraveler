@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLПередача и захват ролей FSMOОбновление Lync 2013 до Skype for Business
+Related posts:Установка и настройка кластера MSSQL 2012.Восстановление объектов Active Directory: сборник сценариевУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Сброс настроек GPO на стандартныеСоздание пользователей Active Directory через CSV файл
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка Lync 2013Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс пароля администратора Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Переход на репликацию SYSVOL по DFSУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

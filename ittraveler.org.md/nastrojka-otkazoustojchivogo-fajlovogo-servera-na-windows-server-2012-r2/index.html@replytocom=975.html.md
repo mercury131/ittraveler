@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryУстановка RSAT на Windows 10 1809Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПринудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
