@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOПоиск старых почтовых ящиков в Exchange 2010Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
+Related posts:Управление репликацией Active DirectoryПеренос базы данных Active DirectoryУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Восстановление объектов Active Directory: сборник сценариевАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Получаем MD5 файла или переменной в PowershellРешаем проблему внезапной блокировки учетной записиУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

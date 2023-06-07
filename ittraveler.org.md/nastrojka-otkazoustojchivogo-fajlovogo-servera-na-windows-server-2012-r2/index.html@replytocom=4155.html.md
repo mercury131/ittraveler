@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Добавление UPN суффикса в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Перенос базы данных Active DirectoryСброс настроек GPO на стандартныеПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

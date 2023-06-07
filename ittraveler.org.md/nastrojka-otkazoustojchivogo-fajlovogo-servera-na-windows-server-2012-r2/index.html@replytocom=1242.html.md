@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереАктивируем LDAP over SSLСброс настроек GPO на стандартные
+Related posts:Аудит изменений групповых политик через PowerShellНастройка HA кластера Hyper-VЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

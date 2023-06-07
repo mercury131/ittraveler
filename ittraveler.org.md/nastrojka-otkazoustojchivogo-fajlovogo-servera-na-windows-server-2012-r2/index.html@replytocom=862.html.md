@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление почтовых контактов в Office 365 через Powershell и CSVОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Windows WSL подключение к сетевым шарамДобавление почтовых контактов в Office 365 через Powershell и CSVАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

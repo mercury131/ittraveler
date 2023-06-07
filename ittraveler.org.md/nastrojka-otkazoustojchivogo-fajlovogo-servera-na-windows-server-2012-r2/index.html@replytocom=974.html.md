@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит изменений групповых политик через PowerShell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Получаем MD5 файла или переменной в PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

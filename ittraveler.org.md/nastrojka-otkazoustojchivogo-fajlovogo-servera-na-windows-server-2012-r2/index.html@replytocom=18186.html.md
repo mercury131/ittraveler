@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSСоздание шаблонов Zabbix для Windows.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка RSAT на Windows 10 1809Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

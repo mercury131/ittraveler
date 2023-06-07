@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Обновление Lync 2013 до Skype for Business
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

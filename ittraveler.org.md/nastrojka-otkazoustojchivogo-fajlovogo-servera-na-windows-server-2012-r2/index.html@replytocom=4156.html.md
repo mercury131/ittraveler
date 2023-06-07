@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка HA кластера Hyper-VПереход на репликацию SYSVOL по DFS
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Создание пользователей Active Directory через CSV файлАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellРешаем проблему внезапной блокировки учетной записиСоздание email рассылки через Powershell
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

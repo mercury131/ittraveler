@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Lync 2013Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Решаем проблему внезапной блокировки учетной записиДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

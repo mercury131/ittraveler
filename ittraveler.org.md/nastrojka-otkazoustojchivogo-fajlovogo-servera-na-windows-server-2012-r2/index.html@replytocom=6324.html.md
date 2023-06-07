@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Восстановление объектов Active Directory: сборник сценариевОбновление схемы Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

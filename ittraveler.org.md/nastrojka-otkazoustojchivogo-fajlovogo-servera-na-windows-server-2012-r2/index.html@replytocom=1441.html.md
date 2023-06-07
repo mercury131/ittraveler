@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Управление репликацией Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

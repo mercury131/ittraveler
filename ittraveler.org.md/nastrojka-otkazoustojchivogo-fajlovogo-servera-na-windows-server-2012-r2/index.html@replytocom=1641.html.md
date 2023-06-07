@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Поиск старых почтовых ящиков в Exchange 2010Включение корзины Active Directory
+Related posts:Удаление Lync Server 2013Установка и настройка AnsibleОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

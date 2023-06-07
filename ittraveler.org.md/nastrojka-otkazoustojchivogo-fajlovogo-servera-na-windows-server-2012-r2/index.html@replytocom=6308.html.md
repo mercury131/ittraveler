@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиКак узнать WWN (World Wide Name)  в Windows Server 2012R2Настройка Kerberos авторизации в Apache2
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Восстановление объектов Active Directory: сборник сценариевОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

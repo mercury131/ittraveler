@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxОбновление схемы Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Добавление UPN суффикса в Active DirectoryНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Переход на репликацию SYSVOL по DFSУстановка и настройка Ansible
+Related posts:Аудит незаполненных полей в Active Directory через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
