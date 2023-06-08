@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Установка и настройка Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineДобавление UPN суффикса в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
