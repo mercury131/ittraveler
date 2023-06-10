@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиОбновление схемы Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Установка RSAT на Windows 10 1809Сброс настроек GPO на стандартныеВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

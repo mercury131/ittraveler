@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматический аудит компьютеров в Active Directory через powershell.Установка RSAT на Windows 10 1809
+Related posts:Активируем LDAP over SSLДобавление UPN суффикса в Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

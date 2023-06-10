@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Включение корзины Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Активируем LDAP over SSLВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
