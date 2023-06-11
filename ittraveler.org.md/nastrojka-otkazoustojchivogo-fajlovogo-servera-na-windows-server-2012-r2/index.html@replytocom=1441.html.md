@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Сброс пароля компьютера в домене без перезагрузки
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Отключение Skype UI в Lync 2013Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

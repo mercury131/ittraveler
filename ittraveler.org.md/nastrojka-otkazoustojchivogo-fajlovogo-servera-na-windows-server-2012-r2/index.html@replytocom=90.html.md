@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка RSAT на Windows 10 1809Обновление Lync 2013 до Skype for Business
+Related posts:Настройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

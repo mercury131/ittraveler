@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольАудит изменений групповых политик через PowerShell
+Related posts:Сброс пароля администратора Active DirectoryДобавление UPN суффикса в Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
