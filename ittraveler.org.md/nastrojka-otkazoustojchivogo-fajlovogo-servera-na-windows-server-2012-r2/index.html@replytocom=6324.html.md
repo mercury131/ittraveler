@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматическая активация пользователей Lync через Powershell
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

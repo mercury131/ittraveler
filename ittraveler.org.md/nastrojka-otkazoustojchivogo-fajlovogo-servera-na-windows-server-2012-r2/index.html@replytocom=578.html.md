@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка AnsibleАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

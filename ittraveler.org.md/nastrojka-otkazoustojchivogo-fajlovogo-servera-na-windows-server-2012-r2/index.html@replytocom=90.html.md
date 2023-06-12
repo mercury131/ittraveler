@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010Отключение Skype UI в Lync 2013
+Related posts:Настройка Kerberos авторизации в Apache2Настройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

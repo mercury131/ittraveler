@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryОтключение Skype UI в Lync 2013Установка RSAT на Windows 10 1809
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

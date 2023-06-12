@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление Lync 2013 до Skype for BusinessПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
