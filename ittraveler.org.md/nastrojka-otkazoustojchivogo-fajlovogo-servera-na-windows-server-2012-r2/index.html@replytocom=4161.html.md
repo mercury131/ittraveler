@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАвтоматический аудит компьютеров в Active Directory через powershell.Переход на репликацию SYSVOL по DFS
+Related posts:Установка RSAT на Windows 10 1809Управление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

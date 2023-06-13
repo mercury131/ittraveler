@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleНастройка Kerberos авторизации в Apache2Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Настройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записиУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

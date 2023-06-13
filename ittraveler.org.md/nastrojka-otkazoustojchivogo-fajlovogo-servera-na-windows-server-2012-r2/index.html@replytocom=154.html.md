@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит незаполненных полей в Active Directory через Powershell
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматическая активация пользователей Lync через PowershellНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellОбновление схемы Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Настройка HA кластера Hyper-VНастройка растянутого кластера (stretch-cluster) на Windows server 2016Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

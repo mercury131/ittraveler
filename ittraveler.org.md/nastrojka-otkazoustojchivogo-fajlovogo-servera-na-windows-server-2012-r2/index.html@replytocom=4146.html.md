@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Сброс пароля администратора Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Активируем LDAP over SSLНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

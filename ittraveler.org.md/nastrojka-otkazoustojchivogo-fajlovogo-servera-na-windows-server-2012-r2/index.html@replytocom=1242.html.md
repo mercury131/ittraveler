@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Настройка Kerberos авторизации в Apache2Установка RSAT на Windows 10 1809Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

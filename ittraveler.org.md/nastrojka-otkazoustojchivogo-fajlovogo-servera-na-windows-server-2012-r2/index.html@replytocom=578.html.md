@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка AnsibleАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Установка и настройка кластера MSSQL 2012.Active Directory + Thunderbird = Общая адресная книгаПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

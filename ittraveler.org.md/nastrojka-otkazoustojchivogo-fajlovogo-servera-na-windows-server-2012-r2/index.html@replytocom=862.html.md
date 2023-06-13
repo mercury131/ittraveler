@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Включение корзины Active DirectoryСброс пароля администратора Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

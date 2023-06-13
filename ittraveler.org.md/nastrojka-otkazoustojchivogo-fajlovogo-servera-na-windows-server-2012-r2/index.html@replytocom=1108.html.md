@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Автоматическая активация пользователей Lync через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Получаем MD5 файла или переменной в PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
