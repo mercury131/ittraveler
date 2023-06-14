@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryУдаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Удаление Lync Server 2013Сброс настроек GPO на стандартныеУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

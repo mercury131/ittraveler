@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Установка RSAT на Windows 10 1809Обновление схемы Active Directory
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСоздание пользователей Active Directory через CSV файлУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

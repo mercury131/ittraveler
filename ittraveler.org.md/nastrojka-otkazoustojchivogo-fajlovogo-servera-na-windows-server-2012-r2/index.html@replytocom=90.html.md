@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание шаблонов Zabbix для Windows.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

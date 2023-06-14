@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПринудительная синхронизация контроллеров домена Active DirectoryСброс пароля администратора Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryАудит изменений групповых политик через PowerShellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

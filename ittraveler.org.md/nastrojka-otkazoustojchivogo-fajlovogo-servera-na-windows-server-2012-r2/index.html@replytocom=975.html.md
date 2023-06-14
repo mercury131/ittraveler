@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записиУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСброс пароля компьютера в домене без перезагрузкиПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleСброс настроек GPO на стандартныеИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Переход на репликацию SYSVOL по DFSПеренос базы данных Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

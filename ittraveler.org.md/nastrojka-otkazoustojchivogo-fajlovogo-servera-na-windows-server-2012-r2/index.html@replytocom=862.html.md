@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryСброс пароля администратора Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Установка RSAT на Windows 10 1809Кастомизация гостевых ОС Windows в KVM на примере ProxmoxКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

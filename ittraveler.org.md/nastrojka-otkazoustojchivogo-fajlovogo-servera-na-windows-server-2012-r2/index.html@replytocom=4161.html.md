@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Управление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Включение корзины Active DirectoryУдаление Lync Server 2013Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
