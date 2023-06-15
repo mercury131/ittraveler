@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSПеренос базы данных Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Удаление Lync Server 2013Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

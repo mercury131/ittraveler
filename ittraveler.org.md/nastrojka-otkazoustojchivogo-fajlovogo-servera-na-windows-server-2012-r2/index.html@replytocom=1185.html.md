@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиВключение корзины Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Получаем MD5 файла или переменной в PowershellСброс пароля администратора Active DirectoryАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

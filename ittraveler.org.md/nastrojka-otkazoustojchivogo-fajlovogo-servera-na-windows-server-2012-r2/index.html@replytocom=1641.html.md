@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Сброс настроек GPO на стандартныеУстановка и настройка кластера MSSQL 2012.
+Related posts:Восстановление объектов Active Directory: сборник сценариевПринудительная синхронизация Office 365 и локальной Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
