@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевПринудительная синхронизация Office 365 и локальной Active DirectoryУдаление Lync Server 2013
+Related posts:Обновление схемы Active DirectoryАудит изменений групповых политик через PowerShellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
