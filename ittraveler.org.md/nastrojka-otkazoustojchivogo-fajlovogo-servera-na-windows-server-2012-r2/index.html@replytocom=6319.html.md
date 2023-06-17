@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Поиск старых почтовых ящиков в Exchange 2010Переход на репликацию SYSVOL по DFS
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Обновление схемы Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

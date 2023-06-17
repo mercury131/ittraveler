@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellУправление репликацией Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Настройка HA кластера Hyper-VАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

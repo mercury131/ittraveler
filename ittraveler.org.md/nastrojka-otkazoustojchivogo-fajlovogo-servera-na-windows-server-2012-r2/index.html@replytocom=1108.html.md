@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLАвтоматизируем бэкап баз данных MSSQL ExpressПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVРешаем проблему внезапной блокировки учетной записиСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
