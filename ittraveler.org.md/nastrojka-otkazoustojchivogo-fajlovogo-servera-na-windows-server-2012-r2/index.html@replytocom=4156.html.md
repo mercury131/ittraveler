@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Решаем проблему внезапной блокировки учетной записиПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Активируем LDAP over SSLИзменение UPN суффикса в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

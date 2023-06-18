@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Настройка HA кластера Hyper-VАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Создание шаблонов Zabbix для Windows.Включение корзины Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

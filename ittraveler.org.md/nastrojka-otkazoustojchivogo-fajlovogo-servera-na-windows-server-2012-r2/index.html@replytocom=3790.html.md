@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПередача и захват ролей FSMOНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellActive Directory + Thunderbird = Общая адресная книгаДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

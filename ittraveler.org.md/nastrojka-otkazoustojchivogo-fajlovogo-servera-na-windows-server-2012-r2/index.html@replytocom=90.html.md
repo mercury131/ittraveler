@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryДобавление UPN суффикса в Active DirectoryСброс пароля администратора Active Directory
+Related posts:Установка и настройка Lync 2013Аудит изменений групповых политик через PowerShellСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VПринудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Ansible
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОбновление Lync 2013 до Skype for BusinessСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

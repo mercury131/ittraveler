@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Переход на репликацию SYSVOL по DFS
+Related posts:Удаление Lync Server 2013Решаем проблему внезапной блокировки учетной записиКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

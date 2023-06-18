@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит незаполненных полей в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

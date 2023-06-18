@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellСброс пароля администратора Active DirectoryАудит изменений в Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryАудит изменений в Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
