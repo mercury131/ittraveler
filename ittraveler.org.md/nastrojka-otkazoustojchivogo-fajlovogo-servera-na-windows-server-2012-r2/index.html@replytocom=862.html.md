@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Активируем LDAP over SSLКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Создание пользователей Active Directory через CSV файлActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

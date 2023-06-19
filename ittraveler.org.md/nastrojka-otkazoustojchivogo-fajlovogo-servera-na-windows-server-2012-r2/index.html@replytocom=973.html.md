@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОбновление Lync 2013 до Skype for BusinessСоздание шаблонов Zabbix для Windows.
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Windows WSL подключение к сетевым шарамАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

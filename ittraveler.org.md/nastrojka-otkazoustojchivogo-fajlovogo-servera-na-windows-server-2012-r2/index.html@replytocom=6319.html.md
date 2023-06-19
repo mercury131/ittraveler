@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс пароля администратора Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

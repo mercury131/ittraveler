@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит доменных служб Active Directory в Windows Server 2008 R2Восстановление объектов Active Directory: сборник сценариев
+Related posts:Сброс пароля компьютера в домене без перезагрузкиНазначение служб для сертификатов Exchange через Powershell.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

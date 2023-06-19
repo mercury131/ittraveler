@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит изменений в Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

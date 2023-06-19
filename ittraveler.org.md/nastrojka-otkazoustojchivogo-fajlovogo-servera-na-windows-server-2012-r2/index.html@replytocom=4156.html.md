@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLИзменение UPN суффикса в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Управление репликацией Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка AlwaysOn на MS SQL 2016Аудит изменений в Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

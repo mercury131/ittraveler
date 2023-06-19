@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервереАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Аудит изменений в Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

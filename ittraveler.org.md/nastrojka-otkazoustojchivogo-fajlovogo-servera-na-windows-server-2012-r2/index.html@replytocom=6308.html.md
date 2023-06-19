@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Решаем проблему внезапной блокировки учетной записиСброс пароля компьютера в домене без перезагрузки
+Related posts:Отключение Skype UI в Lync 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

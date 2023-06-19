@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит незаполненных полей в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Отключение Skype UI в Lync 2013Сброс пароля администратора Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
