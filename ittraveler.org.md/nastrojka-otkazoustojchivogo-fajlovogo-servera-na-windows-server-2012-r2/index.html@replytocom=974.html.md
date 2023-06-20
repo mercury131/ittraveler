@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Поиск старых почтовых ящиков в Exchange 2010Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Управление репликацией Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

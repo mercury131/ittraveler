@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиПодключение к Office 365 через Powershell и зашифрованный парольАвтоматическая активация пользователей Lync через Powershell
+Related posts:Новые компьютеры не появляются на WSUS сервереРешаем проблему внезапной блокировки учетной записиАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

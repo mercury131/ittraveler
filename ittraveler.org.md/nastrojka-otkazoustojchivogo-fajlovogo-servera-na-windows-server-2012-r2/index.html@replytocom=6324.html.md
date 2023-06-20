@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУдаление Lync Server 2013Автоматическая активация пользователей Lync через Powershell
+Related posts:Удаление Lync Server 2013Решаем проблему внезапной блокировки учетной записиСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
