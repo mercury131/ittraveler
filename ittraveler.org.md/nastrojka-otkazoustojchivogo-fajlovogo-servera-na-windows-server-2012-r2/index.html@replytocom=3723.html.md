@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Перенос базы данных Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Удаление Lync Server 2013Активируем LDAP over SSLСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

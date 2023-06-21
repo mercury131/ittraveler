@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУправление репликацией Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Сброс настроек GPO на стандартныеДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
