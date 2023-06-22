@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryУстановка и настройка Lync 2013Сброс пароля администратора Active Directory
+Related posts:Управление репликацией Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

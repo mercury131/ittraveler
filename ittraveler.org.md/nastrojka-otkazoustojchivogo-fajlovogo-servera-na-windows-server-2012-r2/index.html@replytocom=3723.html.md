@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Активируем LDAP over SSLСброс пароля компьютера в домене без перезагрузки
+Related posts:Настройка HA кластера Hyper-VПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

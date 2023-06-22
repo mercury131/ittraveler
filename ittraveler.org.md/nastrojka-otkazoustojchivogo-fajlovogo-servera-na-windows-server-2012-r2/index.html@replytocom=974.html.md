@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellНастройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариев
+Related posts:Активируем LDAP over SSLПередача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

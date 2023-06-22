@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellСброс пароля администратора Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Установка и настройка AnsibleАвтоматическая активация пользователей Lync через PowershellActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
