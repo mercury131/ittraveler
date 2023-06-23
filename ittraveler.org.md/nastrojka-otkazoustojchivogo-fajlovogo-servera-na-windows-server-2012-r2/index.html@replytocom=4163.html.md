@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлСброс пароля администратора Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка AnsibleСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

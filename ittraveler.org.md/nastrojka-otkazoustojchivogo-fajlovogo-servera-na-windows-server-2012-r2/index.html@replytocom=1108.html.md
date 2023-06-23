@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryПереход на репликацию SYSVOL по DFSНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАудит изменений в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

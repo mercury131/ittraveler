@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Активируем LDAP over SSL
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Получаем MD5 файла или переменной в PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

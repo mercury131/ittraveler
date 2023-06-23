@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамАктивируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАудит доменных служб Active Directory в Windows Server 2008 R2Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

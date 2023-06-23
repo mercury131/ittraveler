@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУправление репликацией Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматическая активация пользователей Lync через PowershellОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Управление репликацией Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Решаем проблему внезапной блокировки учетной записиАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

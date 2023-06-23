@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАвтоматическая активация пользователей Lync через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Управление репликацией Active DirectoryПеренос базы данных Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOНастройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Установка и настройка Scale-Out File Server + Storage Spaces DirectПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

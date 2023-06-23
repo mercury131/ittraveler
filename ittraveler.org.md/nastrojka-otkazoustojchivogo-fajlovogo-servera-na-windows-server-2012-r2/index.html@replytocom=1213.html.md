@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка Lync 2013Удаление Lync Server 2013
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineРешаем проблему внезапной блокировки учетной записиАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

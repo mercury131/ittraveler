@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLПередача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
