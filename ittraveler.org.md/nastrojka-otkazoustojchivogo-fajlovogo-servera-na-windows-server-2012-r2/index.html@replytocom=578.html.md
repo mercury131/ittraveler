@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка RSAT на Windows 10 1809Аудит изменений групповых политик через PowerShell
+Related posts:Включение корзины Active DirectoryСоздание пользователей Active Directory через CSV файлНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

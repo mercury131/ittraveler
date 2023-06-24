@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Передача и захват ролей FSMOУстановка RSAT на Windows 10 1809
+Related posts:Автоматическая активация пользователей Lync через PowershellУдаление Lync Server 2013Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

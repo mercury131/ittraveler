@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАудит изменений в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Отключение Skype UI в Lync 2013Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

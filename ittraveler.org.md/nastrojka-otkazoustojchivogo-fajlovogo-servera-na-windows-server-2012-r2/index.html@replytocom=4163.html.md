@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка AnsibleСброс пароля администратора Active Directory
+Related posts:Включение корзины Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

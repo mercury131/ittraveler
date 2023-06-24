@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля администратора Active Directory
+Related posts:Аудит незаполненных полей в Active Directory через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

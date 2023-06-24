@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка Lync 2013
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит изменений групповых политик через PowerShellОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
