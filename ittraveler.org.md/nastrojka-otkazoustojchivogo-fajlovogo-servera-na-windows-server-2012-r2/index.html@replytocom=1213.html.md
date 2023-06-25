@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryПолучаем MD5 файла или переменной в PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Аудит незаполненных полей в Active Directory через PowershellWindows WSL подключение к сетевым шарамУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

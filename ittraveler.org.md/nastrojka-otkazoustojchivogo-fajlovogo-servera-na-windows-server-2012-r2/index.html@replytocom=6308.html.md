@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellУдаление Lync Server 2013Настройка HA кластера Hyper-V
+Related posts:Active Directory + Thunderbird = Общая адресная книгаОтключение Skype UI в Lync 2013Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
