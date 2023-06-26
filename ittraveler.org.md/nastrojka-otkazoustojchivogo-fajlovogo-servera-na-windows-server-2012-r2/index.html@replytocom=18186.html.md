@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Изменение UPN суффикса в Active Directory через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка кластера MSSQL 2012.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

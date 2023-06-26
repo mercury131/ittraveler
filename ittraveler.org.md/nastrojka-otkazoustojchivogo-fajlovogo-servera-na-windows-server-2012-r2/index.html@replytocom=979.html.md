@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Аудит изменений групповых политик через PowerShellПеренос базы данных Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПереход на репликацию SYSVOL по DFSПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

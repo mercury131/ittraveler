@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Переход на репликацию SYSVOL по DFSПоиск старых почтовых ящиков в Exchange 2010Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка кластера MSSQL 2012.Active Directory + Thunderbird = Общая адресная книга
+Related posts:Обновление схемы Active DirectoryАвтоматическая активация пользователей Lync через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

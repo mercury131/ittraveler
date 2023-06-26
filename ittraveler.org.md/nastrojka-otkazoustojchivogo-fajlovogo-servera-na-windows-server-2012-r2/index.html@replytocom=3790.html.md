@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Обновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013
+Related posts:Автоматическая активация пользователей Lync через PowershellВосстановление объектов Active Directory: сборник сценариевПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

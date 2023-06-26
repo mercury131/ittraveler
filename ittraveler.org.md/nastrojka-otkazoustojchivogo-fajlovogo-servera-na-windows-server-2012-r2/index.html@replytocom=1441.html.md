@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellПолучаем MD5 файла или переменной в PowershellОтключение Skype UI в Lync 2013
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПоиск старых почтовых ящиков в Exchange 2010Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryWindows WSL подключение к сетевым шарамИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Управление репликацией Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

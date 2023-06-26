@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Автоматическая активация пользователей Lync через PowershellПереход на репликацию SYSVOL по DFS
+Related posts:Установка RSAT на Windows 10 1809Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

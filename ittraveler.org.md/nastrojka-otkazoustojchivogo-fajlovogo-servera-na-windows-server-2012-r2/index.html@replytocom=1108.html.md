@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание шаблонов Zabbix для Windows.Установка и настройка Lync 2013
+Related posts:Установка и настройка кластера MSSQL 2012.Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

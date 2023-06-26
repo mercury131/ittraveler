@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПодключение к Office 365 через Powershell и зашифрованный парольАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Windows WSL подключение к сетевым шарамАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

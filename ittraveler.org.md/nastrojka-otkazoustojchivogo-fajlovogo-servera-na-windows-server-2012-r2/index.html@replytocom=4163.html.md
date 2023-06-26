@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellОбновление Lync 2013 до Skype for BusinessЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Scale-Out File Server + Storage Spaces DirectПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

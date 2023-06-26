@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Аудит доменных служб Active Directory в Windows Server 2008 R2Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

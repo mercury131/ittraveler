@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellНастройка HA кластера Hyper-VАктивируем LDAP over SSL
+Related posts:Создание пользователей Active Directory через CSV файлНастройка HA кластера Hyper-VАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПередача и захват ролей FSMOНовые компьютеры не появляются на WSUS сервере
+Related posts:Установка RSAT на Windows 10 1809Настройка растянутого кластера (stretch-cluster) на Windows server 2016Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

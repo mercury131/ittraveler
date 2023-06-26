@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОтключение Skype UI в Lync 2013Добавление UPN суффикса в Active Directory
+Related posts:Управление репликацией Active DirectoryАудит незаполненных полей в Active Directory через PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольРешаем проблему внезапной блокировки учетной записиПередача и захват ролей FSMO
+Related posts:Включение корзины Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

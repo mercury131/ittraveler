@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryДобавление UPN суффикса в Active DirectoryУправление репликацией Active Directory
+Related posts:Сброс настроек GPO на стандартныеАудит доменных служб Active Directory в Windows Server 2008 R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
