@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Аудит изменений групповых политик через PowerShellПоиск старых почтовых ящиков в Exchange 2010Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

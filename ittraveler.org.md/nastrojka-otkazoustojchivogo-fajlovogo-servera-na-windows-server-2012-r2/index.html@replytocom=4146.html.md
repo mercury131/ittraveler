@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеАудит доменных служб Active Directory в Windows Server 2008 R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Управление репликацией Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

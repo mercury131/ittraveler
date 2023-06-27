@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка Lync 2013Добавление UPN суффикса в Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

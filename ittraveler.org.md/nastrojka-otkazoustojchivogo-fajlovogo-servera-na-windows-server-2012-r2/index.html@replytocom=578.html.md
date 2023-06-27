@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSИзменение UPN суффикса в Active Directory через PowershellСброс настроек GPO на стандартные
+Related posts:Обновление схемы Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

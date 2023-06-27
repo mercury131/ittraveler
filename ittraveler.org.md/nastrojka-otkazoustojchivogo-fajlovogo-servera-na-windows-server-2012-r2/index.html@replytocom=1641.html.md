@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellАвтоматическая активация пользователей Lync через PowershellСброс пароля администратора Active Directory
+Related posts:Сброс пароля администратора Active DirectoryАудит изменений групповых политик через PowerShellУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

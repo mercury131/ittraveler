@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка кластера MSSQL 2012.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Активируем LDAP over SSLНастройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

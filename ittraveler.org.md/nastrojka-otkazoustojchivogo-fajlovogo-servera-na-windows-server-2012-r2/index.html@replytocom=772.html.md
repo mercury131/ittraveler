@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка AnsibleБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

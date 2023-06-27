@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Подключение к Office 365 через Powershell и зашифрованный парольДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Добавление UPN суффикса в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

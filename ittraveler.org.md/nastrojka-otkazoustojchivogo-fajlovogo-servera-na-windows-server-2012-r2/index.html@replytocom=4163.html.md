@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Scale-Out File Server + Storage Spaces DirectПереход на репликацию SYSVOL по DFS
+Related posts:Сброс настроек GPO на стандартныеНастройка растянутого кластера (stretch-cluster) на Windows server 2016Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

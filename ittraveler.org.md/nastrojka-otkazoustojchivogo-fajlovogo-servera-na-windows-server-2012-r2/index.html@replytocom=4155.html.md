@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка AlwaysOn на MS SQL 2016Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Решаем проблему внезапной блокировки учетной записиПередача и захват ролей FSMOАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

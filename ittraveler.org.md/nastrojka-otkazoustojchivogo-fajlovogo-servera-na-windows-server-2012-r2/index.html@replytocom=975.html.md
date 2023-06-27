@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Включение корзины Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПринудительная синхронизация контроллеров домена Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

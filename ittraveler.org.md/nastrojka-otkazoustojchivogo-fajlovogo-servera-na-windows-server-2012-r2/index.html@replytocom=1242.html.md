@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Сброс пароля администратора Active Directory
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматическая активация пользователей Lync через PowershellПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

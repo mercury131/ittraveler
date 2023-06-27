@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellВосстановление объектов Active Directory: сборник сценариевПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressActive Directory + Thunderbird = Общая адресная книгаНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

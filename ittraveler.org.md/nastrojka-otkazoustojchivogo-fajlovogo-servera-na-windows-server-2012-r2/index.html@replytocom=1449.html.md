@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryАвтоматическая активация пользователей Lync через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Отключение Skype UI в Lync 2013Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

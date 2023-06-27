@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessАудит доменных служб Active Directory в Windows Server 2008 R2Получаем MD5 файла или переменной в Powershell
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectКак узнать WWN (World Wide Name)  в Windows Server 2012R2Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
