@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Создание email рассылки через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНастройка Kerberos авторизации в Apache2Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
