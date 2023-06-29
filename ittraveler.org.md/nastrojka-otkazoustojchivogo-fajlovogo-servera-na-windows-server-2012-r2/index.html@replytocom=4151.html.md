@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

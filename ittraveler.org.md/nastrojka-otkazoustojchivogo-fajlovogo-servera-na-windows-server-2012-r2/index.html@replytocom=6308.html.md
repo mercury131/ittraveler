@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Переход на репликацию SYSVOL по DFSАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание пользователей Active Directory через CSV файлСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

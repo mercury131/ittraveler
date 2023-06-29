@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VСброс пароля компьютера в домене без перезагрузкиУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Подключение к Office 365 через Powershell и зашифрованный парольАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

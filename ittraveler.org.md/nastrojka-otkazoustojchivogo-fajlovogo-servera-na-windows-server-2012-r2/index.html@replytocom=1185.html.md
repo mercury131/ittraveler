@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка Kerberos авторизации в Apache2Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

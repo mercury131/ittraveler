@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryДобавление UPN суффикса в Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПеренос базы данных Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

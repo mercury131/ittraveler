@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VСброс пароля администратора Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Восстановление объектов Active Directory: сборник сценариевWindows WSL подключение к сетевым шарамАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

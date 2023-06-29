@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Подключение к Office 365 через Powershell и зашифрованный парольАктивируем LDAP over SSL
+Related posts:Установка RSAT на Windows 10 1809Изменение UPN суффикса в Active Directory через PowershellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

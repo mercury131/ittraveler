@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматический аудит компьютеров в Active Directory через powershell.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСброс пароля компьютера в домене без перезагрузкиПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

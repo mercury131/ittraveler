@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellДобавление UPN суффикса в Active DirectoryСоздание email рассылки через Powershell
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Управление репликацией Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

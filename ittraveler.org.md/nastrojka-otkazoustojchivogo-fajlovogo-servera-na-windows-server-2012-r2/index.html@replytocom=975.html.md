@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Решаем проблему внезапной блокировки учетной записиЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

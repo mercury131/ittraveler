@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиАвтоматический аудит компьютеров в Active Directory через powershell.Передача и захват ролей FSMO
+Related posts:Изменение UPN суффикса в Active Directory через PowershellОбновление схемы Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

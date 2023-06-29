@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILУправление репликацией Active Directory
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Решаем проблему внезапной блокировки учетной записиУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

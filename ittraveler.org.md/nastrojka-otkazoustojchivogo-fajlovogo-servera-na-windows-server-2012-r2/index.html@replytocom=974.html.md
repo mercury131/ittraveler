@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Добавление почтовых контактов в Office 365 через Powershell и CSVКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Восстановление объектов Active Directory: сборник сценариевДобавление UPN суффикса в Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
