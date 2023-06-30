@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевДобавление UPN суффикса в Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

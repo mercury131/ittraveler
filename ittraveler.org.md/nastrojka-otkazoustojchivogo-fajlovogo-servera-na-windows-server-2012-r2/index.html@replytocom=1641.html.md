@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлПереход на репликацию SYSVOL по DFSАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Сброс пароля компьютера в домене без перезагрузкиActive Directory + Thunderbird = Общая адресная книгаОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

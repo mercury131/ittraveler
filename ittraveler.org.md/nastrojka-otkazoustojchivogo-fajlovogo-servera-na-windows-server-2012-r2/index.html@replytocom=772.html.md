@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление Lync 2013 до Skype for BusinessДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание пользователей Active Directory через CSV файлНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

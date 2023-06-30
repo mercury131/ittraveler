@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VСоздание пользователей Active Directory через CSV файлПередача и захват ролей FSMO
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Решаем проблему внезапной блокировки учетной записиДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

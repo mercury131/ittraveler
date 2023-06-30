@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание пользователей Active Directory через CSV файлСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Аудит изменений групповых политик через PowerShellПринудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

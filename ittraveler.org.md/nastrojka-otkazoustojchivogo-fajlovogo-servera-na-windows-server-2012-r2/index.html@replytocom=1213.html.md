@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевWindows WSL подключение к сетевым шарамАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание email рассылки через PowershellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
