@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Обновление схемы Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Изменение UPN суффикса в Active Directory через PowershellРешаем проблему внезапной блокировки учетной записиАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

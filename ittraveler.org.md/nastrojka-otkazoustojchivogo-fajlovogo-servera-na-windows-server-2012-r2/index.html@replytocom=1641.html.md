@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleАудит изменений групповых политик через PowerShellДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУдаление Lync Server 2013Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOАвтоматизируем бэкап баз данных MSSQL ExpressПереход на репликацию SYSVOL по DFS
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНастройка Kerberos авторизации в Apache2Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

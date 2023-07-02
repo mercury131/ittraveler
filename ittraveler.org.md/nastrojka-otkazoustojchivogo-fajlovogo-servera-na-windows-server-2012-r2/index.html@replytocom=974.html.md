@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка кластера MSSQL 2012.Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Настройка Kerberos авторизации в Apache2Удаление Lync Server 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
