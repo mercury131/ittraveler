@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание индивидуальных адресных книг в Office 365 и Exchange onlineБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Активируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книгаВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

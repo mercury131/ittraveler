@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Управление репликацией Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Активируем LDAP over SSLПолучаем MD5 файла или переменной в PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

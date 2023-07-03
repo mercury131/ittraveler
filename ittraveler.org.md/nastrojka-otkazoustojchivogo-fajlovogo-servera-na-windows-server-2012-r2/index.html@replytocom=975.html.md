@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Установка и настройка Lync 2013Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Установка и настройка кластера MSSQL 2012.Удаление Lync Server 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

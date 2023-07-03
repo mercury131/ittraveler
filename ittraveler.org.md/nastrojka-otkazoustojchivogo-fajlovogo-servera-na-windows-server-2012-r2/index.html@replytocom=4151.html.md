@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Отключение Skype UI в Lync 2013Управление репликацией Active Directory
+Related posts:Настройка Kerberos авторизации в Apache2Создание email рассылки через PowershellОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

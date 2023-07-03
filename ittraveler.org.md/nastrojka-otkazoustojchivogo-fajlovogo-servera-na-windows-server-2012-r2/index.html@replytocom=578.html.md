@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНастройка Kerberos авторизации в Apache2Передача и захват ролей FSMO
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУдаление Lync Server 2013Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
