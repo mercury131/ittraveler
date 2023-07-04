@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книгаВосстановление объектов Active Directory: сборник сценариев
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка кластера MSSQL 2012.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

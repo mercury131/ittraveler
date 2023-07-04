@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеРешаем проблему внезапной блокировки учетной записиИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Удаление Lync Server 2013Поиск старых почтовых ящиков в Exchange 2010Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

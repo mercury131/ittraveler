@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиWindows WSL подключение к сетевым шарамУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Создание шаблонов Zabbix для Windows.Windows WSL подключение к сетевым шарамИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

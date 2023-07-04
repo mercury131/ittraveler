@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиРешаем проблему внезапной блокировки учетной записиАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Передача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VНовые компьютеры не появляются на WSUS сервереActive Directory + Thunderbird = Общая адресная книга
+Related posts:Обновление Lync 2013 до Skype for BusinessАудит незаполненных полей в Active Directory через PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

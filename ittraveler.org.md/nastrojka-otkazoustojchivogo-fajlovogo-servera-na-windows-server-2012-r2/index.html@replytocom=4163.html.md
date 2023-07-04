@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryУстановка и настройка Lync 2013Создание шаблонов Zabbix для Windows.
+Related posts:Добавление UPN суффикса в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

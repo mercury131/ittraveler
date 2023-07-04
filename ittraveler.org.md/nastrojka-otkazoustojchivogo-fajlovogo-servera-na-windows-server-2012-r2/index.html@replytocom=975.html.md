@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Удаление Lync Server 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

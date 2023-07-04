@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Поиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMO
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит незаполненных полей в Active Directory через PowershellПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

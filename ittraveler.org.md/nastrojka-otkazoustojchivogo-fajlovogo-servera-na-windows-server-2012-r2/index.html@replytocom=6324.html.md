@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Lync 2013
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка AnsibleСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

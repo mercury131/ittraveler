@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамИзменение UPN суффикса в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка RSAT на Windows 10 1809Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

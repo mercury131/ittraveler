@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереПередача и захват ролей FSMOВключение корзины Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Передача и захват ролей FSMOАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

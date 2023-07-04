@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Создание email рассылки через PowershellОтключение Skype UI в Lync 2013
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Отключение Skype UI в Lync 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

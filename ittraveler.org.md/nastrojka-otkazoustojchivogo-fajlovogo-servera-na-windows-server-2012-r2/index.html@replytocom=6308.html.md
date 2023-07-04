@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Получаем MD5 файла или переменной в PowershellВключение корзины Active Directory
+Related posts:Установка и настройка AnsibleУстановка и настройка Lync 2013Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

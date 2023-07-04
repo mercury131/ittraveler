@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VПеренос базы данных Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

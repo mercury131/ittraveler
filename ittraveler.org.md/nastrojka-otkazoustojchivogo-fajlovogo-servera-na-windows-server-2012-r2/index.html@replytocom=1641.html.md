@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLАудит доменных служб Active Directory в Windows Server 2008 R2Получаем MD5 файла или переменной в Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка AnsibleНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

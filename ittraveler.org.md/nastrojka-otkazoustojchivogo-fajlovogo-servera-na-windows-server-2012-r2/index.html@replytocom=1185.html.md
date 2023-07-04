@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLПолучаем MD5 файла или переменной в PowershellАудит изменений групповых политик через PowerShell
+Related posts:Перенос базы данных Active DirectoryНастройка Kerberos авторизации в Apache2Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
