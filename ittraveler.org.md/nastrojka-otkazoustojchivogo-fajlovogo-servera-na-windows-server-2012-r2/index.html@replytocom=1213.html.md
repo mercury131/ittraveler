@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереНазначение служб для сертификатов Exchange через Powershell.Восстановление объектов Active Directory: сборник сценариев
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Новые компьютеры не появляются на WSUS сервереНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

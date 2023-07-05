@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка AnsibleСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Сброс пароля администратора Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

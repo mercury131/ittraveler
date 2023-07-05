@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Отключение Skype UI в Lync 2013Переход на репликацию SYSVOL по DFS
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка кластера MSSQL 2012.Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

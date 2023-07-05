@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУправление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание пользователей Active Directory через CSV файлАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Новые компьютеры не появляются на WSUS сервереИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

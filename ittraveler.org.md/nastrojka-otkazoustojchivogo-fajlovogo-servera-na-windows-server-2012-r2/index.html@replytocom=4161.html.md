@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryУстановка и настройка кластера MSSQL 2012.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка кластера MSSQL 2012.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

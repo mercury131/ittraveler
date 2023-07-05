@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Отключение Skype UI в Lync 2013
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILВключение корзины Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

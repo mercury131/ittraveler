@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Отключение Skype UI в Lync 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Удаление Lync Server 2013Автоматический аудит компьютеров в Active Directory через powershell.Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Lync 2013
+Related posts:Перенос базы данных Active DirectoryУстановка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

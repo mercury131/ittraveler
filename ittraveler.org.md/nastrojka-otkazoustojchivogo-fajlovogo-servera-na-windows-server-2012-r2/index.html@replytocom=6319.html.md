@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessАудит незаполненных полей в Active Directory через PowershellАудит изменений групповых политик через PowerShell
+Related posts:Получаем MD5 файла или переменной в PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

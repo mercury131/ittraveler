@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleУстановка и настройка Lync 2013Добавление UPN суффикса в Active Directory
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание пользователей Active Directory через CSV файлКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

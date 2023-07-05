@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.Решаем проблему внезапной блокировки учетной записи
+Related posts:Windows WSL подключение к сетевым шарамНазначение служб для сертификатов Exchange через Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

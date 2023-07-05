@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Перенос базы данных Active Directory
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Новые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

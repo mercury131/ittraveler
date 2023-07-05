@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка AnsibleНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Обновление схемы Active DirectoryActive Directory + Thunderbird = Общая адресная книга
+Related posts:Включение корзины Active DirectoryАктивируем LDAP over SSLСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

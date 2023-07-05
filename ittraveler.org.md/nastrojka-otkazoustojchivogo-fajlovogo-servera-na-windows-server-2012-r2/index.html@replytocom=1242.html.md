@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Передача и захват ролей FSMOАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVWindows WSL подключение к сетевым шарамАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартные
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Обновление схемы Active DirectoryПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

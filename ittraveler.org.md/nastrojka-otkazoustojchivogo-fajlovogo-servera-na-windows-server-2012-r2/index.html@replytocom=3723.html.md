@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Отключение Skype UI в Lync 2013Сброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматическая активация пользователей Lync через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
