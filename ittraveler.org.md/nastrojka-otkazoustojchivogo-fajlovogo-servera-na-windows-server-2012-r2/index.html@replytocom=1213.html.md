@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Новые компьютеры не появляются на WSUS сервереНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Аудит изменений в Active DirectoryАудит незаполненных полей в Active Directory через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

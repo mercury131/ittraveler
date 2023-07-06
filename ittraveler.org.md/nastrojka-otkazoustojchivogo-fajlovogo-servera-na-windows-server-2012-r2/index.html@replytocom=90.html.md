@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellНазначение служб для сертификатов Exchange через Powershell.Отключение Skype UI в Lync 2013
+Related posts:Windows WSL подключение к сетевым шарамСоздание email рассылки через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

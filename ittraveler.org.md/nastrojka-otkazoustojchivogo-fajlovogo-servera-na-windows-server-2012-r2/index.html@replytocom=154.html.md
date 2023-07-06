@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамНазначение служб для сертификатов Exchange через Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

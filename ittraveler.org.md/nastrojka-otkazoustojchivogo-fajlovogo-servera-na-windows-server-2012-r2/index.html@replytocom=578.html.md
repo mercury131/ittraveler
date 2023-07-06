@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка кластера MSSQL 2012.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Удаление Lync Server 2013Автоматический аудит компьютеров в Active Directory через powershell.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

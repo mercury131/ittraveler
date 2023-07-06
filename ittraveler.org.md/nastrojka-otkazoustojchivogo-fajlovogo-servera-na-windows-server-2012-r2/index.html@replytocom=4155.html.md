@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSВключение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Установка и настройка кластера MSSQL 2012.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

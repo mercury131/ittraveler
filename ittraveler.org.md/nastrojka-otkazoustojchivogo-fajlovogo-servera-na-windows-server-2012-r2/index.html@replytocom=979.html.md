@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryАктивируем LDAP over SSLСоздание шаблонов Zabbix для Windows.
+Related posts:Windows WSL подключение к сетевым шарамПринудительная синхронизация контроллеров домена Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

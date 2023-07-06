@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит изменений групповых политик через PowerShellАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

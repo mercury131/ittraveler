@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка AlwaysOn на MS SQL 2016Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка Lync 2013Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

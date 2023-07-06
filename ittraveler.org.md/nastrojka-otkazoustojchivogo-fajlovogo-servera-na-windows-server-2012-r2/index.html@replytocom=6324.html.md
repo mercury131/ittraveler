@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Удаление Lync Server 2013Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

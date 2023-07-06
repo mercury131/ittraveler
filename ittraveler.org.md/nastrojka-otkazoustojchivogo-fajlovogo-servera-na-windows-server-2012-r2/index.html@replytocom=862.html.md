@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILВключение корзины Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

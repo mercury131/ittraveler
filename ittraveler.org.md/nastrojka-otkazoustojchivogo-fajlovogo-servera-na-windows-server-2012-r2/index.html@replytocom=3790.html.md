@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Новые компьютеры не появляются на WSUS сервереИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Новые компьютеры не появляются на WSUS сервереСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

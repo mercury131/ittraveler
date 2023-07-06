@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматическая активация пользователей Lync через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Установка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

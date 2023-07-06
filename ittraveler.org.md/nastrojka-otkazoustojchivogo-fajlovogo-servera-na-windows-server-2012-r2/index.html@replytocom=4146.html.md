@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание пользователей Active Directory через CSV файлАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Добавление UPN суффикса в Active DirectoryПереход на репликацию SYSVOL по DFSСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

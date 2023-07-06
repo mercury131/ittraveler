@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVWindows WSL подключение к сетевым шарамАудит изменений в Active Directory
+Related posts:Настройка HA кластера Hyper-VАудит незаполненных полей в Active Directory через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

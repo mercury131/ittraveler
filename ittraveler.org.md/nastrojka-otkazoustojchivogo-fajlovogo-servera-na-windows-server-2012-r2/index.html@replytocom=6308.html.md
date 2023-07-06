@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание пользователей Active Directory через CSV файлКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

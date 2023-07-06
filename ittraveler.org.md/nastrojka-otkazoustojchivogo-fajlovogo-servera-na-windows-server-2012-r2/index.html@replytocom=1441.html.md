@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Обновление схемы Active DirectoryПередача и захват ролей FSMO
+Related posts:Обновление Lync 2013 до Skype for BusinessРешаем проблему внезапной блокировки учетной записиАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
