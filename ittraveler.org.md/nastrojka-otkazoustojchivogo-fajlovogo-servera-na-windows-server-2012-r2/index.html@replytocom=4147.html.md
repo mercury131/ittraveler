@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Передача и захват ролей FSMOПеренос базы данных Active Directory
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Scale-Out File Server + Storage Spaces DirectWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

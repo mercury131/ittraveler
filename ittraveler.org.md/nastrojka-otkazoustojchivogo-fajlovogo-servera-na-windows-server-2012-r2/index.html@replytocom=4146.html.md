@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryПереход на репликацию SYSVOL по DFSСоздание email рассылки через Powershell
+Related posts:Добавление UPN суффикса в Active DirectoryАудит изменений в Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

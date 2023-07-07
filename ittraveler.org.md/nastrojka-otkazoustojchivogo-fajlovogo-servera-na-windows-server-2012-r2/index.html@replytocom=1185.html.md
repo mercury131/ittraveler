@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Добавление UPN суффикса в Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУдаление Lync Server 2013Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

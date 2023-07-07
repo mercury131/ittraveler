@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Добавление UPN суффикса в Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

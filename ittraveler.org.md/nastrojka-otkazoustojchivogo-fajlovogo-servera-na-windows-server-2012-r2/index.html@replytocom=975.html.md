@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVИзменение UPN суффикса в Active Directory через PowershellСброс настроек GPO на стандартные
+Related posts:Переход на репликацию SYSVOL по DFSАудит изменений групповых политик через PowerShellОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
