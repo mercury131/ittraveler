@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка AlwaysOn на MS SQL 2016Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит изменений в Active DirectoryАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

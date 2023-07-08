@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Scale-Out File Server + Storage Spaces DirectWindows WSL подключение к сетевым шарам
+Related posts:Отключение Skype UI в Lync 2013Изменение UPN суффикса в Active Directory через PowershellПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

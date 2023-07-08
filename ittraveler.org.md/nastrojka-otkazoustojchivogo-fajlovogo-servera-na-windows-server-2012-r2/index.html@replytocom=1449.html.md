@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка RSAT на Windows 10 1809Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Active Directory + Thunderbird = Общая адресная книгаБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

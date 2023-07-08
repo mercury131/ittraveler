@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSАудит изменений групповых политик через PowerShellОбновление Lync 2013 до Skype for Business
+Related posts:Перенос базы данных Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

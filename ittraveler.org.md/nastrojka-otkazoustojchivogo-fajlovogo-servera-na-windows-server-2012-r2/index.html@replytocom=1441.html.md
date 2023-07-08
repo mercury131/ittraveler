@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Добавление почтовых контактов в Office 365 через Powershell и CSVАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

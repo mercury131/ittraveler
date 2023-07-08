@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSLУстановка и настройка Lync 2013
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПолучаем MD5 файла или переменной в PowershellРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

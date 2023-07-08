@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУдаление Lync Server 2013Установка и настройка Lync 2013
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVНастройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

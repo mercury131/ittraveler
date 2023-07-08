@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVАктивируем LDAP over SSL
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Обновление схемы Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

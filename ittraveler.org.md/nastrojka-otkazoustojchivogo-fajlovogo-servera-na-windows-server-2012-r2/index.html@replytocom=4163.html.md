@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Lync 2013Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

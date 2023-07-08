@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Active Directory + Thunderbird = Общая адресная книгаВосстановление объектов Active Directory: сборник сценариевЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

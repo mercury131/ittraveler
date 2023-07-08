@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryАудит изменений в Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Включение корзины Active DirectoryУдаление Lync Server 2013Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

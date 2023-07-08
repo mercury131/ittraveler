@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевОбновление схемы Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

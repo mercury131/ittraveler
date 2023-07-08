@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Windows WSL подключение к сетевым шарамУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Настройка HA кластера Hyper-VУстановка и настройка Lync 2013Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

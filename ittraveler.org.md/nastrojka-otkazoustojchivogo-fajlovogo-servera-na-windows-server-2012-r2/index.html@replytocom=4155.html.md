@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Получаем MD5 файла или переменной в PowershellДобавление UPN суффикса в Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
