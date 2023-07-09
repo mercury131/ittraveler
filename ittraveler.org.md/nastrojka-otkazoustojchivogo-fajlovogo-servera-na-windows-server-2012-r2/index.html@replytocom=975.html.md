@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Включение корзины Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

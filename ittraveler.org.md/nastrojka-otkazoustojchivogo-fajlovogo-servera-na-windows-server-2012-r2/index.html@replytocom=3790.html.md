@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУстановка и настройка Lync 2013Удаление Lync Server 2013
+Related posts:Восстановление объектов Active Directory: сборник сценариевСброс пароля администратора Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

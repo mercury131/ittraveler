@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Обновление Lync 2013 до Skype for BusinessНастройка HA кластера Hyper-VНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

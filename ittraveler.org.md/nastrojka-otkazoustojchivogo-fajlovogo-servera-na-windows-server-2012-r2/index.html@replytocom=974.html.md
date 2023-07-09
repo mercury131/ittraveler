@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУстановка и настройка AnsibleПеренос базы данных Active Directory
+Related posts:Установка RSAT на Windows 10 1809Назначение служб для сертификатов Exchange через Powershell.Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

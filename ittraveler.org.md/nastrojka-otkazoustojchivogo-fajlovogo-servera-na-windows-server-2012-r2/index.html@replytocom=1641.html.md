@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Настройка HA кластера Hyper-VУправление репликацией Active Directory
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПринудительная синхронизация Office 365 и локальной Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Передача и захват ролей FSMOАудит изменений групповых политик через PowerShell
+Related posts:Настройка HA кластера Hyper-VСоздание email рассылки через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

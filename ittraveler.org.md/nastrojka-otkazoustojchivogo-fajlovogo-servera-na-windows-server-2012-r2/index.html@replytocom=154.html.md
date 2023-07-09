@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУдаление Lync Server 2013Получаем MD5 файла или переменной в Powershell
+Related posts:Аудит изменений групповых политик через PowerShellНовые компьютеры не появляются на WSUS сервереСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

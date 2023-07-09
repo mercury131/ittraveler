@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Подключение к Office 365 через Powershell и зашифрованный парольСоздание шаблонов Zabbix для Windows.
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУправление репликацией Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Изменение UPN суффикса в Active Directory через PowershellПеренос базы данных Active Directory
+Related posts:Создание email рассылки через PowershellВосстановление объектов Active Directory: сборник сценариевОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

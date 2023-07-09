@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит изменений в Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Обновление Lync 2013 до Skype for BusinessНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

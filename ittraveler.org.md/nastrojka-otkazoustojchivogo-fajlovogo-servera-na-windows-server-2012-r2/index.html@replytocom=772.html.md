@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка AlwaysOn на MS SQL 2016Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Обновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

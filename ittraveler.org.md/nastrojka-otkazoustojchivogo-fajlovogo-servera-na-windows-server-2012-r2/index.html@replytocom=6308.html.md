@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка RSAT на Windows 10 1809Активируем LDAP over SSL
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

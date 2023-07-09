@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOНастройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание пользователей Active Directory через CSV файлActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

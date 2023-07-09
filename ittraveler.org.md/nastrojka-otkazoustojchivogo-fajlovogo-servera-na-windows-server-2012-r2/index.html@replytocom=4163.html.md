@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Lync 2013Установка и настройка кластера MSSQL 2012.
+Related posts:Включение корзины Active DirectoryУправление репликацией Active DirectoryСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
