@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание пользователей Active Directory через CSV файлActive Directory + Thunderbird = Общая адресная книга
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

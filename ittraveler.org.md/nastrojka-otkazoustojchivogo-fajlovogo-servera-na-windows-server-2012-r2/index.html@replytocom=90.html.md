@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПолучаем MD5 файла или переменной в PowershellВосстановление объектов Active Directory: сборник сценариев
+Related posts:Включение корзины Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

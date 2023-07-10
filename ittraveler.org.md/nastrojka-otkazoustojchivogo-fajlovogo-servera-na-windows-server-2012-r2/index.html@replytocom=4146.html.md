@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellНастройка Kerberos авторизации в Apache2Обновление схемы Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryПередача и захват ролей FSMOНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryСброс пароля администратора Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Windows WSL подключение к сетевым шарамКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

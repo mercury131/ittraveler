@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит доменных служб Active Directory в Windows Server 2008 R2Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

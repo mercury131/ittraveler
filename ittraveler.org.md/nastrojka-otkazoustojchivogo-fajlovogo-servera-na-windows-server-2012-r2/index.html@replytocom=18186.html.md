@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Обновление Lync 2013 до Skype for BusinessНастройка HA кластера Hyper-V
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка AnsibleАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

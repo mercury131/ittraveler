@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУправление репликацией Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Управление репликацией Active DirectoryАвтоматическая активация пользователей Lync через PowershellПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

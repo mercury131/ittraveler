@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевСброс пароля администратора Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

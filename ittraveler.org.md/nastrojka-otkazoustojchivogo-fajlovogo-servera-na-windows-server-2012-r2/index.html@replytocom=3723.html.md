@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVНастройка HA кластера Hyper-VУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

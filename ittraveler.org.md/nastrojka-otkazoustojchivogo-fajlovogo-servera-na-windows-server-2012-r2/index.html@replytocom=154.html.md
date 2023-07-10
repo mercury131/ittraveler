@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellНовые компьютеры не появляются на WSUS сервереСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Создание шаблонов Zabbix для Windows.Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

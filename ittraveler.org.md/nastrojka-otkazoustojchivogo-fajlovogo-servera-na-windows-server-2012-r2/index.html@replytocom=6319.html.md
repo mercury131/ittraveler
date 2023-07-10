@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля компьютера в домене без перезагрузки
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка HA кластера Hyper-VУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

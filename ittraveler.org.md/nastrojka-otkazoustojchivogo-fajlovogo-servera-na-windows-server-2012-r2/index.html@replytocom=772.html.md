@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013Восстановление объектов Active Directory: сборник сценариев
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineWindows WSL подключение к сетевым шарамАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryУдаление Lync Server 2013Переход на репликацию SYSVOL по DFS
+Related posts:Создание email рассылки через PowershellСброс пароля администратора Active DirectoryПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Назначение служб для сертификатов Exchange через Powershell.Восстановление объектов Active Directory: сборник сценариев
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
