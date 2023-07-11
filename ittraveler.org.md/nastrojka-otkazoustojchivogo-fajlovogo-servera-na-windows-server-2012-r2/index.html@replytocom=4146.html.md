@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryПередача и захват ролей FSMOНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Переход на репликацию SYSVOL по DFSБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

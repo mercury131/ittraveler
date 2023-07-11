@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПередача и захват ролей FSMOУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

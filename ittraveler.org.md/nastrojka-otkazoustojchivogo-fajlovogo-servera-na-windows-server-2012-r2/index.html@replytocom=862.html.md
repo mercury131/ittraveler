@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessСброс пароля администратора Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Сброс пароля компьютера в домене без перезагрузкиДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений в Active Directory
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание пользователей Active Directory через CSV файлАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

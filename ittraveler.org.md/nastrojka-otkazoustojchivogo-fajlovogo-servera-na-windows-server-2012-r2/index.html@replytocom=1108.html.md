@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellСброс пароля администратора Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Получаем MD5 файла или переменной в PowershellИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка HA кластера Hyper-VУстановка и настройка кластера MSSQL 2012.
+Related posts:Изменение UPN суффикса в Active Directory через PowershellСоздание пользователей Active Directory через CSV файлАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит изменений групповых политик через PowerShellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Обновление Lync 2013 до Skype for BusinessСброс пароля администратора Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

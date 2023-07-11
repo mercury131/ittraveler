@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Активируем LDAP over SSLУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАудит незаполненных полей в Active Directory через PowershellУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

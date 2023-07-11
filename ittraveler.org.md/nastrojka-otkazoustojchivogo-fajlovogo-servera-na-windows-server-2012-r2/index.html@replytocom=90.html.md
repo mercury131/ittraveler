@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание пользователей Active Directory через CSV файл
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание email рассылки через PowershellНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

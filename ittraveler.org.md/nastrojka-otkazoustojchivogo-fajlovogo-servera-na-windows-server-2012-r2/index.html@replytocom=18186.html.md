@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка AnsibleАудит изменений в Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматизируем бэкап баз данных MSSQL ExpressАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
