@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Автоматический аудит компьютеров в Active Directory через powershell.Восстановление объектов Active Directory: сборник сценариев
+Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

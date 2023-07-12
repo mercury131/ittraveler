@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Передача и захват ролей FSMOАудит незаполненных полей в Active Directory через Powershell
+Related posts:Управление репликацией Active DirectoryНастройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
