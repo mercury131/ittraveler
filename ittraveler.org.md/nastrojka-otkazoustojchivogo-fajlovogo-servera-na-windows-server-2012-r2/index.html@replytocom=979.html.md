@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка Lync 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Автоматическая активация пользователей Lync через PowershellСоздание пользователей Active Directory через CSV файлКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

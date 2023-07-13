@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПринудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка Ansible
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectДобавление почтовых контактов в Office 365 через Powershell и CSVУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

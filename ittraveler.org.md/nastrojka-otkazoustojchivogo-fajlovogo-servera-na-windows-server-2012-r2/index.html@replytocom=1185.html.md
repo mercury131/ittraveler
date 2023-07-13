@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellПоиск старых почтовых ящиков в Exchange 2010Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка RSAT на Windows 10 1809Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

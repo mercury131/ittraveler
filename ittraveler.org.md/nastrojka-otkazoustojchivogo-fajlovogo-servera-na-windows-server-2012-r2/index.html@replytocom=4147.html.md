@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Получаем MD5 файла или переменной в PowershellСоздание email рассылки через Powershell
+Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка кластера MSSQL 2012.Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryНастройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.
+Related posts:Автоматическая активация пользователей Lync через PowershellНазначение служб для сертификатов Exchange через Powershell.Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

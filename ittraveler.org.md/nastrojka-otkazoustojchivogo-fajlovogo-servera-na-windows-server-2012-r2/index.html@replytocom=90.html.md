@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellОбновление схемы Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Установка RSAT на Windows 10 1809Аудит изменений групповых политик через PowerShellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

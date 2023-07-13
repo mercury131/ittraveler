@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Автоматизируем бэкап баз данных MSSQL ExpressДобавление UPN суффикса в Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Новые компьютеры не появляются на WSUS сервереАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

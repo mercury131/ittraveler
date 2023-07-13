@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Установка и настройка дедупликации  на Windows Server 2012 R2Активируем LDAP over SSL
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит изменений в Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

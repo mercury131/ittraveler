@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Добавление UPN суффикса в Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Управление репликацией Active DirectoryУстановка и настройка кластера MSSQL 2012.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка кластера MSSQL 2012.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Передача и захват ролей FSMOРешаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Установка и настройка Scale-Out File Server + Storage Spaces DirectНовые компьютеры не появляются на WSUS сервере
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Активируем LDAP over SSLСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
