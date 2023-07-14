@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryУстановка и настройка кластера MSSQL 2012.Windows WSL подключение к сетевым шарам
+Related posts:Active Directory + Thunderbird = Общая адресная книгаНастройка HA кластера Hyper-VОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Аудит изменений групповых политик через PowerShellПереход на репликацию SYSVOL по DFS
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит изменений групповых политик через PowerShellВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

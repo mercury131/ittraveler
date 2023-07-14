@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellСоздание пользователей Active Directory через CSV файлКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Перенос базы данных Active DirectoryАктивируем LDAP over SSLОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

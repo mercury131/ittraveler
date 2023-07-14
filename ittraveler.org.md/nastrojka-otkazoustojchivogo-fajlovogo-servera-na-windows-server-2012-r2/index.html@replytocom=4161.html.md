@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOРешаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Восстановление объектов Active Directory: сборник сценариевАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VСоздание email рассылки через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

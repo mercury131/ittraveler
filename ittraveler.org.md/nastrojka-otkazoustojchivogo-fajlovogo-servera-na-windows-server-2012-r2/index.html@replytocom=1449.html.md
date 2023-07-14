@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellСброс пароля компьютера в домене без перезагрузкиАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка AnsibleОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

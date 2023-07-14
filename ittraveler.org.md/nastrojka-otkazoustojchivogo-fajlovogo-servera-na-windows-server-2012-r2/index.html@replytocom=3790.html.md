@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка AnsibleОбновление Lync 2013 до Skype for Business
+Related posts:Создание email рассылки через PowershellActive Directory + Thunderbird = Общая адресная книгаАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
