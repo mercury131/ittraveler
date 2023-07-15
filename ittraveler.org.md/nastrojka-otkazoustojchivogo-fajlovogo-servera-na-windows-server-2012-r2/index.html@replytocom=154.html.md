@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryСоздание email рассылки через PowershellАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Обновление Lync 2013 до Skype for BusinessУстановка RSAT на Windows 10 1809Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
