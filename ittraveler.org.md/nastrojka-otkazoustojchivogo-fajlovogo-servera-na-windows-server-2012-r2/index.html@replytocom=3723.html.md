@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Сброс настроек GPO на стандартныеСоздание пользователей Active Directory через CSV файл
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Удаление Lync Server 2013Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

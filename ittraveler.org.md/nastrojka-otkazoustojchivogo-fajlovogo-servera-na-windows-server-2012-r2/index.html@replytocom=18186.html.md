@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамПеренос базы данных Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Установка и настройка Lync 2013Автоматизируем бэкап баз данных MSSQL ExpressСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

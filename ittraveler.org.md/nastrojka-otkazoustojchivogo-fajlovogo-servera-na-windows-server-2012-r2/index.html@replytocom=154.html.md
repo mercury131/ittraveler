@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessУстановка RSAT на Windows 10 1809Windows WSL подключение к сетевым шарам
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellWindows WSL подключение к сетевым шарамУстановка и настройка Ansible
+Related posts:Включение корзины Active DirectoryПолучаем MD5 файла или переменной в PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

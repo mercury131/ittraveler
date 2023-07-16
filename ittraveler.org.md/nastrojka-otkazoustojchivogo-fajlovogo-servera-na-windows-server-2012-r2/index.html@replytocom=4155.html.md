@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений групповых политик через PowerShellНастройка Kerberos авторизации в Apache2
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОтключение Skype UI в Lync 2013Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
