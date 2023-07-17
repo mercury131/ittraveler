@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSОтключение Skype UI в Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление схемы Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Новые компьютеры не появляются на WSUS сервереУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Создание пользователей Active Directory через CSV файлВосстановление объектов Active Directory: сборник сценариевОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

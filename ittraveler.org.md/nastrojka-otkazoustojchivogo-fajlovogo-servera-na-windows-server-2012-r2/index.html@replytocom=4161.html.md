@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryПолучаем MD5 файла или переменной в PowershellПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Сброс настроек GPO на стандартныеКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
