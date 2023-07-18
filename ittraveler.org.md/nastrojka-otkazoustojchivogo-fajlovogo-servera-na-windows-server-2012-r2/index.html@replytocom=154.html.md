@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание email рассылки через PowershellПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Создание пользователей Active Directory через CSV файлАудит доменных служб Active Directory в Windows Server 2008 R2Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание email рассылки через PowershellСброс пароля администратора Active Directory
+Related posts:Настройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

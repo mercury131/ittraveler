@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFSНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Сброс настроек GPO на стандартныеПеренос базы данных Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

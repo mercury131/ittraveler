@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление схемы Active DirectoryСброс пароля администратора Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressДобавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

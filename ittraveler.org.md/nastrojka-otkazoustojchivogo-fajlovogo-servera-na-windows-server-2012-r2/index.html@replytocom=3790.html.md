@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryПеренос базы данных Active DirectoryСоздание email рассылки через Powershell
+Related posts:Перенос базы данных Active DirectoryОбновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

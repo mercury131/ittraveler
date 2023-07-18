@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАудит доменных служб Active Directory в Windows Server 2008 R2Обновление Lync 2013 до Skype for Business
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Аудит незаполненных полей в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
