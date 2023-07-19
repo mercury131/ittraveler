@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryОбновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Установка и настройка кластера MSSQL 2012.
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Автоматическая активация пользователей Lync через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

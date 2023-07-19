@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Обновление схемы Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Аудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записиУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

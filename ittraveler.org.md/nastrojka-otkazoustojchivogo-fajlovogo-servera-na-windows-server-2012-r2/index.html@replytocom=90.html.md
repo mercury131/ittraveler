@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
+Related posts:Windows WSL подключение к сетевым шарамНазначение служб для сертификатов Exchange через Powershell.Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

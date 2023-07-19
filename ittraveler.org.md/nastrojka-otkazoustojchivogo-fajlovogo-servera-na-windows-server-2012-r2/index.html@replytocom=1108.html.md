@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиПринудительная синхронизация контроллеров домена Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Сброс настроек GPO на стандартныеОбновление Lync 2013 до Skype for BusinessActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

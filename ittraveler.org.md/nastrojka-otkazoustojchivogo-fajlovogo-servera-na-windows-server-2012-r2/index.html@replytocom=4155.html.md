@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУдаление Lync Server 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Сброс настроек GPO на стандартныеАудит доменных служб Active Directory в Windows Server 2008 R2Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

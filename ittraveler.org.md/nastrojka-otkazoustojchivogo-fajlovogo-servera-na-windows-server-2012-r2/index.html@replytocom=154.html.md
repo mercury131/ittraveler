@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлАудит доменных служб Active Directory в Windows Server 2008 R2Включение корзины Active Directory
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит доменных служб Active Directory в Windows Server 2008 R2Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

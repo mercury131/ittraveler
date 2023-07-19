@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПеренос базы данных Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

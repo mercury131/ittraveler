@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Перенос базы данных Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Обновление Lync 2013 до Skype for BusinessWindows WSL подключение к сетевым шарамПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

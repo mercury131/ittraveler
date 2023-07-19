@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание индивидуальных адресных книг в Office 365 и Exchange onlineКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Установка и настройка Lync 2013Новые компьютеры не появляются на WSUS сервереУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

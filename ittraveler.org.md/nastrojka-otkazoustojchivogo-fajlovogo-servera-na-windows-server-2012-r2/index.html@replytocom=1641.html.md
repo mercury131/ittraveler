@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

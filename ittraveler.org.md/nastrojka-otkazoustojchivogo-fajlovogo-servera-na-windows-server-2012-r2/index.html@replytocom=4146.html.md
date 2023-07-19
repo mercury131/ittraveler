@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарам
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка Lync 2013Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

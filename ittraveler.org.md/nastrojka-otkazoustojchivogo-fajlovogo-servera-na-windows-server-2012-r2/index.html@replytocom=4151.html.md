@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Создание индивидуальных адресных книг в Office 365 и Exchange onlineВключение корзины Active Directory
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПеренос базы данных Active DirectoryПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

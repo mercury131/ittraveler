@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectActive Directory + Thunderbird = Общая адресная книгаАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Создание пользователей Active Directory через CSV файлДобавление UPN суффикса в Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

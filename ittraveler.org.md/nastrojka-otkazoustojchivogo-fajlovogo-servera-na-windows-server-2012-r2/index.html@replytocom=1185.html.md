@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСброс пароля администратора Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

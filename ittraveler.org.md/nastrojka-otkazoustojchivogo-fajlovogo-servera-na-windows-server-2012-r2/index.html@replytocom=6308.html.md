@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Перенос базы данных Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Восстановление объектов Active Directory: сборник сценариевАудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

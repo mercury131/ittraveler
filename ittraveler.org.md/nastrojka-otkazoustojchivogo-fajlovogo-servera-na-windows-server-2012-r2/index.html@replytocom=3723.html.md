@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Новые компьютеры не появляются на WSUS сервереСоздание пользователей Active Directory через CSV файл
+Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка Scale-Out File Server + Storage Spaces DirectПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

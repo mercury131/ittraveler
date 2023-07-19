@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Передача и захват ролей FSMOОтключение Skype UI в Lync 2013Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

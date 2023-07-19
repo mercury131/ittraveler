@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Обновление схемы Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Решаем проблему внезапной блокировки учетной записиАвтоматическая активация пользователей Lync через PowershellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

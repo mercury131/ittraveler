@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Аудит изменений групповых политик через PowerShellПеренос базы данных Active Directory
+Related posts:Установка и настройка AnsibleКак узнать WWN (World Wide Name)  в Windows Server 2012R2Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

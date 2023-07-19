@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
