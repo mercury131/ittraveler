@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка и настройка Lync 2013Установка и настройка дедупликации  на Windows Server 2012 R2Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

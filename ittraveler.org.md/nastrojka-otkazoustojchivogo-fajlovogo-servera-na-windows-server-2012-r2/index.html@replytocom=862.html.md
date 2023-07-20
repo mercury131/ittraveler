@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellActive Directory + Thunderbird = Общая адресная книгаОбновление схемы Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Новые компьютеры не появляются на WSUS сервереСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
