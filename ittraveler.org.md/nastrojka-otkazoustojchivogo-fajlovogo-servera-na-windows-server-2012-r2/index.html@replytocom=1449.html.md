@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит изменений в Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

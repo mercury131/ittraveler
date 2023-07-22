@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleУдаление Lync Server 2013Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Обновление Lync 2013 до Skype for BusinessПеренос базы данных Active DirectoryВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

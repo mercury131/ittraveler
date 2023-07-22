@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка RSAT на Windows 10 1809Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Настройка HA кластера Hyper-VПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

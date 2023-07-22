@@ -122,7 +122,7 @@ LD-MoscowHR-RW
 Учтите, без SMTP сервера отправка отчетов работать не будет.
 Если вы хотите изменить группы файлов, то это можно сделать тут:
 Создадим задачу управления файлами.
-Представим что у нас есть папка exchange. в которой пользователи обмениваются файлами.
+Представим что у нас есть папка Exchange. в которой пользователи обмениваются файлами.
 Нам нужно сделать так, чтобы раз в период данная папка очищалась, а удаленные данные перемещались в папку Temp
 Создаем задачу.
 Задаем имя задачи.
@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLПодключение к Office 365 через Powershell и зашифрованный парольОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит незаполненных полей в Active Directory через PowershellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

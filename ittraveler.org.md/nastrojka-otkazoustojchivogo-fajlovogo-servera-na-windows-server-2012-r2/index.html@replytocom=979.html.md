@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПоиск старых почтовых ящиков в Exchange 2010Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Активируем LDAP over SSLУправление репликацией Active DirectoryОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

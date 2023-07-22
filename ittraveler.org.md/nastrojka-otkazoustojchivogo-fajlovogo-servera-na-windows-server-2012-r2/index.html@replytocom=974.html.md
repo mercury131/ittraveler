@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереКак узнать WWN (World Wide Name)  в Windows Server 2012R2Отключение Skype UI в Lync 2013
+Related posts:Сброс пароля администратора Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

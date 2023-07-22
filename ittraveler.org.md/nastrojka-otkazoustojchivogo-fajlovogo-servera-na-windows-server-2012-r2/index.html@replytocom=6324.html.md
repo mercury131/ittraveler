@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит изменений в Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файлДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

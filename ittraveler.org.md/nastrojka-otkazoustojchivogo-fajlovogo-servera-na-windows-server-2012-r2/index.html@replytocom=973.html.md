@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellСброс пароля администратора Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Передача и захват ролей FSMOСоздание email рассылки через PowershellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

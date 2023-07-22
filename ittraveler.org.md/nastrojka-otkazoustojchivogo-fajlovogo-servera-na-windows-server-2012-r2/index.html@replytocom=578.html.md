@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Установка RSAT на Windows 10 1809Аудит изменений групповых политик через PowerShellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

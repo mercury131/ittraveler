@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Настройка HA кластера Hyper-VУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматический аудит компьютеров в Active Directory через powershell.Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание пользователей Active Directory через CSV файл
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVВосстановление объектов Active Directory: сборник сценариевУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

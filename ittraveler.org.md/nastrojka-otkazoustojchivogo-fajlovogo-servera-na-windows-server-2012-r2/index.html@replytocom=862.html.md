@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Удаление Lync Server 2013Новые компьютеры не появляются на WSUS сервере
+Related posts:Установка RSAT на Windows 10 1809Отключение Skype UI в Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

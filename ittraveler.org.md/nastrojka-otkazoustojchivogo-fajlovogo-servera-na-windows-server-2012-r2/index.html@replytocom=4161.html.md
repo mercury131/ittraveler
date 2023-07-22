@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellОтключение Skype UI в Lync 2013Передача и захват ролей FSMO
+Related posts:Отключение Skype UI в Lync 2013Передача и захват ролей FSMOУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLОбновление Lync 2013 до Skype for BusinessСоздание пользователей Active Directory через CSV файл
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

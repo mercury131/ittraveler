@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryУстановка RSAT на Windows 10 1809Сброс настроек GPO на стандартные
+Related posts:Создание шаблонов Zabbix для Windows.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

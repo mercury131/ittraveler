@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание шаблонов Zabbix для Windows.
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

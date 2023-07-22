@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Windows WSL подключение к сетевым шарамУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Автоматическая активация пользователей Lync через PowershellWindows WSL подключение к сетевым шарамСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
