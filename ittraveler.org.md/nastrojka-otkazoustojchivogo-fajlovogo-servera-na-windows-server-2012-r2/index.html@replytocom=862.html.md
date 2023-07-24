@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellАктивируем LDAP over SSLУстановка и настройка Ansible
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryИзменение UPN суффикса в Active Directory через PowershellСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

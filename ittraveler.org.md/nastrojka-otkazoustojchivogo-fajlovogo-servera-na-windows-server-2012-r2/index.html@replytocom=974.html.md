@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxWindows WSL подключение к сетевым шарамСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Новые компьютеры не появляются на WSUS сервереНастройка HA кластера Hyper-VСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
