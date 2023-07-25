@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереНастройка HA кластера Hyper-VСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Обновление схемы Active DirectoryДобавление UPN суффикса в Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

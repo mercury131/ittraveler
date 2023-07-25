@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Удаление Lync Server 2013Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевСброс пароля компьютера в домене без перезагрузкиАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
