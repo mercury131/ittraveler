@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellОбновление схемы Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка кластера MSSQL 2012.Включение корзины Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

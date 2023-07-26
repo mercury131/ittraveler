@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryДобавление UPN суффикса в Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Автоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

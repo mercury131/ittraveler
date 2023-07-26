@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Автоматическая активация пользователей Lync через PowershellПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Удаление Lync Server 2013Установка и настройка Lync 2013Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
