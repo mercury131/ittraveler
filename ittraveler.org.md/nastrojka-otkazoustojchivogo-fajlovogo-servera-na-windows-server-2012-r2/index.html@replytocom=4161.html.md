@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Установка и настройка Lync 2013Установка и настройка Ansible
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Управление репликацией Active DirectoryДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

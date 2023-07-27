@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Решаем проблему внезапной блокировки учетной записиАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПринудительная синхронизация контроллеров домена Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Установка и настройка Lync 2013Сброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

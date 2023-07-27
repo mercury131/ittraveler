@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLОтключение Skype UI в Lync 2013Аудит изменений групповых политик через PowerShell
+Related posts:Новые компьютеры не появляются на WSUS сервереОтключение Skype UI в Lync 2013Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка RSAT на Windows 10 1809Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

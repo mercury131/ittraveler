@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольСоздание шаблонов Zabbix для Windows.
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Автоматический аудит компьютеров в Active Directory через powershell.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУдаление Lync Server 2013
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Отключение Skype UI в Lync 2013Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

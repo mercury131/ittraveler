@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиПодключение к Office 365 через Powershell и зашифрованный парольАктивируем LDAP over SSL
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка кластера MSSQL 2012.Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

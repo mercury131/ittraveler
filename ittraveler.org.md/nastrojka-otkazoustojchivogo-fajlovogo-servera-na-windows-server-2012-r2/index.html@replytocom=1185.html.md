@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Создание пользователей Active Directory через CSV файл
+Related posts:Получаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

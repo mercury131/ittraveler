@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка RSAT на Windows 10 1809Включение корзины Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

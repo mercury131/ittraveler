@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Управление репликацией Active DirectoryВключение корзины Active Directory
+Related posts:Отключение Skype UI в Lync 2013Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

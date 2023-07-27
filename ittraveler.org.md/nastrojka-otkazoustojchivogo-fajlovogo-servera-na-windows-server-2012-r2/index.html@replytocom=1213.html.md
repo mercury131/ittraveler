@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПолучаем MD5 файла или переменной в PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка и настройка AnsibleСоздание email рассылки через PowershellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryСоздание шаблонов Zabbix для Windows.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Создание шаблонов Zabbix для Windows.Аудит доменных служб Active Directory в Windows Server 2008 R2Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

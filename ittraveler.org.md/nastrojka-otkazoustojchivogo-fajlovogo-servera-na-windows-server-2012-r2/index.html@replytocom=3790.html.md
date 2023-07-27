@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Включение корзины Active DirectoryУправление репликацией Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит DNS серверов на Windows Server 2008 R2 через PowershellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

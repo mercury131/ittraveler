@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOПоиск старых почтовых ящиков в Exchange 2010Активируем LDAP over SSL
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание шаблонов Zabbix для Windows.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
