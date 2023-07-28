@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит изменений в Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

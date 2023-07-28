@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Автоматический аудит компьютеров в Active Directory через powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Аудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариевАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

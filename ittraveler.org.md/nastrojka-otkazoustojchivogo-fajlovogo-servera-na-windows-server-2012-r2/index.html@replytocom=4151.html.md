@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Отключение Skype UI в Lync 2013Управление репликацией Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка RSAT на Windows 10 1809Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

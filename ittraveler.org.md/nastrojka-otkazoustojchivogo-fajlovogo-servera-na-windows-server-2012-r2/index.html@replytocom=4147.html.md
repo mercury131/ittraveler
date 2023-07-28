@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Настройка HA кластера Hyper-VПринудительная синхронизация Office 365 и локальной Active DirectoryОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

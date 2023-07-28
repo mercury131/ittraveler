@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Автоматический аудит компьютеров в Active Directory через powershell.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Принудительная синхронизация контроллеров домена Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

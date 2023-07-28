@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Сброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузки
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка Lync 2013Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

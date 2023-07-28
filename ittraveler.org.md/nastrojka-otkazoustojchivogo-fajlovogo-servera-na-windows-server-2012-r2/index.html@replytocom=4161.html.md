@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Управление репликацией Active DirectoryДобавление UPN суффикса в Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

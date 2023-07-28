@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание шаблонов Zabbix для Windows.Аудит изменений в Active Directory
+Related posts:Создание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

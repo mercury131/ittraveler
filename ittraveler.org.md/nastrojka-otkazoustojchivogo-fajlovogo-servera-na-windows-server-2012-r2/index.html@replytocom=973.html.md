@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Перенос базы данных Active DirectoryУстановка и настройка Lync 2013
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

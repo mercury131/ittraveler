@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит незаполненных полей в Active Directory через PowershellСоздание email рассылки через Powershell
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellВключение корзины Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

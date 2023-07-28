@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Включение корзины Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАудит доменных служб Active Directory в Windows Server 2008 R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

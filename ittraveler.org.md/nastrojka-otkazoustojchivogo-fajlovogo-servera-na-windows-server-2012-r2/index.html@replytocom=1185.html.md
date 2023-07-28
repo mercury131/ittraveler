@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Автоматическая активация пользователей Lync через PowershellActive Directory + Thunderbird = Общая адресная книгаПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
