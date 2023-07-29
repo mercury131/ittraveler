@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Восстановление объектов Active Directory: сборник сценариевОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

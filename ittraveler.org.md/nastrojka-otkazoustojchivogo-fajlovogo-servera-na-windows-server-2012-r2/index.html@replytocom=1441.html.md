@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Установка и настройка Lync 2013Добавление UPN суффикса в Active Directory
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Установка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

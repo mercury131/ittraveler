@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка Scale-Out File Server + Storage Spaces DirectАудит изменений групповых политик через PowerShell
+Related posts:Передача и захват ролей FSMOЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

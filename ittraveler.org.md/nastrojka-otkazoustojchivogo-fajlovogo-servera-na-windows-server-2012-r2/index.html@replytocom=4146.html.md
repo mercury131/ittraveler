@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryПереход на репликацию SYSVOL по DFSАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

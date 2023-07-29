@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПереход на репликацию SYSVOL по DFSКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Сброс пароля компьютера в домене без перезагрузкиActive Directory + Thunderbird = Общая адресная книгаПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

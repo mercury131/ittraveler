@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание email рассылки через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Обновление схемы Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

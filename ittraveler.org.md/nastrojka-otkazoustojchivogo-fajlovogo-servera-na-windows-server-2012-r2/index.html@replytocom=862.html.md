@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Автоматизируем бэкап баз данных MSSQL ExpressАудит незаполненных полей в Active Directory через Powershell
+Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка AlwaysOn на MS SQL 2016Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

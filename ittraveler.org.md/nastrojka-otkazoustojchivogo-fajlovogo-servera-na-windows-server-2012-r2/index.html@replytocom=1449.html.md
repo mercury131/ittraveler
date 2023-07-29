@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Восстановление объектов Active Directory: сборник сценариевПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Восстановление объектов Active Directory: сборник сценариевПереход на репликацию SYSVOL по DFSАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

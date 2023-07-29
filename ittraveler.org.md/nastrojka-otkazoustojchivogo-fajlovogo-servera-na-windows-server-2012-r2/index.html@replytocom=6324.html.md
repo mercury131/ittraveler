@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Windows WSL подключение к сетевым шарамАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

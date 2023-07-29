@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка RSAT на Windows 10 1809Аудит изменений в Active Directory
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Включение корзины Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

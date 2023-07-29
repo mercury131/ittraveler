@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShell
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАктивируем LDAP over SSLУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

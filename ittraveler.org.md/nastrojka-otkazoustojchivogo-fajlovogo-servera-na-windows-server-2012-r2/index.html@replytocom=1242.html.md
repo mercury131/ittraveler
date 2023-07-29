@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСброс пароля компьютера в домене без перезагрузкиАудит незаполненных полей в Active Directory через Powershell
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУправление репликацией Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

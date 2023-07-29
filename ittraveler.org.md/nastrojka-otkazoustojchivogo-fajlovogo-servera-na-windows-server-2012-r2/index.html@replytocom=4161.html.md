@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Активируем LDAP over SSLПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

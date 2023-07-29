@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVКак узнать WWN (World Wide Name)  в Windows Server 2012R2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

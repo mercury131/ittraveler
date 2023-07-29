@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариевАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Настройка HA кластера Hyper-VАудит изменений в Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервереУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс пароля администратора Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

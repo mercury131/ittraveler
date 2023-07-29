@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс настроек GPO на стандартные
+Related posts:Изменение UPN суффикса в Active Directory через PowershellДобавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

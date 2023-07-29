@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Настройка HA кластера Hyper-VБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка кластера MSSQL 2012.Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
