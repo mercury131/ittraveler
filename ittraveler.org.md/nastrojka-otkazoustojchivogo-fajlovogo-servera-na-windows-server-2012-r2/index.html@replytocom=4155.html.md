@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс пароля администратора Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматический аудит компьютеров в Active Directory через powershell.Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

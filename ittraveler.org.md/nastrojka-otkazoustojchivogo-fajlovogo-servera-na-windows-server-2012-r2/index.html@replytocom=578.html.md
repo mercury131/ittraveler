@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellДобавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Назначение служб для сертификатов Exchange через Powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

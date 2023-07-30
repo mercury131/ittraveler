@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Активируем LDAP over SSLПередача и захват ролей FSMO
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

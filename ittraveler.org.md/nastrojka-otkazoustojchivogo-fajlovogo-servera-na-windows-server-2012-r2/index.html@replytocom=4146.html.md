@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит изменений в Active DirectoryОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

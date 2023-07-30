@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание пользователей Active Directory через CSV файлПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Создание email рассылки через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

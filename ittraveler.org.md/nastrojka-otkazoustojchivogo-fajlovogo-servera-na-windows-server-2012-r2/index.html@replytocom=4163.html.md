@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка кластера MSSQL 2012.Active Directory + Thunderbird = Общая адресная книга
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Создание шаблонов Zabbix для Windows.Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

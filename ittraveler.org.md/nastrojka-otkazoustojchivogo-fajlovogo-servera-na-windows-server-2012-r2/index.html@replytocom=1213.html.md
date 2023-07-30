@@ -122,7 +122,7 @@ LD-MoscowHR-RW
 Учтите, без SMTP сервера отправка отчетов работать не будет.
 Если вы хотите изменить группы файлов, то это можно сделать тут:
 Создадим задачу управления файлами.
-Представим что у нас есть папка Exchange. в которой пользователи обмениваются файлами.
+Представим что у нас есть папка exchange. в которой пользователи обмениваются файлами.
 Нам нужно сделать так, чтобы раз в период данная папка очищалась, а удаленные данные перемещались в папку Temp
 Создаем задачу.
 Задаем имя задачи.
@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Active Directory + Thunderbird = Общая адресная книга
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

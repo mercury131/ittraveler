@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАктивируем LDAP over SSLУстановка и настройка Lync 2013
+Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматическая активация пользователей Lync через Powershell
+Related posts:Переход на репликацию SYSVOL по DFSКастомизация гостевых ОС Windows в KVM на примере ProxmoxПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

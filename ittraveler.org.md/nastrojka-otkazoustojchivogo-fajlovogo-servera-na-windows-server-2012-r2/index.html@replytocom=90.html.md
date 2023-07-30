@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineActive Directory + Thunderbird = Общая адресная книга
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

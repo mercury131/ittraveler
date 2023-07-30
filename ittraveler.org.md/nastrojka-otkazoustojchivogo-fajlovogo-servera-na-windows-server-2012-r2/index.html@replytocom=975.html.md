@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка кластера MSSQL 2012.Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

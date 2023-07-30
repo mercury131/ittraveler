@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Включение корзины Active DirectoryУстановка и настройка Ansible
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILКак узнать WWN (World Wide Name)  в Windows Server 2012R2Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Решаем проблему внезапной блокировки учетной записиСоздание email рассылки через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

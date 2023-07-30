@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Настройка HA кластера Hyper-VКак узнать WWN (World Wide Name)  в Windows Server 2012R2Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

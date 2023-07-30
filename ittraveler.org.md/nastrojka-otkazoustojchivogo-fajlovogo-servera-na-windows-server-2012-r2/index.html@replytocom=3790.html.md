@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTВключение корзины Active Directory
+Related posts:Активируем LDAP over SSLНастройка Kerberos авторизации в Apache2Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

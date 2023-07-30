@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVКак узнать WWN (World Wide Name)  в Windows Server 2012R2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

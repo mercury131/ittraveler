@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка AlwaysOn на MS SQL 2016Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Установка и настройка AnsibleБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

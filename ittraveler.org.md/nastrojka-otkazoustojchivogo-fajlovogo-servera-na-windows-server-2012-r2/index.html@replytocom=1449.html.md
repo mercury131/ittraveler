@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевПереход на репликацию SYSVOL по DFSАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

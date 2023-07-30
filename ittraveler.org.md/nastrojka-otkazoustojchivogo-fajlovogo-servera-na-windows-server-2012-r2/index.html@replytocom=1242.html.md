@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУправление репликацией Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПеренос базы данных Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

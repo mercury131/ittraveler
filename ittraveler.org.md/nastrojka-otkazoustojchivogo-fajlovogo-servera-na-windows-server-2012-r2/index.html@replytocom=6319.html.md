@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПеренос базы данных Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Создание email рассылки через PowershellОбновление схемы Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
