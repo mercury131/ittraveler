@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLНастройка Kerberos авторизации в Apache2Решаем проблему внезапной блокировки учетной записи
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

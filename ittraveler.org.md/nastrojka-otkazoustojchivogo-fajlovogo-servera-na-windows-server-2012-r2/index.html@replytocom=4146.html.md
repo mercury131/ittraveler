@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит изменений в Active DirectoryОбновление схемы Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryОтключение Skype UI в Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

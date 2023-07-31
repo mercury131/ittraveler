@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиСоздание email рассылки через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Active Directory + Thunderbird = Общая адресная книгаИзменение UPN суффикса в Active Directory через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

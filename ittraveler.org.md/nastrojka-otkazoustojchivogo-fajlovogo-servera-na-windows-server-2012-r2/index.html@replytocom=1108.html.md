@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013
+Related posts:Обновление схемы Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

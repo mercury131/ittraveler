@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.Windows WSL подключение к сетевым шарам
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка RSAT на Windows 10 1809Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellОбновление схемы Active DirectoryActive Directory + Thunderbird = Общая адресная книга
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

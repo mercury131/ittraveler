@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПеренос базы данных Active DirectoryСброс пароля администратора Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Lync 2013Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

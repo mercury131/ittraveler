@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

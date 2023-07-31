@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectОтключение Skype UI в Lync 2013
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание индивидуальных адресных книг в Office 365 и Exchange onlineПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Включение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

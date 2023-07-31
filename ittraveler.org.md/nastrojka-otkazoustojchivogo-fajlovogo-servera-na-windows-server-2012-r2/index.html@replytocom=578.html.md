@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Назначение служб для сертификатов Exchange через Powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Обновление Lync 2013 до Skype for BusinessРешаем проблему внезапной блокировки учетной записиУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

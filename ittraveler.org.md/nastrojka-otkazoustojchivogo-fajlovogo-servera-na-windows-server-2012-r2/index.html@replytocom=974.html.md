@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSКастомизация гостевых ОС Windows в KVM на примере ProxmoxПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПолучаем MD5 файла или переменной в PowershellАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

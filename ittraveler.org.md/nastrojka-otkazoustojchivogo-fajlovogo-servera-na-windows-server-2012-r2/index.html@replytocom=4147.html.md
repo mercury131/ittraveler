@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка кластера MSSQL 2012.Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

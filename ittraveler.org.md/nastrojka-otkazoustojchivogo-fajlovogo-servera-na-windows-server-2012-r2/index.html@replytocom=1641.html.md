@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Получаем MD5 файла или переменной в Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
