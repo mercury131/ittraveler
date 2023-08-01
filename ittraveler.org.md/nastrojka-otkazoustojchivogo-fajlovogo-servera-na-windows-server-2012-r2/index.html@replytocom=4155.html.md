@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleActive Directory + Thunderbird = Общая адресная книгаСброс пароля администратора Active Directory
+Related posts:Настройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
