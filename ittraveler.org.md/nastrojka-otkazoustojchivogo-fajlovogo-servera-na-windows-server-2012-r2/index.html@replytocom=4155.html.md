@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.Активируем LDAP over SSL
+Related posts:Активируем LDAP over SSLАудит изменений групповых политик через PowerShellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
