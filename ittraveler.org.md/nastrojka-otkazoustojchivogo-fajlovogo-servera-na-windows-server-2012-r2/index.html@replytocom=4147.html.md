@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryНовые компьютеры не появляются на WSUS сервереАудит незаполненных полей в Active Directory через Powershell
+Related posts:Отключение Skype UI в Lync 2013Управление репликацией Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
