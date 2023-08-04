@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Передача и захват ролей FSMOУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Обновление схемы Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
