@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиКастомизация гостевых ОС Windows в KVM на примере ProxmoxОбновление схемы Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryПереход на репликацию SYSVOL по DFSНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

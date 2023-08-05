@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Обновление схемы Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Переход на репликацию SYSVOL по DFSПолучаем MD5 файла или переменной в PowershellОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryПереход на репликацию SYSVOL по DFSСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматическая активация пользователей Lync через PowershellАктивируем LDAP over SSLИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

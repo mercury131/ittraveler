@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessУстановка RSAT на Windows 10 1809Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Настройка HA кластера Hyper-VНовые компьютеры не появляются на WSUS сервереУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
