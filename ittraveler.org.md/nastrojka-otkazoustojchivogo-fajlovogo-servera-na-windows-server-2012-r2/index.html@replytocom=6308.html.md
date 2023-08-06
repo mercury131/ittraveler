@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка дедупликации  на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка дедупликации  на Windows Server 2012 R2Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

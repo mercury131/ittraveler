@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryПереход на репликацию SYSVOL по DFSНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСброс пароля администратора Active DirectoryАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

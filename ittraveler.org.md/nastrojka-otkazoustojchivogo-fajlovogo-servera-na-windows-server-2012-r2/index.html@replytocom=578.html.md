@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Аудит доменных служб Active Directory в Windows Server 2008 R2Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Решаем проблему внезапной блокировки учетной записиСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

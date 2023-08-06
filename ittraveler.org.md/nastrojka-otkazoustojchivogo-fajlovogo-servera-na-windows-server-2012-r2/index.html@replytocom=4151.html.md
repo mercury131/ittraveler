@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VНовые компьютеры не появляются на WSUS сервереУдаление Lync Server 2013
+Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка кластера MSSQL 2012.Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

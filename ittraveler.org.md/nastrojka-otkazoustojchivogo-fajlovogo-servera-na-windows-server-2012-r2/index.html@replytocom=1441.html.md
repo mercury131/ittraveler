@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Активируем LDAP over SSLИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматизируем бэкап баз данных MSSQL ExpressУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

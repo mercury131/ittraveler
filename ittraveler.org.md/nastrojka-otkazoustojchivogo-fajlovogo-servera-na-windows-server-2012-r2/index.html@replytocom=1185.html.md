@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматическая активация пользователей Lync через PowershellПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПолучаем MD5 файла или переменной в PowershellУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

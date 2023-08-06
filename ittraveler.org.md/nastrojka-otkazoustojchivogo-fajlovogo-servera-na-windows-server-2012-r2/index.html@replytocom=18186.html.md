@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка AnsibleДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Добавление UPN суффикса в Active DirectoryСброс настроек GPO на стандартныеПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
