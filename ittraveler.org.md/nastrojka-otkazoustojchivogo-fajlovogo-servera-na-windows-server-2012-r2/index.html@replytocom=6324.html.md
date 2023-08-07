@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольActive Directory + Thunderbird = Общая адресная книгаКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Установка и настройка кластера MSSQL 2012.Сброс пароля компьютера в домене без перезагрузкиОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАудит изменений в Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Настройка Kerberos авторизации в Apache2Установка RSAT на Windows 10 1809Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка дедупликации  на Windows Server 2012 R2Windows WSL подключение к сетевым шарам
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание шаблонов Zabbix для Windows.Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСброс пароля администратора Active DirectoryАктивируем LDAP over SSL
+Related posts:Установка и настройка кластера MSSQL 2012.Перенос базы данных Active DirectoryНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
