@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Сброс пароля администратора Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Управление репликацией Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

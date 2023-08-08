@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Принудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSL
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПередача и захват ролей FSMOСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
