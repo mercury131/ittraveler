@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание email рассылки через PowershellСброс пароля администратора Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Автоматизируем бэкап баз данных MSSQL ExpressНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

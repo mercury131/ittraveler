@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Изменение UPN суффикса в Active Directory через PowershellПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

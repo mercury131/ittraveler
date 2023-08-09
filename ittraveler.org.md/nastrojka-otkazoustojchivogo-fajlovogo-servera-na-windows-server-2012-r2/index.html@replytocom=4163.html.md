@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryСброс настроек GPO на стандартныеУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

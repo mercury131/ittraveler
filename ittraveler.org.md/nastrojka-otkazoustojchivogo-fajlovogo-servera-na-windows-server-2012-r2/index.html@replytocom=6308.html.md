@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessНастройка Kerberos авторизации в Apache2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Установка и настройка Lync 2013Получаем MD5 файла или переменной в PowershellActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

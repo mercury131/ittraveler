@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Передача и захват ролей FSMOАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Windows WSL подключение к сетевым шарамПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит доменных служб Active Directory в Windows Server 2008 R2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

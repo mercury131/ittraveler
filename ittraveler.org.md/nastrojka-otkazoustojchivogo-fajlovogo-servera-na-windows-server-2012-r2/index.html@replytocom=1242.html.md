@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит доменных служб Active Directory в Windows Server 2008 R2Сброс настроек GPO на стандартные
+Related posts:Установка и настройка кластера MSSQL 2012.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

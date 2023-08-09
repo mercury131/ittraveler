@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Windows WSL подключение к сетевым шарам
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит изменений в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

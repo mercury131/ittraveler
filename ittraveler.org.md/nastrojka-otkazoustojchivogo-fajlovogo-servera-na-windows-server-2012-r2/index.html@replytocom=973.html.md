@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active DirectoryВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

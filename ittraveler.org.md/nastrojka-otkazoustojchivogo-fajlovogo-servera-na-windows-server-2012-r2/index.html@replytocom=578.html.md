@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLАудит изменений в Active DirectoryПеренос базы данных Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

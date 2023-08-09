@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация контроллеров домена Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Аудит изменений групповых политик через PowerShellActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
