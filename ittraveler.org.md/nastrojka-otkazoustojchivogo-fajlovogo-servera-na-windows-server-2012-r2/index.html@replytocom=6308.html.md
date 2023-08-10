@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Получаем MD5 файла или переменной в PowershellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Обновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

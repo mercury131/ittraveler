@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка кластера MSSQL 2012.
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание email рассылки через PowershellНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

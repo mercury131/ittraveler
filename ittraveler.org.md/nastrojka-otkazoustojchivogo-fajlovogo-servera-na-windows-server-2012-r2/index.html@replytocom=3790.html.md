@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит изменений в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Активируем LDAP over SSLПеренос базы данных Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

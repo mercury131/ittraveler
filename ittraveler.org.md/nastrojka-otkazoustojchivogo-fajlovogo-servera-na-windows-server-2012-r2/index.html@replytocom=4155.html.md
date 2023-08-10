@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка RSAT на Windows 10 1809Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка Lync 2013Переход на репликацию SYSVOL по DFSОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

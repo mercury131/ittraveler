@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Удаление Lync Server 2013
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка AnsibleПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
