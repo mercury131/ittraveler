@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Установка и настройка AlwaysOn на MS SQL 2016Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Создание email рассылки через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

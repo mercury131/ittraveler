@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записи
+Related posts:Создание email рассылки через PowershellРешаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

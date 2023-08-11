@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Lync 2013
+Related posts:Windows WSL подключение к сетевым шарамВосстановление объектов Active Directory: сборник сценариевПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУстановка RSAT на Windows 10 1809Active Directory + Thunderbird = Общая адресная книга
+Related posts:Установка и настройка кластера MSSQL 2012.Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматизируем бэкап баз данных MSSQL ExpressАудит изменений групповых политик через PowerShell
+Related posts:Обновление Lync 2013 до Skype for BusinessWindows WSL подключение к сетевым шарамУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

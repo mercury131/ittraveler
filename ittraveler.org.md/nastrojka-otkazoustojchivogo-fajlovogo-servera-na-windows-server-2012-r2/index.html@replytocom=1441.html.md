@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellАудит доменных служб Active Directory в Windows Server 2008 R2Сброс настроек GPO на стандартные
+Related posts:Переход на репликацию SYSVOL по DFSАктивируем LDAP over SSLНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
