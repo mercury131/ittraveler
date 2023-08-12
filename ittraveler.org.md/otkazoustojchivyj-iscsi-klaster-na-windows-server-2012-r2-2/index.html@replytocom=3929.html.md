@@ -55,7 +55,7 @@
 Готово! Теперь указанные клиенты могут подключаться к кластеру ISCSI. Для подключения нужно использовать dns имя кластера.
 Удачной установки!
  
-Related posts:Отключение Skype UI в Lync 2013Создание email рассылки через PowershellПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевНастройка отказоустойчивого файлового сервера на Windows Server 2012 R2Автоматическая активация пользователей Lync через Powershell
         
              Windows, Windows Server 
              Метки: Cluster, ISCSI, Windows Server  
