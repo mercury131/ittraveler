@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellАудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записи
+Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка AnsibleСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

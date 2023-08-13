@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryАудит изменений в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАктивируем LDAP over SSLАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

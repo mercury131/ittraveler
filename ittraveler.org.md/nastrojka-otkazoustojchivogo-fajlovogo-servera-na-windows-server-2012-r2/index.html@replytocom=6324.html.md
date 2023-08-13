@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellWindows WSL подключение к сетевым шарамАктивируем LDAP over SSL
+Related posts:Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFSПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
