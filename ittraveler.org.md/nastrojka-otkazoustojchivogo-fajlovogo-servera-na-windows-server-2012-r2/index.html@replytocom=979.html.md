@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Аудит доменных служб Active Directory в Windows Server 2008 R2Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Включение корзины Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

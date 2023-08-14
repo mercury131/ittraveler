@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Управление репликацией Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Добавление почтовых контактов в Office 365 через Powershell и CSVWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка кластера MSSQL 2012.Решаем проблему внезапной блокировки учетной записи
+Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений в Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryНовые компьютеры не появляются на WSUS сервереАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Поиск старых почтовых ящиков в Exchange 2010Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTИзменение UPN суффикса в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

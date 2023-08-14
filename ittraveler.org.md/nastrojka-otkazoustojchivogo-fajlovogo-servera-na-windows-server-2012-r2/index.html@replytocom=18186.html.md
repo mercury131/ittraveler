@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлАудит изменений в Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Scale-Out File Server + Storage Spaces DirectПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

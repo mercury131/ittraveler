@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольОбновление Lync 2013 до Skype for BusinessВключение корзины Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка кластера MSSQL 2012.Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Активируем LDAP over SSLАвтоматическая активация пользователей Lync через Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Добавление UPN суффикса в Active DirectoryПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

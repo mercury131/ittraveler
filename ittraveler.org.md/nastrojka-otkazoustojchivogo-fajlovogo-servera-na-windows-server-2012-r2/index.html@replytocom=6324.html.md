@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFSПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

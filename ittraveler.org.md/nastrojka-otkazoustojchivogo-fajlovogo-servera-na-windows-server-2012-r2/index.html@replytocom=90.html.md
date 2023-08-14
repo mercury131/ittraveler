@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Новые компьютеры не появляются на WSUS сервере
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматическая активация пользователей Lync через PowershellАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
