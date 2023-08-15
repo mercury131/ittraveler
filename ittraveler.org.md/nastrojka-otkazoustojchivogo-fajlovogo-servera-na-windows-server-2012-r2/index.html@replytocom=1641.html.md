@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Поиск старых почтовых ящиков в Exchange 2010Создание пользователей Active Directory через CSV файл
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Получаем MD5 файла или переменной в PowershellАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

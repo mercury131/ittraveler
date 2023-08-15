@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПередача и захват ролей FSMOПеренос базы данных Active Directory
+Related posts:Сброс пароля администратора Active DirectoryWindows WSL подключение к сетевым шарамПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

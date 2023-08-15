@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTИзменение UPN суффикса в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
+Related posts:Восстановление объектов Active Directory: сборник сценариевКак узнать WWN (World Wide Name)  в Windows Server 2012R2Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

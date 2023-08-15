@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Создание пользователей Active Directory через CSV файл
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

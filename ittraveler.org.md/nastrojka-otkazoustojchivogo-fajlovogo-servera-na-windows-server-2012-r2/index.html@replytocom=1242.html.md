@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка RSAT на Windows 10 1809
+Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка AlwaysOn на MS SQL 2016Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

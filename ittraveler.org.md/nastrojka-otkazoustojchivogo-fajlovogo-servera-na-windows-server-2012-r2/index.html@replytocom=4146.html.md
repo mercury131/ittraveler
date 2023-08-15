@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Поиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
