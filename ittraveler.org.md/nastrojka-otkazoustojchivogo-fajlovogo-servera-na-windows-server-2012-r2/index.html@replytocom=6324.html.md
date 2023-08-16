@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервереОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Отключение Skype UI в Lync 2013Удаление Lync Server 2013Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

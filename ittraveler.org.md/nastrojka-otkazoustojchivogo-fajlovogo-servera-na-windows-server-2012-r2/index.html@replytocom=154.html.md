@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellУстановка RSAT на Windows 10 1809Переход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка Lync 2013Создание email рассылки через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

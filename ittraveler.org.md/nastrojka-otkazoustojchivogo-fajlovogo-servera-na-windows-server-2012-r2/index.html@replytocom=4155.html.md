@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VПринудительная синхронизация контроллеров домена Active DirectoryВключение корзины Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

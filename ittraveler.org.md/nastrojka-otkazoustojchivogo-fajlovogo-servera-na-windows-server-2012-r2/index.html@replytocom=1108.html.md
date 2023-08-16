@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевКак узнать WWN (World Wide Name)  в Windows Server 2012R2Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Удаление Lync Server 2013Управление репликацией Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

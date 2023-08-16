@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryНастройка HA кластера Hyper-VПеренос базы данных Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереОбновление Lync 2013 до Skype for BusinessУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

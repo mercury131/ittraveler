@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleПолучаем MD5 файла или переменной в PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Автоматическая активация пользователей Lync через PowershellОтключение Skype UI в Lync 2013Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

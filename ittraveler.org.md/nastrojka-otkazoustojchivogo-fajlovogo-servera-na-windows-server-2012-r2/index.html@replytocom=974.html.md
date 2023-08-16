@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Включение корзины Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Решаем проблему внезапной блокировки учетной записиНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

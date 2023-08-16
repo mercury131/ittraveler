@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Получаем MD5 файла или переменной в PowershellАктивируем LDAP over SSL
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSLАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

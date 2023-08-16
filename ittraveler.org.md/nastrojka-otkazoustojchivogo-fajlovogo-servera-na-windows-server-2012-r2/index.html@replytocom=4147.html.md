@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryНастройка HA кластера Hyper-VСоздание email рассылки через Powershell
+Related posts:Автоматическая активация пользователей Lync через PowershellПередача и захват ролей FSMOВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

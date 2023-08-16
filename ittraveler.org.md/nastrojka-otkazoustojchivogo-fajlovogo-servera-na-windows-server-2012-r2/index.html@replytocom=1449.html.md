@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Изменение UPN суффикса в Active Directory через PowershellДобавление UPN суффикса в Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевАудит незаполненных полей в Active Directory через PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

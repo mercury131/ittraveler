@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLСброс пароля администратора Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Удаление Lync Server 2013Настройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
