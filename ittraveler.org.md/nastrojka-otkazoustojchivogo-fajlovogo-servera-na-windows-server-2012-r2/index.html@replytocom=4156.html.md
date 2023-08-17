@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит DNS серверов на Windows Server 2008 R2 через PowershellПереход на репликацию SYSVOL по DFS
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПолучаем MD5 файла или переменной в PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

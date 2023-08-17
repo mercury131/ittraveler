@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСоздание шаблонов Zabbix для Windows.Новые компьютеры не появляются на WSUS сервере
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка дедупликации  на Windows Server 2012 R2Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСоздание шаблонов Zabbix для Windows.Сброс пароля администратора Active Directory
+Related posts:Установка и настройка Lync 2013Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

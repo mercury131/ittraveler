@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryУдаление Lync Server 2013Установка и настройка Lync 2013
+Related posts:Аудит незаполненных полей в Active Directory через PowershellСоздание шаблонов Zabbix для Windows.Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

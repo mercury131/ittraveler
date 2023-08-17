@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Установка RSAT на Windows 10 1809Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Создание email рассылки через PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

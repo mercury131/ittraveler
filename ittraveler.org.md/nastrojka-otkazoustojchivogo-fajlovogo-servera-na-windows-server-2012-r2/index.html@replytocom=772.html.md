@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Установка и настройка кластера MSSQL 2012.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Назначение служб для сертификатов Exchange через Powershell.Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

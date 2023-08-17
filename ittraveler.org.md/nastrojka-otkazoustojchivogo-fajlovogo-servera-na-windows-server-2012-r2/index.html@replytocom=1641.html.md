@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSLАудит изменений групповых политик через PowerShell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Создание шаблонов Zabbix для Windows.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Настройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Сброс настроек GPO на стандартныеПринудительная синхронизация Office 365 и локальной Active DirectoryАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

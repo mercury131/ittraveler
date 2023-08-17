@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс пароля компьютера в домене без перезагрузки
+Related posts:Active Directory + Thunderbird = Общая адресная книгаОтключение Skype UI в Lync 2013Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

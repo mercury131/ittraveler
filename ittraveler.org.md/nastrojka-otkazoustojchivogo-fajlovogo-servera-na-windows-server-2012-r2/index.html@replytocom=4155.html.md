@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений групповых политик через PowerShell
+Related posts:Передача и захват ролей FSMOУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

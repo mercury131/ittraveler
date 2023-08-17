@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиПоиск старых почтовых ящиков в Exchange 2010Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Включение корзины Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

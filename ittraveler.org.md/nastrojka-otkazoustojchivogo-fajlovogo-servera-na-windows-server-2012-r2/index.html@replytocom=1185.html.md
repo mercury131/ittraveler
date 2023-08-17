@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellОтключение Skype UI в Lync 2013Обновление Lync 2013 до Skype for Business
+Related posts:Создание шаблонов Zabbix для Windows.Обновление Lync 2013 до Skype for BusinessВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

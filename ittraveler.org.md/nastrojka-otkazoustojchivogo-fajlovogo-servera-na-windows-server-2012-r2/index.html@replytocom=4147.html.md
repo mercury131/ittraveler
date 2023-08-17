@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellПередача и захват ролей FSMOВключение корзины Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлАудит DNS серверов на Windows Server 2008 R2 через PowershellРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

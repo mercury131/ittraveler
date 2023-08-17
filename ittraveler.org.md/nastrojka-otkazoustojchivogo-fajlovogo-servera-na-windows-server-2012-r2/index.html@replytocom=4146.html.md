@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSУдаление Lync Server 2013Включение корзины Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

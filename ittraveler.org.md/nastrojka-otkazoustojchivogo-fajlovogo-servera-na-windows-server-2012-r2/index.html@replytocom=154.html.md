@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Создание email рассылки через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Установка и настройка AnsibleСброс пароля компьютера в домене без перезагрузкиАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
