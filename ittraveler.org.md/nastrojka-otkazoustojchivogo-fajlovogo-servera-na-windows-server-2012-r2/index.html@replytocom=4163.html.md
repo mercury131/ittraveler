@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеСоздание пользователей Active Directory через CSV файлСброс пароля администратора Active Directory
+Related posts:Переход на репликацию SYSVOL по DFSАвтоматическая активация пользователей Lync через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellАктивируем LDAP over SSLСоздание email рассылки через Powershell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Перенос базы данных Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Добавление почтовых контактов в Office 365 через Powershell и CSVПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Установка и настройка AnsibleАудит DNS серверов на Windows Server 2008 R2 через PowershellИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
