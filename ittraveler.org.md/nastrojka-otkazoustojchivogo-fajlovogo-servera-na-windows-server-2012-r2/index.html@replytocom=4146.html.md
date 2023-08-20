@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит незаполненных полей в Active Directory через PowershellПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка AlwaysOn на MS SQL 2016Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

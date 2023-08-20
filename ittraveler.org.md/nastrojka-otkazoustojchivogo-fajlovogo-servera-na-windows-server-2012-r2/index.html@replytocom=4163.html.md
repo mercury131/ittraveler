@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSАвтоматическая активация пользователей Lync через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

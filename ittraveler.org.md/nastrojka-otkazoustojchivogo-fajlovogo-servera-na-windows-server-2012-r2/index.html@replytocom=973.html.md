@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryАудит незаполненных полей в Active Directory через PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Обновление Lync 2013 до Skype for BusinessНастройка Kerberos авторизации в Apache2Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

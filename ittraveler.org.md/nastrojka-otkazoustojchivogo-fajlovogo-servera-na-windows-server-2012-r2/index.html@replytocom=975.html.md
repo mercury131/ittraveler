@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOПеренос базы данных Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Восстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
