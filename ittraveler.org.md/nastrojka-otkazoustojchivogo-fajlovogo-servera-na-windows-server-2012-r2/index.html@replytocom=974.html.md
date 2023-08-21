@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание email рассылки через PowershellСброс пароля компьютера в домене без перезагрузки
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПоиск старых почтовых ящиков в Exchange 2010Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

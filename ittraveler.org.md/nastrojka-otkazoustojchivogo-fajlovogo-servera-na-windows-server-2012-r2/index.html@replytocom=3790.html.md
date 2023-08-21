@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellСоздание email рассылки через PowershellАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Сброс пароля администратора Active DirectoryПередача и захват ролей FSMOWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

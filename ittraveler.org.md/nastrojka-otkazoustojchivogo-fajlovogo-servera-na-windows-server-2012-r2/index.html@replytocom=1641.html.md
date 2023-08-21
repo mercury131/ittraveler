@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Создание индивидуальных адресных книг в Office 365 и Exchange onlineКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Решаем проблему внезапной блокировки учетной записиАудит изменений групповых политик через PowerShellУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

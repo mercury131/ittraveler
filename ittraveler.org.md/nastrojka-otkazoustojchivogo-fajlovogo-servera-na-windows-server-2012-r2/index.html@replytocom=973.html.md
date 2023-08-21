@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessНастройка Kerberos авторизации в Apache2Удаление Lync Server 2013
+Related posts:Решаем проблему внезапной блокировки учетной записиОтключение Skype UI в Lync 2013Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

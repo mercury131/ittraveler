@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Отключение Skype UI в Lync 2013Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Сброс пароля администратора Active DirectoryВключение корзины Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

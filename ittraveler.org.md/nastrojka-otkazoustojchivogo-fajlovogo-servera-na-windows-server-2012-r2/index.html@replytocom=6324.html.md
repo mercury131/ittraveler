@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПолучаем MD5 файла или переменной в PowershellWindows WSL подключение к сетевым шарам
+Related posts:Обновление Lync 2013 до Skype for BusinessУстановка и настройка AlwaysOn на MS SQL 2016Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

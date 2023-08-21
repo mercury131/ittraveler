@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиСброс пароля администратора Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Активируем LDAP over SSLСоздание шаблонов Zabbix для Windows.Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
