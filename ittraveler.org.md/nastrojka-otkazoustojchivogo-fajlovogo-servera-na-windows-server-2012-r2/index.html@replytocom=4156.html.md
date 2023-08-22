@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Сброс пароля администратора Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание пользователей Active Directory через CSV файлУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

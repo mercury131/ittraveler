@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПоиск старых почтовых ящиков в Exchange 2010Включение корзины Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВключение корзины Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

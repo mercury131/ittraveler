@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание email рассылки через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереПринудительная синхронизация Office 365 и локальной Active DirectoryСброс настроек GPO на стандартные
+Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка Scale-Out File Server + Storage Spaces DirectСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

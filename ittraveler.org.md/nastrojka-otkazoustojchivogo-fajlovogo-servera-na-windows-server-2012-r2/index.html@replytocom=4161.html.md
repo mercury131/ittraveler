@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПринудительная синхронизация контроллеров домена Active DirectoryПередача и захват ролей FSMO
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

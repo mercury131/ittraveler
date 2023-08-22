@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Сброс пароля администратора Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНастройка Kerberos авторизации в Apache2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

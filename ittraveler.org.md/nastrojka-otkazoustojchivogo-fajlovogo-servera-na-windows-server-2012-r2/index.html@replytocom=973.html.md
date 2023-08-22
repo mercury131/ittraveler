@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиОтключение Skype UI в Lync 2013Установка и настройка кластера MSSQL 2012.
+Related posts:Удаление Lync Server 2013Получаем MD5 файла или переменной в PowershellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

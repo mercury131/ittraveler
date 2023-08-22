@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLСоздание шаблонов Zabbix для Windows.Получаем MD5 файла или переменной в Powershell
+Related posts:Добавление UPN суффикса в Active DirectoryУправление репликацией Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

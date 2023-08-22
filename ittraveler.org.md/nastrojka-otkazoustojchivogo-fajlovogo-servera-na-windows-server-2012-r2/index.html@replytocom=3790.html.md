@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryПередача и захват ролей FSMOWindows WSL подключение к сетевым шарам
+Related posts:Обновление схемы Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
