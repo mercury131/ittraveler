@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка Kerberos авторизации в Apache2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

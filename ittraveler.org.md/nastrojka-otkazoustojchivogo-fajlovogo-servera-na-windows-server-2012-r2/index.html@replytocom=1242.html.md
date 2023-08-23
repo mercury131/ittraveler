@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка Kerberos авторизации в Apache2Перенос базы данных Active Directory
+Related posts:Отключение Skype UI в Lync 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

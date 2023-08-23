@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryСоздание пользователей Active Directory через CSV файлУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Активируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

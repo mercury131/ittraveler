@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНастройка HA кластера Hyper-VПеренос базы данных Active Directory
+Related posts:Обновление схемы Active DirectoryПеренос базы данных Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

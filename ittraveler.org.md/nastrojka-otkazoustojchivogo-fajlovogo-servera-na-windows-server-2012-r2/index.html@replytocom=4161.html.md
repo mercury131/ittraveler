@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Ansible
+Related posts:Настройка HA кластера Hyper-VКак узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

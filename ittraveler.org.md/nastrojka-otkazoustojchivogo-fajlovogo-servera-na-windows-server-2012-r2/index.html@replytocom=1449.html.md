@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУправление репликацией Active Directory
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНазначение служб для сертификатов Exchange через Powershell.Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВключение корзины Active DirectoryСброс настроек GPO на стандартные
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка AlwaysOn на MS SQL 2016Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

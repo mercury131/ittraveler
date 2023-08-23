@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка Scale-Out File Server + Storage Spaces DirectСоздание email рассылки через Powershell
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

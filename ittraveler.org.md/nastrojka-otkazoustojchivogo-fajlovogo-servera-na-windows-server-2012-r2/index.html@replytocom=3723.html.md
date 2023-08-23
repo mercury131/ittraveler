@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка Lync 2013Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

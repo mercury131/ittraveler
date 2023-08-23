@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Lync 2013
+Related posts:Новые компьютеры не появляются на WSUS сервереУправление репликацией Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

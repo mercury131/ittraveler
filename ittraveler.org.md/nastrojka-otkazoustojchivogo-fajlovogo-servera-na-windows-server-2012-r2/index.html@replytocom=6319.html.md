@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервереПереход на репликацию SYSVOL по DFS
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Обновление Lync 2013 до Skype for BusinessУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
