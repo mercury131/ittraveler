@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка кластера MSSQL 2012.
+Related posts:Обновление Lync 2013 до Skype for BusinessПоиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

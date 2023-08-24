@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиАудит доменных служб Active Directory в Windows Server 2008 R2Автоматическая активация пользователей Lync через Powershell
+Related posts:Получаем MD5 файла или переменной в PowershellПередача и захват ролей FSMOПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

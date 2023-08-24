@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Обновление схемы Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Аудит изменений в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

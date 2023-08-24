@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНазначение служб для сертификатов Exchange через Powershell.Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Отключение Skype UI в Lync 2013Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевУдаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАктивируем LDAP over SSLПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

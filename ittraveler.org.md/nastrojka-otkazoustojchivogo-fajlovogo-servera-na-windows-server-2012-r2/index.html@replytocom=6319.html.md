@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Обновление Lync 2013 до Skype for BusinessУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Принудительная синхронизация контроллеров домена Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

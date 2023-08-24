@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка AlwaysOn на MS SQL 2016Добавление UPN суффикса в Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка AlwaysOn на MS SQL 2016Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

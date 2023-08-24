@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleПолучаем MD5 файла или переменной в PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Установка и настройка AnsibleСоздание пользователей Active Directory через CSV файлВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

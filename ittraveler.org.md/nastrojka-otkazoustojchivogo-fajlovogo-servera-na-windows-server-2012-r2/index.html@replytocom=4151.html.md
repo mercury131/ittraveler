@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Получаем MD5 файла или переменной в PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

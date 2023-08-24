@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка Kerberos авторизации в Apache2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

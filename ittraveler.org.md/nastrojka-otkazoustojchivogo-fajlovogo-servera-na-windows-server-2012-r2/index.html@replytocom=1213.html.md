@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка RSAT на Windows 10 1809Отключение Skype UI в Lync 2013Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOАктивируем LDAP over SSLИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Установка и настройка AnsibleДобавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

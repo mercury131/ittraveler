@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILВосстановление объектов Active Directory: сборник сценариевПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

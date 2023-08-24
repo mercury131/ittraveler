@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Автоматический аудит компьютеров в Active Directory через powershell.Сброс пароля компьютера в домене без перезагрузки
+Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка AlwaysOn на MS SQL 2016Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

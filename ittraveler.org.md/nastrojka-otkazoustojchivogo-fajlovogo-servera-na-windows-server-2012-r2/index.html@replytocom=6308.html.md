@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПринудительная синхронизация контроллеров домена Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Аудит изменений групповых политик через PowerShellНазначение служб для сертификатов Exchange через Powershell.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

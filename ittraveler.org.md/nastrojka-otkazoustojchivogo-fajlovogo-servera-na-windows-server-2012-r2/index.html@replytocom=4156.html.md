@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание пользователей Active Directory через CSV файлУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Сброс настроек GPO на стандартныеУправление репликацией Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
