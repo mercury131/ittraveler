@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange onlineWindows WSL подключение к сетевым шарам
+Related posts:Установка и настройка кластера MSSQL 2012.Сброс пароля компьютера в домене без перезагрузкиРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

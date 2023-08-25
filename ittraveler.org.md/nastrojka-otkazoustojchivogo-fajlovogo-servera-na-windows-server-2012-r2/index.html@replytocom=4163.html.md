@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessПоиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMO
+Related posts:Изменение UPN суффикса в Active Directory через PowershellWindows WSL подключение к сетевым шарамЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАктивируем LDAP over SSLПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

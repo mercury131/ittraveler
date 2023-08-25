@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Переход на репликацию SYSVOL по DFS
+Related posts:Windows WSL подключение к сетевым шарамУправление репликацией Active DirectoryУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

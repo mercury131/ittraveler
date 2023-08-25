@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка AlwaysOn на MS SQL 2016Создание пользователей Active Directory через CSV файл
+Related posts:Аудит изменений групповых политик через PowerShellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

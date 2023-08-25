@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПеренос базы данных Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Новые компьютеры не появляются на WSUS сервереКастомизация гостевых ОС Windows в KVM на примере ProxmoxWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

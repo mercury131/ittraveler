@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellНазначение служб для сертификатов Exchange через Powershell.Перенос базы данных Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellСброс настроек GPO на стандартныеОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

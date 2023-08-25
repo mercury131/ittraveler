@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевПередача и захват ролей FSMOАудит изменений групповых политик через PowerShell
+Related posts:Удаление Lync Server 2013Установка и настройка AnsibleАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

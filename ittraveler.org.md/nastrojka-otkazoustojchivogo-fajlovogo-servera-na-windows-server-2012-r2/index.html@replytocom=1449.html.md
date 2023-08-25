@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Отключение Skype UI в Lync 2013Обновление Lync 2013 до Skype for Business
+Related posts:Восстановление объектов Active Directory: сборник сценариевОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

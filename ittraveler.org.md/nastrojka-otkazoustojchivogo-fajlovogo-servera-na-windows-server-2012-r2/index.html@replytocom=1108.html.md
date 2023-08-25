@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка дедупликации  на Windows Server 2012 R2Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

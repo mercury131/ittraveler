@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПередача и захват ролей FSMOПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс пароля администратора Active DirectoryАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleДобавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Аудит изменений в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

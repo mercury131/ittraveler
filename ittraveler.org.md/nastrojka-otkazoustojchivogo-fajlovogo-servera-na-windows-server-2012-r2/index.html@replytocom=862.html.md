@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка AlwaysOn на MS SQL 2016Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание шаблонов Zabbix для Windows.Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

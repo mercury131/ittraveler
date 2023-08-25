@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleСоздание пользователей Active Directory через CSV файлВключение корзины Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка дедупликации  на Windows Server 2012 R2Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
