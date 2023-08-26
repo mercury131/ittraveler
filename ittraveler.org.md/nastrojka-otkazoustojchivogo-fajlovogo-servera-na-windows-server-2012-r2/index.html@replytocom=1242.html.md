@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереСброс пароля компьютера в домене без перезагрузкиОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Установка и настройка Lync 2013Восстановление объектов Active Directory: сборник сценариевActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

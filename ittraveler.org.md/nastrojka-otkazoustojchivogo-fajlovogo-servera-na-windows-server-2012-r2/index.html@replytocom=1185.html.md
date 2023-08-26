@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Добавление UPN суффикса в Active DirectoryВключение корзины Active Directory
+Related posts:Сброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSVОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

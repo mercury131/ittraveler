@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит незаполненных полей в Active Directory через PowershellПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСброс настроек GPO на стандартныеНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

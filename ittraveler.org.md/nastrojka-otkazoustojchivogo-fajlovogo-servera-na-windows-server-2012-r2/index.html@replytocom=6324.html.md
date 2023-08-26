@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryУстановка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.
+Related posts:Удаление Lync Server 2013Автоматизируем бэкап баз данных MSSQL ExpressWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс пароля администратора Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Удаление Lync Server 2013Создание пользователей Active Directory через CSV файлУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

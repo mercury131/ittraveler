@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Получаем MD5 файла или переменной в PowershellСоздание email рассылки через Powershell
+Related posts:Установка RSAT на Windows 10 1809Получаем MD5 файла или переменной в PowershellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
