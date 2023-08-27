@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация Office 365 и локальной Active DirectoryДобавление UPN суффикса в Active Directory
+Related posts:Отключение Skype UI в Lync 2013Подключение к Office 365 через Powershell и зашифрованный парольВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

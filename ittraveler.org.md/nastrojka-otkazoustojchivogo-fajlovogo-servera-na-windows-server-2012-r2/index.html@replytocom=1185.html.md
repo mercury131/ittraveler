@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSVОтключение Skype UI в Lync 2013
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка Lync 2013Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

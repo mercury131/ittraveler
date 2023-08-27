@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryОбновление схемы Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Установка RSAT на Windows 10 1809Принудительная синхронизация Office 365 и локальной Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

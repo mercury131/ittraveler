@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Создание пользователей Active Directory через CSV файлУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Создание пользователей Active Directory через CSV файлСоздание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

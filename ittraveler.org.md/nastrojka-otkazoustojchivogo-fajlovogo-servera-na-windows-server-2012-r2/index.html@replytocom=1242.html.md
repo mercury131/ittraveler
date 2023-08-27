@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Восстановление объектов Active Directory: сборник сценариевActive Directory + Thunderbird = Общая адресная книга
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
