@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Принудительная синхронизация Office 365 и локальной Active DirectoryСброс настроек GPO на стандартные
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Сброс настроек GPO на стандартныеПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

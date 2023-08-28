@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Ansible
+Related posts:Перенос базы данных Active DirectoryНовые компьютеры не появляются на WSUS сервереДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

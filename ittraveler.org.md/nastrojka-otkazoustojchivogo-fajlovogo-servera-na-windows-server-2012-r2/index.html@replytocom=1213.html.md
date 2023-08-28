@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Активируем LDAP over SSLИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Решаем проблему внезапной блокировки учетной записиActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

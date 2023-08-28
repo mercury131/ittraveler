@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryАудит изменений групповых политик через PowerShellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Включение корзины Active DirectoryАудит изменений в Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

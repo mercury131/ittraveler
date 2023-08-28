@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryПеренос базы данных Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Добавление UPN суффикса в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

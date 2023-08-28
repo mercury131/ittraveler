@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание пользователей Active Directory через CSV файл
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTРешаем проблему внезапной блокировки учетной записиНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

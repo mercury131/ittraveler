@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольВключение корзины Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка Lync 2013Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
