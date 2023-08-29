@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПринудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSL
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПодключение к Office 365 через Powershell и зашифрованный парольПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

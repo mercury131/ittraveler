@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryСоздание пользователей Active Directory через CSV файлВосстановление объектов Active Directory: сборник сценариев
+Related posts:Удаление Lync Server 2013Создание email рассылки через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

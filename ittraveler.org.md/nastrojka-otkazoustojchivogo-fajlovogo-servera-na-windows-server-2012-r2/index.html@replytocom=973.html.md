@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Windows WSL подключение к сетевым шарамПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Перенос базы данных Active DirectoryДобавление UPN суффикса в Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
