@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит DNS серверов на Windows Server 2008 R2 через PowershellУдаление Lync Server 2013
+Related posts:Восстановление объектов Active Directory: сборник сценариевActive Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

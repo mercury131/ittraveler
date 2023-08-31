@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Обновление Lync 2013 до Skype for BusinessУстановка и настройка кластера MSSQL 2012.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСброс настроек GPO на стандартныеActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

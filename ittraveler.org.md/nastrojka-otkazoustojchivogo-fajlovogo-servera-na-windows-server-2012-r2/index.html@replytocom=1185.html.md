@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Создание пользователей Active Directory через CSV файл
+Related posts:Создание email рассылки через PowershellУдаление Lync Server 2013Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Аудит DNS серверов на Windows Server 2008 R2 через PowershellУправление репликацией Active Directory
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание шаблонов Zabbix для Windows.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

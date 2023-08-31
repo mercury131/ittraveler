@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Настройка Kerberos авторизации в Apache2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

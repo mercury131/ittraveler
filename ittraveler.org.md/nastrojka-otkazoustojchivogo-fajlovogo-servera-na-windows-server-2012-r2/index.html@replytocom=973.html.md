@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Windows WSL подключение к сетевым шарамНастройка HA кластера Hyper-V
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

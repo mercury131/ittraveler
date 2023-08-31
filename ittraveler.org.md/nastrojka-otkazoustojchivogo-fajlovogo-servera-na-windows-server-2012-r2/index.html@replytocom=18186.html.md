@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Передача и захват ролей FSMOОбновление схемы Active Directory
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка дедупликации  на Windows Server 2012 R2Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

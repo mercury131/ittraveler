@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУдаление Lync Server 2013Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка AnsibleАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

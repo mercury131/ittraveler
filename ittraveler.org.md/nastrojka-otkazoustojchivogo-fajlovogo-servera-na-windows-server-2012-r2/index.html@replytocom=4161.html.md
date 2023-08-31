@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка Scale-Out File Server + Storage Spaces DirectСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлWindows WSL подключение к сетевым шарамДобавление UPN суффикса в Active Directory
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessУдаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

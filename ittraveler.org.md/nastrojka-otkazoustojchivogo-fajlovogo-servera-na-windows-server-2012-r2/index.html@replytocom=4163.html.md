@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLСоздание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание пользователей Active Directory через CSV файл
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка дедупликации  на Windows Server 2012 R2Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

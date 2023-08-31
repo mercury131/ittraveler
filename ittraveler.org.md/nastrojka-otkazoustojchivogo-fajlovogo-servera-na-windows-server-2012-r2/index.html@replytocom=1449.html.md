@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлДобавление почтовых контактов в Office 365 через Powershell и CSVПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Аудит изменений в Active DirectoryДобавление UPN суффикса в Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

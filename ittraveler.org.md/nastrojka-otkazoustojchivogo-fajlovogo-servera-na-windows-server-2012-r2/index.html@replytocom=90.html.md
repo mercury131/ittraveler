@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольВосстановление объектов Active Directory: сборник сценариевАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

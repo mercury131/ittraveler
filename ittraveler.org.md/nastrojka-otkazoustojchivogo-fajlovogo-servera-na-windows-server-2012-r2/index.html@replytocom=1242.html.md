@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSОтключение Skype UI в Lync 2013Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений в Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

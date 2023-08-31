@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VИзменение UPN суффикса в Active Directory через PowershellСброс пароля компьютера в домене без перезагрузки
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПринудительная синхронизация контроллеров домена Active DirectoryПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
