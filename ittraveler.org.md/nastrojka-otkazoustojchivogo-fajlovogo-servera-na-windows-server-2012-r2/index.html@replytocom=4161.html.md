@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка Scale-Out File Server + Storage Spaces DirectСброс пароля администратора Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлАктивируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

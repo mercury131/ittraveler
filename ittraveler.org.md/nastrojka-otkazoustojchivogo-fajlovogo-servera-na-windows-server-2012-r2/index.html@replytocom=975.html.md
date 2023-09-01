@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellНовые компьютеры не появляются на WSUS сервереПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Отключение Skype UI в Lync 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
