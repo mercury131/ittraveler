@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка растянутого кластера (stretch-cluster) на Windows server 2016Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

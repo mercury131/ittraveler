@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПоиск старых почтовых ящиков в Exchange 2010Аудит изменений в Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

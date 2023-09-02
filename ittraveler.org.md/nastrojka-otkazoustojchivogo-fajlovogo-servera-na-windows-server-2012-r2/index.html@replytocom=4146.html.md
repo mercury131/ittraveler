@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Перенос базы данных Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Перенос базы данных Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

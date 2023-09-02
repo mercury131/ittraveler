@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineНазначение служб для сертификатов Exchange через Powershell.Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

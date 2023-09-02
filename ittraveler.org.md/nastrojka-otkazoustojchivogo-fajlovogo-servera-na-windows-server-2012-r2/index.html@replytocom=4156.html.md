@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлПередача и захват ролей FSMOВключение корзины Active Directory
+Related posts:Windows WSL подключение к сетевым шарамActive Directory + Thunderbird = Общая адресная книгаУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

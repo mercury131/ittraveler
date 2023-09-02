@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Решаем проблему внезапной блокировки учетной записиКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Переход на репликацию SYSVOL по DFSКак узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

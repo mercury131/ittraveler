@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереНастройка HA кластера Hyper-VАудит незаполненных полей в Active Directory через Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание email рассылки через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

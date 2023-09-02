@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellАвтоматическая активация пользователей Lync через PowershellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Создание пользователей Active Directory через CSV файлПринудительная синхронизация контроллеров домена Active DirectoryСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

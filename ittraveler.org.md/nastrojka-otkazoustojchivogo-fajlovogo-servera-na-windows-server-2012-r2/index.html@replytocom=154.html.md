@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамПолучаем MD5 файла или переменной в PowershellОтключение Skype UI в Lync 2013
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

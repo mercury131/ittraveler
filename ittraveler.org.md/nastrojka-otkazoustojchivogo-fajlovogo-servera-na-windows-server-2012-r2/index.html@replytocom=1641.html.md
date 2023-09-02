@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Аудит DNS серверов на Windows Server 2008 R2 через PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Включение корзины Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

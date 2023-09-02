@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTActive Directory + Thunderbird = Общая адресная книгаПереход на репликацию SYSVOL по DFS
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

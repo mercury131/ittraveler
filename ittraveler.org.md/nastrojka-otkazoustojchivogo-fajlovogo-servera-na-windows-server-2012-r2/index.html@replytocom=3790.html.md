@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит DNS серверов на Windows Server 2008 R2 через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Получаем MD5 файла или переменной в PowershellПодключение к Office 365 через Powershell и зашифрованный парольПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
