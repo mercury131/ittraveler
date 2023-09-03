@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryСоздание пользователей Active Directory через CSV файлПередача и захват ролей FSMO
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
