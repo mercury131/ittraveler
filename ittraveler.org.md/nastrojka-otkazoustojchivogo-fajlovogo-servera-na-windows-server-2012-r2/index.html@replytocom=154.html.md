@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка растянутого кластера (stretch-cluster) на Windows server 2016Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

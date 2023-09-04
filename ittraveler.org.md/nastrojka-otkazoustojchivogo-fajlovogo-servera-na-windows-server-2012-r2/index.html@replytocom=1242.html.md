@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАудит изменений групповых политик через PowerShellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Создание шаблонов Zabbix для Windows.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

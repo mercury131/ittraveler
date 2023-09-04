@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Получаем MD5 файла или переменной в Powershell
+Related posts:Добавление UPN суффикса в Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Передача и захват ролей FSMOАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Аудит незаполненных полей в Active Directory через PowershellПринудительная синхронизация контроллеров домена Active DirectoryУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

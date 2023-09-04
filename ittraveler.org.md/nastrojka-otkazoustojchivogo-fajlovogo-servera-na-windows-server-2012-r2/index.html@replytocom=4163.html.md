@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellОтключение Skype UI в Lync 2013Windows WSL подключение к сетевым шарам
+Related posts:Передача и захват ролей FSMOАудит доменных служб Active Directory в Windows Server 2008 R2Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

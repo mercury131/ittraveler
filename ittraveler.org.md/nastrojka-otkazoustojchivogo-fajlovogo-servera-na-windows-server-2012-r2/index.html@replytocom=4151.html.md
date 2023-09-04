@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Отключение Skype UI в Lync 2013Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

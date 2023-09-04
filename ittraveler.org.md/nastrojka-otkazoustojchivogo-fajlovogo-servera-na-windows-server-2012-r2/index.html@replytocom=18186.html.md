@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Подключение к Office 365 через Powershell и зашифрованный парольАвтоматическая активация пользователей Lync через Powershell
+Related posts:Включение корзины Active DirectoryАудит незаполненных полей в Active Directory через PowershellWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

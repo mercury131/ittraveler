@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryWindows WSL подключение к сетевым шарамАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Установка RSAT на Windows 10 1809Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
