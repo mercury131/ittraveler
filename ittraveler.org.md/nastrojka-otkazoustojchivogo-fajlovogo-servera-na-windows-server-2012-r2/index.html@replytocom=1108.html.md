@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка AnsibleНастройка HA кластера Hyper-V
+Related posts:Установка и настройка Lync 2013Автоматизируем бэкап баз данных MSSQL ExpressУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

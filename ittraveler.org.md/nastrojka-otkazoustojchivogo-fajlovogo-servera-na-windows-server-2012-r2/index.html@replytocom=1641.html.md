@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Переход на репликацию SYSVOL по DFSУстановка RSAT на Windows 10 1809
+Related posts:Решаем проблему внезапной блокировки учетной записиВключение корзины Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellНовые компьютеры не появляются на WSUS сервереУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Аудит изменений групповых политик через PowerShellСоздание шаблонов Zabbix для Windows.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

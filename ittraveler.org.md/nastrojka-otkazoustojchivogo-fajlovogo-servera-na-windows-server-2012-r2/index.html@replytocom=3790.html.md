@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessПереход на репликацию SYSVOL по DFSНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Сброс пароля администратора Active DirectoryИзменение UPN суффикса в Active Directory через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
