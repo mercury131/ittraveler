@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryСброс пароля компьютера в домене без перезагрузкиАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание email рассылки через PowershellПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

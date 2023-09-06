@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка кластера MSSQL 2012.
+Related posts:Удаление Lync Server 2013Аудит изменений в Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

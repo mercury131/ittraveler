@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellНазначение служб для сертификатов Exchange через Powershell.Создание email рассылки через Powershell
+Related posts:Аудит незаполненных полей в Active Directory через PowershellАудит изменений в Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПолучаем MD5 файла или переменной в PowershellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Автоматическая активация пользователей Lync через PowershellПринудительная синхронизация контроллеров домена Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАктивируем LDAP over SSLУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Создание шаблонов Zabbix для Windows.Кастомизация гостевых ОС Windows в KVM на примере ProxmoxОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

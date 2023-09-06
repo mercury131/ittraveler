@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Назначение служб для сертификатов Exchange через Powershell.Установка RSAT на Windows 10 1809
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

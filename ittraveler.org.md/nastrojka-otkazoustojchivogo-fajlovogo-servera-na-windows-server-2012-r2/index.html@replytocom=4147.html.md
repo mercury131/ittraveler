@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Решаем проблему внезапной блокировки учетной записиСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

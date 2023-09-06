@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиВключение корзины Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Принудительная синхронизация Office 365 и локальной Active DirectoryОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматизируем бэкап баз данных MSSQL ExpressСоздание пользователей Active Directory через CSV файл
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСоздание шаблонов Zabbix для Windows.Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

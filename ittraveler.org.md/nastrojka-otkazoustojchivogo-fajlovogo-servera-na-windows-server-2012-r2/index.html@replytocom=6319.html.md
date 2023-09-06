@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
