@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Аудит изменений в Active DirectoryУстановка и настройка Lync 2013
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Обновление схемы Active DirectoryАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
