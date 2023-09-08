@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineВосстановление объектов Active Directory: сборник сценариевСоздание email рассылки через Powershell
+Related posts:Передача и захват ролей FSMOДобавление UPN суффикса в Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

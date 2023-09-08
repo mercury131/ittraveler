@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевНастройка Kerberos авторизации в Apache2Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание индивидуальных адресных книг в Office 365 и Exchange onlineРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

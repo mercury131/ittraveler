@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Обновление схемы Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевWindows WSL подключение к сетевым шарамНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

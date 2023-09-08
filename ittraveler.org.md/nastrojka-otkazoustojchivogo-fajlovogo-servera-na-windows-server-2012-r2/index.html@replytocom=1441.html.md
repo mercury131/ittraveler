@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка растянутого кластера (stretch-cluster) на Windows server 2016Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка кластера MSSQL 2012.Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

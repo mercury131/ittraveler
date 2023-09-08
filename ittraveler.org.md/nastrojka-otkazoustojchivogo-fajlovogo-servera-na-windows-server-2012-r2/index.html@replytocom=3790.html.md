@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryУстановка RSAT на Windows 10 1809Установка и настройка Lync 2013
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

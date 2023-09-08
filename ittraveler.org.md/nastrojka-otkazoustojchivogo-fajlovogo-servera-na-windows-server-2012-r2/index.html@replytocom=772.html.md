@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Назначение служб для сертификатов Exchange через Powershell.Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Сброс пароля администратора Active DirectoryАудит изменений групповых политик через PowerShellОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

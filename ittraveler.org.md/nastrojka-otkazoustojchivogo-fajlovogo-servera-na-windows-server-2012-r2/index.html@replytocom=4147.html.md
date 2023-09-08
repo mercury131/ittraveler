@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Передача и захват ролей FSMOУстановка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

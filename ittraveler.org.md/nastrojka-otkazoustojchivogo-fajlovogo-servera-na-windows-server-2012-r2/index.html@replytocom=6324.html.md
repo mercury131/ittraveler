@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellПодключение к Office 365 через Powershell и зашифрованный парольУдаление Lync Server 2013
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Поиск старых почтовых ящиков в Exchange 2010Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

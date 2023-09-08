@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереОбновление Lync 2013 до Skype for BusinessПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Аудит изменений групповых политик через PowerShellОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Подключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

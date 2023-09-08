@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСброс настроек GPO на стандартныеАктивируем LDAP over SSL
+Related posts:Настройка Kerberos авторизации в Apache2Получаем MD5 файла или переменной в PowershellВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

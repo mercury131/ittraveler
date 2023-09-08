@@ -55,7 +55,7 @@
 Готово! Теперь указанные клиенты могут подключаться к кластеру ISCSI. Для подключения нужно использовать dns имя кластера.
 Удачной установки!
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryВключение корзины Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Передача и захват ролей FSMOОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Windows, Windows Server 
              Метки: Cluster, ISCSI, Windows Server  

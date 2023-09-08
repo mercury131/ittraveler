@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Управление репликацией Active Directory
+Related posts:Установка и настройка AnsibleНазначение служб для сертификатов Exchange через Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

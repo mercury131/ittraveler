@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Создание пользователей Active Directory через CSV файлДобавление почтовых контактов в Office 365 через Powershell и CSVПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

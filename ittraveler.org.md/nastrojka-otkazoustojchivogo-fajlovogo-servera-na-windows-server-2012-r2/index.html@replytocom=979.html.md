@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаДобавление почтовых контактов в Office 365 через Powershell и CSVУдаление Lync Server 2013
+Related posts:Сброс пароля администратора Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

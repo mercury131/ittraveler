@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellАвтоматизируем бэкап баз данных MSSQL ExpressДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Принудительная синхронизация контроллеров домена Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

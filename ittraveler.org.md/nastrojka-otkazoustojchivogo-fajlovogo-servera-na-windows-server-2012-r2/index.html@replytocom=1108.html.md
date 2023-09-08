@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellУстановка RSAT на Windows 10 1809Передача и захват ролей FSMO
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАудит изменений групповых политик через PowerShellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

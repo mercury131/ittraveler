@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНовые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Отключение Skype UI в Lync 2013Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
