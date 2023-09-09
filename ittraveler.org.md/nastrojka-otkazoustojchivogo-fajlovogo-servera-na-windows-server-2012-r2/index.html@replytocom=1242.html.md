@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Принудительная синхронизация контроллеров домена Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка растянутого кластера (stretch-cluster) на Windows server 2016Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

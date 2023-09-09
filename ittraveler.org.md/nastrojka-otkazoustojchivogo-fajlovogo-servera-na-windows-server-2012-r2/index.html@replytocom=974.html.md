@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleНазначение служб для сертификатов Exchange через Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Активируем LDAP over SSLСброс пароля администратора Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

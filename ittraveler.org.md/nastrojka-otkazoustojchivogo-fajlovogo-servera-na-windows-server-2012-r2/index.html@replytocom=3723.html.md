@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПринудительная синхронизация Office 365 и локальной Active DirectoryУстановка RSAT на Windows 10 1809
+Related posts:Новые компьютеры не появляются на WSUS сервереПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

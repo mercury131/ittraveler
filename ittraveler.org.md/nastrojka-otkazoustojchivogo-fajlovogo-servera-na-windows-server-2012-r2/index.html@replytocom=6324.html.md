@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Поиск старых почтовых ящиков в Exchange 2010Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Установка RSAT на Windows 10 1809Аудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

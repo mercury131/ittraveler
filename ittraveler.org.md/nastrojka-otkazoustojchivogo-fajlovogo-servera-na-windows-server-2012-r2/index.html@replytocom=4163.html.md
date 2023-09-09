@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУстановка RSAT на Windows 10 1809Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

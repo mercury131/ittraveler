@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файл
+Related posts:Создание шаблонов Zabbix для Windows.Подключение к Office 365 через Powershell и зашифрованный парольАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

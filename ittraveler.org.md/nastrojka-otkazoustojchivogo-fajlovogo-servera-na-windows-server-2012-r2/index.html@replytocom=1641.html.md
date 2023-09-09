@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПоиск старых почтовых ящиков в Exchange 2010Windows WSL подключение к сетевым шарам
+Related posts:Решаем проблему внезапной блокировки учетной записиПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

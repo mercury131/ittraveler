@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Новые компьютеры не появляются на WSUS сервереПринудительная синхронизация Office 365 и локальной Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

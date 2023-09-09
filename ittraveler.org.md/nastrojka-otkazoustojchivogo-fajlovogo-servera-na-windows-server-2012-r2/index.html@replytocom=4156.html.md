@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryДобавление UPN суффикса в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание email рассылки через PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

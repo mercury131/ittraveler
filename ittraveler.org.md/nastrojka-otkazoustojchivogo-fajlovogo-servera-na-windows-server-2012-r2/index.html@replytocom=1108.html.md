@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАудит изменений групповых политик через PowerShellУправление репликацией Active Directory
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка Lync 2013Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

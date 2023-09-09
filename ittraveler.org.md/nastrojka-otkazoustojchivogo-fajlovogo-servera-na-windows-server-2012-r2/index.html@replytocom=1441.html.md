@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка кластера MSSQL 2012.Добавление UPN суффикса в Active Directory
+Related posts:Установка и настройка Lync 2013Принудительная синхронизация контроллеров домена Active DirectoryАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

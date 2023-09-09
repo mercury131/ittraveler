@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleНастройка HA кластера Hyper-VСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Сброс настроек GPO на стандартныеОбновление Lync 2013 до Skype for BusinessАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
