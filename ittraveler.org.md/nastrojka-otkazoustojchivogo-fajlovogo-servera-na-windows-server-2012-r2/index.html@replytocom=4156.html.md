@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание email рассылки через PowershellУстановка и настройка Lync 2013
+Related posts:Включение корзины Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

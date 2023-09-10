@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка кластера MSSQL 2012.Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Переход на репликацию SYSVOL по DFSActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

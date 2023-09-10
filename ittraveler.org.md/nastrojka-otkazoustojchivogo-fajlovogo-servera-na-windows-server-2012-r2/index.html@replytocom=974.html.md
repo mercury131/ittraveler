@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLСброс пароля администратора Active DirectoryУдаление Lync Server 2013
+Related posts:Установка и настройка Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Подключение к Office 365 через Powershell и зашифрованный парольАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСброс пароля компьютера в домене без перезагрузкиСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

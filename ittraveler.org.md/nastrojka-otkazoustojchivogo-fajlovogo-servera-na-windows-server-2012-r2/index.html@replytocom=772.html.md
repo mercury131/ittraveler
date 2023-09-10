@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка кластера MSSQL 2012.Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПодключение к Office 365 через Powershell и зашифрованный парольПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

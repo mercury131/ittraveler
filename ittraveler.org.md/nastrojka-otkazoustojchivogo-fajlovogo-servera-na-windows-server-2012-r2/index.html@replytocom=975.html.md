@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеОбновление Lync 2013 до Skype for BusinessАудит изменений в Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Настройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

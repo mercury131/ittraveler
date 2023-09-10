@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryИзменение UPN суффикса в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

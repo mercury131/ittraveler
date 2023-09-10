@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Принудительная синхронизация контроллеров домена Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Сброс настроек GPO на стандартныеНастройка HA кластера Hyper-VУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

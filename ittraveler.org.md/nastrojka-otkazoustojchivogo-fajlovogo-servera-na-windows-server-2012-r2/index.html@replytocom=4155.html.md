@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellПолучаем MD5 файла или переменной в PowershellАудит изменений групповых политик через PowerShell
+Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка кластера MSSQL 2012.Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлНазначение служб для сертификатов Exchange через Powershell.Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
