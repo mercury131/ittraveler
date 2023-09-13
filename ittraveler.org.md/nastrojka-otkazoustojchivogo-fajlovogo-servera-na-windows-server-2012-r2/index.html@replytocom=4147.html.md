@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleСброс настроек GPO на стандартныеПередача и захват ролей FSMO
+Related posts:Установка RSAT на Windows 10 1809Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

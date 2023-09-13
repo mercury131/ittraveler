@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Управление репликацией Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Активируем LDAP over SSLПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

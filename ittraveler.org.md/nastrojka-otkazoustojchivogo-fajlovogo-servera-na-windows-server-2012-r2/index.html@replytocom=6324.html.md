@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Установка и настройка Scale-Out File Server + Storage Spaces DirectАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Сброс настроек GPO на стандартныеПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

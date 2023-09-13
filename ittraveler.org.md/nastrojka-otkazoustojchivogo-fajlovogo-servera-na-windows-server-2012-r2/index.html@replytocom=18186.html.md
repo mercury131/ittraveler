@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Изменение UPN суффикса в Active Directory через PowershellСброс пароля администратора Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка AlwaysOn на MS SQL 2016Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

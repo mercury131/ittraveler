@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеАудит доменных служб Active Directory в Windows Server 2008 R2Обновление схемы Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Переход на репликацию SYSVOL по DFSАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

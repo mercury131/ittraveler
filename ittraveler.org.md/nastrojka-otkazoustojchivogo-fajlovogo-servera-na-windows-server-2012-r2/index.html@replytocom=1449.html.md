@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOНовые компьютеры не появляются на WSUS сервереСоздание email рассылки через Powershell
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУправление репликацией Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

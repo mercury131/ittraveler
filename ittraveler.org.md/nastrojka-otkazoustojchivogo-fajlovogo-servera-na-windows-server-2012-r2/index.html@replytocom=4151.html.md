@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryИзменение UPN суффикса в Active Directory через PowershellАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Подключение к Office 365 через Powershell и зашифрованный парольУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

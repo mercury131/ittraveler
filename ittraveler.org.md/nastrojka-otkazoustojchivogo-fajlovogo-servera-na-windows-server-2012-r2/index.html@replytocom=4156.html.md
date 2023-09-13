@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Поиск старых почтовых ящиков в Exchange 2010Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Обновление схемы Active DirectoryПеренос базы данных Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

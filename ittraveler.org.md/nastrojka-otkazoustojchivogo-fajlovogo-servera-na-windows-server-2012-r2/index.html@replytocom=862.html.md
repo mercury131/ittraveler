@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessПередача и захват ролей FSMOСоздание пользователей Active Directory через CSV файл
+Related posts:Создание пользователей Active Directory через CSV файлСброс настроек GPO на стандартныеУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

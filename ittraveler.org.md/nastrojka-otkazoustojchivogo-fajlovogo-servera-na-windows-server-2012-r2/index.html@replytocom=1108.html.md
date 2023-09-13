@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Сброс пароля администратора Active DirectoryСброс настроек GPO на стандартные
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений групповых политик через PowerShellСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

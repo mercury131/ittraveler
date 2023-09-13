@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка Lync 2013Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Принудительная синхронизация Office 365 и локальной Active DirectoryАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

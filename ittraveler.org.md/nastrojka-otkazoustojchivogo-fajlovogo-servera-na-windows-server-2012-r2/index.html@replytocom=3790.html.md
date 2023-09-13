@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Назначение служб для сертификатов Exchange через Powershell.Установка и настройка Lync 2013
+Related posts:Аудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

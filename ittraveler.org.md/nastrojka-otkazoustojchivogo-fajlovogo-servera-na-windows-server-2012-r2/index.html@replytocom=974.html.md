@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Сброс настроек GPO на стандартные
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАудит незаполненных полей в Active Directory через PowershellДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

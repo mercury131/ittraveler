@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryНастройка HA кластера Hyper-VАудит незаполненных полей в Active Directory через Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Передача и захват ролей FSMOУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
