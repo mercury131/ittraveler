@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка AlwaysOn на MS SQL 2016Активируем LDAP over SSL
+Related posts:Получаем MD5 файла или переменной в PowershellАктивируем LDAP over SSLНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

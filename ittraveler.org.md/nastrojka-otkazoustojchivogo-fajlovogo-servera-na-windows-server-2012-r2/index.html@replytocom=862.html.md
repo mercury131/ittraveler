@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлСброс настроек GPO на стандартныеУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Решаем проблему внезапной блокировки учетной записиПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений в Active DirectoryАктивируем LDAP over SSL
+Related posts:Создание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

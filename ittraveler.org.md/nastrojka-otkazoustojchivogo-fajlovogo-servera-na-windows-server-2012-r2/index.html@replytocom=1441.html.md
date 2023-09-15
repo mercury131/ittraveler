@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматическая активация пользователей Lync через PowershellПолучаем MD5 файла или переменной в Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellРешаем проблему внезапной блокировки учетной записиСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

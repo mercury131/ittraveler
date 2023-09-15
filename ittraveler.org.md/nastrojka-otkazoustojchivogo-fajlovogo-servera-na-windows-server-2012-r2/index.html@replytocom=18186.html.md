@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка AlwaysOn на MS SQL 2016Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Сброс настроек GPO на стандартныеАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

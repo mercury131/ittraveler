@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля компьютера в домене без перезагрузки
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка AlwaysOn на MS SQL 2016Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

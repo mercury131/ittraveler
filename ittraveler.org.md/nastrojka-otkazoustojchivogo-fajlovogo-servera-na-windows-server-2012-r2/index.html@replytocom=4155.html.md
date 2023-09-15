@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Установка и настройка Lync 2013Включение корзины Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

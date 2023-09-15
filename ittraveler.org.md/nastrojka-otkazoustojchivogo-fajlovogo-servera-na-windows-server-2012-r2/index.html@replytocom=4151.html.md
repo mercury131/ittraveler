@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Подключение к Office 365 через Powershell и зашифрованный парольУправление репликацией Active Directory
+Related posts:Отключение Skype UI в Lync 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

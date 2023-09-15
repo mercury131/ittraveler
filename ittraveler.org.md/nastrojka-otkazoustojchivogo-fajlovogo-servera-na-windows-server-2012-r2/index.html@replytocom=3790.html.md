@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.Установка и настройка кластера MSSQL 2012.
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

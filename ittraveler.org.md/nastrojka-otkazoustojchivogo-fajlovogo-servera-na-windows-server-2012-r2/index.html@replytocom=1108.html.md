@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений групповых политик через PowerShellСброс пароля администратора Active Directory
+Related posts:Удаление Lync Server 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

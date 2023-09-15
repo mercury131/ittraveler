@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Управление репликацией Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

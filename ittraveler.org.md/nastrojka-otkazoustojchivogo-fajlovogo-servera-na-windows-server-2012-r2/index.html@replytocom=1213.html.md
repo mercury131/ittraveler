@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка Kerberos авторизации в Apache2Обновление схемы Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля компьютера в домене без перезагрузкиActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

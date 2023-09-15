@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Сброс настроек GPO на стандартныеПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание email рассылки через PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

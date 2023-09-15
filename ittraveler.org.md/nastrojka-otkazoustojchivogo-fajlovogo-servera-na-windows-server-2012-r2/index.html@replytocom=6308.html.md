@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryНастройка Kerberos авторизации в Apache2Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineКак узнать WWN (World Wide Name)  в Windows Server 2012R2Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

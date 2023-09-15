@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСоздание индивидуальных адресных книг в Office 365 и Exchange onlineОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Установка RSAT на Windows 10 1809Обновление Lync 2013 до Skype for BusinessАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

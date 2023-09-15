@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Принудительная синхронизация Office 365 и локальной Active DirectoryАудит изменений в Active Directory
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка Lync 2013Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

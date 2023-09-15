@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

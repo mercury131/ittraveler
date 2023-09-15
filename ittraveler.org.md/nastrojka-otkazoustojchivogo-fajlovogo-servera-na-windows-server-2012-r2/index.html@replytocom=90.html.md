@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Активируем LDAP over SSLПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка дедупликации  на Windows Server 2012 R2Подключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

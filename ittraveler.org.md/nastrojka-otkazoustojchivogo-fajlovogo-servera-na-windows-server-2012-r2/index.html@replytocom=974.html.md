@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАудит незаполненных полей в Active Directory через PowershellДобавление UPN суффикса в Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryСброс пароля администратора Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
