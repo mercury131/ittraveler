@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Создание шаблонов Zabbix для Windows.Создание пользователей Active Directory через CSV файл
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАудит незаполненных полей в Active Directory через PowershellУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

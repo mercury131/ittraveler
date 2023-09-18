@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиПолучаем MD5 файла или переменной в PowershellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка кластера MSSQL 2012.Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
