@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Настройка Kerberos авторизации в Apache2Обновление схемы Active Directory
+Related posts:Создание email рассылки через PowershellWindows WSL подключение к сетевым шарамКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

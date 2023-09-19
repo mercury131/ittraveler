@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка Lync 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Установка RSAT на Windows 10 1809Автоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Добавление почтовых контактов в Office 365 через Powershell и CSVАудит изменений групповых политик через PowerShell
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПолучаем MD5 файла или переменной в PowershellНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
