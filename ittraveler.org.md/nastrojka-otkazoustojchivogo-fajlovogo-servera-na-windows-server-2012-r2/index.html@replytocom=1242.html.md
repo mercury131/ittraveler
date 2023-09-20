@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записиНастройка Kerberos авторизации в Apache2
+Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка Lync 2013Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
