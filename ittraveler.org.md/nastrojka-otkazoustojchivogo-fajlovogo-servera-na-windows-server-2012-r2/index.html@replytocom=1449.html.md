@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Включение корзины Active Directory
+Related posts:Обновление Lync 2013 до Skype for BusinessКак узнать WWN (World Wide Name)  в Windows Server 2012R2Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

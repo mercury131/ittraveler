@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит изменений в Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

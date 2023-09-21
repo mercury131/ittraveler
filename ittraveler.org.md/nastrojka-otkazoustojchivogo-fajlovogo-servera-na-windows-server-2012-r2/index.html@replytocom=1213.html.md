@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellСброс пароля компьютера в домене без перезагрузкиУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Отключение Skype UI в Lync 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка Lync 2013Сброс пароля компьютера в домене без перезагрузки
+Related posts:Установка и настройка AnsibleАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellВключение корзины Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольActive Directory + Thunderbird = Общая адресная книгаРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Отключение Skype UI в Lync 2013Аудит незаполненных полей в Active Directory через PowershellАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

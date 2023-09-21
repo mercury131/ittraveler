@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Сброс пароля компьютера в домене без перезагрузкиАудит незаполненных полей в Active Directory через Powershell
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка Lync 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

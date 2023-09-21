@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос базы данных Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс настроек GPO на стандартныеНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

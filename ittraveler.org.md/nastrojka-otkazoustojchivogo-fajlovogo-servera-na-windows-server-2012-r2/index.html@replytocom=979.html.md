@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressРешаем проблему внезапной блокировки учетной записи
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

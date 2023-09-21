@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка AlwaysOn на MS SQL 2016Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание шаблонов Zabbix для Windows.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

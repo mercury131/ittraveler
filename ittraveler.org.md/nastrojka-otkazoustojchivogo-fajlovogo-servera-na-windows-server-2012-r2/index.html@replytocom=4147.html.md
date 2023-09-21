@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка Scale-Out File Server + Storage Spaces DirectНастройка Kerberos авторизации в Apache2
+Related posts:Изменение UPN суффикса в Active Directory через PowershellСброс настроек GPO на стандартныеНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

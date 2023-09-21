@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleПеренос базы данных Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Создание шаблонов Zabbix для Windows.Назначение служб для сертификатов Exchange через Powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

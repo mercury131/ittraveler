@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереПеренос базы данных Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПринудительная синхронизация контроллеров домена Active DirectoryАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

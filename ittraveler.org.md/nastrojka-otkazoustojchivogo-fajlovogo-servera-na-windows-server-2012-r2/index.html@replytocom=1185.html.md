@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Добавление UPN суффикса в Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Создание шаблонов Zabbix для Windows.Назначение служб для сертификатов Exchange через Powershell.Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
