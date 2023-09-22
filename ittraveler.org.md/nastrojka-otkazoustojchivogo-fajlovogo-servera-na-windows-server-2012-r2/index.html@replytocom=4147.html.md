@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellСброс настроек GPO на стандартныеНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Восстановление объектов Active Directory: сборник сценариевУдаление Lync Server 2013Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

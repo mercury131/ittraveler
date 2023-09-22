@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryОбновление схемы Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Обновление Lync 2013 до Skype for BusinessСброс пароля администратора Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
