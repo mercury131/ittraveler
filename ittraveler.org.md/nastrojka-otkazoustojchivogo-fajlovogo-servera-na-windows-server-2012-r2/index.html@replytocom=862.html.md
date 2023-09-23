@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка Lync 2013Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

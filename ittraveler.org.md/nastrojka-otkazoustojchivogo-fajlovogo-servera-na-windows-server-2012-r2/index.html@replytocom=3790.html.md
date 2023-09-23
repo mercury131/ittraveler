@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectИзменение UPN суффикса в Active Directory через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Обновление схемы Active DirectoryНастройка HA кластера Hyper-VУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

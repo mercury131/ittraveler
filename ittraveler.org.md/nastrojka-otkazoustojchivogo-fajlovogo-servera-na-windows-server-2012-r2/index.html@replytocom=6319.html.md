@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка кластера MSSQL 2012.
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файлСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

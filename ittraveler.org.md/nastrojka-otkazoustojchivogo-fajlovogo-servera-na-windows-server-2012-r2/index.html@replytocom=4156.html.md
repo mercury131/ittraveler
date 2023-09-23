@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Переход на репликацию SYSVOL по DFSПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Настройка Kerberos авторизации в Apache2Создание email рассылки через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

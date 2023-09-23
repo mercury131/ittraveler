@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellВключение корзины Active Directory
+Related posts:Отключение Skype UI в Lync 2013Создание email рассылки через PowershellАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

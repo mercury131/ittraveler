@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Отключение Skype UI в Lync 2013
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит доменных служб Active Directory в Windows Server 2008 R2Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматизируем бэкап баз данных MSSQL ExpressАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Активируем LDAP over SSLНастройка HA кластера Hyper-VУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

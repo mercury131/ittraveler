@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessСброс пароля администратора Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Настройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

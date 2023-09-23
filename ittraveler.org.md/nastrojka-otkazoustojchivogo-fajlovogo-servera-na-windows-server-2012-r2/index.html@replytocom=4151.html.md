@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСброс пароля компьютера в домене без перезагрузкиАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

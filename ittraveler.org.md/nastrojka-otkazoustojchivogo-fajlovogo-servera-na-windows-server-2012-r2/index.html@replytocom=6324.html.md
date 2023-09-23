@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryСоздание шаблонов Zabbix для Windows.Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Установка и настройка кластера MSSQL 2012.Windows WSL подключение к сетевым шарамНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

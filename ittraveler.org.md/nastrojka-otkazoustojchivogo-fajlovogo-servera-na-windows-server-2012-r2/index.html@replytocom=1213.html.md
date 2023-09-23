@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Активируем LDAP over SSLВключение корзины Active Directory
+Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

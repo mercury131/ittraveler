@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений групповых политик через PowerShell
+Related posts:Сброс настроек GPO на стандартныеАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
