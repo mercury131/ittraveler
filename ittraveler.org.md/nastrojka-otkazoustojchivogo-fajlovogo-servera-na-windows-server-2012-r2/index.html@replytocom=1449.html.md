@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание пользователей Active Directory через CSV файлУдаление Lync Server 2013
+Related posts:Создание шаблонов Zabbix для Windows.Обновление Lync 2013 до Skype for BusinessАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

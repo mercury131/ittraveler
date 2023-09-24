@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILПереход на репликацию SYSVOL по DFS
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПередача и захват ролей FSMOПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

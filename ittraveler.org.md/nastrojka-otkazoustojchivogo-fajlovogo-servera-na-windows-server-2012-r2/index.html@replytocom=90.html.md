@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Передача и захват ролей FSMO
+Related posts:Переход на репликацию SYSVOL по DFSБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

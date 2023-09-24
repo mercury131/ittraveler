@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Отключение Skype UI в Lync 2013Поиск старых почтовых ящиков в Exchange 2010Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

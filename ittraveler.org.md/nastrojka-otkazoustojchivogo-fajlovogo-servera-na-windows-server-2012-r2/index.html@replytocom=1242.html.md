@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLНастройка HA кластера Hyper-VУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Обновление Lync 2013 до Skype for BusinessРешаем проблему внезапной блокировки учетной записиПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

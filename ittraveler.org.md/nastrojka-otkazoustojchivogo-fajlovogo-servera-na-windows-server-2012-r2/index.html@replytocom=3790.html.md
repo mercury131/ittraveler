@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryНастройка HA кластера Hyper-VУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Новые компьютеры не появляются на WSUS сервереУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

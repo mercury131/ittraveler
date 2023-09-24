@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Windows WSL подключение к сетевым шарамНовые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Создание индивидуальных адресных книг в Office 365 и Exchange onlineActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

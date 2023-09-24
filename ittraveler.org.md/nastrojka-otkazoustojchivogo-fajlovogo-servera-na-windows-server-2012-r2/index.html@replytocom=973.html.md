@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryActive Directory + Thunderbird = Общая адресная книгаНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Сброс пароля администратора Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

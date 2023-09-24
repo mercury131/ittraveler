@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryОбновление схемы Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

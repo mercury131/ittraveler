@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит изменений в Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Удаление Lync Server 2013Обновление Lync 2013 до Skype for BusinessОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

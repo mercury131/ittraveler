@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Добавление UPN суффикса в Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка Lync 2013Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

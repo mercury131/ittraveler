@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПереход на репликацию SYSVOL по DFSОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Установка и настройка кластера MSSQL 2012.Автоматическая активация пользователей Lync через PowershellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

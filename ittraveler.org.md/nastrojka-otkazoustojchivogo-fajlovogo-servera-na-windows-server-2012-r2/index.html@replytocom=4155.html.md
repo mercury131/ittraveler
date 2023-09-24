@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Создание email рассылки через PowershellАвтоматическая активация пользователей Lync через Powershell
+Related posts:Получаем MD5 файла или переменной в PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

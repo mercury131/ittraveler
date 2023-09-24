@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка Lync 2013Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Удаление Lync Server 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

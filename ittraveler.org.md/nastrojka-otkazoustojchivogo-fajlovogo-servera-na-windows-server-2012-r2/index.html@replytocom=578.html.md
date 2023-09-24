@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryВосстановление объектов Active Directory: сборник сценариевАвтоматическая активация пользователей Lync через Powershell
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАудит изменений групповых политик через PowerShellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

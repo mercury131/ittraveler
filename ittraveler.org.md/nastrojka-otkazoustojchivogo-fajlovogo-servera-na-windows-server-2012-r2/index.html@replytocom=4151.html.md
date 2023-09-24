@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит изменений в Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит изменений в Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

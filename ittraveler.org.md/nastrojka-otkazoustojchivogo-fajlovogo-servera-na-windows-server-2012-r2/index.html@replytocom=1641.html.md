@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка HA кластера Hyper-V
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание шаблонов Zabbix для Windows.Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

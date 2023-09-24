@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Аудит изменений групповых политик через PowerShell
+Related posts:Активируем LDAP over SSLНазначение служб для сертификатов Exchange через Powershell.Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

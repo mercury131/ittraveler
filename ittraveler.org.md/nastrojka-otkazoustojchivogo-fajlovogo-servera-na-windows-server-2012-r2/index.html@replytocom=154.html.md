@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLУстановка и настройка дедупликации  на Windows Server 2012 R2Сброс пароля компьютера в домене без перезагрузки
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Active Directory + Thunderbird = Общая адресная книгаАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

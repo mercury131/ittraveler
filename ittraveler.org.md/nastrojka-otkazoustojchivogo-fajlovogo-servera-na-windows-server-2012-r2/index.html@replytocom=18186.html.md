@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАктивируем LDAP over SSLПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка AnsibleУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
