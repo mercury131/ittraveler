@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит изменений в Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Решаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

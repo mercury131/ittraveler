@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка AnsibleУстановка и настройка кластера MSSQL 2012.
+Related posts:Автоматическая активация пользователей Lync через PowershellУстановка RSAT на Windows 10 1809Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
