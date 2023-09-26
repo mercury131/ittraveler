@@ -273,58 +273,58 @@ body.custom-background { background-color: #cecece; }
 
 
 
-	<p></p><p>В данной статье мы рассмотрим базовую настройку Vcenter и хостов ESXI.</p>
+	<p>Ð Ð´Ð°Ð½Ð½Ð¾Ð¹ ÑÑÐ°ÑÑÐµ Ð¼Ñ ÑÐ°ÑÑÐ¼Ð¾ÑÑÐ¸Ð¼ Ð±Ð°Ð·Ð¾Ð²ÑÑ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÑ Vcenter Ð¸ ÑÐ¾ÑÑÐ¾Ð² ESXI.</p>
 <p><span id="more-356"></span></p>
-<p>После первой авторизации в Vcenter под локальным пользователем, настроим доменную авторизацию.</p>
-<p>Переходим в раздел Administration -&gt; System Configuration</p>
-<p>Выбираем Nodes, и выделяем наш PSC контроллер.</p>
-<p>Выбираем <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a></p>
+<p>ÐÐ¾ÑÐ»Ðµ Ð¿ÐµÑÐ²Ð¾Ð¹ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð°ÑÐ¸Ð¸ Ð² Vcenter Ð¿Ð¾Ð´ Ð»Ð¾ÐºÐ°Ð»ÑÐ½ÑÐ¼ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¼, Ð½Ð°ÑÑÑÐ¾Ð¸Ð¼ Ð´Ð¾Ð¼ÐµÐ½Ð½ÑÑ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð°ÑÐ¸Ñ.</p>
+<p>ÐÐµÑÐµÑÐ¾Ð´Ð¸Ð¼ Ð² ÑÐ°Ð·Ð´ÐµÐ» Administration -&gt; System Configuration</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ Nodes, Ð¸ Ð²ÑÐ´ÐµÐ»ÑÐµÐ¼ Ð½Ð°Ñ PSC ÐºÐ¾Ð½ÑÑÐ¾Ð»Ð»ÐµÑ.</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/106d00fede08b2d4917f2f0eeb362f7e.png" alt="" width="586" height="378"></p>
-<p>Нажимаем кнопку Join</p>
+<p>ÐÐ°Ð¶Ð¸Ð¼Ð°ÐµÐ¼ ÐºÐ½Ð¾Ð¿ÐºÑ Join</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/af57dcceb29fd23778f0cd5d4f650290.png" alt="" width="171" height="117"></p>
-<p>Вводим данные администратора домена</p>
+<p>ÐÐ²Ð¾Ð´Ð¸Ð¼ Ð´Ð°Ð½Ð½ÑÐµ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑÑÐ°ÑÐ¾ÑÐ° Ð´Ð¾Ð¼ÐµÐ½Ð°</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/73cb74e25f0edda1346ca143319c18bf.png" alt="" width="407" height="259"></p>
-<p>Если все прошло удачно, PSC контроллер будет добавлен в домен.</p>
-<p>После этого необходимо перезагрузить PSC контроллер.</p>
-<p>Далее переходим в раздел Administration</p>
-<p>В разделе Single sing on выбираем пункт Configuration  и нажимаем знак +</p>
-<p>Далее выбираем верхний пункт Active Directory и указываем доменное имя.</p>
-<p>Ниже выбираем Machine account</p>
+<p>ÐÑÐ»Ð¸ Ð²ÑÐµ Ð¿ÑÐ¾ÑÐ»Ð¾ ÑÐ´Ð°ÑÐ½Ð¾, PSC ÐºÐ¾Ð½ÑÑÐ¾Ð»Ð»ÐµÑ Ð±ÑÐ´ÐµÑ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² Ð´Ð¾Ð¼ÐµÐ½.</p>
+<p>ÐÐ¾ÑÐ»Ðµ ÑÑÐ¾Ð³Ð¾ Ð½ÐµÐ¾Ð±ÑÐ¾Ð´Ð¸Ð¼Ð¾ Ð¿ÐµÑÐµÐ·Ð°Ð³ÑÑÐ·Ð¸ÑÑ PSC ÐºÐ¾Ð½ÑÑÐ¾Ð»Ð»ÐµÑ.</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð¿ÐµÑÐµÑÐ¾Ð´Ð¸Ð¼ Ð² ÑÐ°Ð·Ð´ÐµÐ»Â Administration</p>
+<p>Ð ÑÐ°Ð·Ð´ÐµÐ»Ðµ Single sing on Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð¿ÑÐ½ÐºÑ Configuration Â Ð¸ Ð½Ð°Ð¶Ð¸Ð¼Ð°ÐµÐ¼ Ð·Ð½Ð°Ðº +</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð²ÐµÑÑÐ½Ð¸Ð¹ Ð¿ÑÐ½ÐºÑ Active Directory Ð¸ ÑÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð´Ð¾Ð¼ÐµÐ½Ð½Ð¾Ðµ Ð¸Ð¼Ñ.</p>
+<p>ÐÐ¸Ð¶Ðµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Machine account</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2c6e663ca59c05c9288a16675793c64e.png" alt="" width="641" height="429"></p>
-<p>После этого должно получится так:</p>
+<p>ÐÐ¾ÑÐ»Ðµ ÑÑÐ¾Ð³Ð¾ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð¿Ð¾Ð»ÑÑÐ¸ÑÑÑ ÑÐ°Ðº:</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3159e75dc287b0f35d834d526e1665c5.png" alt="" width="835" height="108"></p>
 <p> </p>
-<p>Переходим в раздел Groups</p>
-<p>Открываем нужную группу администрирования (в моем случае это группа Adminstrators)</p>
-<p>И добавляем в нее доменных пользователей или группы.</p>
+<p>ÐÐµÑÐµÑÐ¾Ð´Ð¸Ð¼ Ð² ÑÐ°Ð·Ð´ÐµÐ» Groups</p>
+<p>ÐÑÐºÑÑÐ²Ð°ÐµÐ¼ Ð½ÑÐ¶Ð½ÑÑ Ð³ÑÑÐ¿Ð¿Ñ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ (Ð² Ð¼Ð¾ÐµÐ¼ ÑÐ»ÑÑÐ°Ðµ ÑÑÐ¾ Ð³ÑÑÐ¿Ð¿Ð° Adminstrators)</p>
+<p>Ð Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ Ð² Ð½ÐµÐµ Ð´Ð¾Ð¼ÐµÐ½Ð½ÑÑ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¹ Ð¸Ð»Ð¸ Ð³ÑÑÐ¿Ð¿Ñ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5df34414bbbeaa2a52dfa0ffeaa60cff.png" alt="" width="870" height="639"></p>
-<p>После этих действий вы сможете авторизоваться в Vcenter с помощью доменной учетной записи.</p>
-<p>Перейдем к настройке хостов.</p>
-<p>Переходим в раздел Hosts and Clusters.</p>
-<p>Создаем новый датацентр</p>
+<p>ÐÐ¾ÑÐ»Ðµ ÑÑÐ¸Ñ Ð´ÐµÐ¹ÑÑÐ²Ð¸Ð¹ Ð²Ñ ÑÐ¼Ð¾Ð¶ÐµÑÐµ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð¾Ð²Ð°ÑÑÑÑ Ð² Vcenter Ñ Ð¿Ð¾Ð¼Ð¾ÑÑÑ Ð´Ð¾Ð¼ÐµÐ½Ð½Ð¾Ð¹ ÑÑÐµÑÐ½Ð¾Ð¹ Ð·Ð°Ð¿Ð¸ÑÐ¸.</p>
+<p>ÐÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐµ ÑÐ¾ÑÑÐ¾Ð².</p>
+<p>ÐÐµÑÐµÑÐ¾Ð´Ð¸Ð¼ Ð² ÑÐ°Ð·Ð´ÐµÐ» Hosts and Clusters.</p>
+<p>Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼Â Ð½Ð¾Ð²ÑÐ¹ Ð´Ð°ÑÐ°ÑÐµÐ½ÑÑ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e2ff51f9b7ca91d57a18f92d651b4489.png" alt="" width="284" height="370"></p>
 <p> </p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1c71c721cc3687c97cf54454f3fd41f5.png" alt="" width="298" height="142"></p>
-<p>Добавляем хост.</p>
+<p>ÐÐ¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ ÑÐ¾ÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7ce237819742675250789d9d6f97f420.png" alt="" width="325" height="123"></p>
-<p>Вводим адрес хоста</p>
+<p>ÐÐ²Ð¾Ð´Ð¸Ð¼ Ð°Ð´ÑÐµÑ ÑÐ¾ÑÑÐ°</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/039d15688f7ff4ea9eb3c70641ad0a2a.png" alt="" width="608" height="172"></p>
-<p>Вводим учетные данные</p>
+<p>ÐÐ²Ð¾Ð´Ð¸Ð¼ ÑÑÐµÑÐ½ÑÐµ Ð´Ð°Ð½Ð½ÑÐµ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1e1ac8be0967a2925540318962c4a019.png" alt="" width="566" height="163"></p>
-<p>Принимаем сертификат</p>
+<p>ÐÑÐ¸Ð½Ð¸Ð¼Ð°ÐµÐ¼ ÑÐµÑÑÐ¸ÑÐ¸ÐºÐ°Ñ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/38d85fcbe80f11b96e2c9995c8fd21bf.png" alt="" width="402" height="275"></p>
-<p>Далее будет указана информация о хосте</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð±ÑÐ´ÐµÑ ÑÐºÐ°Ð·Ð°Ð½Ð° Ð¸Ð½ÑÐ¾ÑÐ¼Ð°ÑÐ¸Ñ Ð¾ ÑÐ¾ÑÑÐµ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6980f108dce3b5156b7fbe032f748792.png" alt="" width="590" height="165"></p>
-<p>Выбираем лицензию.</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð»Ð¸ÑÐµÐ½Ð·Ð¸Ñ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1a5f33871d46f822ca8b0b6db3bfcff2.png" alt="" width="481" height="189"></p>
-<p>Далее по желанию включаем или отключаем Lockdown mode. Если его включить, к хосту будет невозможно подключиться отдельно через <a href="../tag/vsphere/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with vsphere">vsphere</a> клиент.</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð¿Ð¾ Ð¶ÐµÐ»Ð°Ð½Ð¸Ñ Ð²ÐºÐ»ÑÑÐ°ÐµÐ¼ Ð¸Ð»Ð¸ Ð¾ÑÐºÐ»ÑÑÐ°ÐµÐ¼ Lockdown mode. ÐÑÐ»Ð¸ ÐµÐ³Ð¾ Ð²ÐºÐ»ÑÑÐ¸ÑÑ, Ðº ÑÐ¾ÑÑÑ Ð±ÑÐ´ÐµÑ Ð½ÐµÐ²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐ¸ÑÑÑÑ Ð¾ÑÐ´ÐµÐ»ÑÐ½Ð¾ ÑÐµÑÐµÐ· <a href="../tag/vsphere/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with vsphere">vsphere</a> ÐºÐ»Ð¸ÐµÐ½Ñ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1e6570bf74b99f78c8082294427fe741.png" alt="" width="373" height="199"></p>
-<p>Указываем в каком датацентре будут находится виртуальные машины.</p>
+<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð² ÐºÐ°ÐºÐ¾Ð¼ Ð´Ð°ÑÐ°ÑÐµÐ½ÑÑÐµ Ð±ÑÐ´ÑÑ Ð½Ð°ÑÐ¾Ð´Ð¸ÑÑÑ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÐµ Ð¼Ð°ÑÐ¸Ð½Ñ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f40eb632e6bdbd6dc6aca4449c30ecec.png" alt="" width="418" height="205"></p>
-<p>Проверяем указанную информацию и добавляем хост</p>
+<p>ÐÑÐ¾Ð²ÐµÑÑÐµÐ¼ ÑÐºÐ°Ð·Ð°Ð½Ð½ÑÑ Ð¸Ð½ÑÐ¾ÑÐ¼Ð°ÑÐ¸Ñ Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ ÑÐ¾ÑÑ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ac5d2b34f606d29a4127fae050499325.png" alt="" width="572" height="260"></p>
-<p>После этого хост будет добавлен в наш датацентр.</p>
-<p>Добавляем остальные хосты.</p>
+<p>ÐÐ¾ÑÐ»Ðµ ÑÑÐ¾Ð³Ð¾ ÑÐ¾ÑÑ Ð±ÑÐ´ÐµÑ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½ Ð² Ð½Ð°Ñ Ð´Ð°ÑÐ°ÑÐµÐ½ÑÑ.</p>
+<p>ÐÐ¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ Ð¾ÑÑÐ°Ð»ÑÐ½ÑÐµ ÑÐ¾ÑÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ebeda258778b85ee59bf724394b816cc.png" alt="" width="684" height="269"></p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <!-- Home ittraveler --><br>
@@ -332,147 +332,147 @@ body.custom-background { background-color: #cecece; }
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p>Теперь перейдем к настройке сети виртуальных машин.</p>
-<p>Переходим в раздел сеть.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ Ð¿ÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐµ ÑÐµÑÐ¸ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½.</p>
+<p>ÐÐµÑÐµÑÐ¾Ð´Ð¸Ð¼ Ð² ÑÐ°Ð·Ð´ÐµÐ» ÑÐµÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c4df01eb9af37031be861195b71d99e7.png" alt="" width="215" height="33"></p>
-<p>Далее создаем новый распределенный коммутатор</p>
+<p>ÐÐ°Ð»ÐµÐµ ÑÐ¾Ð·Ð´Ð°ÐµÐ¼ Ð½Ð¾Ð²ÑÐ¹ ÑÐ°ÑÐ¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½ÑÐ¹ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾Ñ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2fa46c76f24d4ea5b05f3121adcb3eff.png" alt="" width="564" height="285"></p>
-<p>Задаем имя и указываем датацентр.</p>
+<p>ÐÐ°Ð´Ð°ÐµÐ¼ Ð¸Ð¼Ñ Ð¸ ÑÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð´Ð°ÑÐ°ÑÐµÐ½ÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dc4e3ac93ddfbd620ace7228589e5de0.png" alt="" width="536" height="179"></p>
-<p>Указываем версию распределенного коммутатора. Я указываю 5.5  т.к. у меня используется смешанная инфраструктура хостов ESXI.</p>
+<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð²ÐµÑÑÐ¸Ñ ÑÐ°ÑÐ¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾ÑÐ°. Ð¯ ÑÐºÐ°Ð·ÑÐ²Ð°Ñ 5.5 Â Ñ.Ðº. Ñ Ð¼ÐµÐ½Ñ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÑÑÑ ÑÐ¼ÐµÑÐ°Ð½Ð½Ð°Ñ Ð¸Ð½ÑÑÐ°ÑÑÑÑÐºÑÑÑÐ° ÑÐ¾ÑÑÐ¾Ð² ESXI.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/071df47526b4ae80d7201266be2a8e59.png" alt="" width="800" height="217"></p>
-<p>Указываем число аплинков и указываем имя группы портов.</p>
+<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ ÑÐ¸ÑÐ»Ð¾ Ð°Ð¿Ð»Ð¸Ð½ÐºÐ¾Ð² Ð¸ ÑÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð¸Ð¼Ñ Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ÑÑÐ¾Ð².</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a1cd4467816e268b9d922bb31dadcb2c.png" alt="" width="665" height="245"></p>
-<p>Создаем коммутатор.</p>
+<p>Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾Ñ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/631746e8b3d9be237e512fb0633ae879.png" alt="" width="744" height="330"></p>
-<p>Теперь добавим хосты в распределенный коммутатор.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð¼ ÑÐ¾ÑÑÑ Ð² ÑÐ°ÑÐ¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½ÑÐ¹ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾Ñ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/512717a4ce67eb47ef29306277282710.png" alt="" width="328" height="209"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a947158dca543caa0ab3e9ea4c07e4df.png" alt="" width="613" height="232"></p>
-<p>Выбираем наши хосты.</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð½Ð°ÑÐ¸ ÑÐ¾ÑÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/db947a7402cb40fc9ec243de1f1782b9.png" alt="" width="602" height="317"></p>
-<p>Выбранные хосты должны выглядеть так:</p>
+<p>ÐÑÐ±ÑÐ°Ð½Ð½ÑÐµ ÑÐ¾ÑÑÑ Ð´Ð¾Ð»Ð¶Ð½Ñ Ð²ÑÐ³Ð»ÑÐ´ÐµÑÑ ÑÐ°Ðº:</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f7488a91b41a2a7ac85c96c5e23efb9b.png" alt="" width="723" height="238"></p>
-<p>Далее выбираем адаптеры виртуальных машин и vmkernel (управляющий интерфейс)</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼Â Ð°Ð´Ð°Ð¿ÑÐµÑÑ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½ Ð¸ vmkernel (ÑÐ¿ÑÐ°Ð²Ð»ÑÑÑÐ¸Ð¹ Ð¸Ð½ÑÐµÑÑÐµÐ¹Ñ)</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5e51224ed8b887d0e9683b32ec6bd2e9.png" alt="" width="944" height="562"></p>
-<p>Далее назначаем какие физические адаптеры будут относится к аплинкам</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð½Ð°Ð·Ð½Ð°ÑÐ°ÐµÐ¼ ÐºÐ°ÐºÐ¸Ðµ ÑÐ¸Ð·Ð¸ÑÐµÑÐºÐ¸Ðµ Ð°Ð´Ð°Ð¿ÑÐµÑÑ Ð±ÑÐ´ÑÑ Ð¾ÑÐ½Ð¾ÑÐ¸ÑÑÑ Ðº Ð°Ð¿Ð»Ð¸Ð½ÐºÐ°Ð¼</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/55fdadb7388beacdb81c72f2eebc38fa.png" alt="" width="801" height="424"></p>
-<p>Должно получится так:</p>
+<p>ÐÐ¾Ð»Ð¶Ð½Ð¾ Ð¿Ð¾Ð»ÑÑÐ¸ÑÑÑ ÑÐ°Ðº:</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2ac341ba27077c495d6ee355cf56d4e7.png" alt="" width="955" height="442"></p>
-<p>Далее идет анализ других используемых адаптеров</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð¸Ð´ÐµÑ Ð°Ð½Ð°Ð»Ð¸Ð· Ð´ÑÑÐ³Ð¸Ñ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÐ¼ÑÑ Ð°Ð´Ð°Ð¿ÑÐµÑÐ¾Ð²</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/efd37025c51f82d7f3ba680eea2fab95.png" alt="" width="763" height="324"></p>
-<p>Добавляем хосты.</p>
+<p>ÐÐ¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ ÑÐ¾ÑÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3ec33370f0f431dde0a9ec3ee3bdc2e9.png" alt="" width="569" height="276"></p>
-<p>Теперь наши хосты ESXI подключены к одному распределенному коммутатору.</p>
-<p>Плюс данного коммутатора в том, что достаточно 1 раз создать нужные группы портов, со своими VLAN и данные настройки сети будут доступны на всех серверах ESXI, которые добавлены в коммутатор.</p>
-<p>Это намного удобнее чем настраивать сеть на каждом хосте ESXI.</p>
-<p>Перейдем к настройке порт групп.</p>
-<p>Создадим новую группу портов.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð°ÑÐ¸ ÑÐ¾ÑÑÑ ESXI Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½Ñ Ðº Ð¾Ð´Ð½Ð¾Ð¼Ñ ÑÐ°ÑÐ¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½Ð¾Ð¼Ñ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾ÑÑ.</p>
+<p>ÐÐ»ÑÑ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾ÑÐ° Ð² ÑÐ¾Ð¼, ÑÑÐ¾ Ð´Ð¾ÑÑÐ°ÑÐ¾ÑÐ½Ð¾ 1 ÑÐ°Ð· ÑÐ¾Ð·Ð´Ð°ÑÑ Ð½ÑÐ¶Ð½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ÑÑÐ¾Ð², ÑÐ¾ ÑÐ²Ð¾Ð¸Ð¼Ð¸ VLAN Ð¸ Ð´Ð°Ð½Ð½ÑÐµ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ ÑÐµÑÐ¸ Ð±ÑÐ´ÑÑ Ð´Ð¾ÑÑÑÐ¿Ð½Ñ Ð½Ð° Ð²ÑÐµÑ ÑÐµÑÐ²ÐµÑÐ°Ñ ESXI, ÐºÐ¾ÑÐ¾ÑÑÐµ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ñ Ð² ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾Ñ.</p>
+<p>Ð­ÑÐ¾ Ð½Ð°Ð¼Ð½Ð¾Ð³Ð¾ ÑÐ´Ð¾Ð±Ð½ÐµÐµ ÑÐµÐ¼ Ð½Ð°ÑÑÑÐ°Ð¸Ð²Ð°ÑÑ ÑÐµÑÑ Ð½Ð° ÐºÐ°Ð¶Ð´Ð¾Ð¼ ÑÐ¾ÑÑÐµ ESXI.</p>
+<p>ÐÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐµ Ð¿Ð¾ÑÑ Ð³ÑÑÐ¿Ð¿.</p>
+<p>Ð¡Ð¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð½Ð¾Ð²ÑÑ Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ÑÑÐ¾Ð².</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fa98e13baa3c4fce7b5992a6625af823.png" alt="" width="565" height="208"></p>
-<p>Указываем имя группы портов</p>
+<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð¸Ð¼Ñ Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ÑÑÐ¾Ð²</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2befb4f8f6fee184fddfddb838c80242.png" alt="" width="458" height="143"></p>
-<p>Указываем настройки группы портов.</p>
-<p>В данном случае число портов статическое, всего портов 8, VLAN 1001</p>
+<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ÑÑÐ¾Ð².</p>
+<p>Ð Ð´Ð°Ð½Ð½Ð¾Ð¼ ÑÐ»ÑÑÐ°Ðµ ÑÐ¸ÑÐ»Ð¾ Ð¿Ð¾ÑÑÐ¾Ð² ÑÑÐ°ÑÐ¸ÑÐµÑÐºÐ¾Ðµ, Ð²ÑÐµÐ³Ð¾ Ð¿Ð¾ÑÑÐ¾Ð² 8, VLAN 1001</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/643efa4e2444fe72982727e28ad54032.png" alt="" width="619" height="425"></p>
 <p> </p>
-<p>По аналогии создаем наши группы портов.</p>
+<p>ÐÐ¾ Ð°Ð½Ð°Ð»Ð¾Ð³Ð¸Ð¸ ÑÐ¾Ð·Ð´Ð°ÐµÐ¼ Ð½Ð°ÑÐ¸ Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ÑÑÐ¾Ð².</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fe05c02919fbe5de8d5f94129127fc63.png" alt="" width="267" height="303"></p>
-<p>Если в вашей инфраструктуре есть хосты использующие группы портов на стандартном Vswitch, то рассмотрим как мигрировать данные хосты и виртуальные машины на них, на распределенный коммутатор.</p>
-<p>Открываем настройки Vswitch на хосте, который собираемся мигрировать.</p>
+<p>ÐÑÐ»Ð¸ Ð² Ð²Ð°ÑÐµÐ¹ Ð¸Ð½ÑÑÐ°ÑÑÑÑÐºÑÑÑÐµ ÐµÑÑÑ ÑÐ¾ÑÑÑ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÑÑÐ¸Ðµ Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ÑÑÐ¾Ð² Ð½Ð° ÑÑÐ°Ð½Ð´Ð°ÑÑÐ½Ð¾Ð¼ Vswitch, ÑÐ¾ ÑÐ°ÑÑÐ¼Ð¾ÑÑÐ¸Ð¼ ÐºÐ°Ðº Ð¼Ð¸Ð³ÑÐ¸ÑÐ¾Ð²Ð°ÑÑ Ð´Ð°Ð½Ð½ÑÐµ ÑÐ¾ÑÑÑ Ð¸ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÐµ Ð¼Ð°ÑÐ¸Ð½Ñ Ð½Ð° Ð½Ð¸Ñ, Ð½Ð° ÑÐ°ÑÐ¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½ÑÐ¹ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾Ñ.</p>
+<p>ÐÑÐºÑÑÐ²Ð°ÐµÐ¼ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ Vswitch Ð½Ð° ÑÐ¾ÑÑÐµ, ÐºÐ¾ÑÐ¾ÑÑÐ¹ ÑÐ¾Ð±Ð¸ÑÐ°ÐµÐ¼ÑÑ Ð¼Ð¸Ð³ÑÐ¸ÑÐ¾Ð²Ð°ÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/01e4b9593d3a717202b3b5e0e692b1bf.png" alt="" width="857" height="316"></p>
-<p>Выбираем — Manage Physical Network adapters, и отключаем 1 физический адаптер</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ — Manage Physical Network adapters,Â Ð¸ Ð¾ÑÐºÐ»ÑÑÐ°ÐµÐ¼ 1 ÑÐ¸Ð·Ð¸ÑÐµÑÐºÐ¸Ð¹ Ð°Ð´Ð°Ð¿ÑÐµÑ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b27819b76a0170cd1c477c4ef7a53163.png" alt="" width="575" height="242"></p>
-<p>Теперь открываем настройки сети, и добавляем хост в распределенный коммутатор.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ Ð¾ÑÐºÑÑÐ²Ð°ÐµÐ¼ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ ÑÐµÑÐ¸, Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ ÑÐ¾ÑÑ Ð² ÑÐ°ÑÐ¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½ÑÐ¹ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾Ñ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c9eb1f0878408c20cd9bc20aa1319e6b.png" alt="" width="348" height="399"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/64c2066c8032dba073e58381c1cb93a4.png" alt="" width="444" height="208"></p>
-<p>Далее выбираем какие адаптеры мы будем настраивать и мигрировать.</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÐºÐ°ÐºÐ¸Ðµ Ð°Ð´Ð°Ð¿ÑÐµÑÑ Ð¼Ñ Ð±ÑÐ´ÐµÐ¼ Ð½Ð°ÑÑÑÐ°Ð¸Ð²Ð°ÑÑ Ð¸ Ð¼Ð¸Ð³ÑÐ¸ÑÐ¾Ð²Ð°ÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/48a0d6eded42764a836c44d5025b316b.png" alt="" width="909" height="524"></p>
-<p>Теперь назначаем физические адаптеры на группы портов распределенного коммутатора</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð°Ð·Ð½Ð°ÑÐ°ÐµÐ¼ ÑÐ¸Ð·Ð¸ÑÐµÑÐºÐ¸Ðµ Ð°Ð´Ð°Ð¿ÑÐµÑÑ Ð½Ð° Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ÑÑÐ¾Ð² ÑÐ°ÑÐ¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾ÑÐ°</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c9ac8bd6353e13e65cee1cf4e098d4fa.png" alt="" width="979" height="327"></p>
-<p>Далее назначаем управляющий интерфейс на группу портов распределенного коммутатора.</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð½Ð°Ð·Ð½Ð°ÑÐ°ÐµÐ¼ ÑÐ¿ÑÐ°Ð²Ð»ÑÑÑÐ¸Ð¹ Ð¸Ð½ÑÐµÑÑÐµÐ¹Ñ Ð½Ð° Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ÑÑÐ¾Ð² ÑÐ°ÑÐ¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð¼Ð¼ÑÑÐ°ÑÐ¾ÑÐ°.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b2e4015382fcbfbcf0ceab49c4f6fb8e.png" alt="" width="980" height="359"></p>
-<p>Теперь мигрируем сеть виртуальных машин.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ Ð¼Ð¸Ð³ÑÐ¸ÑÑÐµÐ¼ ÑÐµÑÑ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/77bced036241392c26e8646bb32558c3.png" alt="" width="978" height="364"></p>
-<p>Проверяем указанные настройки и запускаем процесс миграции.</p>
+<p>ÐÑÐ¾Ð²ÐµÑÑÐµÐ¼ ÑÐºÐ°Ð·Ð°Ð½Ð½ÑÐµ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ Ð¸ Ð·Ð°Ð¿ÑÑÐºÐ°ÐµÐ¼ Ð¿ÑÐ¾ÑÐµÑÑ Ð¼Ð¸Ð³ÑÐ°ÑÐ¸Ð¸.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/50fbe74e3f9ca3d90f7943cf5f99ef4d.png" alt="" width="592" height="305"></p>
-<p>Если все прошло успешно вы увидите успешное выполнение заданий.</p>
+<p>ÐÑÐ»Ð¸ Ð²ÑÐµ Ð¿ÑÐ¾ÑÐ»Ð¾ ÑÑÐ¿ÐµÑÐ½Ð¾ Ð²Ñ ÑÐ²Ð¸Ð´Ð¸ÑÐµ ÑÑÐ¿ÐµÑÐ½Ð¾Ðµ Ð²ÑÐ¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Ð·Ð°Ð´Ð°Ð½Ð¸Ð¹.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/82ea656b9f94c15d38e401597fed0c2b.png" alt="" width="507" height="151"></p>
-<p>На этом базовые настройки сети закончены.</p>
+<p>ÐÐ° ÑÑÐ¾Ð¼ Ð±Ð°Ð·Ð¾Ð²ÑÐµ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ ÑÐµÑÐ¸ Ð·Ð°ÐºÐ¾Ð½ÑÐµÐ½Ñ.</p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <!-- Home ittraveler --><br>
 <ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-1890562251101921" data-ad-slot="9117958896" data-ad-format="auto"></ins><br>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p>Перейдем к настройке общих хранилищ.</p>
-<p>Добавим на наши хосты <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">iscsi</a> хранилище.</p>
-<p>Открываем хост ESXI, далее вкладка manage, в ней выбираем storage.</p>
-<p>Добавляем Software ISCSI адаптер, если у нас нет физического адаптера.</p>
+<p>ÐÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐµ Ð¾Ð±ÑÐ¸Ñ ÑÑÐ°Ð½Ð¸Ð»Ð¸Ñ.</p>
+<p>ÐÐ¾Ð±Ð°Ð²Ð¸Ð¼ Ð½Ð° Ð½Ð°ÑÐ¸ ÑÐ¾ÑÑÑ <a href="../tag/iscsi/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ISCSI">iscsi</a> ÑÑÐ°Ð½Ð¸Ð»Ð¸ÑÐµ.</p>
+<p>ÐÑÐºÑÑÐ²Ð°ÐµÐ¼ ÑÐ¾ÑÑ ESXI, Ð´Ð°Ð»ÐµÐµ Ð²ÐºÐ»Ð°Ð´ÐºÐ° manage, Ð² Ð½ÐµÐ¹ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ storage.</p>
+<p>ÐÐ¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ Software ISCSI Ð°Ð´Ð°Ð¿ÑÐµÑ, ÐµÑÐ»Ð¸ Ñ Ð½Ð°Ñ Ð½ÐµÑ ÑÐ¸Ð·Ð¸ÑÐµÑÐºÐ¾Ð³Ð¾ Ð°Ð´Ð°Ð¿ÑÐµÑÐ°.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4edd064e8fe6688a31c60c4d6a808a55.png" alt="" width="571" height="302"></p>
-<p>Соглашаемся.</p>
+<p>Ð¡Ð¾Ð³Ð»Ð°ÑÐ°ÐµÐ¼ÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/faedb789dce3b93d94322130ab5d81ac.png" alt="" width="543" height="112"></p>
-<p>Теперь выбираем созданный адаптер, ниже выбираем вкладку Targets</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½Ð½ÑÐ¹ Ð°Ð´Ð°Ð¿ÑÐµÑ, Ð½Ð¸Ð¶Ðµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð²ÐºÐ»Ð°Ð´ÐºÑ Targets</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/bbad71e61c4cbc3109f6a8c3af2cae91.png" alt="" width="706" height="225"></p>
-<p>Указываем Dynamic discovery, и нажимаем add.</p>
+<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ DynamicÂ discovery, Ð¸ Ð½Ð°Ð¶Ð¸Ð¼Ð°ÐµÐ¼ add.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3642de1a47c63e0b967fa881548050d5.png" alt="" width="259" height="73"></p>
-<p>Далее указываете адрес вашего ISCSI хранилища.</p>
-<p>Теперь укажите учетные данные для подключения. Для этого нажмите кнопку Authentication</p>
-<p>В моем случае настройки выглядят так</p>
+<p>ÐÐ°Ð»ÐµÐµ ÑÐºÐ°Ð·ÑÐ²Ð°ÐµÑÐµ Ð°Ð´ÑÐµÑ Ð²Ð°ÑÐµÐ³Ð¾ ISCSI ÑÑÐ°Ð½Ð¸Ð»Ð¸ÑÐ°.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÐºÐ°Ð¶Ð¸ÑÐµ ÑÑÐµÑÐ½ÑÐµ Ð´Ð°Ð½Ð½ÑÐµ Ð´Ð»Ñ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½Ð¸Ñ. ÐÐ»Ñ ÑÑÐ¾Ð³Ð¾ Ð½Ð°Ð¶Ð¼Ð¸ÑÐµ ÐºÐ½Ð¾Ð¿ÐºÑ Authentication</p>
+<p>Ð Ð¼Ð¾ÐµÐ¼ ÑÐ»ÑÑÐ°Ðµ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ Ð²ÑÐ³Ð»ÑÐ´ÑÑ ÑÐ°Ðº</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c8c9d3427825fa1c840bceb68d22b101.png" alt="" width="573" height="236"></p>
-<p>Теперь нажимаем кнопку Rescan , после этого Lun будет подключен к хосту.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð°Ð¶Ð¸Ð¼Ð°ÐµÐ¼ ÐºÐ½Ð¾Ð¿ÐºÑ Rescan , Ð¿Ð¾ÑÐ»Ðµ ÑÑÐ¾Ð³Ð¾ Lun Ð±ÑÐ´ÐµÑ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½ Ðº ÑÐ¾ÑÑÑ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dce4c17226a22cb18b15532ab1e53403.png" alt="" width="190" height="64"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7d018f65e5edc11528295275a0957118.png" alt="" width="421" height="164"></p>
-<p>Теперь создадим Datastore с новым диском, подключенным по ISCSI ранее.</p>
-<p>Переходим в раздел Datastore, и выбираем add datastore</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Datastore Ñ Ð½Ð¾Ð²ÑÐ¼ Ð´Ð¸ÑÐºÐ¾Ð¼, Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½Ð½ÑÐ¼ Ð¿Ð¾ ISCSI ÑÐ°Ð½ÐµÐµ.</p>
+<p>ÐÐµÑÐµÑÐ¾Ð´Ð¸Ð¼ Ð² ÑÐ°Ð·Ð´ÐµÐ» Datastore, Ð¸ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ add datastore</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d0a63fd1163ad5e158b37d610c43ad28.png" alt="" width="530" height="303"></p>
-<p>Выбираем наш датацентр, выбираем VMFS</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð½Ð°Ñ Ð´Ð°ÑÐ°ÑÐµÐ½ÑÑ, Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ VMFS</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3e360e8073ad2c449db230c5474ab5b7.png" alt="" width="772" height="237"></p>
-<p>Выбираем хост с подключенным диском.</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐ¾ÑÑ Ñ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½Ð½ÑÐ¼ Ð´Ð¸ÑÐºÐ¾Ð¼.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e00aef105cf8ba11fc2d77e0d1a7bd5f.png" alt="" width="693" height="254"></p>
 <p> </p>
-<p>Выбираем VMFS 5 версии.</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ VMFS 5 Ð²ÐµÑÑÐ¸Ð¸.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c913e7db7f903fa2badbdfb69c068768.png" alt="" width="485" height="143"></p>
-<p>Используем весь датастор</p>
+<p>ÐÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÐ¼ Ð²ÐµÑÑ Ð´Ð°ÑÐ°ÑÑÐ¾Ñ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4e04c40ba8c2b16f9f4d92a9131df165.png" alt="" width="522" height="103"></p>
-<p>Проверяем параметры и создаем.</p>
+<p>ÐÑÐ¾Ð²ÐµÑÑÐµÐ¼ Ð¿Ð°ÑÐ°Ð¼ÐµÑÑÑ Ð¸ ÑÐ¾Ð·Ð´Ð°ÐµÐ¼.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fbbb299622b74db06ea6005f1e3985d7.png" alt="" width="405" height="253"></p>
-<p>Чтобы данный датастор был доступен на других хостах, нужно по аналогии добавить ISCSI адаптер и настроить подключение к данному LUN. Создавать датастор заново не нужно.</p>
-<p>Теперь создадим новый NFS датастор.</p>
-<p>Переходим в раздел Datastore.</p>
-<p>Создаем новый датастор</p>
+<p>Ð§ÑÐ¾Ð±Ñ Ð´Ð°Ð½Ð½ÑÐ¹ Ð´Ð°ÑÐ°ÑÑÐ¾Ñ Ð±ÑÐ» Ð´Ð¾ÑÑÑÐ¿ÐµÐ½ Ð½Ð° Ð´ÑÑÐ³Ð¸Ñ ÑÐ¾ÑÑÐ°Ñ, Ð½ÑÐ¶Ð½Ð¾ Ð¿Ð¾ Ð°Ð½Ð°Ð»Ð¾Ð³Ð¸Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð¸ÑÑ ISCSI Ð°Ð´Ð°Ð¿ÑÐµÑ Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¸ÑÑ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½Ð¸Ðµ Ðº Ð´Ð°Ð½Ð½Ð¾Ð¼Ñ LUN. Ð¡Ð¾Ð·Ð´Ð°Ð²Ð°ÑÑ Ð´Ð°ÑÐ°ÑÑÐ¾Ñ Ð·Ð°Ð½Ð¾Ð²Ð¾ Ð½Ðµ Ð½ÑÐ¶Ð½Ð¾.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð½Ð¾Ð²ÑÐ¹ NFS Ð´Ð°ÑÐ°ÑÑÐ¾Ñ.</p>
+<p>ÐÐµÑÐµÑÐ¾Ð´Ð¸Ð¼ Ð² ÑÐ°Ð·Ð´ÐµÐ» Datastore.</p>
+<p>Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ Ð½Ð¾Ð²ÑÐ¹ Ð´Ð°ÑÐ°ÑÑÐ¾Ñ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7743f665af59eb6cddd1fa3d65f4f861.png" alt="" width="535" height="270"></p>
-<p>Выбираем NFS.</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ NFS.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4a3da4daba4ca13d9073033dabe55888.png" alt="" width="754" height="233"></p>
-<p>Далее указываем настройки NFS сервера и хосты к которым мы подключим Datastore.</p>
+<p>ÐÐ°Ð»ÐµÐµ ÑÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ NFS ÑÐµÑÐ²ÐµÑÐ° Ð¸ ÑÐ¾ÑÑÑ Ðº ÐºÐ¾ÑÐ¾ÑÑÐ¼ Ð¼Ñ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐ¸Ð¼ Datastore.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/cfd2837ef0d58dc0d2de654d51d61db9.png" alt="" width="898" height="257"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2e188d132b3d8d8dfafe6a5c63270109.png" alt="" width="652" height="266"></p>
-<p>После этого подключаем датастор.</p>
-<p>Теперь перейдем к созданию виртуальной машины.</p>
-<p>Перейдем в раздел VM and Templates.</p>
-<p>Создадим новый подкаталог для виртуальных машин.</p>
+<p>ÐÐ¾ÑÐ»Ðµ ÑÑÐ¾Ð³Ð¾ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐ°ÐµÐ¼ Ð´Ð°ÑÐ°ÑÑÐ¾Ñ.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ Ð¿ÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ð¹ Ð¼Ð°ÑÐ¸Ð½Ñ.</p>
+<p>ÐÐµÑÐµÐ¹Ð´ÐµÐ¼ Ð² ÑÐ°Ð·Ð´ÐµÐ» VM and Templates.</p>
+<p>Ð¡Ð¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð½Ð¾Ð²ÑÐ¹ Ð¿Ð¾Ð´ÐºÐ°ÑÐ°Ð»Ð¾Ð³ Ð´Ð»Ñ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7e3d01dbe7ab68a8cb0ccf6d943d7739.png" alt="" width="558" height="216"></p>
 <p> </p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9d0a318fc7f129953bb29b1b052331d0.png" alt="" width="208" height="126"></p>
 <p> </p>
-<p>Теперь создадим новую виртуальную машину.</p>
+<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð½Ð¾Ð²ÑÑ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½Ñ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/71ab390dd519704c45c0e572c519ac62.png" alt="" width="432" height="200"></p>
-<p>Выбираем создание новой VM</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾Ð¹ VM</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/40dbea453497e60226a117ca72a535c4.png" alt="" width="272" height="171"></p>
-<p>Указываем имя</p>
+<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð¸Ð¼Ñ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/15d0740649acb61e9fdf0f92ed7f2924.png" alt="" width="263" height="215"></p>
-<p>Выбираем хост на котором будет работать виртуальная машина.</p>
+<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐ¾ÑÑ Ð½Ð° ÐºÐ¾ÑÐ¾ÑÐ¾Ð¼ Ð±ÑÐ´ÐµÑ ÑÐ°Ð±Ð¾ÑÐ°ÑÑ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð°Ñ Ð¼Ð°ÑÐ¸Ð½Ð°.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/292f09b0231795e96f2930c4d575c7ce.png" alt="" width="272" height="375"></p>
-<p>Далее выбираем общий датастор</p>
+<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð¾Ð±ÑÐ¸Ð¹ Ð´Ð°ÑÐ°ÑÑÐ¾Ñ</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/519bb868fa354030d9e47debe1e97f72.png" alt="" width="394" height="455"></p>
-<p>Указываем совместимость с хостами ESXI.</p>
+<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ ÑÐ¾Ð²Ð¼ÐµÑÑÐ¸Ð¼Ð¾ÑÑÑ Ñ ÑÐ¾ÑÑÐ°Ð¼Ð¸ ESXI.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/04aba27c185730c69834c2996bfd6b3a.png" alt="" width="279" height="168"></p>
-<p>Указываем гостевую ОС</p>
+<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð³Ð¾ÑÑÐµÐ²ÑÑ ÐÐ¡</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1aab6c8aa80de9e0102ef7338d1e294e.png" alt="" width="592" height="272"></p>
-<p>Настраиваем виртуальное железо нашей виртуальной машины.</p>
+<p>ÐÐ°ÑÑÑÐ°Ð¸Ð²Ð°ÐµÐ¼ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ðµ Ð¶ÐµÐ»ÐµÐ·Ð¾ Ð½Ð°ÑÐµÐ¹ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ð¹ Ð¼Ð°ÑÐ¸Ð½Ñ.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5f5f6e8918c691f6c65b311e04f7a1c9.png" alt="" width="470" height="450"></p>
-<p>Проверяем настройки, и запускаем процесс создания виртуальной машины.</p>
-<p>На этом базовую настройку Vcenter можно считать законченной.</p>
-<p>В следующей статье мы рассмотрим настройку <a href="../tag/ha/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with HA">ha</a> и многое другое.</p>
-<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=463.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка Citrix XenServer Часть 1." style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка Citrix XenServer Часть 1.</div></div></a><a class="relpost-block-single" href="../index.html@p=750.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Выполняем команды внутри гостевых ОС через PowerCLI" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Выполняем команды внутри гостевых ОС через PowerCLI</div></div></a><a class="relpost-block-single" href="../index.html@p=490.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка Citrix XenServer Часть 4." style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка Citrix XenServer Часть 4.</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
+<p>ÐÑÐ¾Ð²ÐµÑÑÐµÐ¼ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸, Ð¸ Ð·Ð°Ð¿ÑÑÐºÐ°ÐµÐ¼ Ð¿ÑÐ¾ÑÐµÑÑ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ð¹ Ð¼Ð°ÑÐ¸Ð½Ñ.</p>
+<p>ÐÐ° ÑÑÐ¾Ð¼ Ð±Ð°Ð·Ð¾Ð²ÑÑ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÑ Vcenter Ð¼Ð¾Ð¶Ð½Ð¾ ÑÑÐ¸ÑÐ°ÑÑ Ð·Ð°ÐºÐ¾Ð½ÑÐµÐ½Ð½Ð¾Ð¹.</p>
+<p>Ð ÑÐ»ÐµÐ´ÑÑÑÐµÐ¹ ÑÑÐ°ÑÑÐµ Ð¼Ñ ÑÐ°ÑÑÐ¼Ð¾ÑÑÐ¸Ð¼ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÑ <a href="../tag/ha/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with HA">ha</a> Ð¸ Ð¼Ð½Ð¾Ð³Ð¾Ðµ Ð´ÑÑÐ³Ð¾Ðµ.</p>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=1276.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="QEMU/KVM Ð¿ÑÐ¾Ð±ÑÐ¾Ñ ÑÐ¸Ð·Ð¸ÑÐµÑÐºÐ¾Ð³Ð¾ Ð´Ð¸ÑÐºÐ° Ð³Ð¸Ð¿ÐµÐ²Ð¸Ð·Ð¾ÑÐ° Ð² Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½Ñ" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">QEMU/KVM Ð¿ÑÐ¾Ð±ÑÐ¾Ñ ÑÐ¸Ð·Ð¸ÑÐµÑÐºÐ¾Ð³Ð¾ Ð´Ð¸ÑÐºÐ° Ð³Ð¸Ð¿ÐµÐ²Ð¸Ð·Ð¾ÑÐ° Ð² Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½Ñ</div></div></a><a class="relpost-block-single" href="../index.html@p=428.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ° VMWare Vsphere 6. Ð§Ð°ÑÑÑ 5" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ° VMWare Vsphere 6. Ð§Ð°ÑÑÑ 5</div></div></a><a class="relpost-block-single" href="../index.html@p=1164.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="ÐÐµÑÐµÐ½Ð¾Ñ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ð¹ Ð¼Ð°ÑÐ¸Ð½Ñ Ð¸Ð· Hyper-V Ð² Proxmox (KVM)" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">ÐÐµÑÐµÐ½Ð¾Ñ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ð¹ Ð¼Ð°ÑÐ¸Ð½Ñ Ð¸Ð· Hyper-V Ð² Proxmox (KVM)</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
         <div class="post-info">
 
             <div class="left"> <a href="../category/virtualizaciya/index.html" rel="category tag">Виртуализация</a> </div>
@@ -819,7 +819,7 @@ LSI Logic SAS &#8212; можно использовать поумолчанию
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='356' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='1168' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="21a03b58f8" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="88"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="295c7b6f46" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="178"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->
