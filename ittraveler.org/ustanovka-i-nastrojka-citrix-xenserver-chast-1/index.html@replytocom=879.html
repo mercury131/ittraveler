@@ -61,7 +61,7 @@
 		<meta name="twitter:description" content="В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.Перейдем к установке гипервизора. Скачиваем дистрибутив с официального сайта - тут. Посмотреть возможности XenServer можно на этой странице. Начнем. Загружаемся с установочного диска. Выбираем раскладку клавиатуры. Далее XenServer предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера" />
 		<meta name="google" content="nositelinkssearchbox" />
 		<script type="application/ld+json" class="aioseo-schema">
-			{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#article","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1. | IT Traveler","headline":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1.","author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"publisher":{"@id":"http:\/\/ittraveler.org\/#organization"},"image":{"@type":"ImageObject","url":"http:\/\/i.gyazo.com\/701a607a53add183fcb211b250ce6535.png","@id":"http:\/\/ittraveler.org\/#articleImage"},"datePublished":"2015-05-22T17:13:57+03:00","dateModified":"2017-06-08T12:40:18+03:00","inLanguage":"ru-RU","commentCount":3,"mainEntityOfPage":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage"},"isPartOf":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage"},"articleSection":"\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f, XenServer, \u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f"},{"@type":"BreadcrumbList","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/#listItem","position":1,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","url":"http:\/\/ittraveler.org\/"},"nextItem":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#listItem"},{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#listItem","position":2,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1.","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0446\u0438\u043a\u043b\u0435 \u0441\u0442\u0430\u0442\u0435\u0439, \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043d\u0430 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0435 XenServer.\u041f\u0435\u0440\u0435\u0439\u0434\u0435\u043c \u043a \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0430. \u0421\u043a\u0430\u0447\u0438\u0432\u0430\u0435\u043c \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 - \u0442\u0443\u0442. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 XenServer \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435. \u041d\u0430\u0447\u043d\u0435\u043c. \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c\u0441\u044f \u0441 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0430. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u0443 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u044b. \u0414\u0430\u043b\u0435\u0435 XenServer \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0430\u0435\u0442 \u0447\u0442\u043e \u0432\u0441\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430\u0445 \u0431\u0443\u0434\u0443\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u044b, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430","url":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/"},"previousItem":"http:\/\/ittraveler.org\/#listItem"}]},{"@type":"Organization","@id":"http:\/\/ittraveler.org\/#organization","name":"IT Traveler","url":"http:\/\/ittraveler.org\/"},{"@type":"Person","@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author","url":"http:\/\/ittraveler.org\/author\/mercury131\/","name":"Admin","image":{"@type":"ImageObject","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#authorImage","url":"http:\/\/0.gravatar.com\/avatar\/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}},{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage","url":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1. | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0446\u0438\u043a\u043b\u0435 \u0441\u0442\u0430\u0442\u0435\u0439, \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043d\u0430 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0435 XenServer.\u041f\u0435\u0440\u0435\u0439\u0434\u0435\u043c \u043a \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0430. \u0421\u043a\u0430\u0447\u0438\u0432\u0430\u0435\u043c \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 - \u0442\u0443\u0442. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 XenServer \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435. \u041d\u0430\u0447\u043d\u0435\u043c. \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c\u0441\u044f \u0441 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0430. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u0443 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u044b. \u0414\u0430\u043b\u0435\u0435 XenServer \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0430\u0435\u0442 \u0447\u0442\u043e \u0432\u0441\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430\u0445 \u0431\u0443\u0434\u0443\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u044b, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430","inLanguage":"ru-RU","isPartOf":{"@id":"http:\/\/ittraveler.org\/#website"},"breadcrumb":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#breadcrumblist"},"author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"creator":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"datePublished":"2015-05-22T17:13:57+03:00","dateModified":"2017-06-08T12:40:18+03:00"},{"@type":"WebSite","@id":"http:\/\/ittraveler.org\/#website","url":"http:\/\/ittraveler.org\/","name":"IT Traveler","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","inLanguage":"ru-RU","publisher":{"@id":"http:\/\/ittraveler.org\/#organization"}}]}
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#article","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1. | IT Traveler","headline":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1.","author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"publisher":{"@id":"http:\/\/ittraveler.org\/#organization"},"image":{"@type":"ImageObject","url":"http:\/\/i.gyazo.com\/701a607a53add183fcb211b250ce6535.png","@id":"http:\/\/ittraveler.org\/#articleImage"},"datePublished":"2015-05-22T17:13:57+03:00","dateModified":"2017-06-08T12:40:18+03:00","inLanguage":"ru-RU","commentCount":3,"mainEntityOfPage":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage"},"isPartOf":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage"},"articleSection":"\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f, XenServer, \u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f"},{"@type":"BreadcrumbList","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/#listItem","position":1,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","url":"http:\/\/ittraveler.org\/"},"nextItem":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#listItem"},{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#listItem","position":2,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1.","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0446\u0438\u043a\u043b\u0435 \u0441\u0442\u0430\u0442\u0435\u0439, \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043d\u0430 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0435 XenServer.\u041f\u0435\u0440\u0435\u0439\u0434\u0435\u043c \u043a \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0430. \u0421\u043a\u0430\u0447\u0438\u0432\u0430\u0435\u043c \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 - \u0442\u0443\u0442. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 XenServer \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435. \u041d\u0430\u0447\u043d\u0435\u043c. \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c\u0441\u044f \u0441 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0430. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u0443 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u044b. \u0414\u0430\u043b\u0435\u0435 XenServer \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0430\u0435\u0442 \u0447\u0442\u043e \u0432\u0441\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430\u0445 \u0431\u0443\u0434\u0443\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u044b, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430","url":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/"},"previousItem":"http:\/\/ittraveler.org\/#listItem"}]},{"@type":"Organization","@id":"http:\/\/ittraveler.org\/#organization","name":"IT Traveler","url":"http:\/\/ittraveler.org\/"},{"@type":"Person","@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author","url":"http:\/\/ittraveler.org\/author\/mercury131\/","name":"Admin","image":{"@type":"ImageObject","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#authorImage","url":"http:\/\/0.gravatar.com\/avatar\/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}},{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage","url":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1. | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0446\u0438\u043a\u043b\u0435 \u0441\u0442\u0430\u0442\u0435\u0439, \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043d\u0430 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0435 XenServer.\u041f\u0435\u0440\u0435\u0439\u0434\u0435\u043c \u043a \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0430. \u0421\u043a\u0430\u0447\u0438\u0432\u0430\u0435\u043c \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 - \u0442\u0443\u0442. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 XenServer \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435. \u041d\u0430\u0447\u043d\u0435\u043c. \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c\u0441\u044f \u0441 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0430. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u0443 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u044b. \u0414\u0430\u043b\u0435\u0435 XenServer \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0430\u0435\u0442 \u0447\u0442\u043e \u0432\u0441\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430\u0445 \u0431\u0443\u0434\u0443\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u044b, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430","inLanguage":"ru-RU","isPartOf":{"@id":"http:\/\/ittraveler.org\/#website"},"breadcrumb":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#breadcrumblist"},"author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"creator":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"datePublished":"2015-05-22T17:13:57+03:00","dateModified":"2017-06-08T12:40:18+03:00"},{"@type":"WebSite","@id":"http:\/\/ittraveler.org\/#website","url":"http:\/\/ittraveler.org\/","name":"IT Traveler","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","inLanguage":"ru-RU","publisher":{"@id":"http:\/\/ittraveler.org\/#organization"}}]}
 		</script>
 		<!-- All in One SEO -->
 
@@ -273,122 +273,122 @@ body.custom-background { background-color: #cecece; }
 
 
 
-	<p>Ð Ð´Ð°Ð½Ð½Ð¾Ð¼ ÑÐ¸ÐºÐ»Ðµ ÑÑÐ°ÑÐµÐ¹, Ð¼Ñ ÑÐ°ÑÑÐ¼Ð¾ÑÑÐ¸Ð¼ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÑ Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÑ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ð¹ ÑÑÐµÐ´Ñ Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð½Ð¾Ð¹ Ð½Ð° Ð³Ð¸Ð¿ÐµÑÐ²Ð¸Ð·Ð¾ÑÐµ <a href="../tag/xenserver/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with XenServer">xenserver</a>.<span id="more-463"></span>ÐÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐµ Ð³Ð¸Ð¿ÐµÑÐ²Ð¸Ð·Ð¾ÑÐ°.</p>
-<p>Ð¡ÐºÐ°ÑÐ¸Ð²Ð°ÐµÐ¼ Ð´Ð¸ÑÑÑÐ¸Ð±ÑÑÐ¸Ð² Ñ Ð¾ÑÐ¸ÑÐ¸Ð°Ð»ÑÐ½Ð¾Ð³Ð¾ ÑÐ°Ð¹ÑÐ° — <a href="http://xenserver.org/open-source-virtualization-download.html" target="_blank" rel="noopener noreferrer">ÑÑÑ</a>.</p>
-<p>ÐÐ¾ÑÐ¼Ð¾ÑÑÐµÑÑ Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑÐ¸ XenServer Ð¼Ð¾Ð¶Ð½Ð¾ Ð½Ð° <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/open-source-virtualization-features.html" target="_blank" rel="noopener noreferrer">ÑÑÐ¾Ð¹</a> ÑÑÑÐ°Ð½Ð¸ÑÐµ.</p>
-<p>ÐÐ°ÑÐ½ÐµÐ¼. ÐÐ°Ð³ÑÑÐ¶Ð°ÐµÐ¼ÑÑ Ñ ÑÑÑÐ°Ð½Ð¾Ð²Ð¾ÑÐ½Ð¾Ð³Ð¾ Ð´Ð¸ÑÐºÐ°.</p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐ°ÑÐºÐ»Ð°Ð´ÐºÑ ÐºÐ»Ð°Ð²Ð¸Ð°ÑÑÑÑ.</p>
+	<p>В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре <a href="../tag/xenserver/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with XenServer">xenserver</a>.<span id="more-463"></span>Перейдем к установке гипервизора.</p>
+<p>Скачиваем дистрибутив с официального сайта — <a href="http://xenserver.org/open-source-virtualization-download.html" target="_blank" rel="noopener noreferrer">тут</a>.</p>
+<p>Посмотреть возможности XenServer можно на <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/open-source-virtualization-features.html" target="_blank" rel="noopener noreferrer">этой</a> странице.</p>
+<p>Начнем. Загружаемся с установочного диска.</p>
+<p>Выбираем раскладку клавиатуры.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/701a607a53add183fcb211b250ce6535.png" alt="" width="714" height="400"></p>
-<p>ÐÐ°Ð»ÐµÐµ XenServer Ð¿ÑÐµÐ´ÑÐ¿ÑÐµÐ¶Ð´Ð°ÐµÑ ÑÑÐ¾ Ð²ÑÐµ Ð´Ð°Ð½Ð½ÑÐµ Ð½Ð° Ð´Ð¸ÑÐºÐ°Ñ Ð±ÑÐ´ÑÑ ÑÐ½Ð¸ÑÑÐ¾Ð¶ÐµÐ½Ñ, ÑÐ°ÐºÐ¶Ðµ Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÑ ÑÐ¿ÐµÑÐ¸Ð°Ð»ÑÐ½ÑÐµ Ð´ÑÐ°Ð¹Ð²ÐµÑÐ° Ð½Ð°Ð¶Ð°Ð² F9 ÐµÑÐ»Ð¸ ÑÑÐ¾ Ð½ÐµÐ¾Ð±ÑÐ¾Ð´Ð¸Ð¼Ð¾.</p>
+<p>Далее XenServer предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера нажав F9 если это необходимо.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d59936c08e5753a0e1c12e2e5e9b9ad5.png" alt="" width="713" height="399"></p>
-<p>ÐÑÐ¸Ð½Ð¸Ð¼Ð°ÐµÐ¼ ÑÐ¾Ð³Ð»Ð°ÑÐµÐ½Ð¸Ðµ.</p>
+<p>Принимаем соглашение.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/04c319d3ed9954a6a27c709f1d97b85a.png" alt="" width="712" height="395"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð´Ð¸ÑÐº Ð½Ð° ÐºÐ¾ÑÐ¾ÑÐ¾Ð¼ Ð±ÑÐ´ÐµÑ ÑÐ°ÑÐ¿Ð¾Ð»Ð°Ð³Ð°ÑÑÑÑ ÑÑÐ°Ð½Ð¸Ð»Ð¸ÑÐµ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½. ÐÑÐ»Ð¸ Ð½ÐµÐ¾Ð±ÑÐ¾Ð´Ð¸Ð¼Ð¾ ÑÑÐ°Ð½Ð¸Ð»Ð¸ÑÐµ ÐºÐ¾ÑÐ¾ÑÐ¾Ðµ Ð±ÑÐ´ÐµÑ ÑÐ°ÑÑÐ¸ÑÑÑÑÑÑ Ð´Ð¸Ð½Ð°Ð¼Ð¸ÑÐµÑÐºÐ¸, Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Thin provisioning.</p>
+<p>Далее выбираем диск на котором будет располагаться хранилище виртуальных машин. Если необходимо хранилище которое будет расширяться динамически, выбираем Thin provisioning.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/af4e3493ff602e58c793cb4c0e67329a.png" alt="" width="716" height="396"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð¿ÑÑÑ ÑÐ°Ð¹Ð»Ð¾Ð² ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸. Ð Ð½Ð°ÑÐµÐ¼ ÑÐ»ÑÑÐ°Ðµ ÑÑÐ¾ Ð»Ð¾ÐºÐ°Ð»ÑÐ½Ð¾Ðµ ÑÑÐ°Ð½Ð¸Ð»Ð¸ÑÐµ.</p>
+<p>Далее выбираем путь файлов установки. В нашем случае это локальное хранилище.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8dd003c72b5ee8b082b9a4d98706a460.png" alt="" width="711" height="400"></p>
-<p>ÐÑÐ»Ð¸ Ñ Ð²Ð°Ñ Ð¾ÑÑÑÑÑÑÐ²ÑÐµÑ Supplemental Pack (Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸ÑÐµÐ»ÑÐ½ÑÐµ ÐºÐ¾Ð¼Ð¿Ð¾Ð½ÐµÐ½ÑÑ XenServer) Ð½Ð°Ð¶Ð¸Ð¼Ð°ÐµÐ¼ No.</p>
+<p>Если у вас отсутствует Supplemental Pack (дополнительные компоненты XenServer) нажимаем No.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d7564dfe3987fc67a9b87cf2c6394104.png" alt="" width="710" height="397"></p>
-<p>ÐÑÐ¾Ð¿ÑÑÐºÐ°ÐµÐ¼ Ð¿ÑÐ¾Ð²ÐµÑÐºÑ ÑÑÑÐ°Ð½Ð¾Ð²Ð¾ÑÐ½Ð¾Ð³Ð¾ Ð´Ð¸ÑÐºÐ°, Ñ.Ðº. Ð¼Ñ ÑÐ²ÐµÑÐµÐ½Ñ ÑÑÐ¾ Ð¾Ð½ Ð½Ð° 100% ÑÐ°Ð±Ð¾ÑÐ¸Ð¹ =)</p>
+<p>Пропускаем проверку установочного диска, т.к. мы уверены что он на 100% рабочий =)</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c8bfde28c6f03e31717b60282f17a800.png" alt="" width="715" height="401"></p>
-<p>ÐÐ²Ð¾Ð´Ð¸Ð¼ Ð¿Ð°ÑÐ¾Ð»Ñ root.</p>
+<p>Вводим пароль root.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/942a4ffb4a0905b576722e564a5b97e5.png" alt="" width="709" height="398"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ ÑÐµÑÐµÐ²Ð¾Ð¹ Ð¸Ð½ÑÐµÑÑÐµÐ¹Ñ Ð´Ð»Ñ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐµÑÐ²ÐµÑÐ¾Ð¼.</p>
+<p>Указываем сетевой интерфейс для управления сервером.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7b7425c482518d6ea110d92e8c0fd18e.png" alt="" width="714" height="399"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ ÑÐµÑÐµÐ²ÑÐµ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ Ð´Ð»Ñ ÑÐ¿ÑÐ°Ð²Ð»ÑÑÑÐµÐ³Ð¾ Ð¸Ð½ÑÐµÑÑÐµÐ¹ÑÐ°.</p>
+<p>Указываем сетевые настройки для управляющего интерфейса.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/916751701e7e0b8c7cc6c83804614e01.png" alt="" width="713" height="399"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Hostname Ð¸ <a href="../tag/dns/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DNS">dns</a> ÑÐµÑÐ²ÐµÑÐ°.</p>
+<p>Указываем Hostname и <a href="../tag/dns/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DNS">dns</a> сервера.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/215ea8c49f5f239ee48dcbb3e6d6cbb2.png" alt="" width="715" height="397"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð²ÑÐµÐ¼ÐµÐ½Ð½ÑÑ Ð·Ð¾Ð½Ñ.</p>
+<p>Указываем временную зону.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5a351a5e65e7c664041756344068e6d5.png" alt="" width="718" height="399"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð´Ð»Ñ ÑÐ¸Ð½ÑÑÐ¾Ð½Ð¸Ð·Ð°ÑÐ¸Ð¸ Ð²ÑÐµÐ¼ÐµÐ½Ð¸ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ NTP.</p>
+<p>Далее для синхронизации времени выбираем NTP.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/18628dd05e05f1bf4ea2fb6e1b25ab73.png" alt="" width="716" height="399"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð°Ð´ÑÐµÑÐ° NTP ÑÐµÑÐ²ÐµÑÐ¾Ð².</p>
+<p>Указываем адреса NTP серверов.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fbfcb76ab8e9feafa69a8bfba99476f9.png" alt="" width="715" height="397"></p>
-<p>ÐÐ¾Ð´ÑÐ²ÐµÑÐ¶Ð´Ð°ÐµÐ¼ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÑ XenServer.</p>
+<p>Подтверждаем установку XenServer.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4fe541d096da69e01938aee56739328e.png" alt="" width="714" height="403"></p>
-<p>ÐÐ¶Ð¸Ð´Ð°ÐµÐ¼ Ð¾ÐºÐ¾Ð½ÑÐ°Ð½Ð¸Ñ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸.</p>
+<p>Ожидаем окончания установки.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/aed9982fdb0b6db4d1d660ab075ef870.png" alt="" width="720" height="403"></p>
-<p>ÐÐ¾ÑÐ»Ðµ Ð¾ÐºÐ¾Ð½ÑÐ°Ð½Ð¸Ñ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸ Ð¿ÐµÑÐµÐ·Ð°Ð³ÑÑÐ¶Ð°ÐµÐ¼ÑÑ.</p>
+<p>После окончания установки перезагружаемся.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/aaff0f4321ee5d01159a41d500d96a6b.png" alt="" width="710" height="397"></p>
-<p>ÐÐ¾ÑÐ»Ðµ Ð·Ð°Ð³ÑÑÐ·ÐºÐ¸ ÑÐµÑÐ²ÐµÑÐ°Â  ÑÑÑÐ°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÐµÐ¼ Citrix XenCenter.Â  ÐÐºÑÑÐ°Ð»ÑÐ½ÑÑ Ð²ÐµÑÑÐ¸Ñ Ð¼Ð¾Ð¶Ð½Ð¾ Ð½Ð°Ð¹ÑÐ¸ <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/download.html" target="_blank" rel="noopener noreferrer">ÑÑÑ</a> (Windows Management Console).</p>
+<p>После загрузки сервера  устанавливаем Citrix XenCenter.  Актуальную версию можно найти <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/download.html" target="_blank" rel="noopener noreferrer">тут</a> (Windows Management Console).</p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <!-- Home ittraveler --><br>
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1890562251101921" data-ad-slot="9117958896" data-ad-format="auto"></ins><br>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p>ÐÐ°Ð¿ÑÑÐºÐ°ÐµÐ¼ XenCenter, Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Add New Server.</p>
+<p>Запускаем XenCenter, выбираем Add New Server.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/659c2b4a2dac96279abc04ee2f232bb1.png" alt="" width="398" height="150"></p>
-<p>ÐÐ²Ð¾Ð´Ð¸Ð¼ ip Ð°Ð´ÑÐµÑ ÑÑÑÐ°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ð¾Ð³Ð¾ ÑÐµÑÐ²ÐµÑÐ° Ð¸ Ð»Ð¾Ð³Ð¸Ð½ Ñ Ð¿Ð°ÑÐ¾Ð»ÐµÐ¼.</p>
+<p>Вводим ip адрес установленного сервера и логин с паролем.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/470cce033d3fa3ed2a10e6c93b9060f5.png" alt="" width="421" height="252"></p>
-<p>ÐÐ¾ÑÐ»Ðµ ÑÑÐ¾Ð³Ð¾ Ð² ÐºÐ¾Ð½ÑÐ¾Ð»Ð¸ Ð¿Ð¾ÑÐ²Ð¸ÑÑÑ Ð½Ð°Ñ XenServer.</p>
+<p>После этого в консоли появится наш XenServer.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0d8684567029ba75f44e8117f8e7208c.png" alt="" width="214" height="136"></p>
-<p>ÐÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐµ SP1.</p>
-<p>Ð¡ÐºÐ°ÑÐ¸Ð²Ð°Ð¼ Ð¸ ÑÐ°ÑÐ¿Ð°ÐºÐ¾Ð²ÑÐ²Ð°ÐµÐ¼ SP1. Ð¡ÐºÐ°ÑÐ°ÑÑ Ð¼Ð¾Ð¶Ð½Ð¾ <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/download.html" target="_blank" rel="noopener noreferrer">Ð¾ÑÑÑÐ´Ð°</a>.</p>
-<p>Ð Ð¼ÐµÐ½Ñ XenCenter Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Tools — Install Update.</p>
+<p>Перейдем к установке SP1.</p>
+<p>Скачивам и распаковываем SP1. Скачать можно <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/download.html" target="_blank" rel="noopener noreferrer">отсюда</a>.</p>
+<p>В меню XenCenter выбираем Tools — Install Update.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1a389ab9c86c380b6a407f98da4368ba.png" alt="" width="177" height="136"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ SP1.</p>
+<p>Выбираем SP1.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ef11f57c9b41e8fbc73f22efd7d104f.png" alt="" width="806" height="507"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ Xen ÑÐ¾ÑÑ.</p>
+<p>Выбираем Xen хост.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8bd0a62a66f9eb6b7171c9c03fdf34b2.png" alt="" width="815" height="517"></p>
-<p>Ð¡Ð»ÐµÐ´ÑÑÑÐ¸Ð¼ ÑÐ°Ð³Ð¾Ð¼ Ð·Ð°Ð³ÑÑÐ¶Ð°ÐµÐ¼ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ Ð½Ð° ÑÐµÑÐ²ÐµÑ. ÐÐ°Ð¼ÐµÑÑÑÐµ, Ð¸ÐºÐ¾Ð½ÐºÐ° ÑÐµÑÐ²ÐµÑÐ° Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»Ð°ÑÑ.</p>
+<p>Следующим шагом загружаем обновление на сервер. Заметьте, иконка сервера изменилась.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e795bfa765f474156872ebefb221bdcf.png" alt="" width="816" height="539"></p>
-<p>ÐÑÐ¾ÑÐ¾Ð´Ð¸Ð¼ Ð¿ÑÐ¾Ð²ÐµÑÐºÑ, Ð¸ Ð½Ð°Ð¶Ð¸Ð¼Ð°ÐµÐ¼ Next.</p>
+<p>Проходим проверку, и нажимаем Next.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/216e9ab994f9179e7ff2853fdd53238f.png" alt="" width="811" height="509"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð¿ÑÐµÐ´Ð¾ÑÑÐ°Ð²Ð¸Ð¼ XenCenter Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑÑ ÑÐ°Ð¼Ð¾Ð¼Ñ Ð·Ð°Ð¿ÑÑÑÐ¸ÑÑ Ð¿ÑÐ¾ÑÐµÑÑ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ. ÐÐ°Ð¶Ð¸Ð¼Ð°ÐµÐ¼ Install Update.</p>
+<p>Далее предоставим XenCenter возможность самому запустить процесс установки обновления. Нажимаем Install Update.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/26454cd67feba7d323ae584248d464f7.png" alt="" width="805" height="510"></p>
-<p>ÐÐ´ÐµÐ¼ Ð¾ÐºÐ¾Ð½ÑÐ°Ð½Ð¸Ñ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸.</p>
+<p>Ждем окончания установки.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8004f12fd18cba7d6a1174f721c631fe.png" alt="" width="811" height="506"></p>
-<p>ÐÐ¾ Ð²ÑÐµÐ¼Ñ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸ ÑÐ¾ÑÑ Xen Ð±ÑÐ´ÐµÑ Ð¿ÐµÑÐµÐ·Ð°Ð³ÑÑÐ¶ÐµÐ½. ÐÐ¾ÑÐ»Ðµ Ð¿ÐµÑÐµÐ·Ð°Ð³ÑÑÐ·ÐºÐ¸ XenCenter Ð·Ð°Ð¿ÑÑÑÐ¸Ñ ÑÐºÑÐ¸Ð¿ÑÑ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð¸ Ð·Ð°Ð²ÐµÑÑÐ¸Ñ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÑ.</p>
+<p>Во время установки хост Xen будет перезагружен. После перезагрузки XenCenter запустит скрипты обновления и завершит установку.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/48bff77a06d06385a6966569b3b99b8a.png" alt="" width="812" height="512"></p>
-<p>ÐÐ° ÑÑÐ¾Ð¼ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ° SP1 Ð·Ð°Ð²ÐµÑÑÐµÐ½Ð°. ÐÐ¾Ð¶ÐµÑÐµ Ð¾Ð±ÑÐ°ÑÐ¸ÑÑ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ ÑÑÐ¾ Ð¿Ð¾ÑÐ»Ðµ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸ SP1 , Ð¿Ð¾ÑÐ²Ð»ÑÐµÑÑÑ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÐ° windows 10.</p>
+<p>На этом установка SP1 завершена. Можете обратить внимание что после установки SP1 , появляется поддержка windows 10.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/990017d52a01bce8c3a7c845841d9c1b.png" alt="" width="655" height="453"></p>
-<p>ÐÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ°Ð¼ ÑÐµÑÐ¸. ÐÑÐºÑÑÐ²Ð°ÐµÐ¼ ÑÐ¾ÑÑ Xen Ð¸ Ð¾ÑÐºÑÑÐ²Ð°ÐµÐ¼ ÑÐ°Ð·Ð´ÐµÐ» networking.</p>
+<p>Перейдем к настройкам сети. Открываем хост Xen и открываем раздел networking.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/cbf5ccc57cb2a54076f317226882dda5.png" alt="" width="449" height="150"></p>
-<p>ÐÐ°Ð¶Ð¸Ð¼Ð°ÐµÐ¼ add network.</p>
+<p>Нажимаем add network.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/38aaa8c1776f814bad3b6575e061571a.png" alt="" width="490" height="433"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð¼Ñ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð°Ð³ÑÐµÐ³Ð¸ÑÐ¾Ð²Ð°Ð½Ð½ÑÐ¹ ÑÐµÑÐµÐ²Ð¾Ð¹ Ð°Ð´Ð°Ð¿ÑÐµÑ, ÑÐ¾ÑÑÐ¾ÑÑÐ¸Ð¹ Ð¸Ð· 2-Ñ ÑÐ¸Ð·Ð¸ÑÐµÑÐºÐ¸Ñ.</p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ Bonded network.</p>
+<p>Далее мы создадим агрегированный сетевой адаптер, состоящий из 2-х физических.</p>
+<p>Выбираем Bonded network.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7c1988b5dd7902ef290f58aa10a0f9ee.png" alt="" width="676" height="390"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐµÑÐµÐ²ÑÐµ Ð°Ð´Ð°Ð¿ÑÐµÑÑ Ð¸ ÑÐ¸Ð¿ Ð°Ð³ÑÐµÐ³Ð°ÑÐ¸Ð¸.</p>
+<p>Выбираем сетевые адаптеры и тип агрегации.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9166a554108c58c3a1fd79a0fd9297bf.png" alt="" width="802" height="397"></p>
-<p>ÐÑÐ»Ð¸ Ñ Ð²Ð°Ñ Ð²ÑÐµÐ³Ð¾ 2 ÑÐ¸Ð·Ð¸ÑÐµÑÐºÐ¸Ñ ÑÐµÑÐµÐ²ÑÑ Ð°Ð´Ð°Ð¿ÑÐµÑÐ°, XenCenter Ð¿ÑÐµÐ´ÑÐ¿ÑÐµÐ´Ð¸Ñ Ð²Ð°Ñ Ð¾ ÑÐ¾Ð¼ ÑÑÐ¾ Ð¸Ð½ÑÐµÑÑÐµÐ¹Ñ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿ÐµÑÐµÐ¼ÐµÑÑÐ¸ÑÑÑÑ Ð² Ð°Ð³ÑÐµÐ³Ð¸ÑÐ¾Ð²Ð°Ð½Ð½ÑÐ¹ Ð¸Ð½ÑÐµÑÑÐµÐ¹Ñ.</p>
-<p>Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ Bond.</p>
+<p>Если у вас всего 2 физических сетевых адаптера, XenCenter предупредит вас о том что интерфейс управления переместиться в агрегированный интерфейс.</p>
+<p>Создаем Bond.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f20206af131200593edb75393130ca4d.png" alt="" width="479" height="225"></p>
-<p>ÐÐ½ÑÐµÑÑÐµÐ¹Ñ ÑÐ¾Ð·Ð´Ð°Ð½.</p>
+<p>Интерфейс создан.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f0536a47f517352419818d81d19e6502.png" alt="" width="180" height="109"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ ÑÐµÑÑ Ð´Ð»Ñ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½, ÑÐµÑÑ Ð±ÑÐ´ÐµÑ Ñ Ð¾Ð¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½ÑÐ¼ VLAN.</p>
-<p>ÐÐ°Ð¶Ð¸Ð¼Ð°ÐµÐ¼ Add network.</p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ External Network.</p>
+<p>Теперь создадим сеть для виртуальных машин, сеть будет с определенным VLAN.</p>
+<p>Нажимаем Add network.</p>
+<p>Выбираем External Network.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dab8f97f59ca74e31625c24173e8edbb.png" alt="" width="677" height="365"></p>
-<p>ÐÐ°Ð´Ð°ÐµÐ¼ Ð¸Ð¼Ñ ÑÐµÑÐ¸.</p>
+<p>Задаем имя сети.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0921209deaa6d31710fe42d22fdbe9b3.png" alt="" width="795" height="288"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð°Ð³ÑÐµÐ³Ð¸ÑÐ¾Ð²Ð°Ð½Ð½ÑÐ¹ Ð¸Ð½ÑÐµÑÑÐµÐ¹Ñ Ð¸ VLAN. Ð¢Ð°ÐºÐ¶Ðµ Ð¼Ð¾Ð¶Ð½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÑÑÑ ÑÑÑ ÑÐµÑÑ Ð°Ð²ÑÐ¾Ð¼Ð°ÑÐ¸ÑÐµÑÐºÐ¸ Ð´Ð»Ñ Ð½Ð¾Ð²ÑÑ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½.</p>
+<p>Указываем агрегированный интерфейс и VLAN. Также можно добавлять эту сеть автоматически для новых виртуальных машин.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0da754405f4b55494fdbd7dbd02d203c.png" alt="" width="799" height="323"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ñ Ð½Ð°Ñ ÐµÑÑÑ ÑÐµÑÐ¸ Ð´Ð»Ñ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¸ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½.</p>
+<p>Теперь у нас есть сети для управления и виртуальных машин.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/040ab434f35e0b84d1584e22b95baf60.png" alt="" width="244" height="159"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð¿ÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ð¹ Ð¼Ð°ÑÐ¸Ð½Ñ.</p>
+<p>Теперь перейдем к созданию виртуальной машины.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/393a9ea5a783afddb4a9202373ebb6fc.png" alt="" width="251" height="262"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÐÐ¡.</p>
+<p>Выбираем ОС.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/52049cfc11bc952909e69843e2d4076b.png" alt="" width="811" height="511"></p>
-<p>ÐÐ²Ð¾Ð´Ð¸Ð¼ Ð¸Ð¼Ñ.</p>
+<p>Вводим имя.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0858c35dfae1673d79717c3e5a00f482.png" alt="" width="806" height="514"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÑ Ñ DVD Ð¿ÑÐ¸Ð²Ð¾Ð´Ð° ÑÐ¾ÑÑÐ°.</p>
+<p>Выбираем установку с DVD привода хоста.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/eab4f743bc5609dc7e3ee1ce4fb71835.png" alt="" width="807" height="464"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐ¾ÑÑ Xen.</p>
+<p>Выбираем хост Xen.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0e6087d4fd3fddd96479d0a42000fc80.png" alt="" width="806" height="387"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ ÑÐµÑÑÑÑÑ Ð´Ð»Ñ VM.</p>
+<p>Указываем ресурсы для VM.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/11c7dfb881b4009d5834d8dce8a40d2b.png" alt="" width="806" height="375"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ ÑÑÐ°Ð½Ð¸Ð»Ð¸ÑÐµ.</p>
+<p>Указываем хранилище.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/88afc0a8cc634621121b50983287eca1.png" alt="" width="806" height="456"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐµÑÑ.</p>
+<p>Выбираем сеть.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/55f17af02b0c9da43097857f20d1efdb.png" alt="" width="808" height="410"></p>
-<p>Ð¢Ð°ÐºÐ¶Ðµ Ð¿ÑÐ¸ Ð²ÑÐ±Ð¾ÑÐµ ÑÐµÑÐ¸, Ð¼Ð¾Ð¶Ð½Ð¾ ÑÐºÐ°Ð·Ð°ÑÑ Ð¿ÑÐ¾Ð¿ÑÑÐºÐ½ÑÑ ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑÑ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ð¹ Ð¼Ð°ÑÐ¸Ð½Ñ.</p>
+<p>Также при выборе сети, можно указать пропускную способность виртуальной машины.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6fa678e4564aee227dcd882deb614bd1.png" alt="" width="379" height="360"></p>
-<p>ÐÑÐ¾Ð²ÐµÑÑÐµÐ¼ Ð²Ð²ÐµÐ´ÐµÐ½Ð½ÑÐµ Ð´Ð°Ð½Ð½ÑÐµ Ð¸ ÑÐ¾Ð·Ð´Ð°ÐµÐ¼ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½Ñ.</p>
+<p>Проверяем введенные данные и создаем виртуальную машину.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b271ef53593afbce534f7c886ed56875.png" alt="" width="804" height="511"></p>
-<p>ÐÐ»Ñ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ VM Ð¿ÐµÑÐµÐ¹Ð´Ð¸ÑÐµ Ð² ÑÐ°Ð·Ð´ÐµÐ» Console.</p>
+<p>Для управления VM перейдите в раздел Console.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e52954b520bd64f9497e4402f612208e.png" alt="" width="1233" height="672"></p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <!-- Home ittraveler --><br>
@@ -396,46 +396,46 @@ body.custom-background { background-color: #cecece; }
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p>ÐÐ°Ð»ÐµÐµ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÐµ ÐÐ¡ Ð² Ð¾Ð±ÑÑÐ½Ð¾Ð¼ ÑÐµÐ¶Ð¸Ð¼Ðµ.</p>
-<p>ÐÐ°Ð¶Ð½Ð°Ñ Ð¾ÑÐ¾Ð±ÐµÐ½Ð½Ð¾ÑÑÑ, XEN Ð² Ð·Ð°Ð²Ð¸ÑÐ¸Ð¼Ð¾ÑÑÐ¸ Ð¾Ñ Ð²ÑÐ±ÑÐ°Ð½Ð½Ð¾Ð¹ ÐÐ¡, ÑÐ°Ð¼ Ð¾Ð¿ÑÐµÐ´ÐµÐ»ÑÐµÐ¼ Ð¿Ð°ÑÐ°Ð¼ÐµÑÑÑ Ð·Ð°Ð³ÑÑÐ·ÐºÐ¸ ÑÐ´ÑÐ° ÐÐ¡, Ð¿Ð¾ÑÑÐ¾Ð¼Ñ Ð¿ÑÐ¸ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐµ <a href="../tag/ubuntu/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Ubuntu">ubuntu</a>, Ð²Ñ ÑÑÐ°Ð·Ñ Ð¿Ð¾Ð¿Ð°Ð´Ð°ÐµÑÐµ Ð² ÑÐµÐ¶Ð¸Ð¼ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸.</p>
-<p>Ð¢Ð°ÐºÐ¶Ðµ Ð¾Ð±ÑÐ°ÑÐ¸ÑÐµ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ, ÑÑÐ¾ Ð´Ð»Ñ ÑÑÐ°Ð½ÐµÐ½Ð¸Ñ Ð´Ð¸ÑÐºÐ¾Ð² VM, Xen Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÑ <a href="../tag/lvm/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with LVM">lvm</a>, Ð¸ Ð¾ÑÐ´Ð°ÐµÑ ÐµÐµ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½Ð¾Ð¹ Ð¼Ð°ÑÐ¸Ð½Ðµ ÐºÐ°Ðº Ð±Ð»Ð¾ÑÐ½Ð¾Ðµ ÑÑÑÑÐ¾Ð¹ÑÑÐ²Ð¾.</p>
-<p>Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° Windows Ð¿ÑÐ¾ÑÐ¾Ð´Ð¸Ñ Ð² Ð¾Ð±ÑÑÐ½Ð¾Ð¼ ÑÐµÐ¶Ð¸Ð¼Ðµ, ÑÐ°Ð¼ Xen Ð½Ðµ Ð¼ÐµÐ½ÑÐµÑ Ð¿Ð°ÑÐ°Ð¼ÐµÑÑÑ Ð·Ð°Ð³ÑÑÐ·ÐºÐ¸.</p>
-<p>ÐÐ¾ÑÐ»Ðµ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸ VM ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÐµ Xen tools. ÐÐ¸ÑÑÑÐ¸Ð±ÑÑÐ¸Ð²Ñ <a href="../tag/linux/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Linux">linux</a>, Ð½Ð°Ð¿ÑÐ¸Ð¼ÐµÑ Ubuntu, ÑÑÑÐ°Ð½Ð°Ð²Ð»Ð¸Ð²Ð°ÑÑ xen tools Ð½Ð° ÑÑÐ°Ð¿Ðµ ÑÑÑÐ°Ð½Ð¾Ð²ÐºÐ¸ ÐÐ¡.</p>
-<p>Ð Windows Ð½ÑÐ¶Ð½Ð¾ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÑ xen tools Ð²ÑÑÑÐ½ÑÑ. Ð¡Ð´ÐµÐ»Ð°ÑÑ ÑÑÐ¾ Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐ¸Ð² CD Ð¾Ð±ÑÐ°Ð· Xen tools Ð² ÐºÐ¾Ð½ÑÐ¾Ð»Ð¸ Xen.</p>
+<p>Далее установите ОС в обычном режиме.</p>
+<p>Важная особенность, XEN в зависимости от выбранной ОС, сам определяем параметры загрузки ядра ОС, поэтому при установке Ubuntu, вы сразу попадаете в режим установки.</p>
+<p>Также обратите внимание, что для хранения дисков VM, Xen использует <a href="../tag/lvm/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with LVM">lvm</a>, и отдает ее виртуальной машине как блочное устройство.</p>
+<p>Установка Windows проходит в обычном режиме, там Xen не меняет параметры загрузки.</p>
+<p>После установки VM установите Xen tools. Дистрибутивы <a href="../tag/linux/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Linux">linux</a>, например Ubuntu, устанавливают xen tools на этапе установки ОС.</p>
+<p>В Windows нужно установить xen tools вручную. Сделать это можно подключив CD образ Xen tools в консоли Xen.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ecd118f54fa4f187882d95dd18d16dc.png" alt="" width="481" height="141"></p>
-<p>ÐÐ¾Ð±Ð°Ð²Ð¸Ð¼ Ð²ÑÐ¾ÑÐ¾Ð¹ ÑÐ¾ÑÑ XEN.</p>
+<p>Добавим второй хост XEN.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/106a6e5a040eadc9fd8a7b91b757d66d.png" alt="" width="194" height="115"></p>
-<p>ÐÐ¾Ð±Ð°Ð²Ð»ÑÐµÐ¼ Ð²ÑÐ¾ÑÐ¾Ð¹ ÑÐ¾ÑÑ Ð¿Ð¾ Ð°Ð½Ð°Ð»Ð¾Ð³Ð¸Ð¸.</p>
+<p>Добавляем второй хост по аналогии.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/64a150358b9d8ba62ccde47ab65255a6.png" alt="" width="420" height="253"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ñ Ð½Ð°Ñ 2 ÑÐ¾ÑÑÐ° XenServer.</p>
+<p>Теперь у нас 2 хоста XenServer.</p>
 <p> </p>
-<p>Ð£ÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÐµ SP1 Ð¿Ð¾ Ð°Ð½Ð°Ð»Ð¾Ð³Ð¸Ð¸.</p>
-<p>Ð Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¹ Ð²ÐµÑÑÐ¸Ð¸ Xen ÑÐ¾ÑÑÑ Ð½Ð°ÑÐ¾Ð´ÑÑ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ð°Ð²ÑÐ¾Ð¼Ð°ÑÐ¸ÑÐµÑÐºÐ¸ ÑÐµÑÐµÐ· XenCenter, Ð¸ Ð·Ð°Ð³ÑÑÐ¶Ð°ÑÑ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ Ñ Ð±Ð»Ð¸Ð¶Ð°Ð¹ÑÐ¸Ñ ÑÐ¾ÑÑÐ¾Ð² Xen.</p>
-<p>ÐÑÐ¾Ð´ÑÐ±Ð»Ð¸ÑÑÐ¹ÑÐµ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ ÑÐµÑÐ¸ Ð½Ð° Ð²ÑÐ¾ÑÐ¾Ð¼ ÑÐ¾ÑÑÐµ.</p>
+<p>Установите SP1 по аналогии.</p>
+<p>В последней версии Xen хосты находят обновления автоматически через XenCenter, и загружают обновления с ближайших хостов Xen.</p>
+<p>Продублируйте настройки сети на втором хосте.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7d860f05674ae6e19cf1960d0aa75dcf.png" alt="" width="548" height="231"></p>
-<p>Ð Ð°ÑÑÐ¼Ð¾ÑÑÐ¸Ð¼ Ð¶Ð¸Ð²ÑÑ Ð¼Ð¸Ð³ÑÐ°ÑÐ¸Ñ Ñ ÑÐ¾ÑÑÐ° Ð½Ð° ÑÐ¾ÑÑ.</p>
-<p>XenServer Ð¿Ð¾Ð´Ð´ÐµÑÐ¶Ð¸Ð²Ð°ÐµÑ Ð¶Ð¸Ð²ÑÑ Ð¼Ð¸Ð³ÑÐ°ÑÐ¸Ñ Ð±ÐµÐ· Ð¾Ð±ÑÐ¸Ñ ÑÑÐ°Ð½Ð¸Ð»Ð¸Ñ.</p>
-<p>ÐÐ°Ð¿ÑÑÐºÐ°ÐµÐ¼ Ð¼Ð°ÑÑÐµÑ Ð¼Ð¸Ð³ÑÐ°ÑÐ¸Ð¸.</p>
+<p>Рассмотрим живую миграцию с хоста на хост.</p>
+<p>XenServer поддерживает живую миграцию без общих хранилищ.</p>
+<p>Запускаем мастер миграции.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/338efa7fb44d0169cee6f010e3f3ca93.png" alt="" width="531" height="258"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÐºÐ°ÐºÑÑ Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÑ Ð¼Ð°ÑÐ¸Ð½Ñ Ð¼Ñ Ð±ÑÐ´ÐµÐ¼ Ð¼Ð¸Ð³ÑÐ¸ÑÐ¾Ð²Ð°ÑÑ Ð½Ð° ÐºÐ°ÐºÐ¾Ð¹ ÑÐ¾ÑÑ.</p>
+<p>Выбираем какую виртуальную машину мы будем мигрировать на какой хост.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/26e743a1142ea0f6c37fd5baf3a3991d.png" alt="" width="720" height="360"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð±ÑÐ´ÐµÑ Ð²ÑÐ±ÑÐ°Ð½Ð¾ Ð»Ð¾ÐºÐ°Ð»ÑÐ½Ð¾Ðµ ÑÑÐ°Ð½Ð¸Ð»Ð¸ÑÐµ Ð²ÑÐ¾ÑÐ¾Ð³Ð¾ ÑÐ¾ÑÑÐ° Xen.</p>
+<p>Далее будет выбрано локальное хранилище второго хоста Xen.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/33496f1420f09dac78f17d532ee36939.png" alt="" width="801" height="375"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐµÑÑ, ÐºÑÐ´Ð° VM Ð±ÑÐ´ÐµÑ Ð¼Ð¸Ð³ÑÐ¸ÑÐ¾Ð²Ð°ÑÑ.</p>
+<p>Далее выбираем сеть, куда VM будет мигрировать.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6620b551160cbded91d875b030f1c233.png" alt="" width="801" height="295"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Storage Network.</p>
+<p>Далее выбираем Storage Network.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/40937ce05cb541e48874b1775db9d1c8.png" alt="" width="602" height="205"></p>
-<p>ÐÐ°Ðº Ð²Ð¸Ð´Ð¸ÑÐµ Ð¸ÐºÐ¾Ð½ÐºÐ° VM Ð¸Ð·Ð¼ÐµÐ½Ð¸Ð»Ð°ÑÑ. Ð¢ÐµÐ¿ÐµÑÑ Ð¾Ð½Ð° Ð² ÑÑÐ°ÑÑÑÐµ Ð¼Ð¸Ð³ÑÐ°ÑÐ¸Ð¸.</p>
+<p>Как видите иконка VM изменилась. Теперь она в статусе миграции.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0dcf3946bdc934f8f27835d8225adda0.png" alt="" width="242" height="202"></p>
-<p>ÐÐ°Ðº Ð²Ð¸Ð´Ð¸ÑÐµ Vm ÑÑÐ¿ÐµÑÐ½Ð¾ Ð¼Ð¸Ð³ÑÐ¸ÑÐ¾Ð²Ð°Ð»Ð° Ð½Ð° Ð²ÑÐ¾ÑÐ¾Ð¹ ÑÐ¾ÑÑ.</p>
+<p>Как видите Vm успешно мигрировала на второй хост.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ccca6c371d9baa325ff27addf3e332f6.png" alt="" width="241" height="223"></p>
-<p>Ð¢Ð°ÐºÐ¶ÐµÂ  Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑÑÐ¸ÑÐ¾Ð²Ð°ÑÑÂ  ÑÐ¾ÑÑ XenServer Ð½Ð°Ð¿ÑÑÐ¼ÑÑ, Ð¿Ð¾Ð´ÐºÐ»ÑÑÐ¸Ð²ÑÐ¸ÑÑ Ðº ÐºÐ¾Ð½ÑÐ¾Ð»Ð¸ ÑÐµÑÐ²ÐµÑÐ°.</p>
-<p>ÐÐ°Ð½Ð½ÑÑ ÑÑÐ½ÐºÑÐ¸Ð¹ ÑÐ²Ð°ÑÐ¸Ñ Ð´Ð»Ñ Ð¼Ð¸Ð½Ð¸Ð¼Ð°Ð»ÑÐ½Ð¾Ð³Ð¾ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ¾ÑÑÐ¾Ð¼ Xen.</p>
+<p>Также  возможно администрировать  хост XenServer напрямую, подключившись к консоли сервера.</p>
+<p>Данных функций хватит для минимального управления хостом Xen.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ad2f7b4373043cfea4cb1fc2b6c9c47e.png" alt="" width="327" height="401"></p>
-<p>Ð ÑÐ»ÐµÐ´ÑÑÑÐµÐ¹ ÑÑÐ°ÑÑÐµ Ð¼Ñ ÑÐ°ÑÑÐ¼Ð¾ÑÑÐ¸Ð¼ Ð¸Ð½ÑÐµÐ³ÑÐ°ÑÐ¸Ñ Ñ <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a>, Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÑ Ð¿ÑÐ»Ð¾Ð² ÑÐµÑÐ²ÐµÑÐ¾Ð², Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÑ <a href="../tag/ha/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with HA">ha</a>, Ð¸ Ð¿Ð¾Ð´ÐºÐ»ÑÑÐµÐ½Ð¸Ðµ Ð¾Ð±ÑÐ¸Ñ ÑÑÐ°Ð½Ð¸Ð»Ð¸Ñ.</p>
+<p>В следующей статье мы рассмотрим интеграцию с <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a>, настройку пулов серверов, настройку HA, и подключение общих хранилищ.</p>
 <p> </p>
 <p> </p>
-<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=466.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ° Citrix XenServer Ð§Ð°ÑÑÑ 2." style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ° Citrix XenServer Ð§Ð°ÑÑÑ 2.</div></div></a><a class="relpost-block-single" href="../index.html@p=352.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ° VMWare Vsphere 6. Ð§Ð°ÑÑÑ 1." style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ° VMWare Vsphere 6. Ð§Ð°ÑÑÑ 1.</div></div></a><a class="relpost-block-single" href="../index.html@p=421.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ° VMWare Vsphere 6. Ð§Ð°ÑÑÑ 4" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Ð£ÑÑÐ°Ð½Ð¾Ð²ÐºÐ° Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ° VMWare Vsphere 6. Ð§Ð°ÑÑÑ 4</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=1128.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Настройка ZFS в Proxmox" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Настройка ZFS в Proxmox</div></div></a><a class="relpost-block-single" href="../index.html@p=415.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка VMWare Vsphere 6. Часть 3" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка VMWare Vsphere 6. Часть 3</div></div></a><a class="relpost-block-single" href="../index.html@p=285.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="LVM Добавляем место на диске в виртуальной среде" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">LVM Добавляем место на диске в виртуальной среде</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
         <div class="post-info">
 
             <div class="left"> <a href="../category/virtualizaciya/index.html" rel="category tag">Виртуализация</a> </div>
@@ -577,7 +577,7 @@ body.custom-background { background-color: #cecece; }
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='463' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='879' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7b54104e67" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="238"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="cc9e17dbac" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="189"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->

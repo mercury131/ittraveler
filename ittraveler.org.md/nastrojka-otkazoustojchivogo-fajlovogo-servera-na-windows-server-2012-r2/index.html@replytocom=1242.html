@@ -61,7 +61,7 @@
 		<meta name="twitter:description" content="В данной статье я расскажу как настроить отказоустойчивый файловый сервер на Windows Server 2012 R2 в домене Active Directory Первым делом убедитесь что сервер введен в домен Active Directory, далее установите роли DFS и файлового сервера Выберите следующие роли и установите их. Далее создайте структуру папок на отдельном диске. Теперь включим общий доступ. Выберите" />
 		<meta name="google" content="nositelinkssearchbox" />
 		<script type="application/ld+json" class="aioseo-schema">
-			{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#article","name":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u043d\u0430 Windows Server 2012 R2 | IT Traveler","headline":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u043d\u0430 Windows Server 2012 R2","author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"publisher":{"@id":"http:\/\/ittraveler.org\/#organization"},"image":{"@type":"ImageObject","url":"http:\/\/i.gyazo.com\/2c089008182b9740ff49658616eab008.png","@id":"http:\/\/ittraveler.org\/#articleImage"},"datePublished":"2015-02-06T11:23:20+03:00","dateModified":"2017-06-08T12:46:06+03:00","inLanguage":"ru-RU","commentCount":29,"mainEntityOfPage":{"@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#webpage"},"isPartOf":{"@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#webpage"},"articleSection":"Active Directory, Windows, Windows Server, Active Directory, DFS, File-Server"},{"@type":"BreadcrumbList","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/#listItem","position":1,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","url":"http:\/\/ittraveler.org\/"},"nextItem":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#listItem"},{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#listItem","position":2,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/","name":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u043d\u0430 Windows Server 2012 R2","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u044f \u0440\u0430\u0441\u0441\u043a\u0430\u0436\u0443 \u043a\u0430\u043a \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 \u0444\u0430\u0439\u043b\u043e\u0432\u044b\u0439 \u0441\u0435\u0440\u0432\u0435\u0440 \u043d\u0430 Windows Server 2012 R2 \u0432 \u0434\u043e\u043c\u0435\u043d\u0435 Active Directory \u041f\u0435\u0440\u0432\u044b\u043c \u0434\u0435\u043b\u043e\u043c \u0443\u0431\u0435\u0434\u0438\u0442\u0435\u0441\u044c \u0447\u0442\u043e \u0441\u0435\u0440\u0432\u0435\u0440 \u0432\u0432\u0435\u0434\u0435\u043d \u0432 \u0434\u043e\u043c\u0435\u043d Active Directory, \u0434\u0430\u043b\u0435\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0440\u043e\u043b\u0438 DFS \u0438 \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u0440\u043e\u043b\u0438 \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0438\u0445. \u0414\u0430\u043b\u0435\u0435 \u0441\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043f\u0430\u043f\u043e\u043a \u043d\u0430 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u043c \u0434\u0438\u0441\u043a\u0435. \u0422\u0435\u043f\u0435\u0440\u044c \u0432\u043a\u043b\u044e\u0447\u0438\u043c \u043e\u0431\u0449\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f. \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435","url":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/"},"previousItem":"http:\/\/ittraveler.org\/#listItem"}]},{"@type":"Organization","@id":"http:\/\/ittraveler.org\/#organization","name":"IT Traveler","url":"http:\/\/ittraveler.org\/"},{"@type":"Person","@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author","url":"http:\/\/ittraveler.org\/author\/mercury131\/","name":"Admin","image":{"@type":"ImageObject","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#authorImage","url":"http:\/\/0.gravatar.com\/avatar\/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}},{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#webpage","url":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/","name":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u043d\u0430 Windows Server 2012 R2 | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u044f \u0440\u0430\u0441\u0441\u043a\u0430\u0436\u0443 \u043a\u0430\u043a \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 \u0444\u0430\u0439\u043b\u043e\u0432\u044b\u0439 \u0441\u0435\u0440\u0432\u0435\u0440 \u043d\u0430 Windows Server 2012 R2 \u0432 \u0434\u043e\u043c\u0435\u043d\u0435 Active Directory \u041f\u0435\u0440\u0432\u044b\u043c \u0434\u0435\u043b\u043e\u043c \u0443\u0431\u0435\u0434\u0438\u0442\u0435\u0441\u044c \u0447\u0442\u043e \u0441\u0435\u0440\u0432\u0435\u0440 \u0432\u0432\u0435\u0434\u0435\u043d \u0432 \u0434\u043e\u043c\u0435\u043d Active Directory, \u0434\u0430\u043b\u0435\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0440\u043e\u043b\u0438 DFS \u0438 \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u0440\u043e\u043b\u0438 \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0438\u0445. \u0414\u0430\u043b\u0435\u0435 \u0441\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043f\u0430\u043f\u043e\u043a \u043d\u0430 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u043c \u0434\u0438\u0441\u043a\u0435. \u0422\u0435\u043f\u0435\u0440\u044c \u0432\u043a\u043b\u044e\u0447\u0438\u043c \u043e\u0431\u0449\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f. \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435","inLanguage":"ru-RU","isPartOf":{"@id":"http:\/\/ittraveler.org\/#website"},"breadcrumb":{"@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#breadcrumblist"},"author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"creator":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"datePublished":"2015-02-06T11:23:20+03:00","dateModified":"2017-06-08T12:46:06+03:00"},{"@type":"WebSite","@id":"http:\/\/ittraveler.org\/#website","url":"http:\/\/ittraveler.org\/","name":"IT Traveler","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","inLanguage":"ru-RU","publisher":{"@id":"http:\/\/ittraveler.org\/#organization"}}]}
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#article","name":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u043d\u0430 Windows Server 2012 R2 | IT Traveler","headline":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u043d\u0430 Windows Server 2012 R2","author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"publisher":{"@id":"http:\/\/ittraveler.org\/#organization"},"image":{"@type":"ImageObject","url":"http:\/\/i.gyazo.com\/2c089008182b9740ff49658616eab008.png","@id":"http:\/\/ittraveler.org\/#articleImage"},"datePublished":"2015-02-06T11:23:20+03:00","dateModified":"2017-06-08T12:46:06+03:00","inLanguage":"ru-RU","commentCount":29,"mainEntityOfPage":{"@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#webpage"},"isPartOf":{"@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#webpage"},"articleSection":"Active Directory, Windows, Windows Server, Active Directory, DFS, File-Server"},{"@type":"BreadcrumbList","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/#listItem","position":1,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","url":"http:\/\/ittraveler.org\/"},"nextItem":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#listItem"},{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#listItem","position":2,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/","name":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u043d\u0430 Windows Server 2012 R2","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u044f \u0440\u0430\u0441\u0441\u043a\u0430\u0436\u0443 \u043a\u0430\u043a \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 \u0444\u0430\u0439\u043b\u043e\u0432\u044b\u0439 \u0441\u0435\u0440\u0432\u0435\u0440 \u043d\u0430 Windows Server 2012 R2 \u0432 \u0434\u043e\u043c\u0435\u043d\u0435 Active Directory \u041f\u0435\u0440\u0432\u044b\u043c \u0434\u0435\u043b\u043e\u043c \u0443\u0431\u0435\u0434\u0438\u0442\u0435\u0441\u044c \u0447\u0442\u043e \u0441\u0435\u0440\u0432\u0435\u0440 \u0432\u0432\u0435\u0434\u0435\u043d \u0432 \u0434\u043e\u043c\u0435\u043d Active Directory, \u0434\u0430\u043b\u0435\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0440\u043e\u043b\u0438 DFS \u0438 \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u0440\u043e\u043b\u0438 \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0438\u0445. \u0414\u0430\u043b\u0435\u0435 \u0441\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043f\u0430\u043f\u043e\u043a \u043d\u0430 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u043c \u0434\u0438\u0441\u043a\u0435. \u0422\u0435\u043f\u0435\u0440\u044c \u0432\u043a\u043b\u044e\u0447\u0438\u043c \u043e\u0431\u0449\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f. \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435","url":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/"},"previousItem":"http:\/\/ittraveler.org\/#listItem"}]},{"@type":"Organization","@id":"http:\/\/ittraveler.org\/#organization","name":"IT Traveler","url":"http:\/\/ittraveler.org\/"},{"@type":"Person","@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author","url":"http:\/\/ittraveler.org\/author\/mercury131\/","name":"Admin","image":{"@type":"ImageObject","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#authorImage","url":"http:\/\/0.gravatar.com\/avatar\/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}},{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#webpage","url":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/","name":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u043d\u0430 Windows Server 2012 R2 | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u044f \u0440\u0430\u0441\u0441\u043a\u0430\u0436\u0443 \u043a\u0430\u043a \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043e\u0442\u043a\u0430\u0437\u043e\u0443\u0441\u0442\u043e\u0439\u0447\u0438\u0432\u044b\u0439 \u0444\u0430\u0439\u043b\u043e\u0432\u044b\u0439 \u0441\u0435\u0440\u0432\u0435\u0440 \u043d\u0430 Windows Server 2012 R2 \u0432 \u0434\u043e\u043c\u0435\u043d\u0435 Active Directory \u041f\u0435\u0440\u0432\u044b\u043c \u0434\u0435\u043b\u043e\u043c \u0443\u0431\u0435\u0434\u0438\u0442\u0435\u0441\u044c \u0447\u0442\u043e \u0441\u0435\u0440\u0432\u0435\u0440 \u0432\u0432\u0435\u0434\u0435\u043d \u0432 \u0434\u043e\u043c\u0435\u043d Active Directory, \u0434\u0430\u043b\u0435\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0440\u043e\u043b\u0438 DFS \u0438 \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u0440\u043e\u043b\u0438 \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0438\u0445. \u0414\u0430\u043b\u0435\u0435 \u0441\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043f\u0430\u043f\u043e\u043a \u043d\u0430 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u043c \u0434\u0438\u0441\u043a\u0435. \u0422\u0435\u043f\u0435\u0440\u044c \u0432\u043a\u043b\u044e\u0447\u0438\u043c \u043e\u0431\u0449\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f. \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435","inLanguage":"ru-RU","isPartOf":{"@id":"http:\/\/ittraveler.org\/#website"},"breadcrumb":{"@id":"http:\/\/ittraveler.org\/nastrojka-otkazoustojchivogo-fajlovogo-servera-na-windows-server-2012-r2\/#breadcrumblist"},"author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"creator":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"datePublished":"2015-02-06T11:23:20+03:00","dateModified":"2017-06-08T12:46:06+03:00"},{"@type":"WebSite","@id":"http:\/\/ittraveler.org\/#website","url":"http:\/\/ittraveler.org\/","name":"IT Traveler","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","inLanguage":"ru-RU","publisher":{"@id":"http:\/\/ittraveler.org\/#organization"}}]}
 		</script>
 		<!-- All in One SEO -->
 
@@ -273,112 +273,112 @@ body.custom-background { background-color: #cecece; }
 
 
 
-	<p>Ð Ð´Ð°Ð½Ð½Ð¾Ð¹ ÑÑÐ°ÑÑÐµ Ñ ÑÐ°ÑÑÐºÐ°Ð¶Ñ ÐºÐ°Ðº Ð½Ð°ÑÑÑÐ¾Ð¸ÑÑ Ð¾ÑÐºÐ°Ð·Ð¾ÑÑÑÐ¾Ð¹ÑÐ¸Ð²ÑÐ¹ ÑÐ°Ð¹Ð»Ð¾Ð²ÑÐ¹ ÑÐµÑÐ²ÐµÑ Ð½Ð° <a href="../tag/windows-server/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Windows Server">windows server</a> 2012 R2 Ð² Ð´Ð¾Ð¼ÐµÐ½Ðµ <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a> <span id="more-270"></span>Â  ÐÐµÑÐ²ÑÐ¼ Ð´ÐµÐ»Ð¾Ð¼ ÑÐ±ÐµÐ´Ð¸ÑÐµÑÑ ÑÑÐ¾ ÑÐµÑÐ²ÐµÑ Ð²Ð²ÐµÐ´ÐµÐ½ Ð² Ð´Ð¾Ð¼ÐµÐ½ Active Directory, Ð´Ð°Ð»ÐµÐµ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÐµ ÑÐ¾Ð»Ð¸ <a href="../tag/dfs/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DFS">dfs</a> Ð¸ ÑÐ°Ð¹Ð»Ð¾Ð²Ð¾Ð³Ð¾ ÑÐµÑÐ²ÐµÑÐ°</p>
-<p>ÐÑÐ±ÐµÑÐ¸ÑÐµ ÑÐ»ÐµÐ´ÑÑÑÐ¸Ðµ ÑÐ¾Ð»Ð¸ Ð¸ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÐµ Ð¸Ñ.</p>
+	<p>В данной статье я расскажу как настроить отказоустойчивый файловый сервер на <a href="../tag/windows-server/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Windows Server">windows server</a> 2012 R2 в домене <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a> <span id="more-270"></span>  Первым делом убедитесь что сервер введен в домен Active Directory, далее установите роли <a href="../tag/dfs/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DFS">dfs</a> и файлового сервера</p>
+<p>Выберите следующие роли и установите их.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2c089008182b9740ff49658616eab008.png" alt="" width="673" height="475"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b1e2eb658ca473ba3f9387fd0f415c01.png" alt="" width="674" height="476"></p>
-<p>ÐÐ°Ð»ÐµÐµ ÑÐ¾Ð·Ð´Ð°Ð¹ÑÐµ ÑÑÑÑÐºÑÑÑÑ Ð¿Ð°Ð¿Ð¾Ðº Ð½Ð° Ð¾ÑÐ´ÐµÐ»ÑÐ½Ð¾Ð¼ Ð´Ð¸ÑÐºÐµ.</p>
+<p>Далее создайте структуру папок на отдельном диске.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/732eb2500a6f3482bab32db50a957797.png" alt="" width="410" height="239"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð²ÐºÐ»ÑÑÐ¸Ð¼ Ð¾Ð±ÑÐ¸Ð¹ Ð´Ð¾ÑÑÑÐ¿.</p>
-<p>ÐÑÐ±ÐµÑÐ¸ÑÐµ «ÑÐ°ÑÑÐ¸ÑÐµÐ½Ð½Ð°Ñ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ°»</p>
+<p>Теперь включим общий доступ.</p>
+<p>Выберите «расширенная настройка»</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8c0ad609ecf110fd74c816c9a25d9794.png" alt="" width="317" height="459"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±ÐµÑÐ¸ÑÐµ «Ð Ð°Ð·ÑÐµÑÐµÐ½Ð¸Ñ» Ð¸ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÐµ Ð¿ÑÐ°Ð²Ð° ÐºÐ°Ðº Ð½Ð° ÑÐºÑÐ¸Ð½ÑÐ¾ÑÐµ.</p>
+<p>Далее выберите «Разрешения» и установите права как на скриншоте.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2328fc5fcd464f8b766728e42723da48.png" alt="" width="583" height="401"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð°Ð¼ Ð½ÑÐ¶Ð½Ð¾ ÑÐ¾Ð·Ð´Ð°ÑÑ ÑÑÑÑÐºÑÑÑÑ Ð¿ÑÐ°Ð² Ð´Ð»Ñ Ð½Ð°ÑÐ¸Ñ ÐºÐ°ÑÐ°Ð»Ð¾Ð³Ð¾Ð² Ð² Active Directory.</p>
-<p>ÐÐ»Ñ Ð½Ð°ÑÐ°Ð»Ð° ÑÐ°ÑÑÐ¼Ð¾ÑÑÐ¸Ð¼ Ð¸Ð· ÑÐµÐ³Ð¾ ÑÐ¾ÑÑÐ¾Ð¸Ñ Ð½Ð°ÑÐ° ÑÐ°Ð¹Ð»Ð¾Ð²Ð°Ñ ÑÑÑÑÐºÑÑÑÐ°.</p>
+<p>Теперь нам нужно создать структуру прав для наших каталогов в Active Directory.</p>
+<p>Для начала рассмотрим из чего состоит наша файловая структура.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d2c8e9be414eb9622f04fd9e641fcaf6.gif" alt="" width="428" height="268"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð° ÐµÐµ Ð¾ÑÐ½Ð¾Ð²Ðµ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð² Active Directory OU — File Sharing</p>
-<p>ÐÐµÑÐµÑÐ¾Ð´Ð¸Ð¼ Ð² ÐºÐ¾Ð½ÑÐ¾Ð»Ñ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ð¸ Ð¸ ÐºÐ¾Ð¼Ð¿ÑÑÑÐµÑÑ, Ð¸ ÑÐ¾Ð·Ð´Ð°ÐµÐ¼ OU</p>
+<p>Теперь на ее основе создадим в Active Directory OU — File Sharing</p>
+<p>Переходим в консоль пользователи и компьютеры, и создаем OU</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/da7b393f680d9b73053216ffcdd938df.png" alt="" width="542" height="398"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4f865224a35e129a8626833ec04fb840.png" alt="" width="375" height="322"></p>
-<p>ÐÐ½Ð°Ð»Ð¾Ð³Ð¸ÑÐ½ÑÐ¼ Ð¿ÑÑÐµÐ¼ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ ÑÑÑÑÐºÑÑÑÑ Ð½Ð°ÑÐ¸Ñ Ð¿Ð°Ð¿Ð¾Ðº</p>
+<p>Аналогичным путем создадим структуру наших папок</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8b4459060be7ac348fbb2cc93da90f83.png" alt="" width="174" height="260"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑÑ Ð¿ÑÐ°Ð².</p>
+<p>Теперь создадим комплекты прав.</p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <!-- Home ittraveler --><br>
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1890562251101921" data-ad-slot="9117958896" data-ad-format="auto"></ins><br>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p>ÐÐ°ÑÐ½ÐµÐ¼ Ð¼Ñ Ñ Ð²ÐµÑÑÐ½Ð¸Ñ Ð¿Ð°Ð¿Ð¾Ðº.</p>
-<p>Ð¡Ð¾Ð·Ð´Ð°Ð´Ð¸Ð¼ 2-Ðµ Ð»Ð¾ÐºÐ°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ Ñ Ð¿ÑÐ°Ð²Ð°Ð¼Ð¸ RW Ð¸ RO , Ð¸ 2-Ðµ Ð³Ð»Ð¾Ð±Ð°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ Ñ Ð¿ÑÐ°Ð²Ð°Ð¼Ð¸ RW Ð¸ RO, Ð¸ Ð¾Ð´Ð½Ñ Ð»Ð¾ÐºÐ°Ð»ÑÐ½ÑÑ L Ð³ÑÑÐ¿Ð¿Ñ Ð´Ð»Ñ Ð»Ð¸ÑÑÐ¸Ð½Ð³Ð°.</p>
-<p>Ð Ð°Ð·Ð±ÐµÑÐµÐ¼ Ð¿Ð¾ÑÐµÐ¼Ñ Ð¸Ð¼ÐµÐ½Ð½Ð¾ ÑÐ°Ðº.</p>
-<p>Ð Ð³Ð»Ð¾Ð±Ð°Ð»ÑÐ½ÑÑ Ð³ÑÑÐ¿Ð¿Ð°Ñ ÑÑÐ°Ð½ÑÑÑÑ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ð¸, Ð´Ð»Ñ Ð¿ÑÐ°Ð²Ð¸Ð»ÑÐ½Ð¾Ð¹ ÑÐ°Ð±Ð¾ÑÑ Ð³Ð»Ð¾Ð±Ð°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ Ð²ÑÐ¾Ð´ÑÑ Ð² Ð»Ð¾ÐºÐ°Ð»ÑÐ½ÑÐµ.</p>
-<p>ÐÐ¾ÐºÐ°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ Ð½Ð°Ð·Ð½Ð°ÑÐ°ÑÑÑÑ Ð½Ð° Ð¿Ð°Ð¿ÐºÐ¸. ÐÑ ÑÐ»ÐµÐ½Ð°Ð¼Ð¸ ÑÐ²Ð»ÑÑÑÑÑ Ð³Ð»Ð¾Ð±Ð°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ.</p>
-<p>ÐÐ¾ÐºÐ°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ Ð»ÑÑÑÐµ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÑ ÐµÑÐ»Ð¸ Ñ Ð²Ð°Ñ 1 Ð´Ð¾Ð¼ÐµÐ½, ÐµÑÐ»Ð¸ Ð´Ð¾Ð¼ÐµÐ½Ð¾Ð² Ð½ÐµÑÐºÐ¾Ð»ÑÐºÐ¾ Ð¸ Ð¼ÐµÐ¶Ð´Ñ Ð½Ð¸Ð¼Ð¸ Ð½Ð°ÑÑÑÐ¾ÐµÐ½Ð¾ Ð´Ð¾Ð²ÐµÑÐ¸Ðµ Ð½ÑÐ¶Ð½Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÑ ÑÐ½Ð¸Ð²ÐµÑÑÐ°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ.</p>
-<p>Ð Ð°ÑÑÐ¼Ð¾ÑÑÐ¸Ð¼ Ð½Ð° Ð¿ÑÐ°ÐºÑÐ¸ÐºÐµ, ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ Ð¿ÑÐ°Ð² Ð´Ð»Ñ Ð¿Ð°Ð¿ÐºÐ¸ Office_Files.</p>
-<p>Ð¡Ð¾Ð·Ð´Ð°Ð´Ð¸Ð¼ 2-Ðµ Ð³Ð»Ð¾Ð±Ð°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ :</p>
+<p>Начнем мы с верхних папок.</p>
+<p>Создадим 2-е локальные группы с правами RW и RO , и 2-е глобальные группы с правами RW и RO, и одну локальную L группу для листинга.</p>
+<p>Разберем почему именно так.</p>
+<p>В глобальных группах хранятся пользователи, для правильной работы глобальные группы входят в локальные.</p>
+<p>Локальные группы назначаются на папки. Их членами являются глобальные группы.</p>
+<p>Локальные группы лучше использовать если у вас 1 домен, если доменов несколько и между ними настроено доверие нужно использовать универсальные группы.</p>
+<p>Рассмотрим на практике, создадим комплект прав для папки Office_Files.</p>
+<p>Создадим 2-е глобальные группы :</p>
 <p>GD-Office_Files-RO</p>
 <p>GD-Office_Files-RW</p>
-<p>Ð¡Ð¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð»Ð¾ÐºÐ°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ:</p>
+<p>Создадим локальные группы:</p>
 <p>LD-Office_Files-RO</p>
 <p>LD-Office_Files-RW</p>
 <p>LD-Office_Files-L</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/569715cc8eb3ad193ad920e3a1c4f9d9.png" alt="" width="366" height="154"></p>
-<p>ÐÐ»Ð¾Ð±Ð°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ Ð²ÑÐ¾Ð´ÑÑ Ð² Ð»Ð¾ÐºÐ°Ð»ÑÐ½ÑÐµ</p>
+<p>Глобальные группы входят в локальные</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5025aeb8e42b39ae62496cc9af4918fb.png" alt="" width="356" height="401"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð°ÑÑÑÐ¾Ð¸Ð¼ Ð¿ÑÐ°Ð²Ð° Ð½Ð° Ð¿Ð°Ð¿ÐºÐµ.</p>
-<p>ÐÑÐºÑÐ¾Ð¹ÑÐµ ÑÐ²Ð¾Ð¹ÑÑÐ²Ð¾ Ð¿Ð°Ð¿ÐºÐ¸ Ð¸ Ð²ÑÐ±ÐµÑÐ¸ÑÐµ Ð²ÐºÐ»Ð°Ð´ÐºÑ Ð±ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑÑ</p>
-<p>ÐÐ¾Ð±Ð°Ð²ÑÑÐµ ÑÐ¾Ð·Ð´Ð°Ð½Ð½ÑÐµ Ð»Ð¾ÐºÐ°Ð»ÑÐ½ÑÐµ Ð³ÑÑÐ¿Ð¿Ñ</p>
+<p>Теперь настроим права на папке.</p>
+<p>Откройте свойство папки и выберите вкладку безопасность</p>
+<p>Добавьте созданные локальные группы</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1f3c6885cbb894bcb265d29f8b071705.png" alt="" width="317" height="388"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/09b0f0ec32f02fa85ab2452669099c26.png" alt="" width="406" height="215"></p>
-<p>Ð Ð°ÑÑÑÐ°Ð²ÑÑÐµ Ð¿ÑÐ°Ð²Ð° Ð½Ð° ÑÑÐµÐ½Ð¸Ðµ Ð¸ Ð·Ð°Ð¿Ð¸ÑÑ</p>
+<p>Расставьте права на чтение и запись</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d0db0fb2050521f8a3f4c3dadf4be9cf.gif" alt="" width="316" height="388"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð°Ð¶Ð¼Ð¸ÑÐµ ÐºÐ½Ð¾Ð¿ÐºÑ «ÐÐ¾Ð¿Ð¾Ð»Ð½Ð¸ÑÐµÐ»ÑÐ½Ð¾»</p>
+<p>Теперь нажмите кнопку «Дополнительно»</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/879dcbf72eb9d37f7721a971059daeb5.png" alt="" width="322" height="465"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½ÑÐ¶Ð½Ð¾ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÑ Ð¿ÑÐ°Ð²Ð° Ð½Ð° Ð»Ð¸ÑÑÐ¸Ð½Ð³</p>
-<p>ÐÑÐ±ÐµÑÐ¸ÑÐµ L Ð³ÑÑÐ¿Ð¿Ñ Ð¸ Ð½Ð°Ð¶Ð¼Ð¸ÑÐµ Ð¸Ð·Ð¼ÐµÐ½Ð¸ÑÑ</p>
+<p>Теперь нужно установить права на листинг</p>
+<p>Выберите L группу и нажмите изменить</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8d481abcb15279966ff76e8196e62f0c.gif" alt="" width="656" height="442"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÑÑÐ°Ð½Ð¾Ð²Ð¸ÑÐµ Ð¿Ð°ÑÐ°Ð¼ÐµÑÑÑ ÐºÐ°Ðº Ð½Ð° ÑÐºÑÐ¸Ð½ÑÐ¾ÑÐµ Ð½Ð¸Ð¶Ðµ</p>
+<p>Теперь установите параметры как на скриншоте ниже</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b35e15708a91f0d3067a551951217805.png" alt="" width="791" height="512"></p>
-<p>ÐÐ±ÑÐ°ÑÐ¸ÑÐµ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ ÑÑÐ¾ Ð¼Ñ Ð´Ð°ÐµÐ¼ Ð´Ð¾ÑÑÑÐ¿ ÑÐ¾Ð»ÑÐºÐ¾ Ð½Ð° Ð»Ð¸ÑÑÐ¸Ð½Ð³ Ð¸ ÑÐ¾Ð»ÑÐºÐ¾ Ð´Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð¹ Ð¿Ð°Ð¿ÐºÐ¸.</p>
-<p>Ð­ÑÐ¾ Ð½ÑÐ¶Ð½Ð¾ Ð´Ð»Ñ ÑÐ¾Ð³Ð¾ ÑÑÐ¾Ð±Ñ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð¿Ð¾Ð»ÑÑÐ¸Ð²ÑÐ¸Ð¹ Ð¿ÑÐ°Ð²Ð° Ð½Ð° Ð¿Ð°Ð¿ÐºÑ Ð½Ðµ ÑÐ¼Ð¾Ð³ Ð¿Ð¾Ð¿Ð°ÑÑÑ Ð² ÐºÐ°ÑÐ°Ð»Ð¾Ð³Ð¸ Ð½Ð¸Ð¶Ðµ ÐµÑÐ»Ð¸ Ñ Ð½ÐµÐ³Ð¾ Ð½ÐµÑ ÑÐ¾Ð¾ÑÐ²ÐµÑÑÑÐ²ÑÑÑÐ¸Ñ Ð¿ÑÐ°Ð².</p>
-<p>ÐÐ»Ñ ÐºÐ¾ÑÑÐµÐºÑÐ½Ð¾Ð¹ ÑÐ°Ð±Ð¾ÑÑ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð¼ Ð² ÑÑÑ Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¹ Ð´Ð¾Ð¼ÐµÐ½Ð°, ÑÑÐ¾Ð±Ñ Ð¾Ð½Ð¸ Ð¼Ð¾Ð³Ð»Ð¸ Ð²Ð¸Ð´ÐµÑÑ ÐºÐ¾ÑÐµÐ½Ñ ÐºÐ°ÑÐ°Ð»Ð¾Ð³Ð°.</p>
+<p>Обратите внимание что мы даем доступ только на листинг и только для данной папки.</p>
+<p>Это нужно для того чтобы пользователь получивший права на папку не смог попасть в каталоги ниже если у него нет соответствующих прав.</p>
+<p>Для корректной работы добавим в эту группу пользователей домена, чтобы они могли видеть корень каталога.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d99e883d4123f7f8db80bfbd70f838f2.png" alt="" width="368" height="409"></p>
-<p>Ð¢Ð°ÐºÐ¶Ðµ Ð¾ÑÐºÐ»ÑÑÐ¸ÑÐµ Ð½Ð°ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¿ÑÐ°Ð² Ð¾Ñ ÐºÐ¾ÑÐ½ÐµÐ²Ð¾Ð³Ð¾ ÐºÐ°ÑÐ°Ð»Ð¾Ð³Ð° Ð´Ð¸ÑÐºÐ°.</p>
+<p>Также отключите наследование прав от корневого каталога диска.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/95641c23f5b02244f97feadbfbb78f88.png" alt="" width="664" height="450"></p>
-<p>ÐÐ¾ Ð°Ð½Ð°Ð»Ð¾Ð³Ð¸Ð¸ Ð½Ð°ÑÑÑÐ¾Ð¸Ð¼ Ð¿ÑÐ°Ð²Ð° Ð½Ð° ÐºÐ°ÑÐ°Ð»Ð¾Ð³ Moscow.</p>
-<p>Ð¡Ð¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð³ÑÑÐ¿Ð¿Ñ:</p>
+<p>По аналогии настроим права на каталог Moscow.</p>
+<p>Создадим группы:</p>
 <p>GD-Moscow-RO</p>
 <p>GD-Moscow-RW</p>
 <p>LD-Moscow-RO</p>
 <p>LD-Moscow-RW</p>
 <p>LD-Moscow-L</p>
-<p>Ð Active Directory ÑÑÐ¾ Ð´Ð¾Ð»Ð¶Ð½Ð¾ Ð²ÑÐ³Ð»ÑÐ´ÐµÑÑ ÑÐ°Ðº:</p>
+<p>В Active Directory это должно выглядеть так:</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b53cb89bffc4eec7dcbd0828011f2dfe.gif" alt="" width="556" height="400"></p>
-<p><span style="color: #000000;">Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð°ÑÑÑÐ¾Ð¸Ð¼ Ð¿ÑÐ°Ð²Ð° Ð½Ð° Ð¿Ð°Ð¿ÐºÑ:</span></p>
+<p><span style="color: #000000;">Теперь настроим права на папку:</span></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0c5e69dc46366b0d5efcb47f8a10e31d.gif" alt="" width="314" height="386"></p>
-<p>ÐÐ°ÑÑÑÐ¾Ð¸Ð¼ Ð»Ð¸ÑÑÐ¸Ð½Ð³.</p>
+<p>Настроим листинг.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/eb00aeb65b8722b75164f0bdb158a545.gif" alt="" width="780" height="500"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð°ÑÑÑÐ¾Ð¸Ð¼ Ð½Ð¸Ð¶Ð½Ð¸Ð¹ ÐºÐ°ÑÐ°Ð»Ð¾Ð³ — HR.</p>
-<p>Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ Ð°Ð½Ð°Ð»Ð¾Ð³Ð¸Ð¸.</p>
+<p>Теперь настроим нижний каталог — HR.</p>
+<p>Создаем группы по аналогии.</p>
 <p>GD-MoscowHR-RO</p>
 <p>GD-MoscowHR-RW</p>
 <p>LD-MoscowHR-RO</p>
 <p>LD-MoscowHR-RW</p>
-<p>ÐÐ¾Ð»Ð¶Ð½Ð¾ Ð¿Ð¾Ð»ÑÑÐ¸ÑÑÑ ÑÐ°Ðº</p>
+<p>Должно получится так</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7689aae4d514c18b9cde21ced9e35672.png" alt="" width="352" height="97"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð¼ Ð³ÑÑÐ¿Ð¿ÑÂ GD-MoscowHR-RO Ð¸ GD-MoscowHR-RW Ð² Ð³ÑÑÐ¿Ð¿Ñ LD-Moscow-L</p>
+<p>Теперь добавим группы GD-MoscowHR-RO и GD-MoscowHR-RW в группу LD-Moscow-L</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/16d4e408669c8c0810ec0e7c1eeb9ef0.png" alt="" width="364" height="405"></p>
-<p>Ð­ÑÐ¾ Ð½ÑÐ¶Ð½Ð¾ Ð´Ð»Ñ ÑÐ¾Ð³Ð¾ ÑÑÐ¾Ð±Ñ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ð¸ Ñ ÐºÐ¾ÑÐ¾ÑÑÑ Ð½ÐµÑ Ð¿ÑÐ°Ð² Ð½Ð° Ð¿Ð°Ð¿ÐºÑ Moscow Ð¼Ð¾Ð³Ð»Ð¸ Ð¿Ð¾Ð¿Ð°ÑÑÑ Ð²Ð¾ Ð²Ð»Ð¾Ð¶ÐµÐ½Ð½ÑÑ Ð¿Ð°Ð¿ÐºÑ HR.</p>
-<p>ÐÑÐ¸ ÑÑÐ¾Ð¼ Ð¾ÑÐºÑÑÐ²Ð°ÑÑ ÑÐ°Ð¹Ð»Ñ Ð² Ð¿Ð°Ð¿ÐºÐµ Moscow Ð¾Ð½Ð¸ Ð½Ðµ ÑÐ¼Ð¾Ð³ÑÑ.</p>
-<p>ÐÐ°ÑÑÑÐ¾Ð¸Ð¼ Ð¿ÑÐ°Ð²Ð° Ð½Ð° Ð¿Ð°Ð¿ÐºÑ.</p>
+<p>Это нужно для того чтобы пользователи у которых нет прав на папку Moscow могли попасть во вложенную папку HR.</p>
+<p>При этом открывать файлы в папке Moscow они не смогут.</p>
+<p>Настроим права на папку.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5f2f6e181bf1c5d6520cc87ba43e0fdb.png" alt="" width="317" height="388"></p>
-<p>ÐÐ¾ Ð°Ð½Ð°Ð»Ð¾Ð³Ð¸Ð¸ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð¿ÑÐ°Ð²Ð° Ð½Ð° Ð¾ÑÑÐ°Ð»ÑÐ½ÑÐµ Ð¿Ð°Ð¿ÐºÐ¸.</p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð¼ Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÑÑÐ²Ð¾ Ð¸Ð¼ÐµÐ½.</p>
-<p>ÐÑÐºÑÐ¾ÐµÐ¼ ÐºÐ¾Ð½ÑÐ¾Ð»Ñ DFS Ð¸ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÑÑÐ²Ð¾ Ð¸Ð¼ÐµÐ½.</p>
+<p>По аналогии создадим права на остальные папки.</p>
+<p>Теперь добавим пространство имен.</p>
+<p>Откроем консоль DFS и создадим пространство имен.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2fe51066e010faf4ec3153f1f36b83e4.png" alt="" width="554" height="239"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð½Ð°Ñ ÑÐµÑÐ²ÐµÑ.</p>
+<p>Указываем наш сервер.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d7f014083bcf7e5761904f6491c20d48.png" alt="" width="760" height="581"></p>
 <p> </p>
 <p> </p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ðµ Ð¿ÑÑÐ¸ DFS.</p>
+<p>Указываем название пути DFS.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/58a31870dc418cdc7c2a3da235eab1b2.png" alt="" width="723" height="585"></p>
-<p>ÐÐºÐ»ÑÑÐ°ÐµÐ¼ ÑÐµÐ¶Ð¸Ð¼ 2008.</p>
+<p>Включаем режим 2008.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4edd07c6362a52e16a13916fcf02fabd.png" alt="" width="723" height="584"></p>
-<p>Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÑÑÐ²Ð¾.</p>
+<p>Создаем пространство.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a6c1dedecff2127f556666fae055dbfd.png" alt="" width="723" height="577"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÐ¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð¿Ð°Ð¿ÐºÑ.</p>
+<p>Теперь создадим папку.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e957fed0790a08992f4b1dcfab7b63cf.png" alt="" width="613" height="287"></p>
 <p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
 <!-- Home ittraveler --><br>
@@ -386,137 +386,137 @@ body.custom-background { background-color: #cecece; }
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p>ÐÐ°Ð»ÐµÐµ ÑÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð¿ÑÑÑ Ðº Ð¿Ð°Ð¿ÐºÐµ. ÐÑÑÑ Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ð¾ÑÐ¼Ð¾ÑÑÐµÑÑ ÑÑÑ, Ð²ÑÐ±ÑÐ°Ð² «open share».</p>
+<p>Далее указываем путь к папке. Путь можно посмотреть тут, выбрав «open share».</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/50ef23c60c0f06a814280bb28b34359f.png" alt="" width="1006" height="392"></p>
-<p>Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ Ð¿Ð°Ð¿ÐºÑ.</p>
+<p>Создаем папку.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b1a1b122854ea864be758e03132ea16c.png" alt="" width="405" height="421"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð¿Ð¾ Ð´Ð°Ð½Ð½Ð¾Ð¼Ñ Ð¿ÑÑÐ¸ — \\test.com\office\Office ÐÑ Ð²Ð¸Ð´Ð¸Ð¼ Ð½Ð°ÑÑ Ð¾Ð±ÑÑÑ Ð¿Ð°Ð¿ÐºÑ.</p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ ÐµÑÐ»Ð¸ Ð´Ð¾Ð±Ð°Ð²Ð¸ÑÑ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð² Ð³ÑÑÐ¿Ð¿ÑÂ GD-MoscowHR-RW, Ð¾Ð½ ÑÐ¼Ð¾Ð¶ÐµÑ Ð¿Ð¾Ð¿Ð°ÑÑÑ Ð² Ð¿Ð°Ð¿ÐºÑ HR, Ð½Ð¾ Ð½Ðµ ÑÐ¼Ð¾Ð¶ÐµÑ Ð¾ÑÐºÑÑÐ²Ð°ÑÑ Ð¸Ð»Ð¸ ÑÐµÐ´Ð°ÐºÑÐ¸ÑÐ¾Ð²Ð°ÑÑ ÑÐ°Ð¹Ð»Ñ Ð² Ð¿Ð°Ð¿ÐºÐµ Moscow.</p>
-<p>Ð Ð´ÑÑÐ³Ð¸Ðµ Ð¿Ð°Ð¿ÐºÐ¸ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ ÑÐ¾Ð¶Ðµ Ð¿Ð¾Ð¿Ð°ÑÑÑ Ð½Ðµ ÑÐ¼Ð¾Ð¶ÐµÑ.</p>
-<p>ÐÑÐ»Ð¸ Ð¼Ñ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð¼ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð² Ð³ÑÑÐ¿Ð¿Ñ GD-Moscow-RW, Ð¾Ð½ Ð±ÑÐ´ÐµÑ Ð¸Ð¼ÐµÑÑ Ð´Ð¾ÑÑÑÐ¿ Ð½Ð° Ð²ÑÑ Ð¿Ð°Ð¿ÐºÑ Moscow, Ð½Ð° ÑÑÐµÐ½Ð¸Ðµ Ð¸ Ð·Ð°Ð¿Ð¸ÑÑ.</p>
-<p>ÐÑÐ»Ð¸ Ð¼Ñ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð¼ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð² Ð³ÑÑÐ¿Ð¿Ñ GD-Office_Files-RW, Ð¾Ð½ Ð¿Ð¾Ð»ÑÑÐ¸Ñ Ð´Ð¾ÑÑÑÐ¿ ÐºÐ¾ Ð²ÑÐµÐ¼ ÐºÐ°ÑÐ°Ð»Ð¾Ð³Ð°Ð¼.</p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÐ°ÑÑÐ¼Ð¾ÑÑÐ¸Ð¼ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÑ ABE.</p>
-<p>Ð¡Ð¾Ð·Ð´Ð°Ð¹ÑÐµ ÑÐ»ÐµÐ´ÑÑÑÑÑ ÑÑÑÑÐºÑÑÑÑ Ð² Active Directory.</p>
+<p>Теперь по данному пути — \\test.com\office\Office Мы видим нашу общую папку.</p>
+<p>Теперь если добавить пользователя в группу GD-MoscowHR-RW, он сможет попасть в папку HR, но не сможет открывать или редактировать файлы в папке Moscow.</p>
+<p>В другие папки пользователь тоже попасть не сможет.</p>
+<p>Если мы добавим пользователя в группу GD-Moscow-RW, он будет иметь доступ на всю папку Moscow, на чтение и запись.</p>
+<p>Если мы добавим пользователя в группу GD-Office_Files-RW, он получит доступ ко всем каталогам.</p>
+<p>Теперь рассмотрим настройку ABE.</p>
+<p>Создайте следующую структуру в Active Directory.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/72673145f9455d4761133d85f375484d.gif" alt="" width="632" height="312"></p>
-<p>ÐÑÐºÑÐ¾Ð¹ÑÐµ Ð¾Ð±ÑÐ¸Ð¹ Ð´Ð¾ÑÑÑÐ¿ Ðº Ð¿Ð°Ð¿ÐºÐµ.</p>
+<p>Откройте общий доступ к папке.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5a491c857cada4b40fb9fd703f6d31ab.png" alt="" width="471" height="496"></p>
-<p>ÐÐ°ÑÑÑÐ¾Ð¹ÑÐµ Ð¿ÑÐ°Ð²Ð° Ð½Ð° Ð¿Ð°Ð¿ÐºÐ°Ñ.</p>
+<p>Настройте права на папках.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/31ab677fe68f84a7382a50954c8fbabd.png" alt="" width="786" height="506"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0643db9a8c62a5a33099a1ec30eac265.png" alt="" width="325" height="466"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/63dcc87599fc41ac1dd35b5881910bee.png" alt="" width="318" height="462"></p>
-<p>Ð ÑÐ°Ðº Ð´Ð°Ð»ÐµÐµ.</p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ ÑÐ¾Ð·Ð´Ð°Ð¹ÑÐµ Ð¿Ð°Ð¿ÐºÑ Ð² DFS.</p>
+<p>И так далее.</p>
+<p>Теперь создайте папку в DFS.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/82ac13363d2ea1ed68f80be7e8641f6d.png" alt="" width="347" height="358"></p>
-<p>ÐÐ¾Ð»Ð¶Ð½Ð¾ Ð¿Ð¾Ð»ÑÑÐ¸ÑÑÑ ÑÐ°Ðº.</p>
+<p>Должно получится так.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a639704f70787b47ab5c750ada033af0.png" alt="" width="109" height="54"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð²ÐºÐ»ÑÑÐ¸Ð¼ ABE.</p>
-<p>Ð Ð´Ð¸ÑÐ¿ÐµÑÑÐµÑÐµ ÑÐµÑÐ²ÐµÑÐ° Ð¾ÑÐºÑÐ¾Ð¹ÑÐµ «Ð¤Ð°Ð¹Ð»Ð¾Ð²ÑÐµ ÑÐ»ÑÐ¶Ð±Ñ» — «ÐÐ±ÑÐ¸Ðµ ÑÐµÑÑÑÑÑ».</p>
-<p>ÐÑÐ±ÐµÑÐ¸ÑÐµ ÐºÐ°ÑÐ°Ð»Ð¾Ð³ IT, Ð¸ Ð½Ð°Ð¶Ð¼Ð¸ÑÐµ ÑÐ²Ð¾Ð¹ÑÑÐ²Ð°.</p>
+<p>Теперь включим ABE.</p>
+<p>В диспетчере сервера откройте «Файловые службы» — «Общие ресурсы».</p>
+<p>Выберите каталог IT, и нажмите свойства.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2d25da3ca1b703220bec6a35ab81d629.png" alt="" width="678" height="357"></p>
-<p>ÐÐ°Ð»ÐµÐµ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð¿Ð°ÑÐ°Ð¼ÐµÑÑÑ, Ð¸ Ð²ÐºÐ»ÑÑÐ°ÐµÐ¼ ÑÑÐ½ÐºÑÐ¸Ñ — «ÐÐµÑÐµÑÐ¸ÑÐ»ÐµÐ½Ð¸Ðµ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ Ð´Ð¾ÑÑÑÐ¿Ð°».</p>
+<p>Далее выбираем параметры, и включаем функцию — «Перечисление на основе доступа».</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/afc5de52bf9155a6b1935feb43146435.png" alt="" width="574" height="507"></p>
-<p>ÐÑÐ¾Ð±ÐµÐ½Ð½Ð¾ÑÑÑ ÑÑÐ½ÐºÑÐ¸Ð¸ ABE Ð² ÑÐ¾Ð¼ ÑÑÐ¾ Ð¾Ð½Ð° Ð¿ÑÐ¾Ð²ÐµÑÑÐµÑ Ð¿ÑÐ°Ð²Ð° Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð´Ð¾ ÑÐ¾Ð³Ð¾ ÐºÐ°Ðº Ð½ÑÐ¶Ð½Ð¾ Ð¿Ð¾ÐºÐ°Ð·Ð°ÑÑ Ð¿Ð°Ð¿ÐºÐ¸ Ð² Ð¿ÑÐ¾Ð²Ð¾Ð´Ð½Ð¸ÐºÐµ.</p>
-<p>ÐÑÑÐ³Ð¸Ð¼Ð¸ ÑÐ»Ð¾Ð²Ð°Ð¼Ð¸, Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð²Ð¸Ð´Ð¸Ñ ÑÐ¾Ð»ÑÐºÐ¾ ÑÐµ Ð¿Ð°Ð¿ÐºÐ¸ Ð½Ð° ÐºÐ¾ÑÐ¾ÑÑÐµ Ñ Ð½ÐµÐ³Ð¾ ÐµÑÑÑ Ð¿ÑÐ°Ð²Ð°.</p>
-<p>ÐÐ»Ñ Ð¿ÑÐ¸Ð¼ÐµÑÐ° Ð´Ð°Ð´Ð¸Ð¼ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ support Ð¿ÑÐ°Ð²Ð° Ð½Ð° Ð¿Ð°Ð¿ÐºÑ Support (Ð´Ð¾Ð±Ð°Ð²Ð¸Ð¼ ÐµÐ³Ð¾ Ð² Ð³ÑÑÐ¿Ð¿Ñ — GD-IT-Support-RW)</p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð¿ÐµÑÐµÐ¹Ð´ÐµÐ¼ Ð¿Ð¾ Ð¿ÑÑÐ¸ — \\test.com\office\IT</p>
-<p>ÐÐ°Ðº Ð²Ð¸Ð´Ð¸ÑÐµ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð²Ð¸Ð´Ð¸Ñ ÑÐ¾Ð»ÑÐºÐ¾ Ð¿Ð°Ð¿ÐºÑ Support.</p>
+<p>Особенность функции ABE в том что она проверяет права пользователя до того как нужно показать папки в проводнике.</p>
+<p>Другими словами, пользователь видит только те папки на которые у него есть права.</p>
+<p>Для примера дадим пользователю support права на папку Support (добавим его в группу — GD-IT-Support-RW)</p>
+<p>Теперь перейдем по пути — \\test.com\office\IT</p>
+<p>Как видите пользователь видит только папку Support.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/bbd2f3f0e81913e60c5300c82140078e.png" alt="" width="367" height="257"></p>
-<p>ÐÑÐ»Ð¸ Ð¼Ñ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð¼ ÐµÐ³Ð¾ Ð² Ð³ÑÑÐ¿Ð¿Ñ GD-IT-NetAdm-RO , ÑÐ¾ Ñ Ð½ÐµÐ³Ð¾ Ð¿Ð¾ÑÐ²Ð¸ÑÑÑ Ð¿Ð°Ð¿ÐºÐ° Network administrators Ñ Ð¿ÑÐ°Ð²Ð°Ð¼Ð¸ Ð½Ð° ÑÑÐµÐ½Ð¸Ðµ.</p>
+<p>Если мы добавим его в группу GD-IT-NetAdm-RO , то у него появится папка Network administrators с правами на чтение.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6e00816cfb7d5ba23d27c17f7598da99.png" alt="" width="354" height="237"></p>
-<p>ÐÐ° ÑÑÐ¾Ð¼ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ° ABE Ð·Ð°ÐºÐ¾Ð½ÑÐµÐ½Ð°.</p>
-<p>Ð£ÑÑÐ¸ÑÐµ, ÑÑÐ¾ ÐµÑÐ»Ð¸ Ð² Ð²Ð°ÑÐµÐ¹ ÑÐ°Ð¹Ð»Ð¾Ð²Ð¾Ð¹ ÑÑÑÑÐºÑÑÑÐµ Ð½ÑÐ¶Ð½Ð¾ Ð´Ð°Ð²Ð°ÑÑ Ð¿ÑÐ°Ð²Ð° Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÐ¼ Ð½Ð° Ð¿Ð¾Ð´ ÐºÐ°ÑÐ°Ð»Ð¾Ð³Ð¸, Ð¼Ð¸Ð½ÑÑ ÐºÐ¾ÑÐ½ÐµÐ²ÑÐµ Ð¿Ð°Ð¿ÐºÐ¸, ÑÐ¾ ABE Ð²Ð°Ð¼ Ð½Ðµ Ð¿Ð¾Ð´Ð¾Ð¹Ð´ÐµÑ, Ñ.Ðº. ABE Ð¿ÑÐ¾ÑÑÐ¾ ÑÐºÑÐ¾ÐµÑ Ð¾Ñ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ ÐºÐ¾ÑÐ½ÐµÐ²ÑÑ Ð¿Ð°Ð¿ÐºÑ, ÑÐµÑÐµÐ· ÐºÐ¾ÑÐ¾ÑÑÑ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð¿Ð¾Ð¿Ð°Ð´Ð°ÐµÑ Ð² Ð¿Ð¾Ð´ÐºÐ°ÑÐ°Ð»Ð¾Ð³.</p>
-<p>ÐÐµÑÐµÐ¹Ð´ÐµÐ¼ Ð² Ð¾ÑÐ½Ð°ÑÑÐºÑ — ÐÐ¸ÑÐ¿ÐµÑÑÐµÑ ÑÐµÑÑÑÑÐ¾Ð² ÑÐ°Ð¹Ð»Ð¾Ð²Ð¾Ð³Ð¾ ÑÐµÑÐ²ÐµÑÐ°.</p>
-<p>ÐÐ°ÑÑÑÐ¾Ð¸Ð¼ ÐºÐ²Ð¾ÑÑ.</p>
+<p>На этом настройка ABE закончена.</p>
+<p>Учтите, что если в вашей файловой структуре нужно давать права пользователям на под каталоги, минуя корневые папки, то ABE вам не подойдет, т.к. ABE просто скроет от пользователя корневую папку, через которую пользователь попадает в подкаталог.</p>
+<p>Перейдем в оснастку — Диспетчер ресурсов файлового сервера.</p>
+<p>Настроим квоты.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3d3355ac2a0231d0c330d5162a599270.png" alt="" width="218" height="127"></p>
-<p>ÐÐ°ÑÑÑÐ¾Ð¸Ð¼ Ð¼ÑÐ³ÐºÑÑ ÐºÐ²Ð¾ÑÑ Ð´Ð»Ñ Ð¿Ð°Ð¿ÐºÐ¸ Office_Files.</p>
+<p>Настроим мягкую квоту для папки Office_Files.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/116d1cfccf34f5e32af5f4371b4ab438.png" alt="" width="355" height="420"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/09855efabfcaee8fc34a58eafe02e339.png" alt="" width="423" height="509"></p>
-<p>ÐÐ°ÑÑÑÐ¾Ð¸Ð¼ Ð¶ÐµÑÑÐºÑÑ ÐºÐ²Ð¾ÑÑ Ð´Ð»Ñ Ð¿Ð°Ð¿ÐºÐ¸ Support.</p>
+<p>Настроим жесткую квоту для папки Support.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4b48a36fbe33ccf231d62892527ed821.png" alt="" width="358" height="424"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a43aff922d25cfcf0f0fefc06673c7d3.png" alt="" width="425" height="509"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð½Ð°ÑÑÑÐ¾Ð¸Ð¼ Ð±Ð»Ð¾ÐºÐ¸ÑÐ¾Ð²ÐºÑ ÑÐ°Ð¹Ð»Ð¾Ð² Ð´Ð»Ñ Ð¿Ð°Ð¿ÐºÐ¸ Office_Files.</p>
+<p>Теперь настроим блокировку файлов для папки Office_Files.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/498eec4e5b5ed159d6fdd73cb71e1655.png" alt="" width="485" height="204"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/76af222352a1aba65e6a39986e8527a6.png" alt="" width="354" height="400"></p>
-<p>ÐÑÐ±ÐµÑÐµÐ¼ ÑÐ¸Ð¿Ñ ÑÐ°Ð¹Ð»Ð¾Ð², ÐºÐ¾ÑÐ¾ÑÑÐµ Ð¼Ñ Ð±ÑÐ´ÐµÐ¼ Ð±Ð»Ð¾ÐºÐ¸ÑÐ¾Ð²Ð°ÑÑ.</p>
+<p>Выберем типы файлов, которые мы будем блокировать.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ef2a4e441d0ec6fa8b29d52a42c55602.png" alt="" width="424" height="514"></p>
-<p>ÐÐ°ÑÑÑÐ¾Ð¸Ð¼ Ð¾ÑÐ¿ÑÐ°Ð²ÐºÑ ÑÐ¾Ð¾Ð±ÑÐµÐ½Ð¸Ð¹ Ð¿Ð¾ ÑÐ»ÐµÐºÑÑÐ¾Ð½Ð½Ð¾Ð¹ Ð¿Ð¾ÑÑÐµ.</p>
+<p>Настроим отправку сообщений по электронной почте.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/718644ac9db45e1efb0d601440e1e7aa.png" alt="" width="426" height="511"></p>
-<p>ÐÐºÐ»ÑÑÐ¸Ð¼ Ð¶ÑÑÐ½Ð°Ð».</p>
+<p>Включим журнал.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fcbf9b47437519bedbe9a6f1f6caaa6f.png" alt="" width="427" height="515"></p>
-<p>ÐÐºÐ»ÑÑÐ¸Ð¼ Ð¾ÑÑÐµÑÑ.</p>
+<p>Включим отчеты.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/18d704e5a4ee2d16c388ba7db264d393.png" alt="" width="426" height="510"></p>
-<p>Ð£ÑÑÐ¸ÑÐµ, Ð±ÐµÐ· SMTP ÑÐµÑÐ²ÐµÑÐ° Ð¾ÑÐ¿ÑÐ°Ð²ÐºÐ° Ð¾ÑÑÐµÑÐ¾Ð² ÑÐ°Ð±Ð¾ÑÐ°ÑÑ Ð½Ðµ Ð±ÑÐ´ÐµÑ.</p>
-<p>ÐÑÐ»Ð¸ Ð²Ñ ÑÐ¾ÑÐ¸ÑÐµ Ð¸Ð·Ð¼ÐµÐ½Ð¸ÑÑ Ð³ÑÑÐ¿Ð¿Ñ ÑÐ°Ð¹Ð»Ð¾Ð², ÑÐ¾ ÑÑÐ¾ Ð¼Ð¾Ð¶Ð½Ð¾ ÑÐ´ÐµÐ»Ð°ÑÑ ÑÑÑ:</p>
+<p>Учтите, без SMTP сервера отправка отчетов работать не будет.</p>
+<p>Если вы хотите изменить группы файлов, то это можно сделать тут:</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/16edfb931b35aa0d320b2a9a1eb94137.png" alt="" width="998" height="247"></p>
-<p>Ð¡Ð¾Ð·Ð´Ð°Ð´Ð¸Ð¼ Ð·Ð°Ð´Ð°ÑÑ ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ°Ð¹Ð»Ð°Ð¼Ð¸.</p>
-<p>ÐÑÐµÐ´ÑÑÐ°Ð²Ð¸Ð¼ ÑÑÐ¾ Ñ Ð½Ð°Ñ ÐµÑÑÑ Ð¿Ð°Ð¿ÐºÐ° <a href="../tag/exchange/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Exchange">exchange</a>. Ð² ÐºÐ¾ÑÐ¾ÑÐ¾Ð¹ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ð¸ Ð¾Ð±Ð¼ÐµÐ½Ð¸Ð²Ð°ÑÑÑÑ ÑÐ°Ð¹Ð»Ð°Ð¼Ð¸.</p>
-<p>ÐÐ°Ð¼ Ð½ÑÐ¶Ð½Ð¾ ÑÐ´ÐµÐ»Ð°ÑÑ ÑÐ°Ðº, ÑÑÐ¾Ð±Ñ ÑÐ°Ð· Ð² Ð¿ÐµÑÐ¸Ð¾Ð´ Ð´Ð°Ð½Ð½Ð°Ñ Ð¿Ð°Ð¿ÐºÐ° Ð¾ÑÐ¸ÑÐ°Ð»Ð°ÑÑ, Ð° ÑÐ´Ð°Ð»ÐµÐ½Ð½ÑÐµ Ð´Ð°Ð½Ð½ÑÐµ Ð¿ÐµÑÐµÐ¼ÐµÑÐ°Ð»Ð¸ÑÑ Ð² Ð¿Ð°Ð¿ÐºÑ Temp</p>
-<p>Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ Ð·Ð°Ð´Ð°ÑÑ.</p>
+<p>Создадим задачу управления файлами.</p>
+<p>Представим что у нас есть папка <a href="../tag/exchange/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Exchange">exchange</a>. в которой пользователи обмениваются файлами.</p>
+<p>Нам нужно сделать так, чтобы раз в период данная папка очищалась, а удаленные данные перемещались в папку Temp</p>
+<p>Создаем задачу.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ce7a8ea2c15fbb4e9cc1f13d7c704b3.png" alt="" width="375" height="282"></p>
-<p>ÐÐ°Ð´Ð°ÐµÐ¼ Ð¸Ð¼Ñ Ð·Ð°Ð´Ð°ÑÐ¸.</p>
+<p>Задаем имя задачи.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fd3513618892ca8ed3a02674e4034dae.png" alt="" width="394" height="490"></p>
-<p>ÐÐ°Ð´Ð°ÐµÐ¼ Ð¿ÑÑÑ Ð¸ Ð¾Ð±Ð»Ð°ÑÑÑ.</p>
+<p>Задаем путь и область.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ae006f600993bfbb77cc476e7b5d9696.png" alt="" width="393" height="489"></p>
-<p>ÐÐ°Ð´Ð°ÐµÐ¼ ÑÐ²Ð¾Ð¹ÑÑÐ²Ð° ÑÐ¿ÑÐ°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð°Ð¿ÐºÐ°Ð¼Ð¸.</p>
+<p>Задаем свойства управления папками.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/676a5e2d62d003a6f03dce1c2fabc66b.png" alt="" width="547" height="399"></p>
-<p>ÐÐ°Ð´Ð°ÐµÐ¼ ÑÑÐ¾Ðº Ð´ÐµÐ¹ÑÑÐ²Ð¸Ñ Ð¿Ð°Ð¿ÐºÐ¸.</p>
+<p>Задаем срок действия папки.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b50ea990ef32b076404adfc2c8cd14de.png" alt="" width="394" height="492"></p>
-<p>ÐÐ°ÑÑÑÐ°Ð¸Ð²Ð°ÐµÐ¼ ÑÐ²ÐµÐ´Ð¾Ð¼Ð»ÐµÐ½Ð¸Ðµ.</p>
+<p>Настраиваем уведомление.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f5ff76ff1b40ec7712fadcbe8b15d937.png" alt="" width="393" height="490"></p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/44dd6cc4e26adde3c26d5c134b4cb61f.png" alt="" width="423" height="522"></p>
-<p>ÐÐ°Ð´Ð°ÐµÐ¼ ÑÑÐ»Ð¾Ð²Ð¸Ðµ.</p>
+<p>Задаем условие.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d08b6d7ccb899ab335698b3b770fff81.png" alt="" width="396" height="492"></p>
-<p>ÐÐ°ÑÑÑÐ°Ð¸Ð²Ð°ÐµÐ¼ ÑÐ°ÑÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ.</p>
+<p>Настраиваем расписание.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9d10ffbc42cb55ab599e402bf25aa837.png" alt="" width="393" height="490"></p>
-<p>ÐÐ¾ÑÐ¾Ð²Ð¾!</p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð¿ÐµÑÐµÐ¹Ð´ÐµÐ¼ Ðº Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐµ ÑÐµÐ¿Ð»Ð¸ÐºÐ°ÑÐ¸Ð¸.</p>
-<p>ÐÐ°ÑÑÑÐ¾Ð¹ÑÐµ ÑÐµÑÐ²ÐµÑ ÑÐµÐ¿Ð»Ð¸ÐºÑ (ÑÐ¾Ð»Ð¸ Ð¸ Ð´Ð¾ÑÑÑÐ¿Ñ), Ð²Ð²ÐµÐ´Ð¸ÑÐµ ÐµÐ³Ð¾ Ð² Ð´Ð¾Ð¼ÐµÐ½.</p>
-<p>Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ Ð½Ð° ÑÐµÑÐ²ÐµÑÐµ ÑÐµÐ¿Ð»Ð¸ÐºÐµ Ð¾Ð±ÑÑÑ Ð¿Ð°Ð¿ÐºÑ Ð¸ Ð¾ÑÐºÐ»ÑÑÐ°ÐµÐ¼ Ð½Ð°ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ.</p>
-<p>ÐÐ°Ð·Ð¾Ð²ÐµÐ¼ ÐµÐµ Office_Files, Ð¾Ð½Ð° Ð±ÑÐ´ÐµÑ ÑÐµÐ¿Ð»Ð¸ÐºÐ¾Ð¹ Ð¿Ð°Ð¿ÐºÐ¸ — Office_Files Ñ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð³Ð¾ ÑÐ°Ð¹Ð»Ð¾Ð²Ð¾Ð³Ð¾ ÑÐµÑÐ²ÐµÑÐ°.</p>
+<p>Готово!</p>
+<p>Теперь перейдем к настройке репликации.</p>
+<p>Настройте сервер реплику (роли и доступы), введите его в домен.</p>
+<p>Создаем на сервере реплике общую папку и отключаем наследование.</p>
+<p>Назовем ее Office_Files, она будет репликой папки — Office_Files с основного файлового сервера.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3e75890f2bdb9d2a728de3b8538b7bac.png" alt="" width="509" height="571"></p>
-<p>ÐÐµÑÐµÑÐ¾Ð´Ð¸Ð¼ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ ÑÐ°Ð¹Ð»Ð¾Ð²ÑÐ¹ ÑÐµÑÐ²ÐµÑ, Ð¸ Ð¾ÑÐºÑÑÐ²Ð°ÐµÐ¼ ÐºÐ¾Ð½ÑÐ¾Ð»Ñ DFS.</p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÑÑÐ²Ð¾ Ð¸Ð¼ÐµÐ½, ÐºÐ¾ÑÐ¾ÑÐ¾Ðµ ÑÐ¾ÑÐ¸Ð¼ ÑÐµÐ¿Ð»Ð¸ÑÐ¸ÑÐ¾Ð²Ð°ÑÑ, Ð¸ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð¿ÑÐ½ÐºÑ «ÐÐ¾Ð±Ð°Ð²Ð¸ÑÑ ÐºÐ¾Ð½ÐµÑÐ½ÑÐ¹ Ð¾Ð±ÑÐµÐºÑ Ð¿Ð°Ð¿ÐºÐ¸».</p>
+<p>Переходим на основной файловый сервер, и открываем консоль DFS.</p>
+<p>Выбираем пространство имен, которое хотим реплицировать, и выбираем пункт «Добавить конечный объект папки».</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9171d4aa21bd637bdafec0053b17e091.png" alt="" width="404" height="195"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð¾Ð±ÑÑÑ Ð¿Ð°Ð¿ÐºÑ ÑÐ¾ 2-Ð³Ð¾ ÑÐµÑÐ²ÐµÑÐ°.</p>
+<p>Указываем общую папку со 2-го сервера.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/70f6d9a3a6966e319b50cb76a67bd14d.png" alt="" width="416" height="197"></p>
-<p>ÐÐ° Ð²Ð¾Ð¿ÑÐ¾Ñ Ð¾ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ð¸ Ð³ÑÑÐ¿Ð¿Ñ ÑÐµÐ¿Ð»Ð¸ÐºÐ°ÑÐ¸Ð¸ Ð¾ÑÐ²ÐµÑÐ°ÐµÐ¼ — Ð´Ð°.</p>
+<p>На вопрос о создании группы репликации отвечаем — да.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/63d59705ba1b0ba9a8b0e14dba18f988.png" alt="" width="419" height="171"></p>
-<p>ÐÑÑÐ°Ð²Ð»ÑÐµÐ¼ Ð·Ð°Ð¿Ð¾Ð»Ð½ÐµÐ½Ð½Ð¾Ðµ Ð¿Ð¾-ÑÐ¼Ð¾Ð»ÑÐ°Ð½Ð¸Ñ.</p>
+<p>Оставляем заполненное по-умолчанию.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b5e8cd0351356a00b7763d6f6473f352.png" alt="" width="615" height="494"></p>
-<p>ÐÑÐ¾Ð²ÐµÑÑÐµÐ¼ ÑÑÐ¾ ÑÐºÐ°Ð·Ð°Ð½Ñ 2-Ð° Ð½Ð°ÑÐ¸Ñ ÑÐµÑÐ²ÐµÑÐ°, Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ð¸ ÑÐµÐ·ÐµÑÐ²Ð½ÑÐ¹.</p>
+<p>Проверяем что указаны 2-а наших сервера, основной и резервный.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9de2204473da6d95109cd503d98d937a.png" alt="" width="617" height="496"></p>
-<p>Ð£ÐºÐ°Ð·ÑÐ²Ð°ÐµÐ¼ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ ÑÐµÑÐ²ÐµÑ.</p>
+<p>Указываем основной сервер.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dd339cfe438ce96701e3feba7e3e7384.png" alt="" width="617" height="496"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ ÑÐ¾Ð¿Ð¾Ð»Ð¾Ð³Ð¸Ñ — Ð¿Ð¾Ð»Ð½Ð°Ñ ÑÐµÑÐºÐ°.</p>
+<p>Выбираем топологию — полная сетка.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/99f33c26020e05a9d7f51093a60f7d78.png" alt="" width="613" height="493"></p>
-<p>ÐÑÐ±Ð¸ÑÐ°ÐµÐ¼ Ð¿ÑÐ¾Ð¿ÑÑÐºÐ½ÑÑ ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑÑ ÐºÐ°Ð½Ð°Ð»Ð° Ð¼ÐµÐ¶Ð´Ñ ÑÐµÑÐ²ÐµÑÐ°Ð¼Ð¸.</p>
+<p>Выбираем пропускную способность канала между серверами.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2fb75c7eedbc867e9a13fbfe96618618.png" alt="" width="616" height="497"></p>
-<p>ÐÑÐ¾Ð²ÐµÑÑÐµÐ¼ Ð²ÑÐµ, Ð¸ Ð²ÑÐ±Ð¸ÑÐ°ÐµÐ¼ — ÑÐ¾Ð·Ð´Ð°ÑÑ.</p>
+<p>Проверяем все, и выбираем — создать.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/65743735b410723427928a7f4d217373.png" alt="" width="612" height="493"></p>
-<p>ÐÑÐ»Ð¸ Ð²ÑÐµ Ð¿ÑÐ¾ÑÐ»Ð¾ ÑÑÐ¿ÐµÑÐ½Ð¾, ÑÐ¾ Ð²Ñ ÑÐ²Ð¸Ð´Ð¸ÑÐµ ÑÑÐ¾:</p>
+<p>Если все прошло успешно, то вы увидите это:</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/307f518b91aa328d726e0a811efa99bb.png" alt="" width="617" height="496"></p>
-<p>ÐÐ»Ñ Ð¾ÑÐºÐ°Ð·Ð¾ÑÑÑÐ¾Ð¹ÑÐ¸Ð²Ð¾ÑÑÐ¸ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð¼ Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÑÑÐ²Ð¾ Ð¸Ð¼ÐµÐ½ Ð´Ð»Ñ Ð¾ÑÐ¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ñ, Ð½Ð° 2-Ð¼ Ð½Ð°ÑÐµÐ¼ ÑÐµÑÐ²ÐµÑÐµ.</p>
+<p>Для отказоустойчивости добавим пространство имен для отображения, на 2-м нашем сервере.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/919c1afccc6d498c779e81848bec5349.png" alt="" width="419" height="181"></p>
-<p>Ð Ð²ÑÐ±ÐµÑÐµÐ¼ Ð½Ð°ÑÐµ Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÑÑÐ²Ð¾ Ð¸Ð¼ÐµÐ½.</p>
+<p>И выберем наше пространство имен.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3176cf3ab3b01e194aa893aa912743f7.png" alt="" width="372" height="419"></p>
-<p>ÐÐ¾Ð»Ð¶Ð½Ð¾ Ð¿Ð¾Ð»ÑÑÐ¸ÑÑÑ ÑÐ°Ðº.</p>
+<p>Должно получится так.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a4853dca453b56d939e4866f552efdb6.png" alt="" width="338" height="96"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð´Ð¾Ð±Ð°Ð²ÑÑÐµ 2-Ð¹ Ð² «ÑÐµÑÐ²ÐµÑÑ Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÑÑÐ²Ð° Ð¸Ð¼ÐµÐ½» Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¼ ÑÐµÑÐ²ÐµÑÐµ.</p>
+<p>Теперь добавьте 2-й в «серверы пространства имен» на основном сервере.</p>
 <p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b04153c5c60561ecea3169cf88175028.png" alt="" width="787" height="467"></p>
-<p>Ð¢ÐµÐ¿ÐµÑÑ Ð¿ÑÐ¾ÑÑÑÐ°Ð½ÑÑÐ²Ð¾ Ð¸Ð¼ÐµÐ½ Ð±ÑÐ´ÐµÑ Ð´Ð¾ÑÑÑÐ¿Ð½Ð¾ Ð½Ð° 2-Ñ ÑÐµÑÐ²ÐµÑÐ°Ñ.</p>
-<p>Ð¢Ð°ÐºÐ¶Ðµ Ð¾Ð±ÑÐ°ÑÐ¸ÑÐµ Ð²Ð½Ð¸Ð¼Ð°Ð½Ð¸Ðµ, ÑÑÐ¾ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ Ð´Ð¸ÑÐ¿ÐµÑÑÐµÑÐ° ÑÐµÑÑÑÑÐ¾Ð² ÑÐ°Ð¹Ð»Ð¾Ð²Ð¾Ð³Ð¾ ÑÐµÑÐ²ÐµÑÐ°, Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸ ABE, Ð½Ðµ ÑÐµÐ¿Ð»Ð¸ÑÐ¸ÑÑÑÑÑÑ Ð½Ð° 2-Ð¹ ÑÐµÑÐ²ÐµÑ.</p>
-<p>ÐÐ°ÑÑÑÐ¾Ð¹ÐºÑ Ð´Ð°Ð½Ð½Ð¾Ð³Ð¾ ÑÐµÑÐ²ÐµÑÐ° Ð½ÑÐ¶Ð½Ð¾ Ð±ÑÐ´ÐµÑ Ð¿ÑÐ¾Ð¸Ð·Ð²Ð¾Ð´Ð¸ÑÑ Ð·Ð°Ð½Ð¾Ð²Ð¾.</p>
-<p>Ð¢Ð°ÐºÐ¶Ðµ Ð¿Ð¾Ð¼Ð½Ð¸ÑÐµ, ÑÑÐ¾ DFS ÑÐµÐ¿Ð»Ð¸ÐºÐ°ÑÐ¸Ñ ÑÐ°Ð¹Ð»Ð¾Ð² ÑÐ°Ð±Ð¾ÑÐ°ÐµÑ Ð¿Ð¾ Ð¿ÑÐ¸Ð½ÑÐ¸Ð¿Ñ — ÐºÑÐ¾ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ ÑÐ¾Ñ Ð¸ Ð¿ÑÐ°Ð².</p>
-<p>ÐÐ°Ð¿ÑÐ¸Ð¼ÐµÑ, ÐµÑÐ»Ð¸ 2 Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð¾Ð´Ð½Ð¾Ð²ÑÐµÐ¼ÐµÐ½Ð½Ð¾ Ð¾ÑÑÐµÐ´Ð°ÐºÑÐ¸ÑÑÑÑ Ð¸Ð»Ð¸ ÑÐ¾Ð·Ð´Ð°Ð´ÑÑ Ð¾Ð´Ð¸Ð½ Ð¸ ÑÐ¾Ñ Ð¶Ðµ ÑÐ°Ð¹Ð», ÑÐ¾ DFS ÑÐµÐ¿Ð»Ð¸ÑÐ¸ÑÑÐµÑ ÑÐ¾Ñ ÑÐ°Ð¹Ð», ÐºÐ¾ÑÐ¾ÑÑÐ¹ Ð±ÑÐ» ÑÐ¾Ð·Ð´Ð°Ð½ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¼.</p>
-<p>Ð Ð¿ÑÐµÐ´ÑÐ´ÑÑÐ¸Ð¹ ÑÐ°Ð¹Ð» Ð±ÑÐ´ÐµÑ ÑÐ¾ÑÑÐ°Ð½ÐµÐ½ Ð² Ð¿Ð°Ð¿ÐºÐµ DfsrPrivate\ConflictandDeleted Ð½Ð° ÑÐµÑÐ²ÐµÑÐµ ÑÐ°Ð·ÑÐµÑÐ¸Ð²ÑÐµÐ¼ Ð¿ÑÐ¾Ð±Ð»ÐµÐ¼Ñ.</p>
-<p>ÐÐ° ÑÑÐ¾Ð¼ Ð²ÑÐµ!Â  Ð£Ð´Ð°ÑÐ½Ð¾Ð¹ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸!</p>
+<p>Теперь пространство имен будет доступно на 2-х серверах.</p>
+<p>Также обратите внимание, что настройки диспетчера ресурсов файлового сервера, настройки ABE, не реплицируются на 2-й сервер.</p>
+<p>Настройку данного сервера нужно будет производить заново.</p>
+<p>Также помните, что DFS репликация файлов работает по принципу — кто последний тот и прав.</p>
+<p>Например, если 2 пользователя одновременно отредактируют или создадут один и тот же файл, то DFS реплицирует тот файл, который был создан последним.</p>
+<p>А предыдущий файл будет сохранен в папке DfsrPrivate\ConflictandDeleted на сервере разрешившем проблему.</p>
+<p>На этом все!  Удачной настройки!</p>
 <p> </p>
 <p> </p>
 <p> </p>
 <p> </p>
 <p> </p>
 <p> </p>
-<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=85.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="ÐÐµÑÐµÑÐ¾Ð´ Ð½Ð° ÑÐµÐ¿Ð»Ð¸ÐºÐ°ÑÐ¸Ñ SYSVOL Ð¿Ð¾ DFS" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">ÐÐµÑÐµÑÐ¾Ð´ Ð½Ð° ÑÐµÐ¿Ð»Ð¸ÐºÐ°ÑÐ¸Ñ SYSVOL Ð¿Ð¾ DFS</div></div></a><a class="relpost-block-single" href="../index.html@p=111.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¹ Active Directory ÑÐµÑÐµÐ· CSV ÑÐ°Ð¹Ð»" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¹ Active Directory ÑÐµÑÐµÐ· CSV ÑÐ°Ð¹Ð»</div></div></a><a class="relpost-block-single" href="../index.html@p=61.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="1" style="background: transparent url(../wp-content/uploads/2014/12/1-150x150.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">ÐÐ±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ðµ ÑÑÐµÐ¼Ñ Active Directory</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=584.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Автоматический аудит компьютеров в Active Directory через powershell." style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Автоматический аудит компьютеров в Active Directory через powershell.</div></div></a><a class="relpost-block-single" href="../index.html@p=30.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Active Directory + Thunderbird = Общая адресная книга" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Active Directory + Thunderbird = Общая адресная книга</div></div></a><a class="relpost-block-single" href="../index.html@p=1249.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh..." style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
         <div class="post-info">
 
             <div class="left"> <a href="../category/active-directory/index.html" rel="category tag">Active Directory</a>, <a href="../category/windows/index.html" rel="category tag">Windows</a>, <a href="../category/windows-server/index.html" rel="category tag">Windows Server</a> </div>
@@ -889,7 +889,7 @@ body.custom-background { background-color: #cecece; }
     <section id="comment-1213" class="comment odd alt thread-even depth-1 post-article" >
     
         <div class="comment-avatar">
-            <img alt='' src='http://1.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' loading='lazy'/>        </div>
+            <img alt='' src='http://2.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' loading='lazy'/>        </div>
          
         <div class="comment-text" style=" padding:15px; border:none">
             
@@ -1018,7 +1018,7 @@ body.custom-background { background-color: #cecece; }
     <section id="comment-1441" class="comment odd alt thread-even depth-1 post-article" >
     
         <div class="comment-avatar">
-            <img alt='' src='http://1.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' loading='lazy'/>        </div>
+            <img alt='' src='http://1.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' loading='lazy'/>        </div>
          
         <div class="comment-text" style=" padding:15px; border:none">
             
@@ -1501,7 +1501,7 @@ body.custom-background { background-color: #cecece; }
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='270' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='1242' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="c2f43321c7" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="45"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="8bd12202d4" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="44"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->
