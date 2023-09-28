@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellНазначение служб для сертификатов Exchange через Powershell.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Аудит изменений групповых политик через PowerShellОбновление схемы Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

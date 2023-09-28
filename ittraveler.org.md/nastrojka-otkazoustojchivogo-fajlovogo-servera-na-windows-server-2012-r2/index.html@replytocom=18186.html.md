@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Автоматическая активация пользователей Lync через PowershellОтключение Skype UI в Lync 2013
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Новые компьютеры не появляются на WSUS сервереУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

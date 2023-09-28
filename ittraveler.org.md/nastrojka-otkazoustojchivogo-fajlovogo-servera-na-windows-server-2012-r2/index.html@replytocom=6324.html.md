@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILВключение корзины Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Кастомизация гостевых ОС Windows в KVM на примере ProxmoxWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectWindows WSL подключение к сетевым шарамОбновление схемы Active Directory
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольWindows WSL подключение к сетевым шарамПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере ProxmoxПередача и захват ролей FSMO
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАктивируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

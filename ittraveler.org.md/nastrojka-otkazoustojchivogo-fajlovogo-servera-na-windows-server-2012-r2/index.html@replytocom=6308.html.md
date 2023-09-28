@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПередача и захват ролей FSMOКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

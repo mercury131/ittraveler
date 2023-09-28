@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Получаем MD5 файла или переменной в PowershellАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Включение корзины Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

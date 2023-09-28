@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматическая активация пользователей Lync через PowershellПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольДобавление UPN суффикса в Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

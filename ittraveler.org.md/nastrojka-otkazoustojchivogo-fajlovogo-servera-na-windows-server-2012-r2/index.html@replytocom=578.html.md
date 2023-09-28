@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Назначение служб для сертификатов Exchange через Powershell.Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

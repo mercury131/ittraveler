@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиДобавление почтовых контактов в Office 365 через Powershell и CSVПереход на репликацию SYSVOL по DFS
+Related posts:Отключение Skype UI в Lync 2013Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

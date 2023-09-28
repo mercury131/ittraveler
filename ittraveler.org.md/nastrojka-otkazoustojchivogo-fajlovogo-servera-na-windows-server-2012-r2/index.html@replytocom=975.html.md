@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление UPN суффикса в Active DirectoryУдаление Lync Server 2013
+Related posts:Создание пользователей Active Directory через CSV файлОбновление Lync 2013 до Skype for BusinessУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

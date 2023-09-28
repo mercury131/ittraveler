@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Отключение Skype UI в Lync 2013Обновление Lync 2013 до Skype for BusinessУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

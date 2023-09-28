@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Добавление почтовых контактов в Office 365 через Powershell и CSVКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Active Directory + Thunderbird = Общая адресная книгаРешаем проблему внезапной блокировки учетной записиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
