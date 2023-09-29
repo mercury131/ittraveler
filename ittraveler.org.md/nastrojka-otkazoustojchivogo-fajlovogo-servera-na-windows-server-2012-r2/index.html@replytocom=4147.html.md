@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольWindows WSL подключение к сетевым шарамПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Создание пользователей Active Directory через CSV файлПеренос базы данных Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
