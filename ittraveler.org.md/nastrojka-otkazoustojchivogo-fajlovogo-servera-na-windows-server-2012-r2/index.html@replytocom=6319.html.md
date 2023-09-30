@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Новые компьютеры не появляются на WSUS сервереНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Активируем LDAP over SSLАудит доменных служб Active Directory в Windows Server 2008 R2Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

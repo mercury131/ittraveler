@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryПередача и захват ролей FSMOУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Обновление Lync 2013 до Skype for BusinessПередача и захват ролей FSMOУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

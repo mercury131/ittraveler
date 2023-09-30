@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryСброс настроек GPO на стандартныеПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Настройка HA кластера Hyper-VОтключение Skype UI в Lync 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

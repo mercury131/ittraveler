@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Настройка Kerberos авторизации в Apache2Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Установка и настройка AnsibleВключение корзины Active DirectoryОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

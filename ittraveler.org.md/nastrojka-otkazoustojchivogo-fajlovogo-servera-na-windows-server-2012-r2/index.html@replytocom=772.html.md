@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записи
+Related posts:Добавление UPN суффикса в Active DirectoryСброс пароля компьютера в домене без перезагрузкиУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиПоиск старых почтовых ящиков в Exchange 2010Сброс пароля компьютера в домене без перезагрузки
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

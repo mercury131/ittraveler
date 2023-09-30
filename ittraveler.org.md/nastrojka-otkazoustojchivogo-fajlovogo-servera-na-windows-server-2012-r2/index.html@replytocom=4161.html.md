@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellОтключение Skype UI в Lync 2013Сброс пароля компьютера в домене без перезагрузки
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольДобавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

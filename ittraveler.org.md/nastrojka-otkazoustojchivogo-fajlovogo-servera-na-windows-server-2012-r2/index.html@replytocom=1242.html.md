@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматизируем бэкап баз данных MSSQL ExpressКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Аудит изменений групповых политик через PowerShellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

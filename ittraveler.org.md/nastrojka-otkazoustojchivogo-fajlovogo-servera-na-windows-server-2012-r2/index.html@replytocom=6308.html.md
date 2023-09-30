@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLАвтоматический аудит компьютеров в Active Directory через powershell.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСброс пароля компьютера в домене без перезагрузкиАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

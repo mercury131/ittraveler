@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Ansible
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

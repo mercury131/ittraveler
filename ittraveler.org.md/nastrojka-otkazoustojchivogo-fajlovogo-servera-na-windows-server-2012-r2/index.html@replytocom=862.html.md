@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Управление репликацией Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Автоматическая активация пользователей Lync через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
