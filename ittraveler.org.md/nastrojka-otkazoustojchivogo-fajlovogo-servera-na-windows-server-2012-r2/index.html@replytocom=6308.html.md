@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСброс пароля компьютера в домене без перезагрузкиАктивируем LDAP over SSL
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
