@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматическая активация пользователей Lync через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Обновление Lync 2013 до Skype for BusinessПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

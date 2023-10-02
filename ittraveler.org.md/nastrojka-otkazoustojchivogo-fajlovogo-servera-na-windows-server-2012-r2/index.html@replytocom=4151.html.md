@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Установка и настройка кластера MSSQL 2012.Включение корзины Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

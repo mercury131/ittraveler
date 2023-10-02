@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryАудит изменений в Active DirectoryУстановка и настройка Ansible
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

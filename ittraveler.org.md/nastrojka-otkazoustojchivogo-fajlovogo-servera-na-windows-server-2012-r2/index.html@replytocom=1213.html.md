@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПереход на репликацию SYSVOL по DFSВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

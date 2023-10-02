@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Добавление почтовых контактов в Office 365 через Powershell и CSVПолучаем MD5 файла или переменной в Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

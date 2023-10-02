@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Создание шаблонов Zabbix для Windows.Сброс пароля компьютера в домене без перезагрузкиОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

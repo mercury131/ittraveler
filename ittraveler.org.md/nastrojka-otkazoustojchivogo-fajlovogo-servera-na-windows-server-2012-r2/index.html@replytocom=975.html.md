@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryСоздание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Обновление схемы Active DirectoryАудит изменений в Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

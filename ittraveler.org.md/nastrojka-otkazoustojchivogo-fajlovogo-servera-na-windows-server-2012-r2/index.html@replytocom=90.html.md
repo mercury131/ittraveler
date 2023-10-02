@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellУдаление Lync Server 2013Создание пользователей Active Directory через CSV файл
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПоиск старых почтовых ящиков в Exchange 2010Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

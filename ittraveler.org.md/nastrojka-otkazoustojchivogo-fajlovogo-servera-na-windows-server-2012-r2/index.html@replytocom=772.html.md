@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереОтключение Skype UI в Lync 2013Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка Lync 2013Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка AnsibleУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание индивидуальных адресных книг в Office 365 и Exchange onlineПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПоиск старых почтовых ящиков в Exchange 2010Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Управление репликацией Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереНазначение служб для сертификатов Exchange через Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Переход на репликацию SYSVOL по DFSАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

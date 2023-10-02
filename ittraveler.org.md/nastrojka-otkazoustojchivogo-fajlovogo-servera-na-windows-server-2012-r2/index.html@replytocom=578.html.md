@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит доменных служб Active Directory в Windows Server 2008 R2Автоматическая активация пользователей Lync через Powershell
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПодключение к Office 365 через Powershell и зашифрованный парольПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

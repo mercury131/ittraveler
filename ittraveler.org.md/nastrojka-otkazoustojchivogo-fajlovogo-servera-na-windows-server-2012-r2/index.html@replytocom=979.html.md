@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

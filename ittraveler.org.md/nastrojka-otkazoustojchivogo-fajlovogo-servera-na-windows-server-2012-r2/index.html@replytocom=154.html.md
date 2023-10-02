@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellАудит изменений групповых политик через PowerShellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
