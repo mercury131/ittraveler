@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessСоздание пользователей Active Directory через CSV файлДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Восстановление объектов Active Directory: сборник сценариевОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOАудит изменений групповых политик через PowerShellУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка AnsibleУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

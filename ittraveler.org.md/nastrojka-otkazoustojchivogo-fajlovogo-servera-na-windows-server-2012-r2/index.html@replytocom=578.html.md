@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание шаблонов Zabbix для Windows.Windows WSL подключение к сетевым шарам
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineДобавление UPN суффикса в Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

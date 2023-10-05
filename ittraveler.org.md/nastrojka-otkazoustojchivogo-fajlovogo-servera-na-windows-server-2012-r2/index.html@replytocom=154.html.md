@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectПередача и захват ролей FSMO
+Related posts:Управление репликацией Active DirectoryДобавление UPN суффикса в Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

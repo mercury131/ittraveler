@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка Lync 2013
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Управление репликацией Active DirectoryАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

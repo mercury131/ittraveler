@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамОтключение Skype UI в Lync 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryWindows WSL подключение к сетевым шарамПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

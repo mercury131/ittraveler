@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книгаДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILWindows WSL подключение к сетевым шарамActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
