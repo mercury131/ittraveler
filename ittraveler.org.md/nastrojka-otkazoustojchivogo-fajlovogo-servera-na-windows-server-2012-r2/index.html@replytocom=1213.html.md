@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Передача и захват ролей FSMOПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Установка RSAT на Windows 10 1809Переход на репликацию SYSVOL по DFSОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

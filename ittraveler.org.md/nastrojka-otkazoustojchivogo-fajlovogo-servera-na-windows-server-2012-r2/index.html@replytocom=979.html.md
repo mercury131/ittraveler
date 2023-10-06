@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка RSAT на Windows 10 1809Управление репликацией Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

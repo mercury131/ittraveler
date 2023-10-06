@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка Kerberos авторизации в Apache2Установка и настройка Ansible
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматическая активация пользователей Lync через PowershellОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

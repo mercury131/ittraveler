@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Управление репликацией Active DirectoryАудит изменений в Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSLУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

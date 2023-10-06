@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Принудительная синхронизация Office 365 и локальной Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Передача и захват ролей FSMOСоздание шаблонов Zabbix для Windows.Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

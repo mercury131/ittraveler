@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит незаполненных полей в Active Directory через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Сброс пароля администратора Active DirectoryИзменение UPN суффикса в Active Directory через PowershellУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

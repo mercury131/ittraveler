@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLНазначение служб для сертификатов Exchange через Powershell.Добавление UPN суффикса в Active Directory
+Related posts:Windows WSL подключение к сетевым шарамАудит доменных служб Active Directory в Windows Server 2008 R2Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

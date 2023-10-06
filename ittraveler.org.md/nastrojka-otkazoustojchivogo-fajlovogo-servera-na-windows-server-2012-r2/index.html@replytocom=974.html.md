@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСброс пароля администратора Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

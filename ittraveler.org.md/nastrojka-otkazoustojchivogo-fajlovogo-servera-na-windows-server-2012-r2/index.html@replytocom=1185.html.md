@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание пользователей Active Directory через CSV файлВключение корзины Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПереход на репликацию SYSVOL по DFSУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryУправление репликацией Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Включение корзины Active DirectoryПереход на репликацию SYSVOL по DFSКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

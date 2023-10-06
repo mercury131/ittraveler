@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellИзменение UPN суффикса в Active Directory через PowershellПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Обновление схемы Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

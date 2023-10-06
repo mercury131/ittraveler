@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Аудит изменений в Active DirectoryСброс пароля администратора Active Directory
+Related posts:Отключение Skype UI в Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

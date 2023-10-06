@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryСоздание пользователей Active Directory через CSV файлСоздание шаблонов Zabbix для Windows.
+Related posts:Обновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариевПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

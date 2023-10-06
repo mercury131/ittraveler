@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка кластера MSSQL 2012.
+Related posts:Сброс пароля администратора Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
