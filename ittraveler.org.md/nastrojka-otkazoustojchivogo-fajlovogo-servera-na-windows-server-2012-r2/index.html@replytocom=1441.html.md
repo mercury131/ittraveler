@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Active Directory + Thunderbird = Общая адресная книгаДобавление UPN суффикса в Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

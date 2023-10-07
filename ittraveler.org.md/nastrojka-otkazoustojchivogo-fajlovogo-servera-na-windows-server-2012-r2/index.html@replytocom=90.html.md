@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Настройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces DirectПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryСоздание пользователей Active Directory через CSV файлОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Создание email рассылки через PowershellСоздание пользователей Active Directory через CSV файлАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

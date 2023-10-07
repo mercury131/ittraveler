@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSLУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Настройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Подключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

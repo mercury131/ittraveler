@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка HA кластера Hyper-VЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Активируем LDAP over SSLИзменение UPN суффикса в Active Directory через PowershellСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

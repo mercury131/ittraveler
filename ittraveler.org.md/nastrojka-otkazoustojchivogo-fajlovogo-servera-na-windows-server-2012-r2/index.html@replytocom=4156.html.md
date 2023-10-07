@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит изменений в Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

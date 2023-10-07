@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Поиск старых почтовых ящиков в Exchange 2010Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Удаление Lync Server 2013Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

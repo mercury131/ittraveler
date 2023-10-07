@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryПереход на репликацию SYSVOL по DFSКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Обновление схемы Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

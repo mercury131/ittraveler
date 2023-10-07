@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Поиск старых почтовых ящиков в Exchange 2010Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Сброс пароля компьютера в домене без перезагрузкиActive Directory + Thunderbird = Общая адресная книгаСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryИзменение UPN суффикса в Active Directory через PowershellУдаление Lync Server 2013
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

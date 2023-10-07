@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Отключение Skype UI в Lync 2013Сброс пароля администратора Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание пользователей Active Directory через CSV файлАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

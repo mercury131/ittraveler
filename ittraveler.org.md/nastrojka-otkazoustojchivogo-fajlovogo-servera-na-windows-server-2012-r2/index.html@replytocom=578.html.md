@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Active Directory + Thunderbird = Общая адресная книга
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОбновление Lync 2013 до Skype for BusinessАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

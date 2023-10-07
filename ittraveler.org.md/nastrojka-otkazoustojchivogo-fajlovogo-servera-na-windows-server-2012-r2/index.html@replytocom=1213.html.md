@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Переход на репликацию SYSVOL по DFSОбновление схемы Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

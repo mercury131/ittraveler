@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Получаем MD5 файла или переменной в PowershellСброс пароля администратора Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

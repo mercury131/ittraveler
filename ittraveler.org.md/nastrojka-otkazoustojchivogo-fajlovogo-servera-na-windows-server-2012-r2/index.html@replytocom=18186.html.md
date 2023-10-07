@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Сброс пароля администратора Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Включение корзины Active DirectoryДобавление UPN суффикса в Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

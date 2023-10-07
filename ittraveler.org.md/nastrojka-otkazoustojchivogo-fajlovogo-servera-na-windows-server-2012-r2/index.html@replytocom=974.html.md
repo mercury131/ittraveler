@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматический аудит компьютеров в Active Directory через powershell.Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
