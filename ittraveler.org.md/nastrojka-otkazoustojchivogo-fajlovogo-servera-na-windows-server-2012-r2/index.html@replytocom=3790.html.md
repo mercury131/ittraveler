@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматическая активация пользователей Lync через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Активируем LDAP over SSLНовые компьютеры не появляются на WSUS сервереПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellСброс пароля администратора Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПередача и захват ролей FSMOАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

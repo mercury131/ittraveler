@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиActive Directory + Thunderbird = Общая адресная книгаСоздание пользователей Active Directory через CSV файл
+Related posts:Отключение Skype UI в Lync 2013Аудит изменений в Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

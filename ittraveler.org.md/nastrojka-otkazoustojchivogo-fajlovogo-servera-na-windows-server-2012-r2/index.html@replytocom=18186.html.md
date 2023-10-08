@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryДобавление UPN суффикса в Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Переход на репликацию SYSVOL по DFSНастройка Kerberos авторизации в Apache2Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

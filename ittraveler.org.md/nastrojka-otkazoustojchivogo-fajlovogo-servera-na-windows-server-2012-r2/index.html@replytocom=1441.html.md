@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаДобавление UPN суффикса в Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевОбновление Lync 2013 до Skype for BusinessАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
