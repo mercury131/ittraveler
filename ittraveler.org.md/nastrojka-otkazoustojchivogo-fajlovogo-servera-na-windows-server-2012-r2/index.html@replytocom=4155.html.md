@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлУстановка RSAT на Windows 10 1809Создание email рассылки через Powershell
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка Scale-Out File Server + Storage Spaces DirectActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

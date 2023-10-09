@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка дедупликации  на Windows Server 2012 R2Включение корзины Active Directory
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание пользователей Active Directory через CSV файлПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

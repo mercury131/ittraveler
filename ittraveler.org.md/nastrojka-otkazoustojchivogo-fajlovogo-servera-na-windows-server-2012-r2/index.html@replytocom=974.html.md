@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Создание шаблонов Zabbix для Windows.Аудит изменений в Active Directory
+Related posts:Обновление схемы Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

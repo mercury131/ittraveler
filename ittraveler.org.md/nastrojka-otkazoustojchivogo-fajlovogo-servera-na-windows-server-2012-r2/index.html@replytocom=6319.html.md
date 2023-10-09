@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОбновление схемы Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellОбновление Lync 2013 до Skype for BusinessСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

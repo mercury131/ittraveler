@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLСоздание индивидуальных адресных книг в Office 365 и Exchange onlineНовые компьютеры не появляются на WSUS сервере
+Related posts:Автоматическая активация пользователей Lync через PowershellРешаем проблему внезапной блокировки учетной записиАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

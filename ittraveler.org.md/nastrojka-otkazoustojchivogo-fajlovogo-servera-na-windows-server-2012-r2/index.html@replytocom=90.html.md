@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Lync 2013
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСоздание индивидуальных адресных книг в Office 365 и Exchange onlineОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

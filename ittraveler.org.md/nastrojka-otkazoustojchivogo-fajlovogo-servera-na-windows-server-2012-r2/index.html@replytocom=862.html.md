@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание шаблонов Zabbix для Windows.Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

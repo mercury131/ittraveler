@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Получаем MD5 файла или переменной в Powershell
+Related posts:Windows WSL подключение к сетевым шарамКастомизация гостевых ОС Windows в KVM на примере ProxmoxПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

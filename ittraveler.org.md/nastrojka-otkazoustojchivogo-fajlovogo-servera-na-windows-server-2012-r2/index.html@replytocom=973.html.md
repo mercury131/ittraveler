@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressАудит изменений в Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записиИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

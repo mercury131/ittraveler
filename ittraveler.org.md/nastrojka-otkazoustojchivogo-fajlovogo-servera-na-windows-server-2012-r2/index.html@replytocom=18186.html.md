@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSНастройка Kerberos авторизации в Apache2Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Аудит изменений в Active DirectoryПеренос базы данных Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

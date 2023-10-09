@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Добавление UPN суффикса в Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос базы данных Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

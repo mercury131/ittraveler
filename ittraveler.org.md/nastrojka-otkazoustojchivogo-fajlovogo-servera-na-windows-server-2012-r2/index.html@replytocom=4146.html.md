@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Обновление Lync 2013 до Skype for BusinessУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Удаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

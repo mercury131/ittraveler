@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольВосстановление объектов Active Directory: сборник сценариев
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Принудительная синхронизация Office 365 и локальной Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
