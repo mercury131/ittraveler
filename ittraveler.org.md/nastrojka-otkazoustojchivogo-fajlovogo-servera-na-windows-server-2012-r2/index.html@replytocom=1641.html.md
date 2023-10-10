@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос базы данных Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка AlwaysOn на MS SQL 2016Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
