@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLСоздание пользователей Active Directory через CSV файлАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

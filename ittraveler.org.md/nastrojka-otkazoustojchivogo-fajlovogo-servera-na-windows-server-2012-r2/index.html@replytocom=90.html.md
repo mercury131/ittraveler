@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Принудительная синхронизация Office 365 и локальной Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка Scale-Out File Server + Storage Spaces DirectЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

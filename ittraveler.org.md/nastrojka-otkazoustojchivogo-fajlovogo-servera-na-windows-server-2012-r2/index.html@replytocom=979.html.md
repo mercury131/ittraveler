@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Перенос базы данных Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Получаем MD5 файла или переменной в PowershellУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

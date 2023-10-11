@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Новые компьютеры не появляются на WSUS сервереСброс настроек GPO на стандартные
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАудит незаполненных полей в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

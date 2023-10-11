@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереУдаление Lync Server 2013Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Передача и захват ролей FSMOУправление репликацией Active DirectoryВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

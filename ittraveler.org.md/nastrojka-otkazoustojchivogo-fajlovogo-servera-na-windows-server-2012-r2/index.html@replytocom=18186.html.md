@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.Установка и настройка Ansible
+Related posts:Сброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузкиВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

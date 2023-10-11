@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Поиск старых почтовых ящиков в Exchange 2010Сброс пароля администратора Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записиПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

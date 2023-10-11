@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Активируем LDAP over SSLКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Активируем LDAP over SSLУстановка и настройка кластера MSSQL 2012.Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

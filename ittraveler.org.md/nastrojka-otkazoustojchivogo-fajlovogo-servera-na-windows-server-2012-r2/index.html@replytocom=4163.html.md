@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка кластера MSSQL 2012.
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание email рассылки через PowershellДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

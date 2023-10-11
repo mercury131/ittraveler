@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка RSAT на Windows 10 1809Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПередача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

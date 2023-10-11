@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryУстановка RSAT на Windows 10 1809Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Настройка Kerberos авторизации в Apache2Аудит изменений групповых политик через PowerShellИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

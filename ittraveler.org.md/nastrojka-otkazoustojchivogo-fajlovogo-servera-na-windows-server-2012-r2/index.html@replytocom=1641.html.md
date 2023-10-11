@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка AlwaysOn на MS SQL 2016Обновление Lync 2013 до Skype for Business
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка кластера MSSQL 2012.Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

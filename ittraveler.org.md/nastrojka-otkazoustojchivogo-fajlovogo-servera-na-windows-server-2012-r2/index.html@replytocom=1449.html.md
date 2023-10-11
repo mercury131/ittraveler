@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Настройка Kerberos авторизации в Apache2Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Установка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
