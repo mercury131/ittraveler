@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка Scale-Out File Server + Storage Spaces DirectЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Автоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартныеВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

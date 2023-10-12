@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOУправление репликацией Active DirectoryВключение корзины Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryИзменение UPN суффикса в Active Directory через PowershellОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

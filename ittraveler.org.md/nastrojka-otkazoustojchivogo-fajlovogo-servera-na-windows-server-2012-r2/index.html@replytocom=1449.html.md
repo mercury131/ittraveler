@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Перенос базы данных Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

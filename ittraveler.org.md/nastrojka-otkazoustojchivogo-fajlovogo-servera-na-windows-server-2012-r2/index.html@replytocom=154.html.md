@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через PowershellВосстановление объектов Active Directory: сборник сценариев
+Related posts:Сброс пароля администратора Active DirectoryСброс пароля компьютера в домене без перезагрузкиУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

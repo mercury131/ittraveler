@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПередача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПеренос базы данных Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

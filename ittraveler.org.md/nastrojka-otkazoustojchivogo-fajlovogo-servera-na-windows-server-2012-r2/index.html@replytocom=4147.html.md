@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for BusinessОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

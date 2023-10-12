@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShell
+Related posts:Установка и настройка AnsibleПолучаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

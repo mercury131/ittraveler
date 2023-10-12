@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLУстановка и настройка кластера MSSQL 2012.Получаем MD5 файла или переменной в Powershell
+Related posts:Активируем LDAP over SSLОбновление схемы Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Аудит изменений групповых политик через PowerShellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

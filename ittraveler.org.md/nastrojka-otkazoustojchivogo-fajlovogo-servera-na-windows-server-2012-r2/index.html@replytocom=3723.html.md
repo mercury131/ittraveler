@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryСброс пароля компьютера в домене без перезагрузкиПереход на репликацию SYSVOL по DFS
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАудит изменений в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

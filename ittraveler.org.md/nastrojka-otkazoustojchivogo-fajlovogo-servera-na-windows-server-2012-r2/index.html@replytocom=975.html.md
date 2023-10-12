@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Подключение к Office 365 через Powershell и зашифрованный парольКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

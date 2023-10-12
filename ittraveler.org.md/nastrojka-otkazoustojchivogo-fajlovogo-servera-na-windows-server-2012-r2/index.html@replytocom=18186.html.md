@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузкиВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

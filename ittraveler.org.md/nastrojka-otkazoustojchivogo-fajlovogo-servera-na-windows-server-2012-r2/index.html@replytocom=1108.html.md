@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записиПеренос базы данных Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

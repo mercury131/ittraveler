@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка AlwaysOn на MS SQL 2016Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTКастомизация гостевых ОС Windows в KVM на примере ProxmoxИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

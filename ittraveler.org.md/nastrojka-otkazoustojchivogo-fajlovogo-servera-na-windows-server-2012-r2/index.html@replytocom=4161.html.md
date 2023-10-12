@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание шаблонов Zabbix для Windows.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматическая активация пользователей Lync через PowershellАудит незаполненных полей в Active Directory через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

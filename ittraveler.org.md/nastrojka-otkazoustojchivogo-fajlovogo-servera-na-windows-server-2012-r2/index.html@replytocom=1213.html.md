@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellАудит изменений групповых политик через PowerShellУстановка и настройка Lync 2013
+Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
