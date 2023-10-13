@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Lync 2013
+Related posts:Включение корзины Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через PowershellСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

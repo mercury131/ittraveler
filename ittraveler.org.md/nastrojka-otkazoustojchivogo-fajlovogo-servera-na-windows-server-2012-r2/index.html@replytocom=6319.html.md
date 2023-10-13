@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryИзменение UPN суффикса в Active Directory через PowershellОбновление Lync 2013 до Skype for Business
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

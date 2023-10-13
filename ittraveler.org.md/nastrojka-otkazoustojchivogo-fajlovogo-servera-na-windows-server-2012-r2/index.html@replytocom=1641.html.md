@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматизируем бэкап баз данных MSSQL ExpressПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

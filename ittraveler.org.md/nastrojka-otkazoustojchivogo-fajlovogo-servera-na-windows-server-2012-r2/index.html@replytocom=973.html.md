@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTКастомизация гостевых ОС Windows в KVM на примере ProxmoxИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаWindows WSL подключение к сетевым шарамУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

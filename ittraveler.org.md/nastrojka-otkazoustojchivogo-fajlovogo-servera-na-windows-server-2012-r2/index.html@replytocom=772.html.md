@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Сброс настроек GPO на стандартныеОбновление схемы Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

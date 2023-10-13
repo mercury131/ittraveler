@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка RSAT на Windows 10 1809
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУдаление Lync Server 2013Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

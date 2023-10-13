@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Поиск старых почтовых ящиков в Exchange 2010Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

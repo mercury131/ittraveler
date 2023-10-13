@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLОбновление схемы Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Удаление Lync Server 2013Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

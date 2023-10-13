@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryСброс пароля компьютера в домене без перезагрузкиУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Получаем MD5 файла или переменной в PowershellПодключение к Office 365 через Powershell и зашифрованный парольУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

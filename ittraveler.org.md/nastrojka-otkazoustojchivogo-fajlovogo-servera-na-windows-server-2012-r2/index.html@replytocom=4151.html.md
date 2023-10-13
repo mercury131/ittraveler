@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleActive Directory + Thunderbird = Общая адресная книгаОтключение Skype UI в Lync 2013
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАудит изменений групповых политик через PowerShellУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellАудит незаполненных полей в Active Directory через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматический аудит компьютеров в Active Directory через powershell.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

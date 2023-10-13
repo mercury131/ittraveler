@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка Ansible
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Сброс пароля администратора Active DirectoryУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

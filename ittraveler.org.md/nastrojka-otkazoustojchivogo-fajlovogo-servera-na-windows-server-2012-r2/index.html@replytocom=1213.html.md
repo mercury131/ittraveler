@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка Scale-Out File Server + Storage Spaces DirectКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

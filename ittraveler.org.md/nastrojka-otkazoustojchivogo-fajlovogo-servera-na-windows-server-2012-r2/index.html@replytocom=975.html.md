@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Отключение Skype UI в Lync 2013Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

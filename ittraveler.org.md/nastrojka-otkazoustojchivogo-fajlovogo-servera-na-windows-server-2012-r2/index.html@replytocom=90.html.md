@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартныеВключение корзины Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Обновление Lync 2013 до Skype for BusinessАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
