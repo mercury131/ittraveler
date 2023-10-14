@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryПеренос базы данных Active DirectoryСброс пароля администратора Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectActive Directory + Thunderbird = Общая адресная книгаСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

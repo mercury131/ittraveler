@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Установка RSAT на Windows 10 1809
+Related posts:Управление репликацией Active DirectoryАвтоматическая активация пользователей Lync через PowershellАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

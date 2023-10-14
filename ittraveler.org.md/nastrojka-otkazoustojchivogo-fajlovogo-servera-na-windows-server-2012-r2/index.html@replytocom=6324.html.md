@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellПринудительная синхронизация Office 365 и локальной Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Обновление Lync 2013 до Skype for BusinessПеренос базы данных Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

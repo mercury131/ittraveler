@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через PowershellСброс настроек GPO на стандартные
+Related posts:Управление репликацией Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

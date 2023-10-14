@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАудит изменений групповых политик через PowerShellУстановка RSAT на Windows 10 1809
+Related posts:Создание пользователей Active Directory через CSV файлПринудительная синхронизация контроллеров домена Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

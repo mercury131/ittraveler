@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматизируем бэкап баз данных MSSQL ExpressПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Передача и захват ролей FSMOАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
