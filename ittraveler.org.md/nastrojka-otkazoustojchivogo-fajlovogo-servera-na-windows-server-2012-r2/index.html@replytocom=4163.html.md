@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Удаление Lync Server 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание email рассылки через PowershellОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

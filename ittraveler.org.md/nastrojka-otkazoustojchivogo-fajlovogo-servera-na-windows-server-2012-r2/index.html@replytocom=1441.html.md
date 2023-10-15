@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOПолучаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

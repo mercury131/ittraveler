@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessПеренос базы данных Active DirectoryСоздание email рассылки через Powershell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Управление репликацией Active DirectoryУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
