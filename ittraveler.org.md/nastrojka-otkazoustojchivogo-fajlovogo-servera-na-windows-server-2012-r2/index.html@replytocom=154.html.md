@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНазначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарам
+Related posts:Создание email рассылки через PowershellАудит незаполненных полей в Active Directory через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

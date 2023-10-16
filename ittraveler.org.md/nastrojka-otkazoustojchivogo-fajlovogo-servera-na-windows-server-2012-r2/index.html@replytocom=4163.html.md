@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание email рассылки через PowershellОбновление схемы Active Directory
+Related posts:Настройка Kerberos авторизации в Apache2Создание шаблонов Zabbix для Windows.Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

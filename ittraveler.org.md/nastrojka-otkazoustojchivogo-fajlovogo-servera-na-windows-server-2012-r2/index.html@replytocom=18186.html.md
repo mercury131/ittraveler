@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка Kerberos авторизации в Apache2Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПереход на репликацию SYSVOL по DFSАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Ansible
+Related posts:Создание email рассылки через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

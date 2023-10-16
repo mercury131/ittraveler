@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка AlwaysOn на MS SQL 2016Обновление схемы Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание индивидуальных адресных книг в Office 365 и Exchange onlineВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

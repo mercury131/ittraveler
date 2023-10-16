@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Управление репликацией Active DirectoryУстановка RSAT на Windows 10 1809
+Related posts:Получаем MD5 файла или переменной в PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

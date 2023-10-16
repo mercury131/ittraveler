@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка Scale-Out File Server + Storage Spaces DirectАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиАвтоматический аудит компьютеров в Active Directory через powershell.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПоиск старых почтовых ящиков в Exchange 2010Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

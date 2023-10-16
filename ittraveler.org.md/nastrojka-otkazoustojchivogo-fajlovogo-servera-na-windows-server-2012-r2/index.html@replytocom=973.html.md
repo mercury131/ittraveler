@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПередача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Автоматический аудит компьютеров в Active Directory через powershell.Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереСоздание email рассылки через PowershellПеренос базы данных Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевСброс пароля компьютера в домене без перезагрузкиСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

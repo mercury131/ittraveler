@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Создание индивидуальных адресных книг в Office 365 и Exchange onlineСброс настроек GPO на стандартные
+Related posts:Новые компьютеры не появляются на WSUS сервереОбновление схемы Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

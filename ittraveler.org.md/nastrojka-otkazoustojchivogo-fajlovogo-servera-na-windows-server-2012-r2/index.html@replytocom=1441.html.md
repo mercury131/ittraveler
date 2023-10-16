@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Ansible
+Related posts:Обновление схемы Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

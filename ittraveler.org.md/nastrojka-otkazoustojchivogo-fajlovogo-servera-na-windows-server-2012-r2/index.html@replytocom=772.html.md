@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Обновление Lync 2013 до Skype for Business
+Related posts:Переход на репликацию SYSVOL по DFSАктивируем LDAP over SSLУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

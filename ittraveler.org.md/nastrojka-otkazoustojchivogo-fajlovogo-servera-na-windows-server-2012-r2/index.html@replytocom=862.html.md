@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Решаем проблему внезапной блокировки учетной записиУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

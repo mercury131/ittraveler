@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит DNS серверов на Windows Server 2008 R2 через PowershellПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
