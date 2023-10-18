@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Переход на репликацию SYSVOL по DFSWindows WSL подключение к сетевым шарам
+Related posts:Установка и настройка кластера MSSQL 2012.Получаем MD5 файла или переменной в PowershellИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

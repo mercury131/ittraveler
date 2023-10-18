@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Обновление схемы Active Directory
+Related posts:Передача и захват ролей FSMOНастройка Kerberos авторизации в Apache2Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Назначение служб для сертификатов Exchange через Powershell.Сброс пароля компьютера в домене без перезагрузки
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

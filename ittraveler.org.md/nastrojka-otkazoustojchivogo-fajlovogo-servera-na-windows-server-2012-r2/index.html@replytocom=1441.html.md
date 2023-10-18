@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessНастройка HA кластера Hyper-VВключение корзины Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВключение корзины Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

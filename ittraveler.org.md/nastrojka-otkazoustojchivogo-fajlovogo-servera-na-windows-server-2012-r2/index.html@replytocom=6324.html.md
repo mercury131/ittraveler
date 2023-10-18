@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАудит изменений в Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Активируем LDAP over SSLУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

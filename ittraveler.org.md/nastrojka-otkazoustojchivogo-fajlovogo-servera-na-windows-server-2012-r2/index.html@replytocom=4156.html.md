@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLПоиск старых почтовых ящиков в Exchange 2010Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryОтключение Skype UI в Lync 2013Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
