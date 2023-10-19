@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Получаем MD5 файла или переменной в PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Новые компьютеры не появляются на WSUS сервереОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

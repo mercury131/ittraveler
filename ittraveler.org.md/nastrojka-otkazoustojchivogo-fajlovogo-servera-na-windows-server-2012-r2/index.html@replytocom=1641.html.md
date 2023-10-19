@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Обновление Lync 2013 до Skype for Business
+Related posts:Обновление Lync 2013 до Skype for BusinessОбновление схемы Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

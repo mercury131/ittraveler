@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаРешаем проблему внезапной блокировки учетной записиСброс пароля администратора Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

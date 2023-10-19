@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВключение корзины Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Active Directory + Thunderbird = Общая адресная книгаИзменение UPN суффикса в Active Directory через PowershellОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Активируем LDAP over SSLУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Изменение UPN суффикса в Active Directory через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Отключение Skype UI в Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

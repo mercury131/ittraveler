@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУправление репликацией Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Назначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

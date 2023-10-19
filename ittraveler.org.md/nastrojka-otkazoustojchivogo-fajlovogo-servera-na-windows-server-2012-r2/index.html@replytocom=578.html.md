@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOНастройка Kerberos авторизации в Apache2Управление репликацией Active Directory
+Related posts:Включение корзины Active DirectoryДобавление UPN суффикса в Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

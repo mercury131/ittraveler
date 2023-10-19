@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Обновление схемы Active DirectoryУстановка RSAT на Windows 10 1809Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

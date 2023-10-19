@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс пароля компьютера в домене без перезагрузки
+Related posts:Настройка HA кластера Hyper-VWindows WSL подключение к сетевым шарамАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Windows WSL подключение к сетевым шарамАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Переход на репликацию SYSVOL по DFSКастомизация гостевых ОС Windows в KVM на примере ProxmoxОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

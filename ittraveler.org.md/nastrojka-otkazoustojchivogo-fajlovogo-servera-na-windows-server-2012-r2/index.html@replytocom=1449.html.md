@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryОтключение Skype UI в Lync 2013Создание пользователей Active Directory через CSV файл
+Related posts:Настройка Kerberos авторизации в Apache2Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

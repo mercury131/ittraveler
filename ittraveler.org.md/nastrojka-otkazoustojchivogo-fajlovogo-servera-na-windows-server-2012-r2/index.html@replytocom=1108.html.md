@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматическая активация пользователей Lync через PowershellОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

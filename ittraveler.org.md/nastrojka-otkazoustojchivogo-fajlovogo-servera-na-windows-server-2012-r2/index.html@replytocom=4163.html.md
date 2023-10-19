@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Активируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

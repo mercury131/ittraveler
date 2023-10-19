@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryНовые компьютеры не появляются на WSUS сервереБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Автоматизируем бэкап баз данных MSSQL ExpressБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
