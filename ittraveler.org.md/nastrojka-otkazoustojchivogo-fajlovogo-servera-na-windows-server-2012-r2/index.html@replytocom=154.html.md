@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Удаление Lync Server 2013Решаем проблему внезапной блокировки учетной записи
+Related posts:Аудит незаполненных полей в Active Directory через PowershellСоздание email рассылки через PowershellАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
