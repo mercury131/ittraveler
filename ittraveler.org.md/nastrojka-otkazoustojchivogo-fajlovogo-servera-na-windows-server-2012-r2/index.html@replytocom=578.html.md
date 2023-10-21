@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книгаАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Поиск старых почтовых ящиков в Exchange 2010Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

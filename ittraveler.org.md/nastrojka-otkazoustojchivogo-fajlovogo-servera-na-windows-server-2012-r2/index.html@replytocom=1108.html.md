@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка AnsibleВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

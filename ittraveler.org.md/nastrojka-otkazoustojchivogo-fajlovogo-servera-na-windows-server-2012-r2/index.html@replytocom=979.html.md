@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка кластера MSSQL 2012.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Установка и настройка кластера MSSQL 2012.Создание пользователей Active Directory через CSV файлСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

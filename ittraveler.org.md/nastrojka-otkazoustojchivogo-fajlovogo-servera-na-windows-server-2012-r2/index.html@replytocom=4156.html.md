@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Добавление UPN суффикса в Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка RSAT на Windows 10 1809Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

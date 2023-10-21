@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Автоматическая активация пользователей Lync через PowershellУдаление Lync Server 2013
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка RSAT на Windows 10 1809Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
