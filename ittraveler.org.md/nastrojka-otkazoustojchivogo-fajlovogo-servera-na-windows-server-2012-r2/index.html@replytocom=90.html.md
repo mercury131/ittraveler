@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка Kerberos авторизации в Apache2Установка RSAT на Windows 10 1809
+Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

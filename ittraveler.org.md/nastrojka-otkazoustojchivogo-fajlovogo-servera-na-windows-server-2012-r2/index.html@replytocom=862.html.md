@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка RSAT на Windows 10 1809Сброс пароля компьютера в домене без перезагрузки
+Related posts:Получаем MD5 файла или переменной в PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

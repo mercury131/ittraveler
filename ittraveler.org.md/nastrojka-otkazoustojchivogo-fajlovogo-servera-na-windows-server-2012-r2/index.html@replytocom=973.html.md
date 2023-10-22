@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Сброс настроек GPO на стандартные
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка Kerberos авторизации в Apache2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиОтключение Skype UI в Lync 2013Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Настройка HA кластера Hyper-VНовые компьютеры не появляются на WSUS сервереОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

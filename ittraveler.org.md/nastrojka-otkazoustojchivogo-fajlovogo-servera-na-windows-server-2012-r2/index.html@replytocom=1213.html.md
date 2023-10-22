@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматическая активация пользователей Lync через Powershell
+Related posts:Включение корзины Active DirectoryActive Directory + Thunderbird = Общая адресная книгаАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

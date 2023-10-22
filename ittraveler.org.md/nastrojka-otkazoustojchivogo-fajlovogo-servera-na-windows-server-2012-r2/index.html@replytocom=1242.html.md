@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание шаблонов Zabbix для Windows.
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

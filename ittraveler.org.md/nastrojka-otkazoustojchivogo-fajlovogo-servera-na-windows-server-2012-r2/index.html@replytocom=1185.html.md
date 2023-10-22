@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Включение корзины Active DirectoryНастройка HA кластера Hyper-VАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

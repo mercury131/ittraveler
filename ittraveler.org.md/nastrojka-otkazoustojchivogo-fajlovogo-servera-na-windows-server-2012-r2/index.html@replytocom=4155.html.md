@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУстановка и настройка AlwaysOn на MS SQL 2016Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Переход на репликацию SYSVOL по DFSЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

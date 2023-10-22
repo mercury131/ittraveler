@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Автоматическая активация пользователей Lync через PowershellУстановка и настройка Ansible
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

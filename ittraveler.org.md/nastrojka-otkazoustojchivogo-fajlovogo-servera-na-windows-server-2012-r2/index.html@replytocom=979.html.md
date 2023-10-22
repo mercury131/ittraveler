@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Создание пользователей Active Directory через CSV файлСброс пароля компьютера в домене без перезагрузки
+Related posts:Переход на репликацию SYSVOL по DFSСоздание пользователей Active Directory через CSV файлПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка RSAT на Windows 10 1809Восстановление объектов Active Directory: сборник сценариев
+Related posts:Аудит изменений групповых политик через PowerShellДобавление UPN суффикса в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

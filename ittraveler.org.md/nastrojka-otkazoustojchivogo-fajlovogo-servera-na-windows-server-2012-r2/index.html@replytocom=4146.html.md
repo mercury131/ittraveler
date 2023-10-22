@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Добавление UPN суффикса в Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПодключение к Office 365 через Powershell и зашифрованный парольУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

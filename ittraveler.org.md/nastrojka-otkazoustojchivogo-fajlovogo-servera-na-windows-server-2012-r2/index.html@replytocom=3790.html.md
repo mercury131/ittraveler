@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНазначение служб для сертификатов Exchange через Powershell.Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

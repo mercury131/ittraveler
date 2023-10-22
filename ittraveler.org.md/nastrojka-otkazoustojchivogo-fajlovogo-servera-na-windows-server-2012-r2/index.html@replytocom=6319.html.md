@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка кластера MSSQL 2012.Отключение Skype UI в Lync 2013
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Создание шаблонов Zabbix для Windows.Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

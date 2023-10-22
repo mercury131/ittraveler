@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Поиск старых почтовых ящиков в Exchange 2010Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
