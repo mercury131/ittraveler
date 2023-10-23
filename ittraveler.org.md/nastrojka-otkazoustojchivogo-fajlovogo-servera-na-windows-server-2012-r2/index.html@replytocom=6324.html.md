@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleПодключение к Office 365 через Powershell и зашифрованный парольНастройка HA кластера Hyper-V
+Related posts:Добавление UPN суффикса в Active DirectoryСоздание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

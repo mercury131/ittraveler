@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Перенос базы данных Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

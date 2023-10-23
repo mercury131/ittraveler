@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Создание шаблонов Zabbix для Windows.Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Установка RSAT на Windows 10 1809Настройка HA кластера Hyper-VАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryActive Directory + Thunderbird = Общая адресная книгаАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка Lync 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

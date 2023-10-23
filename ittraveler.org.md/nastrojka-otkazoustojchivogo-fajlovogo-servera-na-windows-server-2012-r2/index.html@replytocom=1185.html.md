@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryНастройка HA кластера Hyper-VАудит изменений в Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellПолучаем MD5 файла или переменной в PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
