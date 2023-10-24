@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАудит изменений в Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Обновление схемы Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
