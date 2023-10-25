@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереАудит доменных служб Active Directory в Windows Server 2008 R2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

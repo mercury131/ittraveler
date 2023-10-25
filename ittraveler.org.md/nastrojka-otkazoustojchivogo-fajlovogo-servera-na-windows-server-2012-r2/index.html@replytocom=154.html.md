@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка RSAT на Windows 10 1809
+Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Установка и настройка Lync 2013
+Related posts:Обновление Lync 2013 до Skype for BusinessПеренос базы данных Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

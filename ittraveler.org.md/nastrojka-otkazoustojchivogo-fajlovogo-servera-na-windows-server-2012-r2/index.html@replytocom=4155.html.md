@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка AlwaysOn на MS SQL 2016Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Установка и настройка AnsibleПринудительная синхронизация контроллеров домена Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

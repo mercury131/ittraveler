@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleАудит изменений в Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

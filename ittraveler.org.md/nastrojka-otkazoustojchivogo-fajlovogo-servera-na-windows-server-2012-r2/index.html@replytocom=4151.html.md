@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка Scale-Out File Server + Storage Spaces DirectРешаем проблему внезапной блокировки учетной записи
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Восстановление объектов Active Directory: сборник сценариевПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка кластера MSSQL 2012.
+Related posts:Установка RSAT на Windows 10 1809Подключение к Office 365 через Powershell и зашифрованный парольПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

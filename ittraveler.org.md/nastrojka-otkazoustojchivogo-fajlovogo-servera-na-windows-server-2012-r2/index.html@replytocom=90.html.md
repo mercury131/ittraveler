@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Аудит изменений групповых политик через PowerShellСоздание email рассылки через PowershellСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

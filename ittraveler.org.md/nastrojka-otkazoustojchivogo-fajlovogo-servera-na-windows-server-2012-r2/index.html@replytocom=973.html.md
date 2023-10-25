@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматическая активация пользователей Lync через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

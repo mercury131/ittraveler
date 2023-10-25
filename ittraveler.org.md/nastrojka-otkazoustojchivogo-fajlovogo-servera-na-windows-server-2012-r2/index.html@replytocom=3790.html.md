@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПолучаем MD5 файла или переменной в PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Создание email рассылки через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

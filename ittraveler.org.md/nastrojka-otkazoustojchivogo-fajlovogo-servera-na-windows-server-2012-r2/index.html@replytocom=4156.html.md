@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Получаем MD5 файла или переменной в PowershellСоздание email рассылки через Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Принудительная синхронизация контроллеров домена Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

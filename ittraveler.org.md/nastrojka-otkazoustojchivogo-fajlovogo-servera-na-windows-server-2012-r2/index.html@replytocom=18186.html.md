@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит изменений в Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

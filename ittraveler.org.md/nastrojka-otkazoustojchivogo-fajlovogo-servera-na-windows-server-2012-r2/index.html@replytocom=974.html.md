@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамНастройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

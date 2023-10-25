@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Активируем LDAP over SSLАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Активируем LDAP over SSLЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

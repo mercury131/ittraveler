@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВосстановление объектов Active Directory: сборник сценариевОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Новые компьютеры не появляются на WSUS сервереСоздание шаблонов Zabbix для Windows.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

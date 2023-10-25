@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Управление репликацией Active DirectoryУдаление Lync Server 2013
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАктивируем LDAP over SSLВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка кластера MSSQL 2012.
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУправление репликацией Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

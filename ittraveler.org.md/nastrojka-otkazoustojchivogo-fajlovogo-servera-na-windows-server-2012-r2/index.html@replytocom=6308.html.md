@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLВосстановление объектов Active Directory: сборник сценариевУправление репликацией Active Directory
+Related posts:Активируем LDAP over SSLНазначение служб для сертификатов Exchange через Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

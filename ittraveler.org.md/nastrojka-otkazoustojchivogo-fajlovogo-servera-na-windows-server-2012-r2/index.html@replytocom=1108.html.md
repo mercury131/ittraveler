@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Добавление UPN суффикса в Active DirectoryАктивируем LDAP over SSL
+Related posts:Active Directory + Thunderbird = Общая адресная книгаОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
