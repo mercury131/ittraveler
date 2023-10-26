@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Восстановление объектов Active Directory: сборник сценариевПереход на репликацию SYSVOL по DFS
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка кластера MSSQL 2012.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

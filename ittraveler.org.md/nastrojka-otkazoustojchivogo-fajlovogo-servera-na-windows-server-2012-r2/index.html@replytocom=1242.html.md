@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessПеренос базы данных Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Обновление Lync 2013 до Skype for BusinessActive Directory + Thunderbird = Общая адресная книгаWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
