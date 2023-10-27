@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Поиск старых почтовых ящиков в Exchange 2010Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Подключение к Office 365 через Powershell и зашифрованный парольНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

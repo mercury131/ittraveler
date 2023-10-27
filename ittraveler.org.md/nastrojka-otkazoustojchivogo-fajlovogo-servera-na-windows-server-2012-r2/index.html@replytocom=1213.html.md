@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПеренос базы данных Active DirectoryОбновление схемы Active Directory
+Related posts:Отключение Skype UI в Lync 2013Поиск старых почтовых ящиков в Exchange 2010Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

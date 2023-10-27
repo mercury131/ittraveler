@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУдаление Lync Server 2013Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка Lync 2013Новые компьютеры не появляются на WSUS сервереИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

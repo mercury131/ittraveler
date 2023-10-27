@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Переход на репликацию SYSVOL по DFSСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

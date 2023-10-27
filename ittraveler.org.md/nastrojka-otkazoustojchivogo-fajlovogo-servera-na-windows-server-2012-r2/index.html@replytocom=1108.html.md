@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание шаблонов Zabbix для Windows.Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПолучаем MD5 файла или переменной в PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

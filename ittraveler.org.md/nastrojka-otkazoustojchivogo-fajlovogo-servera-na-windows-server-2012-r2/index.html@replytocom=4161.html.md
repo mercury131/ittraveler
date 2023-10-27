@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Сброс пароля компьютера в домене без перезагрузкиПеренос базы данных Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Решаем проблему внезапной блокировки учетной записиActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
