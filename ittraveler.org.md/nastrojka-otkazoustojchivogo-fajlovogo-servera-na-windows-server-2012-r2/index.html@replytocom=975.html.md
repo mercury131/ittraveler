@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellВключение корзины Active DirectoryОбновление схемы Active Directory
+Related posts:Перенос базы данных Active DirectoryДобавление UPN суффикса в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
