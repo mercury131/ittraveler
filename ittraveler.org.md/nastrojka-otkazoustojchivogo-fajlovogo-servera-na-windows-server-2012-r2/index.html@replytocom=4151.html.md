@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Создание пользователей Active Directory через CSV файлУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Восстановление объектов Active Directory: сборник сценариевПодключение к Office 365 через Powershell и зашифрованный парольНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

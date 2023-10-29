@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевОбновление Lync 2013 до Skype for BusinessСоздание шаблонов Zabbix для Windows.
+Related posts:Передача и захват ролей FSMOОбновление схемы Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

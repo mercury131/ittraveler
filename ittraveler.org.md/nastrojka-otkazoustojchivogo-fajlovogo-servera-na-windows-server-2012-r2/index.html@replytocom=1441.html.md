@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Создание индивидуальных адресных книг в Office 365 и Exchange onlineОтключение Skype UI в Lync 2013
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУправление репликацией Active DirectoryОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryВосстановление объектов Active Directory: сборник сценариевПолучаем MD5 файла или переменной в Powershell
+Related posts:Добавление UPN суффикса в Active DirectoryАудит изменений групповых политик через PowerShellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
