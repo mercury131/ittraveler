@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиСоздание email рассылки через PowershellДобавление UPN суффикса в Active Directory
+Related posts:Создание email рассылки через PowershellСоздание шаблонов Zabbix для Windows.Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

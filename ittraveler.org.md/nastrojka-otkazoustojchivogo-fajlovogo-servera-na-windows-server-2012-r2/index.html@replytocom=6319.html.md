@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOОбновление схемы Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматический аудит компьютеров в Active Directory через powershell.Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

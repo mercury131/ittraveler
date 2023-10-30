@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryАудит изменений групповых политик через PowerShellНовые компьютеры не появляются на WSUS сервере
+Related posts:Добавление UPN суффикса в Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

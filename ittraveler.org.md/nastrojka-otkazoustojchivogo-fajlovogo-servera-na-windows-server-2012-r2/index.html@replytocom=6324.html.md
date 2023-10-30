@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книга
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Как узнать WWN (World Wide Name)  в Windows Server 2012R2Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

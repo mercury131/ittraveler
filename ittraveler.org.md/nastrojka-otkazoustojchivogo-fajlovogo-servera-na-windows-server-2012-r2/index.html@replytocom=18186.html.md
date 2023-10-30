@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLДобавление UPN суффикса в Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание email рассылки через PowershellСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
