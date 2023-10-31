@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellСоздание шаблонов Zabbix для Windows.Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Добавление UPN суффикса в Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

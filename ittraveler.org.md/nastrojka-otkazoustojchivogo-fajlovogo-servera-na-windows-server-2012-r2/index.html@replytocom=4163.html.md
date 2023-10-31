@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellWindows WSL подключение к сетевым шарамНовые компьютеры не появляются на WSUS сервере
+Related posts:Удаление Lync Server 2013Создание шаблонов Zabbix для Windows.Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

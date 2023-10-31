@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOСоздание шаблонов Zabbix для Windows.Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУправление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
