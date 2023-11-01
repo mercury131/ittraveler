@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Подключение к Office 365 через Powershell и зашифрованный парольУстановка RSAT на Windows 10 1809
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматизируем бэкап баз данных MSSQL ExpressНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

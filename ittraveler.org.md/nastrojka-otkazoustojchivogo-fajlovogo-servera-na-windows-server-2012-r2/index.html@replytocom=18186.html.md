@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Восстановление объектов Active Directory: сборник сценариевУправление репликацией Active Directory
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryВключение корзины Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

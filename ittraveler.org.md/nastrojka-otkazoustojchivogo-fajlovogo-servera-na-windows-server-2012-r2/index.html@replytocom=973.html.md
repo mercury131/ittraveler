@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOАудит незаполненных полей в Active Directory через PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматизируем бэкап баз данных MSSQL ExpressУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

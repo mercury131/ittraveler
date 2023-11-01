@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Включение корзины Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

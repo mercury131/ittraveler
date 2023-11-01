@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Переход на репликацию SYSVOL по DFSАудит изменений групповых политик через PowerShellПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

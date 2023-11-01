@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Установка и настройка Lync 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineКак узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

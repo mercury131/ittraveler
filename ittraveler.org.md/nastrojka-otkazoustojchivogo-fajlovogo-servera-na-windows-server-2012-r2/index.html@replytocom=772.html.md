@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Аудит изменений в Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

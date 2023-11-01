@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Добавление UPN суффикса в Active DirectoryСоздание email рассылки через Powershell
+Related posts:Передача и захват ролей FSMOОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

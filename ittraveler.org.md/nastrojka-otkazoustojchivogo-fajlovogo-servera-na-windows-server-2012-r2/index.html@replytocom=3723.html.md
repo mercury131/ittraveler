@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Активируем LDAP over SSLПереход на репликацию SYSVOL по DFS
+Related posts:Сброс настроек GPO на стандартныеАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

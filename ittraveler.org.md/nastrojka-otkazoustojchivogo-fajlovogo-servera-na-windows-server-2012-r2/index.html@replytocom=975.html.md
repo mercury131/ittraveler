@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Создание шаблонов Zabbix для Windows.Аудит незаполненных полей в Active Directory через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

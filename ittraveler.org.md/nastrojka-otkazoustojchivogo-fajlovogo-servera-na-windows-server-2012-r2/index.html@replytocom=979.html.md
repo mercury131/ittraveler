@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Аудит изменений групповых политик через PowerShellАудит изменений в Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевДобавление UPN суффикса в Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

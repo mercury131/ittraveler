@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSУдаление Lync Server 2013Автоматическая активация пользователей Lync через Powershell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Добавление UPN суффикса в Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

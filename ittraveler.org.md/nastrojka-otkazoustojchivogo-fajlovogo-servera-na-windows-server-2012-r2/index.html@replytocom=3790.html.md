@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка кластера MSSQL 2012.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Аудит незаполненных полей в Active Directory через PowershellПереход на репликацию SYSVOL по DFSАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Создание шаблонов Zabbix для Windows.Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Решаем проблему внезапной блокировки учетной записиWindows WSL подключение к сетевым шарамНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

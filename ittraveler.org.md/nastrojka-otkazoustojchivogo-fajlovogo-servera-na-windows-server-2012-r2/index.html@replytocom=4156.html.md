@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Подключение к Office 365 через Powershell и зашифрованный парольКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Перенос базы данных Active DirectoryНастройка HA кластера Hyper-VАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

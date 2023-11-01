@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПолучаем MD5 файла или переменной в PowershellСброс пароля компьютера в домене без перезагрузки
+Related posts:Переход на репликацию SYSVOL по DFSАвтоматизируем бэкап баз данных MSSQL ExpressВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
