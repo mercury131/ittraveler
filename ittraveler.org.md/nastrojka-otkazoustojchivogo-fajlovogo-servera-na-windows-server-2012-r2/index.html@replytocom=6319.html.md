@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматизируем бэкап баз данных MSSQL ExpressСброс настроек GPO на стандартные
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellИзменение UPN суффикса в Active Directory через PowershellПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Добавление UPN суффикса в Active DirectoryНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

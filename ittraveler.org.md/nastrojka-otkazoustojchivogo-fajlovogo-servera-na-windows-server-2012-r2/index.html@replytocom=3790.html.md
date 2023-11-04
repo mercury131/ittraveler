@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАктивируем LDAP over SSLСоздание email рассылки через Powershell
+Related posts:Включение корзины Active DirectoryWindows WSL подключение к сетевым шарамАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

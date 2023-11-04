@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Аудит изменений в Active DirectoryУстановка и настройка Ansible
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Изменение UPN суффикса в Active Directory через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

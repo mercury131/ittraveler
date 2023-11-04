@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля администратора Active Directory
+Related posts:Передача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере ProxmoxРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

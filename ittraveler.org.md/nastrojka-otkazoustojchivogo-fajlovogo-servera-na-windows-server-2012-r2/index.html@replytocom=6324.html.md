@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Включение корзины Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Создание email рассылки через PowershellНазначение служб для сертификатов Exchange через Powershell.Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

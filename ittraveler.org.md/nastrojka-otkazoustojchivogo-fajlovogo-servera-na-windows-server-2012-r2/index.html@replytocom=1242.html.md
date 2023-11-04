@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellОтключение Skype UI в Lync 2013Включение корзины Active Directory
+Related posts:Решаем проблему внезапной блокировки учетной записиДобавление UPN суффикса в Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

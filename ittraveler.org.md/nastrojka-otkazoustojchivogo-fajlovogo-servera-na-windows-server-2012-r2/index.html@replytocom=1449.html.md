@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Удаление Lync Server 2013
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

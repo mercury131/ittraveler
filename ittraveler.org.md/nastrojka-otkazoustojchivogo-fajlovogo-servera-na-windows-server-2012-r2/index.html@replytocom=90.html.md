@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellИзменение UPN суффикса в Active Directory через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Активируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
