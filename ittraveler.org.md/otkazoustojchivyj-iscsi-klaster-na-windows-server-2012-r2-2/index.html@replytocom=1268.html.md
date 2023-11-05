@@ -55,7 +55,7 @@
 Готово! Теперь указанные клиенты могут подключаться к кластеру ISCSI. Для подключения нужно использовать dns имя кластера.
 Удачной установки!
  
-Related posts:Удаление Lync Server 2013Включение корзины Active DirectoryПереход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Управление репликацией Active Directory
         
              Windows, Windows Server 
              Метки: Cluster, ISCSI, Windows Server  

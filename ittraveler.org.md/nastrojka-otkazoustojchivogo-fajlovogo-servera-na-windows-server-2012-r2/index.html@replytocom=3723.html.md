@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Активируем LDAP over SSLЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

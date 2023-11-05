@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание пользователей Active Directory через CSV файлУстановка и настройка Lync 2013
+Related posts:Обновление схемы Active DirectoryУстановка и настройка Lync 2013Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

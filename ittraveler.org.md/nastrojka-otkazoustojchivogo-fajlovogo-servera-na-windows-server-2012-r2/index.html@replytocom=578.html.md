@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка растянутого кластера (stretch-cluster) на Windows server 2016Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

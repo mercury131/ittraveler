@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Изменение UPN суффикса в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

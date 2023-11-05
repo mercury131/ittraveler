@@ -122,7 +122,7 @@ LD-MoscowHR-RW
 Учтите, без SMTP сервера отправка отчетов работать не будет.
 Если вы хотите изменить группы файлов, то это можно сделать тут:
 Создадим задачу управления файлами.
-Представим что у нас есть папка exchange. в которой пользователи обмениваются файлами.
+Представим что у нас есть папка Exchange. в которой пользователи обмениваются файлами.
 Нам нужно сделать так, чтобы раз в период данная папка очищалась, а удаленные данные перемещались в папку Temp
 Создаем задачу.
 Задаем имя задачи.
@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматический аудит компьютеров в Active Directory через powershell.Сброс пароля администратора Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

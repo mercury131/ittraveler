@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление схемы Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Сброс пароля компьютера в домене без перезагрузкиActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс пароля администратора Active Directory
+Related posts:Управление репликацией Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

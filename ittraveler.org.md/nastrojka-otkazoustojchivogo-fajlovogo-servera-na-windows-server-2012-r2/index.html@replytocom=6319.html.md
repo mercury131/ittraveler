@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxВосстановление объектов Active Directory: сборник сценариев
+Related posts:Новые компьютеры не появляются на WSUS сервереПоиск старых почтовых ящиков в Exchange 2010Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

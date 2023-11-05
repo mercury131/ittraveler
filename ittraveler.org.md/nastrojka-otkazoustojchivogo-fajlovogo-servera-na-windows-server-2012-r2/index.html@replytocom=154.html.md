@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка HA кластера Hyper-V
+Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка дедупликации  на Windows Server 2012 R2Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

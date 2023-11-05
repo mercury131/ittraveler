@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Настройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Аудит незаполненных полей в Active Directory через PowershellWindows WSL подключение к сетевым шарамОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

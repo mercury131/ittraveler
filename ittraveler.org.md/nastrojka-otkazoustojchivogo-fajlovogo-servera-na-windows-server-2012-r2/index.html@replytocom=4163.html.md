@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере ProxmoxРешаем проблему внезапной блокировки учетной записи
+Related posts:Установка и настройка AnsibleУстановка и настройка Lync 2013Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

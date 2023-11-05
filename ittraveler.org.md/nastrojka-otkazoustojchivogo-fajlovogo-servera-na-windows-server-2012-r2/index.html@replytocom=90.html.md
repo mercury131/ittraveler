@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через Powershell
+Related posts:Переход на репликацию SYSVOL по DFSАудит изменений в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

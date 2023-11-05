@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Добавление UPN суффикса в Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка Lync 2013Удаление Lync Server 2013Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

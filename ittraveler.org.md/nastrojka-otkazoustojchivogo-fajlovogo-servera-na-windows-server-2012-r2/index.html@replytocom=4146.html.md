@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Обновление Lync 2013 до Skype for BusinessАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Активируем LDAP over SSLНазначение служб для сертификатов Exchange через Powershell.Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

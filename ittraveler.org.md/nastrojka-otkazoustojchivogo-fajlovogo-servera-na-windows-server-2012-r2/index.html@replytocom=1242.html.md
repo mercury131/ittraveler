@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиДобавление UPN суффикса в Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Добавление почтовых контактов в Office 365 через Powershell и CSVИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
