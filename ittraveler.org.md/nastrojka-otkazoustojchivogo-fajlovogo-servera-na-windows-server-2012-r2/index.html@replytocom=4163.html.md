@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleУстановка и настройка Lync 2013Автоматическая активация пользователей Lync через Powershell
+Related posts:Перенос базы данных Active DirectoryПередача и захват ролей FSMOОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
