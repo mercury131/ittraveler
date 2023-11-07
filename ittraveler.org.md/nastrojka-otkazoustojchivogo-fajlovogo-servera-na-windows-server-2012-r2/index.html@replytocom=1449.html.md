@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Настройка Kerberos авторизации в Apache2
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSВключение корзины Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание пользователей Active Directory через CSV файлАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

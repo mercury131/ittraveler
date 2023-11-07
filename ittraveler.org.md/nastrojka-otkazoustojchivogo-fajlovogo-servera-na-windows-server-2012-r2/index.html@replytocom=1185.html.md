@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПолучаем MD5 файла или переменной в PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

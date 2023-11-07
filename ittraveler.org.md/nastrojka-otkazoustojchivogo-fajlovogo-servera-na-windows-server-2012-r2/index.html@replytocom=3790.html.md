@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПереход на репликацию SYSVOL по DFSПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Обновление Lync 2013 до Skype for BusinessУстановка RSAT на Windows 10 1809
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Удаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellОбновление Lync 2013 до Skype for BusinessАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Настройка Kerberos авторизации в Apache2Автоматический аудит компьютеров в Active Directory через powershell.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

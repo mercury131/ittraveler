@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Удаление Lync Server 2013Установка и настройка кластера MSSQL 2012.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматизируем бэкап баз данных MSSQL ExpressПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

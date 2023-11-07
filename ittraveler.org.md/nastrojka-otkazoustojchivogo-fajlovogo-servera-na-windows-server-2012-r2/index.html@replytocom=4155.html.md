@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Перенос базы данных Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУдаление Lync Server 2013Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
+Related posts:Обновление Lync 2013 до Skype for BusinessВосстановление объектов Active Directory: сборник сценариевСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

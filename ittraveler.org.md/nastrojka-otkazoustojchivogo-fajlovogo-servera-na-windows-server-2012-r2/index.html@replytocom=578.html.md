@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Управление репликацией Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Передача и захват ролей FSMOУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

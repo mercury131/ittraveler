@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Получаем MD5 файла или переменной в Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевПеренос базы данных Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

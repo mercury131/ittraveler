@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineИзменение UPN суффикса в Active Directory через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Как узнать WWN (World Wide Name)  в Windows Server 2012R2Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

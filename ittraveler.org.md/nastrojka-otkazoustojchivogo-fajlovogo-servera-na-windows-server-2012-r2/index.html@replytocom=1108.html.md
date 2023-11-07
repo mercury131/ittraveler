@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариевПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Принудительная синхронизация Office 365 и локальной Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

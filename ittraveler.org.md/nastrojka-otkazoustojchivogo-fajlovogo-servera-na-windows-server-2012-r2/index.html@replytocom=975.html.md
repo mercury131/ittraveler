@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Автоматическая активация пользователей Lync через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Отключение Skype UI в Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

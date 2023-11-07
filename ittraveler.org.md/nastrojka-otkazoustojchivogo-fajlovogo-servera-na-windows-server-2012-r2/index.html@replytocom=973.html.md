@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание пользователей Active Directory через CSV файл
+Related posts:Отключение Skype UI в Lync 2013Автоматизируем бэкап баз данных MSSQL ExpressПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

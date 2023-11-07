@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Решаем проблему внезапной блокировки учетной записиАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Включение корзины Active DirectoryОбновление Lync 2013 до Skype for BusinessСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

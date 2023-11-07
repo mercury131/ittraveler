@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Active Directory + Thunderbird = Общая адресная книгаБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVДобавление UPN суффикса в Active DirectoryАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит незаполненных полей в Active Directory через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
