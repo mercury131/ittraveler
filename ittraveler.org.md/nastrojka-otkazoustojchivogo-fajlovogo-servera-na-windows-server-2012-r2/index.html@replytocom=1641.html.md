@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевПеренос базы данных Active DirectoryУдаление Lync Server 2013
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс настроек GPO на стандартныеПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

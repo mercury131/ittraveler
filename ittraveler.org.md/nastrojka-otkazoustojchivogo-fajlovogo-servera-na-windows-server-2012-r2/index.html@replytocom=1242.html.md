@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Автоматический аудит компьютеров в Active Directory через powershell.Обновление схемы Active Directory
+Related posts:Перенос базы данных Active DirectoryНастройка HA кластера Hyper-VСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Автоматизируем бэкап баз данных MSSQL ExpressПереход на репликацию SYSVOL по DFS
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит изменений групповых политик через PowerShellУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

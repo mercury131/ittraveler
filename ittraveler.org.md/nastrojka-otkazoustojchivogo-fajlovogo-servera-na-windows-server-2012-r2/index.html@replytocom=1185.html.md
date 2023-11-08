@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит незаполненных полей в Active Directory через Powershell
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

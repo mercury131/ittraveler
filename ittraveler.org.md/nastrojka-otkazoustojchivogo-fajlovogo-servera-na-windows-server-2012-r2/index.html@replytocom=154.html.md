@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание пользователей Active Directory через CSV файлАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Перенос базы данных Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

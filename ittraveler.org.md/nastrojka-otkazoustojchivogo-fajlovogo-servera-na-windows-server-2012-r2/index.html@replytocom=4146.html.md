@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

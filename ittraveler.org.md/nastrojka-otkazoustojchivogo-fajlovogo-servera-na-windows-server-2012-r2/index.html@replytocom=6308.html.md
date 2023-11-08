@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVДобавление UPN суффикса в Active DirectoryАктивируем LDAP over SSL
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка AnsibleНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
