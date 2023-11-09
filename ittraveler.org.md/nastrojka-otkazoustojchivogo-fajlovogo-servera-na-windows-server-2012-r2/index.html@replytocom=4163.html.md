@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание email рассылки через PowershellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Настройка Kerberos авторизации в Apache2Перенос базы данных Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
