@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active Directory
+Related posts:Установка и настройка AnsibleСоздание индивидуальных адресных книг в Office 365 и Exchange onlineВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

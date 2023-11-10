@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Назначение служб для сертификатов Exchange через Powershell.Аудит изменений групповых политик через PowerShell
+Related posts:Аудит незаполненных полей в Active Directory через PowershellВключение корзины Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

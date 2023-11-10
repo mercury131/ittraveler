@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Active Directory + Thunderbird = Общая адресная книгаПередача и захват ролей FSMO
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка Scale-Out File Server + Storage Spaces DirectУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Windows WSL подключение к сетевым шарамАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Новые компьютеры не появляются на WSUS сервереРешаем проблему внезапной блокировки учетной записиСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

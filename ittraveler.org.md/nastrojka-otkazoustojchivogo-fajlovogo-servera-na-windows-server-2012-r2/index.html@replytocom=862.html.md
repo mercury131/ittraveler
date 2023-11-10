@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryActive Directory + Thunderbird = Общая адресная книгаАудит незаполненных полей в Active Directory через Powershell
+Related posts:Удаление Lync Server 2013Восстановление объектов Active Directory: сборник сценариевУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

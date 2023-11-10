@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Переход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Перенос базы данных Active DirectoryУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

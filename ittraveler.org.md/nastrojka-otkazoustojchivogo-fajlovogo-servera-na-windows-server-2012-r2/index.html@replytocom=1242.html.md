@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Перенос базы данных Active DirectoryСброс пароля компьютера в домене без перезагрузкиСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

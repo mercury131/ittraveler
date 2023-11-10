@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Перенос базы данных Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Отключение Skype UI в Lync 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

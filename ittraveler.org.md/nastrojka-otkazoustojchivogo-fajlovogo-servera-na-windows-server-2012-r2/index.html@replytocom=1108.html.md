@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Поиск старых почтовых ящиков в Exchange 2010Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПринудительная синхронизация Office 365 и локальной Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

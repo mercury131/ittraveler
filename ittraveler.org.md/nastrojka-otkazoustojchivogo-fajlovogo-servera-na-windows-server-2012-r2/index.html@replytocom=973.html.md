@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Восстановление объектов Active Directory: сборник сценариевСброс настроек GPO на стандартныеСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

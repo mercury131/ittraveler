@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

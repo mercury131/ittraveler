@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Назначение служб для сертификатов Exchange через Powershell.Новые компьютеры не появляются на WSUS сервере
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка кластера MSSQL 2012.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
