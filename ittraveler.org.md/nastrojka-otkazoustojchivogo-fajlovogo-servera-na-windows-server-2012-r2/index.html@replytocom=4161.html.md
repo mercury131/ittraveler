@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереРешаем проблему внезапной блокировки учетной записиСоздание пользователей Active Directory через CSV файл
+Related posts:Переход на репликацию SYSVOL по DFSПолучаем MD5 файла или переменной в PowershellАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевСброс настроек GPO на стандартныеСброс пароля администратора Active Directory
+Related posts:Обновление схемы Active DirectoryАктивируем LDAP over SSLУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

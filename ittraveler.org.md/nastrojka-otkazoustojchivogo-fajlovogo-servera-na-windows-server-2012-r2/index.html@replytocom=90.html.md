@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАвтоматическая активация пользователей Lync через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка AnsibleАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
