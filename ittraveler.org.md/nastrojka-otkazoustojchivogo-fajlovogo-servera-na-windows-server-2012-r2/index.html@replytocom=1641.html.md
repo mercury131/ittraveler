@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка кластера MSSQL 2012.Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание индивидуальных адресных книг в Office 365 и Exchange onlineДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

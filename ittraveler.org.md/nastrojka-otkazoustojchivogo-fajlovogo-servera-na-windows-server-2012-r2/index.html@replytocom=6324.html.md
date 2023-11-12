@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка кластера MSSQL 2012.Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces DirectПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

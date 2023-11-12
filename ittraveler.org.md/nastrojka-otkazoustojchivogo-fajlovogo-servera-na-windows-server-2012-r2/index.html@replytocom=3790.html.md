@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Получаем MD5 файла или переменной в PowershellОбновление Lync 2013 до Skype for Business
+Related posts:Перенос базы данных Active DirectoryСоздание шаблонов Zabbix для Windows.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

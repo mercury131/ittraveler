@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryАктивируем LDAP over SSLУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
