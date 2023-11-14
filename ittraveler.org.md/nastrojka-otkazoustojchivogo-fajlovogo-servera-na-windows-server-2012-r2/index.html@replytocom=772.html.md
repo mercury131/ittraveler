@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellВосстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записи
+Related posts:Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for BusinessУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
