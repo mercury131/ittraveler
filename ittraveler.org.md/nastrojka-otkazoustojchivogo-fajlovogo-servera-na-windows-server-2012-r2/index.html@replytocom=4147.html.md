@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Включение корзины Active DirectoryПередача и захват ролей FSMOЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

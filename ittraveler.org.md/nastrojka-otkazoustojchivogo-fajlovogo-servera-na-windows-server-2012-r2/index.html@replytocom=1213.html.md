@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Принудительная синхронизация контроллеров домена Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectРешаем проблему внезапной блокировки учетной записиПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Создание email рассылки через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Передача и захват ролей FSMOСоздание пользователей Active Directory через CSV файлВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

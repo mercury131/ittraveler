@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Отключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Создание email рассылки через PowershellАвтоматическая активация пользователей Lync через PowershellПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
