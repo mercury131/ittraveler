@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Получаем MD5 файла или переменной в PowershellУстановка RSAT на Windows 10 1809Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

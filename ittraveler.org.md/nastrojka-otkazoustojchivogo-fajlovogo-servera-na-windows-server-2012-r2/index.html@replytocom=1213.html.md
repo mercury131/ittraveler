@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Управление репликацией Active DirectoryСброс настроек GPO на стандартные
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryНастройка Kerberos авторизации в Apache2Обновление Lync 2013 до Skype for Business
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
