@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryОбновление схемы Active DirectoryУстановка и настройка Lync 2013
+Related posts:Включение корзины Active DirectoryУстановка RSAT на Windows 10 1809Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
