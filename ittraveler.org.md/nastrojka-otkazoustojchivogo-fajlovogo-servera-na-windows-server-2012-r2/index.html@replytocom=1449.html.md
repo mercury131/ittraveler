@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка RSAT на Windows 10 1809Настройка Kerberos авторизации в Apache2
+Related posts:Настройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces DirectИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

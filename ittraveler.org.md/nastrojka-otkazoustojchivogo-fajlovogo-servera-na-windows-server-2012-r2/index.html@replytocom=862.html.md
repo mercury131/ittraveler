@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка Lync 2013Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит изменений групповых политик через PowerShellПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Управление репликацией Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

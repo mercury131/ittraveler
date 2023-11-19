@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Получаем MD5 файла или переменной в Powershell
+Related posts:Отключение Skype UI в Lync 2013Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

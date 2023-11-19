@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Включение корзины Active DirectoryСброс пароля администратора Active Directory
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПринудительная синхронизация контроллеров домена Active DirectoryОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

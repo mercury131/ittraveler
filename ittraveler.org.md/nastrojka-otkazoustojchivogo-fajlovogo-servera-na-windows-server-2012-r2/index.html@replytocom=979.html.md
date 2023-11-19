@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматический аудит компьютеров в Active Directory через powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка и настройка AnsibleСоздание email рассылки через PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

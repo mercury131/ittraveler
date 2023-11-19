@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Автоматический аудит компьютеров в Active Directory через powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Обновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариевАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

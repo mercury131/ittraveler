@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Lync 2013
+Related posts:Аудит изменений в Active DirectoryСоздание шаблонов Zabbix для Windows.Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

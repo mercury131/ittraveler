@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание пользователей Active Directory через CSV файлДобавление UPN суффикса в Active Directory
+Related posts:Аудит незаполненных полей в Active Directory через PowershellОбновление схемы Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

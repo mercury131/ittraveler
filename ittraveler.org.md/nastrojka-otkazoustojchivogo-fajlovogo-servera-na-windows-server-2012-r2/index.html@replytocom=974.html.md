@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Решаем проблему внезапной блокировки учетной записиАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Добавление UPN суффикса в Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

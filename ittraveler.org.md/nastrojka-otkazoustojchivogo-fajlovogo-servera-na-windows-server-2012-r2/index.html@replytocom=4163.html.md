@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка кластера MSSQL 2012.Передача и захват ролей FSMO
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Создание шаблонов Zabbix для Windows.Решаем проблему внезапной блокировки учетной записиАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

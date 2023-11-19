@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка AlwaysOn на MS SQL 2016Аудит изменений групповых политик через PowerShell
+Related posts:Решаем проблему внезапной блокировки учетной записиУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

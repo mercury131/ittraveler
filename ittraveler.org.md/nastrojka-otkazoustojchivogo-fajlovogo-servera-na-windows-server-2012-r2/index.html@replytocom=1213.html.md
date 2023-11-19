@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАктивируем LDAP over SSLПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Аудит изменений в Active DirectoryСброс настроек GPO на стандартныеАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

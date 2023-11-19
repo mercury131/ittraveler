@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНовые компьютеры не появляются на WSUS сервереНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамАудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка кластера MSSQL 2012.
+Related posts:Восстановление объектов Active Directory: сборник сценариевПолучаем MD5 файла или переменной в PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

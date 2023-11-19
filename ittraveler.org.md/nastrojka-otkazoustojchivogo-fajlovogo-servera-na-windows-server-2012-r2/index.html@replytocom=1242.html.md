@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellСоздание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

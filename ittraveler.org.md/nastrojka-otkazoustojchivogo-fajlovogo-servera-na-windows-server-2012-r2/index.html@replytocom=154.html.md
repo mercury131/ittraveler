@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryУстановка RSAT на Windows 10 1809Active Directory + Thunderbird = Общая адресная книга
+Related posts:Создание email рассылки через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
