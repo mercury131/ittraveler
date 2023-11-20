@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Настройка Kerberos авторизации в Apache2Установка и настройка кластера MSSQL 2012.
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Передача и захват ролей FSMOУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

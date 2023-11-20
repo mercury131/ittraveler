@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУправление репликацией Active Directory
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПеренос базы данных Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

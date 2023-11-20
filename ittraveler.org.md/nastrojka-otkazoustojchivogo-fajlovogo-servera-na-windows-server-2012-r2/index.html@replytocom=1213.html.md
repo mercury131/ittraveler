@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryСброс настроек GPO на стандартныеАудит изменений групповых политик через PowerShell
+Related posts:Обновление схемы Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

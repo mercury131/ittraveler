@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces DirectИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Обновление схемы Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

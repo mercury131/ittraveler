@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Аудит изменений групповых политик через PowerShellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Установка RSAT на Windows 10 1809Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

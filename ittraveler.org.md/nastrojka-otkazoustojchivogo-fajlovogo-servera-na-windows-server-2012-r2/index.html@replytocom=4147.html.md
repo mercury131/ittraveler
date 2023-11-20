@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка AnsibleДобавление почтовых контактов в Office 365 через Powershell и CSVАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

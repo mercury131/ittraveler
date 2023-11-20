@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Принудительная синхронизация контроллеров домена Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Настройка HA кластера Hyper-VУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

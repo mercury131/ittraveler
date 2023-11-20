@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Обновление Lync 2013 до Skype for BusinessПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание индивидуальных адресных книг в Office 365 и Exchange onlineУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНовые компьютеры не появляются на WSUS сервереНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Установка и настройка Lync 2013Удаление Lync Server 2013Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
