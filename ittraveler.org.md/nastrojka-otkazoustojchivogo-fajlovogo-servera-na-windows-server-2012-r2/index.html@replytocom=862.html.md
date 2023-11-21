@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеДобавление UPN суффикса в Active DirectoryПередача и захват ролей FSMO
+Related posts:Создание шаблонов Zabbix для Windows.Обновление схемы Active DirectoryВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
