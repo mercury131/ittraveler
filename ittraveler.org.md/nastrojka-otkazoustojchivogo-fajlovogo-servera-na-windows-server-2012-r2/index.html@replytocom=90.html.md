@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереНазначение служб для сертификатов Exchange через Powershell.Создание шаблонов Zabbix для Windows.
+Related posts:Удаление Lync Server 2013Добавление почтовых контактов в Office 365 через Powershell и CSVНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
