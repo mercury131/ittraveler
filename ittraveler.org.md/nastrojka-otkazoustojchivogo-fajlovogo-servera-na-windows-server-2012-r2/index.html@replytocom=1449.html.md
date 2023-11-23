@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит изменений групповых политик через PowerShellОбновление схемы Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Переход на репликацию SYSVOL по DFSУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Обновление Lync 2013 до Skype for BusinessКастомизация гостевых ОС Windows в KVM на примере ProxmoxПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание шаблонов Zabbix для Windows.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУдаление Lync Server 2013Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля администратора Active DirectoryУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

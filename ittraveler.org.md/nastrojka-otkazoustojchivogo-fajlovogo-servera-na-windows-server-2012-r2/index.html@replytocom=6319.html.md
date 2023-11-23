@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Активируем LDAP over SSLДобавление UPN суффикса в Active Directory
+Related posts:Активируем LDAP over SSLПолучаем MD5 файла или переменной в PowershellОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLАудит DNS серверов на Windows Server 2008 R2 через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка AnsibleПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

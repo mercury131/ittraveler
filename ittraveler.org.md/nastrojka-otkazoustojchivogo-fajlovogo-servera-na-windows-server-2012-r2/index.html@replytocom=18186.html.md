@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка дедупликации  на Windows Server 2012 R2Включение корзины Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Назначение служб для сертификатов Exchange через Powershell.Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

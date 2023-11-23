@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУдаление Lync Server 2013Установка RSAT на Windows 10 1809
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Как узнать WWN (World Wide Name)  в Windows Server 2012R2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

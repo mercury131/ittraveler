@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка RSAT на Windows 10 1809Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Перенос базы данных Active DirectoryИзменение UPN суффикса в Active Directory через PowershellАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
