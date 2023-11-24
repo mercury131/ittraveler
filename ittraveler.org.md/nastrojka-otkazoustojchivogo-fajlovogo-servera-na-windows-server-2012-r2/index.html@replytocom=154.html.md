@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryИзменение UPN суффикса в Active Directory через PowershellАудит изменений в Active Directory
+Related posts:Обновление Lync 2013 до Skype for BusinessУдаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

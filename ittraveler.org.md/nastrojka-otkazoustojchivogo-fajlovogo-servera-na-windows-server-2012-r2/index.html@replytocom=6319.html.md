@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLПолучаем MD5 файла или переменной в PowershellОбновление Lync 2013 до Skype for Business
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Получаем MD5 файла или переменной в PowershellАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

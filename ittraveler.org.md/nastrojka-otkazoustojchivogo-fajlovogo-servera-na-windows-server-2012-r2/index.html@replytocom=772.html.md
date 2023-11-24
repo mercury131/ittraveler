@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Отключение Skype UI в Lync 2013Включение корзины Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

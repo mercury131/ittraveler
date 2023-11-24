@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУдаление Lync Server 2013Аудит изменений групповых политик через PowerShell
+Related posts:Удаление Lync Server 2013Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля администратора Active DirectoryУстановка RSAT на Windows 10 1809
+Related posts:Установка и настройка Lync 2013Поиск старых почтовых ящиков в Exchange 2010Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

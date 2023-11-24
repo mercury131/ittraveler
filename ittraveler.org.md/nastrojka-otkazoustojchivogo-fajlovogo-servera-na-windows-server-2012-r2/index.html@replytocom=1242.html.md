@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Настройка HA кластера Hyper-VСброс настроек GPO на стандартные
+Related posts:Установка и настройка AnsibleУстановка и настройка кластера MSSQL 2012.Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

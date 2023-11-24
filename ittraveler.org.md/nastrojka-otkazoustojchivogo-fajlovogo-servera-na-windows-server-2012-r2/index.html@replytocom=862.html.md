@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryWindows WSL подключение к сетевым шарамНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание индивидуальных адресных книг в Office 365 и Exchange onlineОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

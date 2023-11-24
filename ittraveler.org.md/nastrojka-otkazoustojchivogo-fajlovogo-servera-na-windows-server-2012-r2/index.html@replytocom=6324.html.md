@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамНовые компьютеры не появляются на WSUS сервереПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Сброс пароля администратора Active DirectoryУдаление Lync Server 2013Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

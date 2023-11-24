@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеНастройка HA кластера Hyper-VПередача и захват ролей FSMO
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Назначение служб для сертификатов Exchange через Powershell.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

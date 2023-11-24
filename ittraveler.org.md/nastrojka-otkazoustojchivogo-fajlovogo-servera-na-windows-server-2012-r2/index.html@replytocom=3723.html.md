@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка AnsibleПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание шаблонов Zabbix для Windows.Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

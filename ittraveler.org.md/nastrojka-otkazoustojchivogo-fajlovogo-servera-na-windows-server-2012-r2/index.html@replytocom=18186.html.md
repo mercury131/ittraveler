@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Назначение служб для сертификатов Exchange через Powershell.Active Directory + Thunderbird = Общая адресная книга
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressWindows WSL подключение к сетевым шарамАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

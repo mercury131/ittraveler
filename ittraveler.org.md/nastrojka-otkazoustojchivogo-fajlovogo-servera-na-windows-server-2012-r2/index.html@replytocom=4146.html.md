@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Создание пользователей Active Directory через CSV файлВключение корзины Active Directory
+Related posts:Windows WSL подключение к сетевым шарамРешаем проблему внезапной блокировки учетной записиКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

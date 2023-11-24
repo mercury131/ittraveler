@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Настройка HA кластера Hyper-VУстановка и настройка Lync 2013
+Related posts:Получаем MD5 файла или переменной в PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

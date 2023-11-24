@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизируем бэкап баз данных MSSQL ExpressРешаем проблему внезапной блокировки учетной записи
+Related posts:Удаление Lync Server 2013Обновление схемы Active DirectoryАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Переход на репликацию SYSVOL по DFSУстановка и настройка кластера MSSQL 2012.
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Аудит незаполненных полей в Active Directory через PowershellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

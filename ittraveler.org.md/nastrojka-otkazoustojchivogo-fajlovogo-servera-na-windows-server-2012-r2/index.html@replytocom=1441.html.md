@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VПодключение к Office 365 через Powershell и зашифрованный парольПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс пароля компьютера в домене без перезагрузкиНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
