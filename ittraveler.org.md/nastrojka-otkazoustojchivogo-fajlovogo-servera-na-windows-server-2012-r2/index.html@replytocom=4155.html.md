@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Поиск старых почтовых ящиков в Exchange 2010Создание пользователей Active Directory через CSV файл
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Перенос базы данных Active DirectoryУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

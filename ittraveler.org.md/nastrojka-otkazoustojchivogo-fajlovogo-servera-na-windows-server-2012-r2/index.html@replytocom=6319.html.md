@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Получаем MD5 файла или переменной в PowershellАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

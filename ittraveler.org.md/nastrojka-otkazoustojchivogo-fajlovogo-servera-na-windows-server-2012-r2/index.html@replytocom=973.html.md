@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Назначение служб для сертификатов Exchange через Powershell.Аудит изменений в Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Включение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

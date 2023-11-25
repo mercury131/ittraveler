@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces DirectНовые компьютеры не появляются на WSUS сервере
+Related posts:Автоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартныеАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

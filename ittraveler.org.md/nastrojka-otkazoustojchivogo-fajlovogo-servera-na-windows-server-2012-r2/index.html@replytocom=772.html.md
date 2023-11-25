@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Включение корзины Active DirectoryActive Directory + Thunderbird = Общая адресная книга
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

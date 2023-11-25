@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellДобавление UPN суффикса в Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Передача и захват ролей FSMOОтключение Skype UI в Lync 2013Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

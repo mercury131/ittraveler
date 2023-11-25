@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Установка и настройка кластера MSSQL 2012.
+Related posts:Создание email рассылки через PowershellПеренос базы данных Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

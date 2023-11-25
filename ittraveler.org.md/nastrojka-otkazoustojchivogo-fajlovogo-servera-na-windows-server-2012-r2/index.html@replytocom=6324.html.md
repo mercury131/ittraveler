@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryУдаление Lync Server 2013Перенос базы данных Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматическая активация пользователей Lync через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

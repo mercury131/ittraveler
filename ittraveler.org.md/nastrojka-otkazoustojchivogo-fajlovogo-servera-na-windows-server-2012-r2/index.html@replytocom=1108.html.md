@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Передача и захват ролей FSMOВосстановление объектов Active Directory: сборник сценариевВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

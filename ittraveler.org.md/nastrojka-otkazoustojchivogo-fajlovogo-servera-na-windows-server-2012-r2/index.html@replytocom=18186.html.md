@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressWindows WSL подключение к сетевым шарамАктивируем LDAP over SSL
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит изменений групповых политик через PowerShellНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

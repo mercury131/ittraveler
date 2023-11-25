@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Автоматизируем бэкап баз данных MSSQL ExpressБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

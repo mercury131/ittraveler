@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка AlwaysOn на MS SQL 2016Передача и захват ролей FSMO
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Добавление UPN суффикса в Active DirectoryПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Обновление схемы Active DirectoryАктивируем LDAP over SSL
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс пароля администратора Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

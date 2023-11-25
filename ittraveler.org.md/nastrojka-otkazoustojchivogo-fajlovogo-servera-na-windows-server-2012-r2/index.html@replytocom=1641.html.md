@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка RSAT на Windows 10 1809Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryВосстановление объектов Active Directory: сборник сценариевАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

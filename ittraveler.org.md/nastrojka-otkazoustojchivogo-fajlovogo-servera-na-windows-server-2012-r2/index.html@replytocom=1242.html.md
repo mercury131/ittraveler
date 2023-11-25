@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleУстановка и настройка кластера MSSQL 2012.Создание email рассылки через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellОбновление Lync 2013 до Skype for BusinessДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
