@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартныеАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Аудит незаполненных полей в Active Directory через PowershellСброс настроек GPO на стандартныеАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

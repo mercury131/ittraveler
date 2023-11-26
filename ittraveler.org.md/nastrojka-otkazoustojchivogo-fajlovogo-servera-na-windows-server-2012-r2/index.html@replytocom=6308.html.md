@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOОтключение Skype UI в Lync 2013Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Сброс пароля компьютера в домене без перезагрузкиДобавление почтовых контактов в Office 365 через Powershell и CSVСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

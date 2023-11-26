@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Переход на репликацию SYSVOL по DFSАктивируем LDAP over SSL
+Related posts:Установка и настройка кластера MSSQL 2012.Добавление UPN суффикса в Active DirectoryНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

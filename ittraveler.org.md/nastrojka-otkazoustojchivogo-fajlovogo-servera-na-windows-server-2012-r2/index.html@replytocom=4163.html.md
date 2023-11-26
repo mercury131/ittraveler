@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс пароля администратора Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
