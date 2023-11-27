@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание email рассылки через PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Установка RSAT на Windows 10 1809Настройка HA кластера Hyper-VАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
