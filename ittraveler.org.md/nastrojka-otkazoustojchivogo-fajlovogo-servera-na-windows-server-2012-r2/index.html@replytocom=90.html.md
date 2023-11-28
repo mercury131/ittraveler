@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка Kerberos авторизации в Apache2Обновление схемы Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Удаление Lync Server 2013Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

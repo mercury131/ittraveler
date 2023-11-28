@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс пароля администратора Active DirectoryПередача и захват ролей FSMO
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Сброс пароля администратора Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
