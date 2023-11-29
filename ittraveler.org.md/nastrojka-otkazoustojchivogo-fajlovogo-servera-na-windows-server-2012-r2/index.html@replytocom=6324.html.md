@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиНастройка Kerberos авторизации в Apache2Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Управление репликацией Active DirectoryПередача и захват ролей FSMOАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

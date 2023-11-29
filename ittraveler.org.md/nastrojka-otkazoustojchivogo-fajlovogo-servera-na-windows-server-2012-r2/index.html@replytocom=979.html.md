@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУстановка и настройка Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Новые компьютеры не появляются на WSUS сервереУдаление Lync Server 2013Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

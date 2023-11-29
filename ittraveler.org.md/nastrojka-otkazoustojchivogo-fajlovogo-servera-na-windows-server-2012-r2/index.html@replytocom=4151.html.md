@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellВключение корзины Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУдаление Lync Server 2013Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
