@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУдаление Lync Server 2013Сброс пароля компьютера в домене без перезагрузки
+Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка AlwaysOn на MS SQL 2016Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

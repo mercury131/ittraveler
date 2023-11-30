@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLWindows WSL подключение к сетевым шарамНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Создание шаблонов Zabbix для Windows.Передача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
