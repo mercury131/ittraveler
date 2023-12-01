@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Включение корзины Active DirectoryУправление репликацией Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

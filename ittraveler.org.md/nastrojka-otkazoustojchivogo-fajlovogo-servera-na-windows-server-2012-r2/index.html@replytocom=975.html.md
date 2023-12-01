@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Lync 2013Создание пользователей Active Directory через CSV файл
+Related posts:Удаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

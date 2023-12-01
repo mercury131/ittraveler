@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариев
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

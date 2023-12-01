@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010Новые компьютеры не появляются на WSUS сервере
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

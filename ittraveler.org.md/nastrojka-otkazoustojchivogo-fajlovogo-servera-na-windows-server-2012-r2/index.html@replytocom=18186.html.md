@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Создание email рассылки через PowershellПолучаем MD5 файла или переменной в Powershell
+Related posts:Установка и настройка кластера MSSQL 2012.Поиск старых почтовых ящиков в Exchange 2010Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

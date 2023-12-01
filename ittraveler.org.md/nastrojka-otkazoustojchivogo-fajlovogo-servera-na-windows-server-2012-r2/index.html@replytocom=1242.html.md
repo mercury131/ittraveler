@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиОбновление схемы Active DirectoryАудит изменений в Active Directory
+Related posts:Сброс пароля компьютера в домене без перезагрузкиКак узнать WWN (World Wide Name)  в Windows Server 2012R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУстановка RSAT на Windows 10 1809Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка растянутого кластера (stretch-cluster) на Windows server 2016Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

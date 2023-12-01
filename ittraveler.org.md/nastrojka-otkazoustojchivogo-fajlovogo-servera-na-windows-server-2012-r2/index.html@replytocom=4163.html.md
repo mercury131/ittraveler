@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellОбновление схемы Active Directory
+Related posts:Активируем LDAP over SSLСброс пароля компьютера в домене без перезагрузкиБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

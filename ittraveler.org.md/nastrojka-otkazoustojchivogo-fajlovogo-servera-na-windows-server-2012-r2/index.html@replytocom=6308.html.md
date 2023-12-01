@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Переход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУправление репликацией Active DirectoryПеренос базы данных Active Directory
+Related posts:Удаление Lync Server 2013Получаем MD5 файла или переменной в PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс пароля компьютера в домене без перезагрузкиАудит изменений групповых политик через PowerShell
+Related posts:Автоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

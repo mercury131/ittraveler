@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Добавление UPN суффикса в Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Активируем LDAP over SSLРешаем проблему внезапной блокировки учетной записиУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

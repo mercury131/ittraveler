@@ -55,7 +55,7 @@
 Готово! Теперь указанные клиенты могут подключаться к кластеру ISCSI. Для подключения нужно использовать dns имя кластера.
 Удачной установки!
  
-Related posts:Установка RSAT на Windows 10 1809Получаем MD5 файла или переменной в PowershellУстановка и настройка Lync 2013
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Принудительная синхронизация контроллеров домена Active DirectoryОбновление схемы Active Directory
         
              Windows, Windows Server 
              Метки: Cluster, ISCSI, Windows Server  

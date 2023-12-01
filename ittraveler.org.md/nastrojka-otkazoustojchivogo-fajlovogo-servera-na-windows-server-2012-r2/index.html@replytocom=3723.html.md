@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Передача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Управление репликацией Active DirectoryУстановка RSAT на Windows 10 1809Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

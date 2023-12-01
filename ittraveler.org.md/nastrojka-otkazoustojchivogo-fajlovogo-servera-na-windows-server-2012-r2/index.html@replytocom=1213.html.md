@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление Lync 2013 до Skype for BusinessСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Активируем LDAP over SSLАудит изменений в Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

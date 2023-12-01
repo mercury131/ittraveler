@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineНовые компьютеры не появляются на WSUS сервереОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Отключение Skype UI в Lync 2013Перенос базы данных Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

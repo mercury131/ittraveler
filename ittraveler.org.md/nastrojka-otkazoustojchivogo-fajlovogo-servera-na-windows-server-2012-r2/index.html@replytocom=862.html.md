@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Обновление Lync 2013 до Skype for BusinessПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Автоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
