@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLВосстановление объектов Active Directory: сборник сценариевПолучаем MD5 файла или переменной в Powershell
+Related posts:Аудит изменений групповых политик через PowerShellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryУправление репликацией Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Сброс пароля компьютера в домене без перезагрузкиСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

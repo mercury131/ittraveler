@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSДобавление почтовых контактов в Office 365 через Powershell и CSVАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Удаление Lync Server 2013Создание индивидуальных адресных книг в Office 365 и Exchange onlineИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

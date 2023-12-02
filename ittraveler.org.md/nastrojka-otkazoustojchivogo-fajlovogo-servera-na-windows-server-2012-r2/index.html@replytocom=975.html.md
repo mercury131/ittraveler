@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Настройка Kerberos авторизации в Apache2Сброс пароля компьютера в домене без перезагрузкиАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
