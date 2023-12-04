@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через PowershellАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryОбновление Lync 2013 до Skype for BusinessWindows WSL подключение к сетевым шарам
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Изменение UPN суффикса в Active Directory через PowershellWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

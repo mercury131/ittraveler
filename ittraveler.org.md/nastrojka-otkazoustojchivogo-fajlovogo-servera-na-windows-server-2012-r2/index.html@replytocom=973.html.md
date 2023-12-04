@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Сброс пароля администратора Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Перенос базы данных Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

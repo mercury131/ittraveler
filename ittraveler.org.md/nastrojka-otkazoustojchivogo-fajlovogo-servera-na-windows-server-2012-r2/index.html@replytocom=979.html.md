@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУправление репликацией Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Управление репликацией Active DirectoryОтключение Skype UI в Lync 2013Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

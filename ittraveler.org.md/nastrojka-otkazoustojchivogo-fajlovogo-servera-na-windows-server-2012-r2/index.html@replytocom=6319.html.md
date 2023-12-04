@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка AnsibleНастройка Kerberos авторизации в Apache2
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПереход на репликацию SYSVOL по DFSУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

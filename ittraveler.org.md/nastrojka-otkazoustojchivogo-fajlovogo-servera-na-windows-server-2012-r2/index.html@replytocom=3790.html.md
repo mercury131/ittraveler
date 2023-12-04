@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание шаблонов Zabbix для Windows.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Сброс пароля компьютера в домене без перезагрузкиСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryУдаление Lync Server 2013Настройка Kerberos авторизации в Apache2
+Related posts:Настройка HA кластера Hyper-VАктивируем LDAP over SSLПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

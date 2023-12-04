@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Сброс пароля компьютера в домене без перезагрузкиНастройка HA кластера Hyper-V
+Related posts:Обновление схемы Active DirectoryОтключение Skype UI в Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Создание пользователей Active Directory через CSV файлОбновление схемы Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Активируем LDAP over SSLУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка Lync 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

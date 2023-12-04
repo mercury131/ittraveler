@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Настройка HA кластера Hyper-VПолучаем MD5 файла или переменной в PowershellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

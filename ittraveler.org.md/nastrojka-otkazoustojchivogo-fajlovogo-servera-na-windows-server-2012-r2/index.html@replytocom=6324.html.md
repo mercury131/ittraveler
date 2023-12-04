@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУправление репликацией Active DirectoryУдаление Lync Server 2013
+Related posts:Включение корзины Active DirectoryАвтоматическая активация пользователей Lync через PowershellУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

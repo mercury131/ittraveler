@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАвтоматизируем бэкап баз данных MSSQL ExpressСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка RSAT на Windows 10 1809Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Поиск старых почтовых ящиков в Exchange 2010Windows WSL подключение к сетевым шарам
+Related posts:Сброс настроек GPO на стандартныеСоздание email рассылки через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

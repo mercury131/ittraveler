@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Обновление схемы Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПодключение к Office 365 через Powershell и зашифрованный парольАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

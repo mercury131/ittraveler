@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание шаблонов Zabbix для Windows.Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

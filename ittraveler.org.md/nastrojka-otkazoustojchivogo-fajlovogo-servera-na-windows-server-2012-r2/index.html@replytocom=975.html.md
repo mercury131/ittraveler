@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Windows WSL подключение к сетевым шарам
+Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

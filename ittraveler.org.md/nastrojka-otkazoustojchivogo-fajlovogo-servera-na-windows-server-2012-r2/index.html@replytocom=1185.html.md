@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces DirectУдаление Lync Server 2013
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПеренос базы данных Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

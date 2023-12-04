@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс пароля администратора Active DirectoryПеренос базы данных Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

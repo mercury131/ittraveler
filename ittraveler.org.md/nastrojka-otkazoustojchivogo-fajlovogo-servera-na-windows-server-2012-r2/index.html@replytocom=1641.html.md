@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит изменений групповых политик через PowerShellПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
