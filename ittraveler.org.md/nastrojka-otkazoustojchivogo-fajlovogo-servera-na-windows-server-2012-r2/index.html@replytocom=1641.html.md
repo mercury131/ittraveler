@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит изменений групповых политик через PowerShellПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Передача и захват ролей FSMOНастройка Kerberos авторизации в Apache2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

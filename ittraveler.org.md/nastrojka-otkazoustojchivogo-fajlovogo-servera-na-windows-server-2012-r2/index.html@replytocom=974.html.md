@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Изменение UPN суффикса в Active Directory через PowershellWindows WSL подключение к сетевым шарам
+Related posts:Аудит изменений групповых политик через PowerShellАудит доменных служб Active Directory в Windows Server 2008 R2Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

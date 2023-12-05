@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание шаблонов Zabbix для Windows.Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Настройка Kerberos авторизации в Apache2Создание шаблонов Zabbix для Windows.Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

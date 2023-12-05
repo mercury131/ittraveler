@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Создание шаблонов Zabbix для Windows.Сброс пароля администратора Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
