@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Создание шаблонов Zabbix для Windows.Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Windows WSL подключение к сетевым шарамСоздание email рассылки через PowershellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

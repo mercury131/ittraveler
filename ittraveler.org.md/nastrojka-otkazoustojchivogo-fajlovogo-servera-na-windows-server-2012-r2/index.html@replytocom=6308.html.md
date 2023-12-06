@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереСброс настроек GPO на стандартныеАктивируем LDAP over SSL
+Related posts:Настройка HA кластера Hyper-VActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
