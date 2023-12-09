@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Настройка HA кластера Hyper-VПолучаем MD5 файла или переменной в Powershell
+Related posts:Сброс настроек GPO на стандартныеОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

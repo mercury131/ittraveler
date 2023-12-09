@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellСоздание шаблонов Zabbix для Windows.Решаем проблему внезапной блокировки учетной записи
+Related posts:Обновление Lync 2013 до Skype for BusinessКастомизация гостевых ОС Windows в KVM на примере ProxmoxПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

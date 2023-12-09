@@ -12,7 +12,7 @@
 
 	
     	  Дата: 06.02.2015 Автор Admin  
-	В данной статье я расскажу как настроить отказоустойчивый файловый сервер на Windows Server 2012 R2 в домене active directory   Первым делом убедитесь что сервер введен в домен Active Directory, далее установите роли dfs и файлового сервера
+	В данной статье я расскажу как настроить отказоустойчивый файловый сервер на windows server 2012 R2 в домене active directory   Первым делом убедитесь что сервер введен в домен Active Directory, далее установите роли dfs и файлового сервера
 Выберите следующие роли и установите их.
 Далее создайте структуру папок на отдельном диске.
 Теперь включим общий доступ.
@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryНастройка Kerberos авторизации в Apache2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Аудит изменений групповых политик через PowerShellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

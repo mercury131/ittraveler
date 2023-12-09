@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПередача и захват ролей FSMOОтключение Skype UI в Lync 2013
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Переход на репликацию SYSVOL по DFSСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

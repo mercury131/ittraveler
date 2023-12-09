@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTРешаем проблему внезапной блокировки учетной записи
+Related posts:Настройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

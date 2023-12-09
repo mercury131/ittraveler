@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСоздание email рассылки через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка AnsibleАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

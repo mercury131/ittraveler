@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Сброс настроек GPO на стандартныеУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Обновление Lync 2013 до Skype for BusinessАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Включение корзины Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Новые компьютеры не появляются на WSUS сервереУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

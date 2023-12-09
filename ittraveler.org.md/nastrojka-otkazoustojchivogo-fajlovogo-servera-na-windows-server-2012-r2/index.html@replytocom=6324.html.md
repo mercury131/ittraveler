@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит незаполненных полей в Active Directory через PowershellПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

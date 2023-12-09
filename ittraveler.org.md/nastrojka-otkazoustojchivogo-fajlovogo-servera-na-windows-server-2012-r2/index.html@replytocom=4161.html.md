@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОтключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Новые компьютеры не появляются на WSUS сервереСоздание email рассылки через PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

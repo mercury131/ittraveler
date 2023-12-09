@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013Сброс пароля компьютера в домене без перезагрузки
+Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

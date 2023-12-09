@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Настройка Kerberos авторизации в Apache2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

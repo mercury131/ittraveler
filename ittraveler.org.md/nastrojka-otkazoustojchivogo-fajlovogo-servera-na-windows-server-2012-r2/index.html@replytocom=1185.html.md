@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Создание шаблонов Zabbix для Windows.Отключение Skype UI в Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

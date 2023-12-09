@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартныеПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Active Directory + Thunderbird = Общая адресная книгаНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

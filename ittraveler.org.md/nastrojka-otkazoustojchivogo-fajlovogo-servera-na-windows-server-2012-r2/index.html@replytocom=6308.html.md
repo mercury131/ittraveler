@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Получаем MD5 файла или переменной в PowershellАудит изменений групповых политик через PowerShell
+Related posts:Перенос базы данных Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

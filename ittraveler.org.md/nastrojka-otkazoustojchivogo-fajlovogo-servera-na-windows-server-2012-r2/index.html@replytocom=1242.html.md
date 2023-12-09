@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка кластера MSSQL 2012.
+Related posts:Обновление Lync 2013 до Skype for BusinessНастройка HA кластера Hyper-VПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

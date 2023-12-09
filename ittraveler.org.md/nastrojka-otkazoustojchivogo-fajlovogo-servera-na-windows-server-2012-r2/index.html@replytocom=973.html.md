@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольActive Directory + Thunderbird = Общая адресная книгаПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
