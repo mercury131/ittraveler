@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Обновление Lync 2013 до Skype for BusinessАудит незаполненных полей в Active Directory через Powershell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMOСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
