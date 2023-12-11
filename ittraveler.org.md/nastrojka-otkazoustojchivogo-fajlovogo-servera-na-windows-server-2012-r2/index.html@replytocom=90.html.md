@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка дедупликации  на Windows Server 2012 R2Аудит изменений в Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

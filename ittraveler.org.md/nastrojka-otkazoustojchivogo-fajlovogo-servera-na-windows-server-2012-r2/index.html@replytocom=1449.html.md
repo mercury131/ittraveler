@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Удаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книга
+Related posts:Перенос базы данных Active DirectoryПередача и захват ролей FSMOСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

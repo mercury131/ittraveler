@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMOСоздание шаблонов Zabbix для Windows.
+Related posts:Установка и настройка Lync 2013Установка и настройка AnsibleУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

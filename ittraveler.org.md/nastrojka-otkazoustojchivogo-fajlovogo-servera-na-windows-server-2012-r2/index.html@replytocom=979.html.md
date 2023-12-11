@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSРешаем проблему внезапной блокировки учетной записиДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Добавление UPN суффикса в Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПередача и захват ролей FSMOОбновление схемы Active Directory
+Related posts:Установка и настройка Lync 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

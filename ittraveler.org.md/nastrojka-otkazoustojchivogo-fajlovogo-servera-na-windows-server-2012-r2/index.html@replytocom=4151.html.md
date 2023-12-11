@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка дедупликации  на Windows Server 2012 R2Восстановление объектов Active Directory: сборник сценариев
+Related posts:Обновление схемы Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

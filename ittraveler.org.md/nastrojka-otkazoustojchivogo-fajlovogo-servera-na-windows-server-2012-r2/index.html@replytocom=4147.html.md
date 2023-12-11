@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTActive Directory + Thunderbird = Общая адресная книгаСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПеренос базы данных Active DirectoryАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

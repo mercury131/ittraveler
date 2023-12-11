@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellОбновление схемы Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка дедупликации  на Windows Server 2012 R2Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

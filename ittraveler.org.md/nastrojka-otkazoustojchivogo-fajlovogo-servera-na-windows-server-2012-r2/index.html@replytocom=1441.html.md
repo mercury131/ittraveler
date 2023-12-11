@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VАудит DNS серверов на Windows Server 2008 R2 через PowershellВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка AnsibleЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

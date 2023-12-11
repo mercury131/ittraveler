@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Ansible
+Related posts:Сброс пароля компьютера в домене без перезагрузкиОбновление схемы Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеWindows WSL подключение к сетевым шарамАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxОбновление схемы Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

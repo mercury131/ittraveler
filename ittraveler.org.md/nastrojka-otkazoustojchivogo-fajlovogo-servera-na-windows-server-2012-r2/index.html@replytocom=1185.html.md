@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений групповых политик через PowerShellСброс настроек GPO на стандартные
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVОтключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПереход на репликацию SYSVOL по DFSНовые компьютеры не появляются на WSUS сервере
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

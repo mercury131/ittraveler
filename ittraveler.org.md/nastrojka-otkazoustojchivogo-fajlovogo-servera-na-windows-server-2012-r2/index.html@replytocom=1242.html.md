@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСброс пароля администратора Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Аудит изменений в Active DirectoryОбновление схемы Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

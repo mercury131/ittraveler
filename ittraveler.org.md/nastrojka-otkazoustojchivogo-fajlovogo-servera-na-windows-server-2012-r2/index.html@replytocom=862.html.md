@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс настроек GPO на стандартные
+Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка кластера MSSQL 2012.Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
