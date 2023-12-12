@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryАудит изменений групповых политик через PowerShellПереход на репликацию SYSVOL по DFS
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Сброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
