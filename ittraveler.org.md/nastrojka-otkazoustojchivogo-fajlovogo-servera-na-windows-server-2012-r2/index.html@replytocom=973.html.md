@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений в Active DirectoryУдаление Lync Server 2013
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание шаблонов Zabbix для Windows.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

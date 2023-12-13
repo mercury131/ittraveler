@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Сброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Новые компьютеры не появляются на WSUS сервереНастройка HA кластера Hyper-VСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
