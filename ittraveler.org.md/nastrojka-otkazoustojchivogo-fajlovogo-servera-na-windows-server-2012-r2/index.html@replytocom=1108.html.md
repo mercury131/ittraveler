@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПередача и захват ролей FSMOВосстановление объектов Active Directory: сборник сценариев
+Related posts:Аудит изменений групповых политик через PowerShellСоздание шаблонов Zabbix для Windows.Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУправление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Создание пользователей Active Directory через CSV файлПодключение к Office 365 через Powershell и зашифрованный парольАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

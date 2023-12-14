@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка Ansible
+Related posts:Создание email рассылки через PowershellПеренос базы данных Active DirectoryСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

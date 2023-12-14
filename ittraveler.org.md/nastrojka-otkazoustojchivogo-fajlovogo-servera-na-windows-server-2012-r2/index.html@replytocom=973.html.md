@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание шаблонов Zabbix для Windows.Перенос базы данных Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Передача и захват ролей FSMOАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
