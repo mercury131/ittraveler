@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлПодключение к Office 365 через Powershell и зашифрованный парольАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Отключение Skype UI в Lync 2013Получаем MD5 файла или переменной в PowershellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

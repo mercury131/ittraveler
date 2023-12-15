@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryПередача и захват ролей FSMOИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Включение корзины Active DirectoryУстановка и настройка AnsibleWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

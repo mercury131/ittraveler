@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Решаем проблему внезапной блокировки учетной записи
+Related posts:Установка и настройка AnsibleДобавление UPN суффикса в Active DirectoryОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
