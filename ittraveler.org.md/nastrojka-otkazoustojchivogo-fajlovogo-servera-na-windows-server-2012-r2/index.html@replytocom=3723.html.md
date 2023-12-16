@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книгаWindows WSL подключение к сетевым шарам
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryУстановка и настройка AnsibleWindows WSL подключение к сетевым шарам
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineWindows WSL подключение к сетевым шарамДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryИзменение UPN суффикса в Active Directory через PowershellУстановка и настройка Ansible
+Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

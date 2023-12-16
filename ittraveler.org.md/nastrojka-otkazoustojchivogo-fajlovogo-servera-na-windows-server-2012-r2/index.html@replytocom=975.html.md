@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryWindows WSL подключение к сетевым шарамНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Установка и настройка Lync 2013Передача и захват ролей FSMOНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
