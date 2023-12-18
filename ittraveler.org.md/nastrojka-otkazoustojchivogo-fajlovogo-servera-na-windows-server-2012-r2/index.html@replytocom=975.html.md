@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПередача и захват ролей FSMOБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Получаем MD5 файла или переменной в PowershellОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Lync 2013Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Windows WSL подключение к сетевым шарамАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

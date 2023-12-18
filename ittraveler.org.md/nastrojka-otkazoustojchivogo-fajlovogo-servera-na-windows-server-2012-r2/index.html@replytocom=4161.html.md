@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013
+Related posts:Обновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

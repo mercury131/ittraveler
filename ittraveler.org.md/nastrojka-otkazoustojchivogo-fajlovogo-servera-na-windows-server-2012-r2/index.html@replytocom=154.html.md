@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Установка и настройка кластера MSSQL 2012.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Решаем проблему внезапной блокировки учетной записиПередача и захват ролей FSMOУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

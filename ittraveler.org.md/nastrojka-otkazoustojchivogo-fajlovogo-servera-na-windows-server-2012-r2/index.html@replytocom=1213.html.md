@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectДобавление почтовых контактов в Office 365 через Powershell и CSVУдаление Lync Server 2013
+Related posts:Управление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записиУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Управление репликацией Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Отключение Skype UI в Lync 2013Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

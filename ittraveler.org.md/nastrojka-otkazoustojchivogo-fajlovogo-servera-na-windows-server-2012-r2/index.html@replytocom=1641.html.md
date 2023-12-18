@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryУстановка и настройка AnsibleАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Передача и захват ролей FSMOНастройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

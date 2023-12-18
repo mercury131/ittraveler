@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка кластера MSSQL 2012.Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Активируем LDAP over SSLВосстановление объектов Active Directory: сборник сценариевПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
