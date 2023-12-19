@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Получаем MD5 файла или переменной в PowershellСброс настроек GPO на стандартные
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Windows WSL подключение к сетевым шарамАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

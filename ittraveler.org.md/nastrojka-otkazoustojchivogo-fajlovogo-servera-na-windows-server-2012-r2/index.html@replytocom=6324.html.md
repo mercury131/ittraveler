@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Удаление Lync Server 2013
+Related posts:Переход на репликацию SYSVOL по DFSАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

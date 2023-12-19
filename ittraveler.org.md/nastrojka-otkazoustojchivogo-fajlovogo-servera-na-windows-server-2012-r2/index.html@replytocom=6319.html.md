@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Обновление схемы Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Решаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

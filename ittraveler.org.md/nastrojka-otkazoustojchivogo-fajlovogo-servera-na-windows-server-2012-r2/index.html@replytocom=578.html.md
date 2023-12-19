@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTActive Directory + Thunderbird = Общая адресная книгаОбновление Lync 2013 до Skype for Business
+Related posts:Установка и настройка Lync 2013Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

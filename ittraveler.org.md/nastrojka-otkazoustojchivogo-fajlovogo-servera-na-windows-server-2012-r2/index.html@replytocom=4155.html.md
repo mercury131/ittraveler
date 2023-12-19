@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Отключение Skype UI в Lync 2013Сброс пароля администратора Active Directory
+Related posts:Создание email рассылки через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

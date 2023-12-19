@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записиУстановка и настройка кластера MSSQL 2012.
+Related posts:Установка RSAT на Windows 10 1809Обновление Lync 2013 до Skype for BusinessПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

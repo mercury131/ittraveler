@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Передача и захват ролей FSMOПеренос базы данных Active Directory
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Управление репликацией Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

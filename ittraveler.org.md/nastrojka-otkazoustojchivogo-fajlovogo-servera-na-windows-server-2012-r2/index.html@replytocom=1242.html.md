@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание индивидуальных адресных книг в Office 365 и Exchange onlineПередача и захват ролей FSMO
+Related posts:Включение корзины Active DirectoryОбновление схемы Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
