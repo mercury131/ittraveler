@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Настройка HA кластера Hyper-VОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

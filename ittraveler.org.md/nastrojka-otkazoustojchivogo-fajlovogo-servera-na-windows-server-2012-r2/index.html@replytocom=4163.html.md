@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOДобавление почтовых контактов в Office 365 через Powershell и CSVАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Настройка Kerberos авторизации в Apache2Аудит незаполненных полей в Active Directory через PowershellРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

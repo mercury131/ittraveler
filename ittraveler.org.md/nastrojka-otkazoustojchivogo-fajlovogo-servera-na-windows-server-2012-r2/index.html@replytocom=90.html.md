@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellОтключение Skype UI в Lync 2013Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

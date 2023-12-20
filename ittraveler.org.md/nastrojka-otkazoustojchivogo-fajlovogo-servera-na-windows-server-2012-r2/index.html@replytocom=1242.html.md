@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryОбновление схемы Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Автоматическая активация пользователей Lync через PowershellСоздание пользователей Active Directory через CSV файлКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

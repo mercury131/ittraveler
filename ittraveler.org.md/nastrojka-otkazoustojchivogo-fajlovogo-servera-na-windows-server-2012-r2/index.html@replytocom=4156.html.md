@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАудит незаполненных полей в Active Directory через PowershellПередача и захват ролей FSMO
+Related posts:Создание email рассылки через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Управление репликацией Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка AnsibleПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

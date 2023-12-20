@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка Kerberos авторизации в Apache2
+Related posts:Изменение UPN суффикса в Active Directory через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

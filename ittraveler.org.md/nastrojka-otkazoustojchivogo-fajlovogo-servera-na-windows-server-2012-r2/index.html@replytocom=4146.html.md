@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка Ansible
+Related posts:Автоматическая активация пользователей Lync через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

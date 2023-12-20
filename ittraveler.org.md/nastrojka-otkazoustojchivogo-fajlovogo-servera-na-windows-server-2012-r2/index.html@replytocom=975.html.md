@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольВосстановление объектов Active Directory: сборник сценариевСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Получаем MD5 файла или переменной в PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

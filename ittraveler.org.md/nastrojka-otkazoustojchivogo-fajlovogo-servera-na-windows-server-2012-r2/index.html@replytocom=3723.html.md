@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка AlwaysOn на MS SQL 2016Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
