@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLСброс настроек GPO на стандартныеАудит изменений групповых политик через PowerShell
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит изменений в Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматизируем бэкап баз данных MSSQL ExpressПолучаем MD5 файла или переменной в Powershell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарамНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
