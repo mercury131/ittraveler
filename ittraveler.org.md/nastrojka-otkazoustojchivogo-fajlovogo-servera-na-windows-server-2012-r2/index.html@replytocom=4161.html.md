@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSОбновление схемы Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка RSAT на Windows 10 1809Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

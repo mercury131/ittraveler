@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Windows WSL подключение к сетевым шарамУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Отключение Skype UI в Lync 2013Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиНастройка Kerberos авторизации в Apache2Удаление Lync Server 2013
+Related posts:Активируем LDAP over SSLАвтоматическая активация пользователей Lync через PowershellУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
