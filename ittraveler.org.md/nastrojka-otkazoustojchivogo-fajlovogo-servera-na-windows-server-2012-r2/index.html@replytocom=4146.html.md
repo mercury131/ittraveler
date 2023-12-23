@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольНастройка Kerberos авторизации в Apache2
+Related posts:Удаление Lync Server 2013Автоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
