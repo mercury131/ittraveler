@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Добавление UPN суффикса в Active DirectoryПередача и захват ролей FSMO
+Related posts:Настройка Kerberos авторизации в Apache2Сброс настроек GPO на стандартныеРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

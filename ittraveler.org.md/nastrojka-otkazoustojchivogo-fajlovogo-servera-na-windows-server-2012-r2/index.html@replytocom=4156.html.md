@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLПодключение к Office 365 через Powershell и зашифрованный парольАудит изменений групповых политик через PowerShell
+Related posts:Аудит изменений в Active DirectoryСоздание email рассылки через PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
