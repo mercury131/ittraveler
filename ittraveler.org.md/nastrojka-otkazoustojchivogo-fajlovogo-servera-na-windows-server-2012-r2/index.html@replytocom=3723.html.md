@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellСброс настроек GPO на стандартныеНовые компьютеры не появляются на WSUS сервере
+Related posts:Включение корзины Active DirectoryУдаление Lync Server 2013Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

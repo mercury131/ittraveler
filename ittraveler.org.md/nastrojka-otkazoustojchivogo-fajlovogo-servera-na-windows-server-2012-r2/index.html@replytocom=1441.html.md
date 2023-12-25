@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Решаем проблему внезапной блокировки учетной записиWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

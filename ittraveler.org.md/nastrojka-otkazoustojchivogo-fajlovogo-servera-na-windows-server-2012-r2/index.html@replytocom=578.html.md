@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс настроек GPO на стандартныеУдаление Lync Server 2013
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTКак узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

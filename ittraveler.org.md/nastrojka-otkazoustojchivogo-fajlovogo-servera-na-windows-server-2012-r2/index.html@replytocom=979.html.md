@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка кластера MSSQL 2012.Включение корзины Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellСоздание пользователей Active Directory через CSV файлПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

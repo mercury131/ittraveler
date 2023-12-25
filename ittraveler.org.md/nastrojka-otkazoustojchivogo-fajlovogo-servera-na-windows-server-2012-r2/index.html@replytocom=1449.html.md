@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOАвтоматизируем бэкап баз данных MSSQL ExpressАвтоматическая активация пользователей Lync через Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Принудительная синхронизация контроллеров домена Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

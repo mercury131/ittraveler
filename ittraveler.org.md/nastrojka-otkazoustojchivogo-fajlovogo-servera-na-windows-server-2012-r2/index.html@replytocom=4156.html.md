@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryСоздание email рассылки через PowershellУстановка и настройка Lync 2013
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

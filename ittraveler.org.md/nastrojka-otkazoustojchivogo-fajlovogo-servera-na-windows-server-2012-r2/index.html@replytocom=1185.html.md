@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Обновление Lync 2013 до Skype for BusinessУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка кластера MSSQL 2012.Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

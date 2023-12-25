@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryДобавление UPN суффикса в Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.Перенос базы данных Active Directory
+Related posts:Создание email рассылки через PowershellУправление репликацией Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

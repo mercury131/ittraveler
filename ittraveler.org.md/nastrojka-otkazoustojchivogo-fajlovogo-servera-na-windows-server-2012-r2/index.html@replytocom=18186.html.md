@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellВключение корзины Active DirectoryАктивируем LDAP over SSL
+Related posts:Windows WSL подключение к сетевым шарамАудит доменных служб Active Directory в Windows Server 2008 R2Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

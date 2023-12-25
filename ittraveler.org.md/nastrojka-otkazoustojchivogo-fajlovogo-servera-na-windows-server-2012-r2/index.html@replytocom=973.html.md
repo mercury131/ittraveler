@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Подключение к Office 365 через Powershell и зашифрованный парольПеренос базы данных Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Включение корзины Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

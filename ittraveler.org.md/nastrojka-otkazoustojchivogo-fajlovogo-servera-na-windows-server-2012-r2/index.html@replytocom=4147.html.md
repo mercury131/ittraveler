@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Сброс настроек GPO на стандартныеРешаем проблему внезапной блокировки учетной записи
+Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка дедупликации  на Windows Server 2012 R2Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

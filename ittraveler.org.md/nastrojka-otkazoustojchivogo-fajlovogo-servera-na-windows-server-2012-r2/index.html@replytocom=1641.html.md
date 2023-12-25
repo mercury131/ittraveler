@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка Scale-Out File Server + Storage Spaces DirectРешаем проблему внезапной блокировки учетной записи
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка дедупликации  на Windows Server 2012 R2Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
