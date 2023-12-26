@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Восстановление объектов Active Directory: сборник сценариевУстановка RSAT на Windows 10 1809
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка AnsibleАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryУдаление Lync Server 2013Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Аудит изменений групповых политик через PowerShellСоздание шаблонов Zabbix для Windows.Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

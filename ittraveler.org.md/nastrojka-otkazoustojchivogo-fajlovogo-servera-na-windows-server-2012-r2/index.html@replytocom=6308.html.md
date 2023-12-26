@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУправление репликацией Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Активируем LDAP over SSLСоздание шаблонов Zabbix для Windows.Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

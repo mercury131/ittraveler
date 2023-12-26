@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active Directory
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСброс пароля компьютера в домене без перезагрузкиИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

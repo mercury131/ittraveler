@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиОтключение Skype UI в Lync 2013Включение корзины Active Directory
+Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка HA кластера Hyper-VНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
