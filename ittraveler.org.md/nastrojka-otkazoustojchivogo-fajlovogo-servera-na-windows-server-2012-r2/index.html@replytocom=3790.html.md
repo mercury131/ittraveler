@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСброс пароля администратора Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Сброс настроек GPO на стандартныеActive Directory + Thunderbird = Общая адресная книгаОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

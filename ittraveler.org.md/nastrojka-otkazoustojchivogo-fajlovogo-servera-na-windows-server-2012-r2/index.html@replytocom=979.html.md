@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Добавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

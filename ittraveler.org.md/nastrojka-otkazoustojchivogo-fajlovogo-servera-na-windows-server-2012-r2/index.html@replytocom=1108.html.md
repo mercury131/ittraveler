@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка кластера MSSQL 2012.
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание пользователей Active Directory через CSV файлПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

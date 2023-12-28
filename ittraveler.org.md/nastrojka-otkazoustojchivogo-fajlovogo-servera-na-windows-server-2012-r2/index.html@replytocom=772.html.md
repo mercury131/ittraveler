@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessСброс настроек GPO на стандартныеСброс пароля администратора Active Directory
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

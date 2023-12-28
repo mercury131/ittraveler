@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевНастройка HA кластера Hyper-VПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Создание пользователей Active Directory через CSV файлАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамПоиск старых почтовых ящиков в Exchange 2010Аудит изменений в Active Directory
+Related posts:Установка и настройка AnsibleКак узнать WWN (World Wide Name)  в Windows Server 2012R2Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольОбновление схемы Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Сброс настроек GPO на стандартныеУстановка RSAT на Windows 10 1809Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

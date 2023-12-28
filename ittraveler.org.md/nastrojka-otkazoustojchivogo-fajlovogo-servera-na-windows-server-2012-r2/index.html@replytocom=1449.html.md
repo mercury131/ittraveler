@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Отключение Skype UI в Lync 2013
+Related posts:Установка и настройка кластера MSSQL 2012.Windows WSL подключение к сетевым шарамАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

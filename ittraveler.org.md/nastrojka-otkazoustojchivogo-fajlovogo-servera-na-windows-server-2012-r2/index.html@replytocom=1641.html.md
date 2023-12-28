@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Передача и захват ролей FSMOАудит изменений групповых политик через PowerShell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка кластера MSSQL 2012.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

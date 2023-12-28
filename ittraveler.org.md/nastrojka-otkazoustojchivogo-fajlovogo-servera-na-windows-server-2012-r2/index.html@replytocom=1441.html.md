@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка RSAT на Windows 10 1809Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Решаем проблему внезапной блокировки учетной записиПринудительная синхронизация Office 365 и локальной Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

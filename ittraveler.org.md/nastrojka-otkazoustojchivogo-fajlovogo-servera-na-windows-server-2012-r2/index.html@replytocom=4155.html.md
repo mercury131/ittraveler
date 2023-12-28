@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля компьютера в домене без перезагрузкиДобавление UPN суффикса в Active Directory
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

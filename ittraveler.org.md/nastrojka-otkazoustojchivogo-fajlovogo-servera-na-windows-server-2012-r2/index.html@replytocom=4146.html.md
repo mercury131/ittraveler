@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация контроллеров домена Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Сброс пароля администратора Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

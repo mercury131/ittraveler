@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

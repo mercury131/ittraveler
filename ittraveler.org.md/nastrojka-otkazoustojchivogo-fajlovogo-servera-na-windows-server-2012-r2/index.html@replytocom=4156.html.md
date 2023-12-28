@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Получаем MD5 файла или переменной в PowershellУстановка RSAT на Windows 10 1809
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Scale-Out File Server + Storage Spaces DirectАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

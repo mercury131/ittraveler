@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

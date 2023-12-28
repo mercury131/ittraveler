@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевПодключение к Office 365 через Powershell и зашифрованный парольАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

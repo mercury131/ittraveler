@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит доменных служб Active Directory в Windows Server 2008 R2Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
