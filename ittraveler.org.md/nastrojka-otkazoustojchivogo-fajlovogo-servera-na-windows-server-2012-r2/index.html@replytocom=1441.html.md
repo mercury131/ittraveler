@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиПринудительная синхронизация Office 365 и локальной Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Перенос базы данных Active DirectoryОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

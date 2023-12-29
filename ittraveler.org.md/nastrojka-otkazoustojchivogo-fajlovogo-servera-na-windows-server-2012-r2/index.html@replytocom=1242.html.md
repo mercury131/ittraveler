@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Создание пользователей Active Directory через CSV файлАвтоматическая активация пользователей Lync через Powershell
+Related posts:Переход на репликацию SYSVOL по DFSДобавление почтовых контактов в Office 365 через Powershell и CSVНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

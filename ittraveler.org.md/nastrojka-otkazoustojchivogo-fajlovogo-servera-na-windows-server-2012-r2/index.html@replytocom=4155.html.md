@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Обновление Lync 2013 до Skype for BusinessСоздание пользователей Active Directory через CSV файлАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

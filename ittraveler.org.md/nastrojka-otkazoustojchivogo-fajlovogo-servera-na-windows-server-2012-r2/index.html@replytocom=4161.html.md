@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Новые компьютеры не появляются на WSUS сервереАвтоматическая активация пользователей Lync через Powershell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит изменений в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

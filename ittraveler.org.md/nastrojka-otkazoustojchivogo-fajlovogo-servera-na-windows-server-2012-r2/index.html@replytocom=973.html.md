@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевПодключение к Office 365 через Powershell и зашифрованный парольАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Установка и настройка AnsibleВосстановление объектов Active Directory: сборник сценариевУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
