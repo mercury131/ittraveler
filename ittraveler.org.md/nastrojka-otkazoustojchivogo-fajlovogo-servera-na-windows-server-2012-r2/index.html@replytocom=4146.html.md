@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Настройка HA кластера Hyper-VПолучаем MD5 файла или переменной в Powershell
+Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка AnsibleСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

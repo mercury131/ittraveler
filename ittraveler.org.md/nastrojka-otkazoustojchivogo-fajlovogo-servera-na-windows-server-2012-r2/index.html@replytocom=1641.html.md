@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

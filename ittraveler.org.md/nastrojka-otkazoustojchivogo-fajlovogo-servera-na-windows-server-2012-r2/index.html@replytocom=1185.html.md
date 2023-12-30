@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка кластера MSSQL 2012.Создание email рассылки через Powershell
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПринудительная синхронизация Office 365 и локальной Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

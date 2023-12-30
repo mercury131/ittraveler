@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellАвтоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellИзменение UPN суффикса в Active Directory через PowershellАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

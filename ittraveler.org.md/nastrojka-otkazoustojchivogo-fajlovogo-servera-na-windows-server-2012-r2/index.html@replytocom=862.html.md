@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLУстановка и настройка AnsibleПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит DNS серверов на Windows Server 2008 R2 через PowershellWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

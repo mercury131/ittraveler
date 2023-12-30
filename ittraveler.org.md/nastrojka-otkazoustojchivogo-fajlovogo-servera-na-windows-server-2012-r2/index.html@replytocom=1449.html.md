@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление Lync 2013 до Skype for Business
+Related posts:Перенос базы данных Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

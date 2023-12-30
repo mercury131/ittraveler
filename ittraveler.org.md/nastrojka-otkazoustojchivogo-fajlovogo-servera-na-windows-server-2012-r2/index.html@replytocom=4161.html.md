@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит изменений в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматическая активация пользователей Lync через PowershellСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

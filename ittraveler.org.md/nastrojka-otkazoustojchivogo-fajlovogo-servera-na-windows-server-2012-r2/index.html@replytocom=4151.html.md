@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание шаблонов Zabbix для Windows.
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПринудительная синхронизация Office 365 и локальной Active DirectoryАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
