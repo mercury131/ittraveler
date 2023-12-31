@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПринудительная синхронизация Office 365 и локальной Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Управление репликацией Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

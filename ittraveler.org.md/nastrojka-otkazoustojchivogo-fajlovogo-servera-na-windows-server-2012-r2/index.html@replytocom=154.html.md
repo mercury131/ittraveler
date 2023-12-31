@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Отключение Skype UI в Lync 2013
+Related posts:Обновление схемы Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

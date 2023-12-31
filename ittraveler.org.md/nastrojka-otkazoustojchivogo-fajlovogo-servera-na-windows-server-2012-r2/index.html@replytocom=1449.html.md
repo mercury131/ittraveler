@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Переход на репликацию SYSVOL по DFS
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаление Lync Server 2013Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
