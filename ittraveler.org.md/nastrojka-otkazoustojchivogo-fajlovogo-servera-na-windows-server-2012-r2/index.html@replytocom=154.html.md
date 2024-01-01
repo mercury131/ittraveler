@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Создание email рассылки через Powershell
+Related posts:Установка и настройка кластера MSSQL 2012.Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1125,7 +1125,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2023 
+                                                  Все права защищены. IT Traveler 2024 
                          
                         
 																														                    

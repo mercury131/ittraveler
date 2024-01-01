@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active DirectoryУдаление Lync Server 2013
+Related posts:Передача и захват ролей FSMOСоздание пользователей Active Directory через CSV файлАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1125,7 +1125,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2023 
+                                                  Все права защищены. IT Traveler 2024 
                          
                         
 																														                    

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевПолучаем MD5 файла или переменной в PowershellУстановка и настройка Lync 2013
+Related posts:Получаем MD5 файла или переменной в PowershellПеренос базы данных Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1125,7 +1125,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2023 
+                                                  Все права защищены. IT Traveler 2024 
                          
                         
 																														                    

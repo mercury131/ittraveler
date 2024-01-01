@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАудит изменений групповых политик через PowerShellПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1125,7 +1125,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2023 
+                                                  Все права защищены. IT Traveler 2024 
                          
                         
 																														                    

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellВключение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАудит незаполненных полей в Active Directory через PowershellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1125,7 +1125,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2023 
+                                                  Все права защищены. IT Traveler 2024 
                          
                         
 																														                    

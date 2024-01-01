@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка RSAT на Windows 10 1809Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1125,7 +1125,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2023 
+                                                  Все права защищены. IT Traveler 2024 
                          
                         
 																														                    

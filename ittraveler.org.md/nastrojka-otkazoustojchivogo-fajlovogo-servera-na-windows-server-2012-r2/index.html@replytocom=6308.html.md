@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПоиск старых почтовых ящиков в Exchange 2010Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка AlwaysOn на MS SQL 2016Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1125,7 +1125,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2023 
+                                                  Все права защищены. IT Traveler 2024 
                          
                         
 																														                    
