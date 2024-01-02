@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПеренос базы данных Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Настройка HA кластера Hyper-VПринудительная синхронизация контроллеров домена Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

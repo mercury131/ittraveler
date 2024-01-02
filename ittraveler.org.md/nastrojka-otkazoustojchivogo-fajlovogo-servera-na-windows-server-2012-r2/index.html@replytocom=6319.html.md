@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиАудит изменений групповых политик через PowerShellПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Решаем проблему внезапной блокировки учетной записиПринудительная синхронизация Office 365 и локальной Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

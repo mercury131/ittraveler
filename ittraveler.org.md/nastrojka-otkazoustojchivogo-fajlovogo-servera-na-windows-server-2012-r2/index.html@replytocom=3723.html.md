@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Переход на репликацию SYSVOL по DFSАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПереход на репликацию SYSVOL по DFSОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryСброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка Lync 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

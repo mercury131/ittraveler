@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013Автоматическая активация пользователей Lync через Powershell
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Решаем проблему внезапной блокировки учетной записиСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
