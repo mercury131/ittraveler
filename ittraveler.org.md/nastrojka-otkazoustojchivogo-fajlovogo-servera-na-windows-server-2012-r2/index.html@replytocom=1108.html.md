@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка Lync 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Переход на репликацию SYSVOL по DFSПоиск старых почтовых ящиков в Exchange 2010Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

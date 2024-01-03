@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryПолучаем MD5 файла или переменной в PowershellРешаем проблему внезапной блокировки учетной записи
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Передача и захват ролей FSMOАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

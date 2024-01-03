@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Создание email рассылки через PowershellWindows WSL подключение к сетевым шарам
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка AnsibleДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

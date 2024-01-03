@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSУдаление Lync Server 2013Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Создание email рассылки через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
