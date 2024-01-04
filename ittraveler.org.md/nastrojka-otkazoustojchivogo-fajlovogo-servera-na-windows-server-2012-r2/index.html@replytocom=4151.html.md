@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Управление репликацией Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Обновление схемы Active DirectoryСоздание шаблонов Zabbix для Windows.Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
