@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Назначение служб для сертификатов Exchange через Powershell.Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Аудит незаполненных полей в Active Directory через PowershellАудит DNS серверов на Windows Server 2008 R2 через PowershellСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

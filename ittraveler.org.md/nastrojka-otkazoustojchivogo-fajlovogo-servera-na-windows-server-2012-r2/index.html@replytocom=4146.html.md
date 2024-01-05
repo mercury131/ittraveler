@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамСоздание шаблонов Zabbix для Windows.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

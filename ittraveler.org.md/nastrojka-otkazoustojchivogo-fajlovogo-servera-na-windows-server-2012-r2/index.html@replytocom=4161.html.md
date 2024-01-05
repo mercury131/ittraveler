@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Сброс настроек GPO на стандартныеПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Получаем MD5 файла или переменной в PowershellНазначение служб для сертификатов Exchange через Powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

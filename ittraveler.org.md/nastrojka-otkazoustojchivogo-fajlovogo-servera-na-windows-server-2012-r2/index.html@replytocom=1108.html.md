@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПолучаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFS
+Related posts:Добавление UPN суффикса в Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

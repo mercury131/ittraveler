@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Автоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-V
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

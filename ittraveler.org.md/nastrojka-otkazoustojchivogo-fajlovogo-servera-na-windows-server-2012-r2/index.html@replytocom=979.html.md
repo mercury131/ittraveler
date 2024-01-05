@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Настройка HA кластера Hyper-VУстановка RSAT на Windows 10 1809Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

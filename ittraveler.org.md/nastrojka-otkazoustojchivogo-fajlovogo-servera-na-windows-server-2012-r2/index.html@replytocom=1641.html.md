@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryРешаем проблему внезапной блокировки учетной записиНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка дедупликации  на Windows Server 2012 R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

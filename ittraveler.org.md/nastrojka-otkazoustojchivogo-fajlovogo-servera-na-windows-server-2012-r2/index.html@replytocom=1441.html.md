@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Сброс пароля администратора Active DirectoryПереход на репликацию SYSVOL по DFS
+Related posts:Аудит изменений групповых политик через PowerShellОбновление Lync 2013 до Skype for BusinessУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление почтовых контактов в Office 365 через Powershell и CSVУдаление Lync Server 2013
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСоздание пользователей Active Directory через CSV файлОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

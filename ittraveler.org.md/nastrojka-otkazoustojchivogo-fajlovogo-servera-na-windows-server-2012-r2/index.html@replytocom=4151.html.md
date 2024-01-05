@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryСоздание шаблонов Zabbix для Windows.Переход на репликацию SYSVOL по DFS
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

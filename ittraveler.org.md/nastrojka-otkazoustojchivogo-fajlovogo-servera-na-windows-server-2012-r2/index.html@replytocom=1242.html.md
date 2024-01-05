@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевПеренос базы данных Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание шаблонов Zabbix для Windows.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

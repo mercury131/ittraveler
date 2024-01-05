@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеНастройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

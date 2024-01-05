@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание пользователей Active Directory через CSV файл
+Related posts:Обновление схемы Active DirectoryWindows WSL подключение к сетевым шарамАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

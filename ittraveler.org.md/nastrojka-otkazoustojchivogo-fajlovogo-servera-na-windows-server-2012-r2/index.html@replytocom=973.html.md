@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSНастройка HA кластера Hyper-VАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Сброс пароля администратора Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

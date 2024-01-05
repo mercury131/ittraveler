@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Active Directory + Thunderbird = Общая адресная книга
+Related posts:Отключение Skype UI в Lync 2013Обновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

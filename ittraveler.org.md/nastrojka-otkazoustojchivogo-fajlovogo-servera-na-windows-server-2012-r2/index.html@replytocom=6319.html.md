@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTКастомизация гостевых ОС Windows в KVM на примере ProxmoxВключение корзины Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлWindows WSL подключение к сетевым шарамАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

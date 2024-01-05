@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка Lync 2013Создание email рассылки через Powershell
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
