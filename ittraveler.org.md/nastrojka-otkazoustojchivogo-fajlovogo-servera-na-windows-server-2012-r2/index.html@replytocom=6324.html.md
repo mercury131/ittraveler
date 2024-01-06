@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellАудит DNS серверов на Windows Server 2008 R2 через PowershellСброс настроек GPO на стандартные
+Related posts:Добавление UPN суффикса в Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание шаблонов Zabbix для Windows.Обновление схемы Active Directory
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Аудит изменений в Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

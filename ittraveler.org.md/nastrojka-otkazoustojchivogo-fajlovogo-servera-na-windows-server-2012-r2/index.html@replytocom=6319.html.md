@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлWindows WSL подключение к сетевым шарамАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

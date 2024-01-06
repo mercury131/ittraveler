@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Добавление UPN суффикса в Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУдаление Lync Server 2013Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
