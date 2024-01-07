@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка Ansible
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматизируем бэкап баз данных MSSQL ExpressОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

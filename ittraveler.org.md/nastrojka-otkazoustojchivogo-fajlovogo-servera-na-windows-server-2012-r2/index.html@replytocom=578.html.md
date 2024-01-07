@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Новые компьютеры не появляются на WSUS сервере
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка AnsibleПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

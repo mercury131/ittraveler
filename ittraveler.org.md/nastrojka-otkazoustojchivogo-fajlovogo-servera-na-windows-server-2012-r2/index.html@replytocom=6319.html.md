@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Сброс пароля администратора Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

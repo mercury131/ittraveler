@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка AlwaysOn на MS SQL 2016Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

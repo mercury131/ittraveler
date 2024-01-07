@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Аудит изменений в Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Настройка Kerberos авторизации в Apache2Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

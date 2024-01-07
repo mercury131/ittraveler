@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлПеренос базы данных Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Изменение UPN суффикса в Active Directory через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryУстановка и настройка Lync 2013Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Настройка Kerberos авторизации в Apache2Удаление Lync Server 2013Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольУправление репликацией Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка AnsibleПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

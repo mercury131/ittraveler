@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка HA кластера Hyper-V
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСброс настроек GPO на стандартныеАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
