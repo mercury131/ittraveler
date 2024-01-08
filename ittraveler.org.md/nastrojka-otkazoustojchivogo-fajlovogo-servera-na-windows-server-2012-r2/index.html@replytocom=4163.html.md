@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка AnsibleПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

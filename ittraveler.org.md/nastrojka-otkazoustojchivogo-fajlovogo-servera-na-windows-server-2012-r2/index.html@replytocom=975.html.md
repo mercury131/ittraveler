@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Создание пользователей Active Directory через CSV файлКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Добавление UPN суффикса в Active DirectoryВключение корзины Active DirectoryАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

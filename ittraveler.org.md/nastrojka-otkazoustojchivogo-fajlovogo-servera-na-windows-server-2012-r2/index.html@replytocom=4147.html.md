@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellУдаление Lync Server 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Передача и захват ролей FSMOВключение корзины Active DirectoryОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

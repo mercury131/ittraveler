@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Сброс пароля администратора Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка Lync 2013Получаем MD5 файла или переменной в PowershellОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

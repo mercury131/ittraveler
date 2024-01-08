@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Установка RSAT на Windows 10 1809Автоматизируем бэкап баз данных MSSQL ExpressНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
