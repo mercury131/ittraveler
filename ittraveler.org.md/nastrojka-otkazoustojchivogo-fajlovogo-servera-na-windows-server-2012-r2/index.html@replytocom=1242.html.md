@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание пользователей Active Directory через CSV файл
+Related posts:Сброс пароля администратора Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

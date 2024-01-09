@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание email рассылки через PowershellПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

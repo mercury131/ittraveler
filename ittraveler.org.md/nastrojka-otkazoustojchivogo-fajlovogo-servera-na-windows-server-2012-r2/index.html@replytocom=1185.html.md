@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлПринудительная синхронизация Office 365 и локальной Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Отключение Skype UI в Lync 2013Подключение к Office 365 через Powershell и зашифрованный парольСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

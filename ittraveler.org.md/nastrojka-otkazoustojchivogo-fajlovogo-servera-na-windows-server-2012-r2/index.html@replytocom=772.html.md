@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Переход на репликацию SYSVOL по DFS
+Related posts:Передача и захват ролей FSMOСоздание email рассылки через PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

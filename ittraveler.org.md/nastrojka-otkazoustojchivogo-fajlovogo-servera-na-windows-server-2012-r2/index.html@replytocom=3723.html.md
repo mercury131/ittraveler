@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryСброс настроек GPO на стандартныеАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Изменение UPN суффикса в Active Directory через PowershellДобавление UPN суффикса в Active DirectoryОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

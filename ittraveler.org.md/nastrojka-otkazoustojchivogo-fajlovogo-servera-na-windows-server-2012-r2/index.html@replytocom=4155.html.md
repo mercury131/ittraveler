@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Добавление UPN суффикса в Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxWindows WSL подключение к сетевым шарамВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

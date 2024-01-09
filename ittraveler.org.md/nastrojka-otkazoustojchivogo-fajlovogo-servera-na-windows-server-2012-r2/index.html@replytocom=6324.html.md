@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Добавление почтовых контактов в Office 365 через Powershell и CSVАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Обновление Lync 2013 до Skype for BusinessНовые компьютеры не появляются на WSUS сервереУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

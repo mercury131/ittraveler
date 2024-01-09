@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOВключение корзины Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Отключение Skype UI в Lync 2013Сброс пароля администратора Active DirectoryАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

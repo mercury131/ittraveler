@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILОбновление Lync 2013 до Skype for Business
+Related posts:Восстановление объектов Active Directory: сборник сценариевНовые компьютеры не появляются на WSUS сервереПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

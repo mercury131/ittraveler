@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Установка и настройка Lync 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

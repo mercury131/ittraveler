@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание шаблонов Zabbix для Windows.
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

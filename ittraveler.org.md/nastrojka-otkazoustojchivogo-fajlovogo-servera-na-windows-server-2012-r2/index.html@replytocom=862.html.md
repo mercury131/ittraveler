@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматическая активация пользователей Lync через PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание email рассылки через PowershellСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

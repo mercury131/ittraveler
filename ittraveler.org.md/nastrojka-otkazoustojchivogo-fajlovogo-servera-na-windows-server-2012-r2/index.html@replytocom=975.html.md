@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryВключение корзины Active DirectoryАудит изменений в Active Directory
+Related posts:Установка и настройка Lync 2013Поиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
