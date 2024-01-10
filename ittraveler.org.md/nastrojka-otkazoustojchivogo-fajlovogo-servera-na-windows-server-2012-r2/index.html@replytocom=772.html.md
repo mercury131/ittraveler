@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOСоздание email рассылки через PowershellАудит изменений групповых политик через PowerShell
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПередача и захват ролей FSMOWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

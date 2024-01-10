@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Подключение к Office 365 через Powershell и зашифрованный парольСоздание email рассылки через Powershell
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПередача и захват ролей FSMOАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

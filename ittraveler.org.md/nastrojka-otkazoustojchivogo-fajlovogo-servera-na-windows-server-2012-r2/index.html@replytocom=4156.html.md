@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Новые компьютеры не появляются на WSUS сервереАвтоматическая активация пользователей Lync через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

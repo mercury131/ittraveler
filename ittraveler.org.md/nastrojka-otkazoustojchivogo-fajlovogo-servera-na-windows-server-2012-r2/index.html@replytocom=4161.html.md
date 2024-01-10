@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевНовые компьютеры не появляются на WSUS сервереПеренос базы данных Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений в Active DirectoryАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

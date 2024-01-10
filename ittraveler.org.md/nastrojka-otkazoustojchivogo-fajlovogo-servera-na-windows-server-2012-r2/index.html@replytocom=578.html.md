@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс настроек GPO на стандартныеПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

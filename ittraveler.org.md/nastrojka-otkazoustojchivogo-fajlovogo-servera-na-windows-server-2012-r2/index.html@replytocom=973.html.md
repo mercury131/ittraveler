@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиНастройка растянутого кластера (stretch-cluster) на Windows server 2016Создание шаблонов Zabbix для Windows.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
