@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книгаРешаем проблему внезапной блокировки учетной записи
+Related posts:Отключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
