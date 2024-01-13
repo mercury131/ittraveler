@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleСброс пароля компьютера в домене без перезагрузкиПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Отключение Skype UI в Lync 2013Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

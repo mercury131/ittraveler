@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryПередача и захват ролей FSMOОтключение Skype UI в Lync 2013
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка AnsibleУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

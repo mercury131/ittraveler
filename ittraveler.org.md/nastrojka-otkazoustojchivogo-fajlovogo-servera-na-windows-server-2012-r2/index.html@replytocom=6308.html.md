@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУправление репликацией Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Сброс пароля администратора Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

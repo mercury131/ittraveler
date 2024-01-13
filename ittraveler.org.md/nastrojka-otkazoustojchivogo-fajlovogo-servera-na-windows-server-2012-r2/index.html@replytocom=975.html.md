@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Восстановление объектов Active Directory: сборник сценариевНовые компьютеры не появляются на WSUS сервере
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка AnsibleИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

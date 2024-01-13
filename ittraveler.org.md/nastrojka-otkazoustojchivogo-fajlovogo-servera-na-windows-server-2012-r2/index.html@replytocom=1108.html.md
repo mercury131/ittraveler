@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Получаем MD5 файла или переменной в PowershellWindows WSL подключение к сетевым шарамСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

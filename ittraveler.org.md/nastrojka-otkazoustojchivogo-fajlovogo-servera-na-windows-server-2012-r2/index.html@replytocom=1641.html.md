@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Настройка HA кластера Hyper-V
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

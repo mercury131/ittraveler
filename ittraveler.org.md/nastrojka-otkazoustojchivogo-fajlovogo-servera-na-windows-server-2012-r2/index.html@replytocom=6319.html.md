@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Добавление UPN суффикса в Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Управление репликацией Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

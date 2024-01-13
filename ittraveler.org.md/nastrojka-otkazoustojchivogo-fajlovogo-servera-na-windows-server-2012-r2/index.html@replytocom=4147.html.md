@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryАудит изменений в Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Создание email рассылки через PowershellПринудительная синхронизация контроллеров домена Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

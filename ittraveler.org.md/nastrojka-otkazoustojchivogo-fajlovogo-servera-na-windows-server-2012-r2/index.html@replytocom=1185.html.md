@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

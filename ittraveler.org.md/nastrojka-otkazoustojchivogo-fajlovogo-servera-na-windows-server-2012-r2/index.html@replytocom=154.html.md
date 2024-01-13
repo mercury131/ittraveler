@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Передача и захват ролей FSMOОбновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

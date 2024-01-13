@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс настроек GPO на стандартныеАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILВосстановление объектов Active Directory: сборник сценариевСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

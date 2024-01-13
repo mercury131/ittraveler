@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Изменение UPN суффикса в Active Directory через PowershellПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Изменение UPN суффикса в Active Directory через PowershellПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

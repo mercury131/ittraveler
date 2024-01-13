@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellАвтоматизируем бэкап баз данных MSSQL ExpressСброс настроек GPO на стандартные
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Включение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

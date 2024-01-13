@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLНастройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление Lync 2013 до Skype for Business
+Related posts:Переход на репликацию SYSVOL по DFSРешаем проблему внезапной блокировки учетной записиЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

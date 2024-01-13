@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Сброс пароля администратора Active Directory
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс пароля компьютера в домене без перезагрузкиВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПереход на репликацию SYSVOL по DFSНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Перенос базы данных Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

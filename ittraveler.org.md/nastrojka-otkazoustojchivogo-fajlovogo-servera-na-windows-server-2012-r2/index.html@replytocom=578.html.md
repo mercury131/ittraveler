@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryАудит изменений групповых политик через PowerShellКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание пользователей Active Directory через CSV файлДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
