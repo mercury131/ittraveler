@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellПринудительная синхронизация контроллеров домена Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryДобавление UPN суффикса в Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

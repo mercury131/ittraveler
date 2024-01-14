@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellWindows WSL подключение к сетевым шарамСоздание email рассылки через Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматическая активация пользователей Lync через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
