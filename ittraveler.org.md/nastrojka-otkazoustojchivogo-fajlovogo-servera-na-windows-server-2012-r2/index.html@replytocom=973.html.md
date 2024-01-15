@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryПеренос базы данных Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryВосстановление объектов Active Directory: сборник сценариевСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

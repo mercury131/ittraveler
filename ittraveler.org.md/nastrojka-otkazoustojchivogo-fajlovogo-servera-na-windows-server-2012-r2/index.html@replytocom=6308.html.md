@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryУправление репликацией Active DirectoryActive Directory + Thunderbird = Общая адресная книга
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

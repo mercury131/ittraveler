@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Настройка HA кластера Hyper-V
+Related posts:Установка и настройка кластера MSSQL 2012.Active Directory + Thunderbird = Общая адресная книгаОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

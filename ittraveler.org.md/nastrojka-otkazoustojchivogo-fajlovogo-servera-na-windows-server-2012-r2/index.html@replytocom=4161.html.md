@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание индивидуальных адресных книг в Office 365 и Exchange onlineСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

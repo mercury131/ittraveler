@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Переход на репликацию SYSVOL по DFS
+Related posts:Переход на репликацию SYSVOL по DFSСоздание индивидуальных адресных книг в Office 365 и Exchange onlineНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

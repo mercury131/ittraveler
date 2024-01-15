@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILВосстановление объектов Active Directory: сборник сценариевСброс пароля администратора Active Directory
+Related posts:Автоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active DirectoryАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

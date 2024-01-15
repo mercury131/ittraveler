@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Обновление Lync 2013 до Skype for BusinessУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Решаем проблему внезапной блокировки учетной записиСоздание email рассылки через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

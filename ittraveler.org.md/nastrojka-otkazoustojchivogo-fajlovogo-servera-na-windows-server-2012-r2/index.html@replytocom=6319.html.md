@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Удаление Lync Server 2013Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Аудит изменений в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

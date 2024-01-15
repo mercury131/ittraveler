@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевДобавление почтовых контактов в Office 365 через Powershell и CSVПеренос базы данных Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАудит незаполненных полей в Active Directory через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

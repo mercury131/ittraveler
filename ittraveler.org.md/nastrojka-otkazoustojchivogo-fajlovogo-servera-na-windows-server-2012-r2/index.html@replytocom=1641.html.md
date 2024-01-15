@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка Ansible
+Related posts:Создание пользователей Active Directory через CSV файлАудит изменений в Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

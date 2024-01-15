@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереСоздание email рассылки через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Сброс пароля администратора Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
