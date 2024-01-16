@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка кластера MSSQL 2012.Установка RSAT на Windows 10 1809
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Управление репликацией Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

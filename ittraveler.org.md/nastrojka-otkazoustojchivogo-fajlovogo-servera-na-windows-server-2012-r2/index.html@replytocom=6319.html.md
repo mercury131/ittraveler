@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Отключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

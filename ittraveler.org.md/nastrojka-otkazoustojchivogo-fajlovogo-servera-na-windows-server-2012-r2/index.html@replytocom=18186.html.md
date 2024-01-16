@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Назначение служб для сертификатов Exchange через Powershell.Переход на репликацию SYSVOL по DFS
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Восстановление объектов Active Directory: сборник сценариевОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

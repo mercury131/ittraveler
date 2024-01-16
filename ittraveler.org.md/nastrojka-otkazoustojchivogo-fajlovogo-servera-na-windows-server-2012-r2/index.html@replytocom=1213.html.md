@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Восстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка кластера MSSQL 2012.Перенос базы данных Active DirectoryОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

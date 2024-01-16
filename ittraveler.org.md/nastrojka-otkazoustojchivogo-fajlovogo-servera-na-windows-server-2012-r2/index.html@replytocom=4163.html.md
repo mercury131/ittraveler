@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Windows WSL подключение к сетевым шарамАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка RSAT на Windows 10 1809Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

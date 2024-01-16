@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиСоздание email рассылки через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание email рассылки через PowershellПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

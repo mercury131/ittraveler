@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлАудит изменений в Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Передача и захват ролей FSMOНастройка Kerberos авторизации в Apache2Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

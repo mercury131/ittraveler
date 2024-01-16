@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryВосстановление объектов Active Directory: сборник сценариевСоздание шаблонов Zabbix для Windows.
+Related posts:Создание пользователей Active Directory через CSV файлПеренос базы данных Active DirectoryНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУдаление Lync Server 2013Включение корзины Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереСоздание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

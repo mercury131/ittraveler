@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSСоздание индивидуальных адресных книг в Office 365 и Exchange onlineНовые компьютеры не появляются на WSUS сервере
+Related posts:Перенос базы данных Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

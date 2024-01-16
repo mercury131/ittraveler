@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматическая активация пользователей Lync через PowershellПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

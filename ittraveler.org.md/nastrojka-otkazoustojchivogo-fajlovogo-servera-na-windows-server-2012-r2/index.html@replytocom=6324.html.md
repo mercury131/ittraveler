@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Удаление Lync Server 2013
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАвтоматизируем бэкап баз данных MSSQL ExpressУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
