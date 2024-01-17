@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryНастройка Kerberos авторизации в Apache2Создание шаблонов Zabbix для Windows.
+Related posts:Управление репликацией Active DirectoryWindows WSL подключение к сетевым шарамАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
