@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание email рассылки через PowershellУстановка и настройка Lync 2013
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Подключение к Office 365 через Powershell и зашифрованный парольОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

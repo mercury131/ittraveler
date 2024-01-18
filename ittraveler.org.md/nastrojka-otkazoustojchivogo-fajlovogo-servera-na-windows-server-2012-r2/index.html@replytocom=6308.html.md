@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Lync 2013
+Related posts:Создание пользователей Active Directory через CSV файлПолучаем MD5 файла или переменной в PowershellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

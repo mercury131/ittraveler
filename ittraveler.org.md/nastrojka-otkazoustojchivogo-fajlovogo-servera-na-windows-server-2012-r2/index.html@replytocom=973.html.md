@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFS
+Related posts:Создание email рассылки через PowershellУстановка и настройка AnsibleОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

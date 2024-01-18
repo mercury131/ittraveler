@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

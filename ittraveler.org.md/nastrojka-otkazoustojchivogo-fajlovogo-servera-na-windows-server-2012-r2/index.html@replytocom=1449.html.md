@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSL
+Related posts:Перенос базы данных Active DirectoryWindows WSL подключение к сетевым шарамИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
