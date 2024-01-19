@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryWindows WSL подключение к сетевым шарамИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматическая активация пользователей Lync через PowershellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

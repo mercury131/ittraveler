@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectWindows WSL подключение к сетевым шарамАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПринудительная синхронизация Office 365 и локальной Active DirectoryСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

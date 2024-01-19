@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Добавление UPN суффикса в Active Directory
+Related posts:Установка и настройка Lync 2013Настройка HA кластера Hyper-VАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

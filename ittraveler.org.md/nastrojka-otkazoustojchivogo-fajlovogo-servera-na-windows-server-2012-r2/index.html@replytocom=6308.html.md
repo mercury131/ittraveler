@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлПолучаем MD5 файла или переменной в PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Перенос базы данных Active DirectoryУправление репликацией Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

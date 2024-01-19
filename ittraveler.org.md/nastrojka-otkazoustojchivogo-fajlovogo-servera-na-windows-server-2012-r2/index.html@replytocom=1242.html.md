@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellУдаление Lync Server 2013Управление репликацией Active Directory
+Related posts:Получаем MD5 файла или переменной в PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

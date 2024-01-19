@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Создание пользователей Active Directory через CSV файл
+Related posts:Передача и захват ролей FSMOБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

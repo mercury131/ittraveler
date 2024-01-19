@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Отключение Skype UI в Lync 2013Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Получаем MD5 файла или переменной в PowershellСоздание пользователей Active Directory через CSV файлWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

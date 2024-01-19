@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПодключение к Office 365 через Powershell и зашифрованный парольКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

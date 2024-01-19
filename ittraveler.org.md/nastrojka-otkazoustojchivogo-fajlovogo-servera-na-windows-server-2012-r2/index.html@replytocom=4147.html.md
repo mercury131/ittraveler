@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Аудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариевУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

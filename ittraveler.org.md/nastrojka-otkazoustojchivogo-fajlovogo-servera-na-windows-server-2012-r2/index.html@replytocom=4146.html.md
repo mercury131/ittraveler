@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка Ansible
+Related posts:Изменение UPN суффикса в Active Directory через PowershellСброс настроек GPO на стандартныеАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

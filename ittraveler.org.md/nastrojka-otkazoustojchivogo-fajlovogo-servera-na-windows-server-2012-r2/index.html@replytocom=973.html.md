@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУстановка и настройка AnsibleОтключение Skype UI в Lync 2013
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Сброс настроек GPO на стандартныеНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

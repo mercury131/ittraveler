@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Установка и настройка кластера MSSQL 2012.Переход на репликацию SYSVOL по DFSАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Переход на репликацию SYSVOL по DFSСброс пароля администратора Active Directory
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОбновление схемы Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПереход на репликацию SYSVOL по DFSУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
