@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамСброс пароля администратора Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание пользователей Active Directory через CSV файлУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

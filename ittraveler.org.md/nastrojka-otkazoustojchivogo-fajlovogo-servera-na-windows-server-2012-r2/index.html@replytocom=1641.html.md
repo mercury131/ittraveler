@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellУдаление Lync Server 2013Обновление Lync 2013 до Skype for Business
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка кластера MSSQL 2012.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

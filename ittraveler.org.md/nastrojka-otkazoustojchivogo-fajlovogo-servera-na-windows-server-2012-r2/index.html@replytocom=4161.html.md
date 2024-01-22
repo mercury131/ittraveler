@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Установка RSAT на Windows 10 1809Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

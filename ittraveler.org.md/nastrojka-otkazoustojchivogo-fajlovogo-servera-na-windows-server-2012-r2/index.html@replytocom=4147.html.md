@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Установка и настройка AnsibleПолучаем MD5 файла или переменной в Powershell
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Удаление Lync Server 2013Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

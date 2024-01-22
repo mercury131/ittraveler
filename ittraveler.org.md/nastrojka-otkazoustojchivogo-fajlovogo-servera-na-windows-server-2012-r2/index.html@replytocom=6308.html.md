@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка AlwaysOn на MS SQL 2016Обновление схемы Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

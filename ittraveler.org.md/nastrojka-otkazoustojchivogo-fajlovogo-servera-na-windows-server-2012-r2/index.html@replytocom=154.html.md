@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Перенос базы данных Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Принудительная синхронизация Office 365 и локальной Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Аудит изменений групповых политик через PowerShellActive Directory + Thunderbird = Общая адресная книгаОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

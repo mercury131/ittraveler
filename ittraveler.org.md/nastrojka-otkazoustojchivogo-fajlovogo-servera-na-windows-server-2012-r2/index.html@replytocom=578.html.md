@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Автоматический аудит компьютеров в Active Directory через powershell.Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Перенос базы данных Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

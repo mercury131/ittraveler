@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка HA кластера Hyper-VБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Создание шаблонов Zabbix для Windows.Решаем проблему внезапной блокировки учетной записиУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

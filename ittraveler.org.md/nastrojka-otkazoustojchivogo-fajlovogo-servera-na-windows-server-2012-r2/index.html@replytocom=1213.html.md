@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSАудит изменений в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Lync 2013
+Related posts:Изменение UPN суффикса в Active Directory через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

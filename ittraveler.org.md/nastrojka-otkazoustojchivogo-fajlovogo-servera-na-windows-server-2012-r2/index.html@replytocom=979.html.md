@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСброс пароля компьютера в домене без перезагрузкиЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Включение корзины Active DirectoryНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

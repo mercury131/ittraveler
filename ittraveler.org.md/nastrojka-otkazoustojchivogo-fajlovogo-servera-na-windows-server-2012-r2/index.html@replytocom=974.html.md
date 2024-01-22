@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOНастройка HA кластера Hyper-VУстановка и настройка кластера MSSQL 2012.
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСброс пароля компьютера в домене без перезагрузкиНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

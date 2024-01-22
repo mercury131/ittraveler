@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Автоматизируем бэкап баз данных MSSQL ExpressПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

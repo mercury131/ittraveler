@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryНастройка HA кластера Hyper-VНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxActive Directory + Thunderbird = Общая адресная книгаОбновление схемы Active Directory
+Related posts:Активируем LDAP over SSLПринудительная синхронизация контроллеров домена Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

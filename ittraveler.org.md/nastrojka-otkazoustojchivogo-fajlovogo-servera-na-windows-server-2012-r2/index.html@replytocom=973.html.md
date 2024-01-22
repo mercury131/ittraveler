@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка Lync 2013Обновление схемы Active Directory
+Related posts:Настройка HA кластера Hyper-VActive Directory + Thunderbird = Общая адресная книгаАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVНастройка растянутого кластера (stretch-cluster) на Windows server 2016Переход на репликацию SYSVOL по DFS
+Related posts:Установка RSAT на Windows 10 1809Автоматическая активация пользователей Lync через PowershellПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

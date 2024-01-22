@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Windows WSL подключение к сетевым шарам
+Related posts:Аудит изменений в Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

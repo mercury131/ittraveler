@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellСоздание email рассылки через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Передача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

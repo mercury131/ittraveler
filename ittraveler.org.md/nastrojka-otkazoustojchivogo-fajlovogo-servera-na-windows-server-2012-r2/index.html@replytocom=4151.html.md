@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка HA кластера Hyper-V
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСоздание индивидуальных адресных книг в Office 365 и Exchange onlineДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файлУстановка и настройка Lync 2013
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Отключение Skype UI в Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
