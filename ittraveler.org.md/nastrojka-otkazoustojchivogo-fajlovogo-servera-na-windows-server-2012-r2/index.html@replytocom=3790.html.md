@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Lync 2013
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Сброс пароля компьютера в домене без перезагрузкиУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

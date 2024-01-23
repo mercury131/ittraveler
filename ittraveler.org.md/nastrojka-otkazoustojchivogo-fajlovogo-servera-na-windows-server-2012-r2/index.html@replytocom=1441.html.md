@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеВключение корзины Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Аудит изменений в Active DirectoryНастройка Kerberos авторизации в Apache2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
