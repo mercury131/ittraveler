@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOИзменение UPN суффикса в Active Directory через PowershellАудит изменений групповых политик через PowerShell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУправление репликацией Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

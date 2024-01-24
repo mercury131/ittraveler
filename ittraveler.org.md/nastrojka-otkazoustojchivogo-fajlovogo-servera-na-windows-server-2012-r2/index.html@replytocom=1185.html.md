@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Решаем проблему внезапной блокировки учетной записиБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит незаполненных полей в Active Directory через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

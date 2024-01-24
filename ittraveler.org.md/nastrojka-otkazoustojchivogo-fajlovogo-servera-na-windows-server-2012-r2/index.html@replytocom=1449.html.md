@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Принудительная синхронизация контроллеров домена Active DirectoryОбновление схемы Active Directory
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений групповых политик через PowerShellАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

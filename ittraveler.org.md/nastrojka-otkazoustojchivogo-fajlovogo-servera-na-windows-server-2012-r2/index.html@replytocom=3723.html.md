@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит DNS серверов на Windows Server 2008 R2 через PowershellСброс пароля администратора Active Directory
+Related posts:Включение корзины Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

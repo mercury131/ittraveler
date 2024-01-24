@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереОбновление схемы Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Отключение Skype UI в Lync 2013Управление репликацией Active DirectoryДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

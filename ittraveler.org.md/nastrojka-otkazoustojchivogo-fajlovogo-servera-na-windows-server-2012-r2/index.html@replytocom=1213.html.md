@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление схемы Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка кластера MSSQL 2012.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСброс пароля компьютера в домене без перезагрузкиПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматическая активация пользователей Lync через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

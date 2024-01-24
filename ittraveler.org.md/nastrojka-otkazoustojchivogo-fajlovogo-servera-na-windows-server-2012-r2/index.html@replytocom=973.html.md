@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание шаблонов Zabbix для Windows.Windows WSL подключение к сетевым шарам
+Related posts:Установка и настройка кластера MSSQL 2012.Удаление Lync Server 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

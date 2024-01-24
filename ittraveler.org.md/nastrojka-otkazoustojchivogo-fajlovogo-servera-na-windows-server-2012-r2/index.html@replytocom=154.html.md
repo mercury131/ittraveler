@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамАудит незаполненных полей в Active Directory через PowershellАвтоматическая активация пользователей Lync через Powershell
+Related posts:Аудит изменений в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Автоматизируем бэкап баз данных MSSQL ExpressКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Добавление UPN суффикса в Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

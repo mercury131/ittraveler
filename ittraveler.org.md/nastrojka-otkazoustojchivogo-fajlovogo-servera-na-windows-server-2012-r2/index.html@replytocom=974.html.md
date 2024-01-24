@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка AnsibleОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Автоматическая активация пользователей Lync через PowershellУправление репликацией Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

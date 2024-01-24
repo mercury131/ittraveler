@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка Scale-Out File Server + Storage Spaces DirectУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

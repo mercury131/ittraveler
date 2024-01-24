@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс пароля компьютера в домене без перезагрузки
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Управление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

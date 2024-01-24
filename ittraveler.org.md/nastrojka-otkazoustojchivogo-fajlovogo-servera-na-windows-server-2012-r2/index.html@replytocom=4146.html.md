@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellВключение корзины Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Аудит незаполненных полей в Active Directory через PowershellВключение корзины Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

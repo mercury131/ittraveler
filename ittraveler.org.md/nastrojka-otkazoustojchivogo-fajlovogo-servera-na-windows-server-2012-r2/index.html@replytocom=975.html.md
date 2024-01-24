@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка кластера MSSQL 2012.Отключение Skype UI в Lync 2013
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTРешаем проблему внезапной блокировки учетной записиВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

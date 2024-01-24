@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessСоздание шаблонов Zabbix для Windows.Установка и настройка Lync 2013
+Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка AnsibleАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
