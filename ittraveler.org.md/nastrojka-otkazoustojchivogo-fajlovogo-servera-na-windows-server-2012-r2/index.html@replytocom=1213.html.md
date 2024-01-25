@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка кластера MSSQL 2012.Создание пользователей Active Directory через CSV файл
+Related posts:Автоматическая активация пользователей Lync через PowershellСоздание email рассылки через PowershellСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

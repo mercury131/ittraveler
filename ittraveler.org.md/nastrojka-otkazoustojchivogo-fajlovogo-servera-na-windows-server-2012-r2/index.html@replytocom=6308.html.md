@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка AnsibleАудит незаполненных полей в Active Directory через Powershell
+Related posts:Получаем MD5 файла или переменной в PowershellАктивируем LDAP over SSLУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

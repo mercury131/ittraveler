@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений групповых политик через PowerShellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Перенос базы данных Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

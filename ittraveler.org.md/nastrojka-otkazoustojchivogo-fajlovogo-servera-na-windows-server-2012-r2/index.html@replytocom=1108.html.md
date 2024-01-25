@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Управление репликацией Active DirectoryДобавление UPN суффикса в Active Directory
+Related posts:Переход на репликацию SYSVOL по DFSСоздание email рассылки через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

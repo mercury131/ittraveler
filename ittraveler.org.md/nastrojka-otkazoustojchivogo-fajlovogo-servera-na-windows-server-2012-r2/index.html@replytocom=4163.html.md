@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSПодключение к Office 365 через Powershell и зашифрованный парольПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Переход на репликацию SYSVOL по DFSОбновление схемы Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

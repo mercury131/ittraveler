@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Включение корзины Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка AlwaysOn на MS SQL 2016Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

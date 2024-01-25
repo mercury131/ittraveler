@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАвтоматический аудит компьютеров в Active Directory через powershell.Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПереход на репликацию SYSVOL по DFSУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

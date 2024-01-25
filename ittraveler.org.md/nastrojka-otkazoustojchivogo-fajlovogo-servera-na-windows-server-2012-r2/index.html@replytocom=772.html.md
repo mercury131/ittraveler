@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryНастройка HA кластера Hyper-VСоздание пользователей Active Directory через CSV файл
+Related posts:Изменение UPN суффикса в Active Directory через PowershellОбновление Lync 2013 до Skype for BusinessАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

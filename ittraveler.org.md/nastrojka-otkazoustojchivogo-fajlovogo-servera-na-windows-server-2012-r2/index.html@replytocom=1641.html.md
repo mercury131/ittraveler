@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Обновление Lync 2013 до Skype for BusinessЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

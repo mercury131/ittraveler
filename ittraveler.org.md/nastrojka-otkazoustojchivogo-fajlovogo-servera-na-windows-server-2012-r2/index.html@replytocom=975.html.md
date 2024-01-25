@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTРешаем проблему внезапной блокировки учетной записиВосстановление объектов Active Directory: сборник сценариев
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

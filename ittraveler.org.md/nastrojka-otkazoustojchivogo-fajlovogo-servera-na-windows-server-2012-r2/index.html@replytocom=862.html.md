@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка Lync 2013Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxДобавление UPN суффикса в Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

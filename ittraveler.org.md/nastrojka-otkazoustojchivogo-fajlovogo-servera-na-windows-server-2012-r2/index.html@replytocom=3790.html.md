@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Добавление UPN суффикса в Active Directory
+Related posts:Установка и настройка Lync 2013Передача и захват ролей FSMOУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

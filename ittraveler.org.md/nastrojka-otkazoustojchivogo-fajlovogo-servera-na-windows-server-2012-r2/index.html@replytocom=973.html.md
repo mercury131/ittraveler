@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Удаление Lync Server 2013Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Установка и настройка AlwaysOn на MS SQL 2016Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

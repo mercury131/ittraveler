@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellВключение корзины Active DirectoryПереход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПередача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Управление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
