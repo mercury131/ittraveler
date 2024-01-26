@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellСоздание email рассылки через PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Создание шаблонов Zabbix для Windows.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
