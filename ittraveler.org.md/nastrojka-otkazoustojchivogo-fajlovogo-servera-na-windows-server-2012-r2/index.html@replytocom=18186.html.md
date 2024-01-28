@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Настройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записиОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

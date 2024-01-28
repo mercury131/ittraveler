@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений групповых политик через PowerShellКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка кластера MSSQL 2012.Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Создание пользователей Active Directory через CSV файлАудит незаполненных полей в Active Directory через Powershell
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка RSAT на Windows 10 1809Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
