@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Active Directory + Thunderbird = Общая адресная книгаОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

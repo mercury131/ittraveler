@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Сброс пароля администратора Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Создание email рассылки через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

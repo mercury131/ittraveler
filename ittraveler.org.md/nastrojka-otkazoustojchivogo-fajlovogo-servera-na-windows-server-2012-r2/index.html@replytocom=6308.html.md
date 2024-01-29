@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевСоздание шаблонов Zabbix для Windows.Обновление Lync 2013 до Skype for Business
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Настройка HA кластера Hyper-VОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

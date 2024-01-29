@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellНастройка Kerberos авторизации в Apache2Аудит изменений в Active Directory
+Related posts:Сброс настроек GPO на стандартныеАвтоматизируем бэкап баз данных MSSQL ExpressКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

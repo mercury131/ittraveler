@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Обновление схемы Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

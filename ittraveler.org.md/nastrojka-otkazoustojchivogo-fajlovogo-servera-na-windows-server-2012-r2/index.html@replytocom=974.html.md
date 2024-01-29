@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка RSAT на Windows 10 1809Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Новые компьютеры не появляются на WSUS сервереОтключение Skype UI в Lync 2013Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

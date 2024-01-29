@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Автоматический аудит компьютеров в Active Directory через powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

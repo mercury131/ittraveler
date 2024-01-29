@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryВключение корзины Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНазначение служб для сертификатов Exchange через Powershell.Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

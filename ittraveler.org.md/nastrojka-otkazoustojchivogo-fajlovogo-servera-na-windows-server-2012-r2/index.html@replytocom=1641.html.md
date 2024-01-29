@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка кластера MSSQL 2012.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

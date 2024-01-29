@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлПеренос базы данных Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Создание шаблонов Zabbix для Windows.Установка RSAT на Windows 10 1809Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -55,7 +55,7 @@
 Готово! Теперь указанные клиенты могут подключаться к кластеру ISCSI. Для подключения нужно использовать dns имя кластера.
 Удачной установки!
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Scale-Out File Server + Storage Spaces DirectПеренос базы данных Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАктивируем LDAP over SSLПринудительная синхронизация Office 365 и локальной Active Directory
         
              Windows, Windows Server 
              Метки: Cluster, ISCSI, Windows Server  

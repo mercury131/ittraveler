@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУправление репликацией Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

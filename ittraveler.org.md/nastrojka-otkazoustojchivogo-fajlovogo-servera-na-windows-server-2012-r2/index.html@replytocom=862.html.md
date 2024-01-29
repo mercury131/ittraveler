@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryСброс настроек GPO на стандартныеВосстановление объектов Active Directory: сборник сценариев
+Related posts:Решаем проблему внезапной блокировки учетной записиПодключение к Office 365 через Powershell и зашифрованный парольАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

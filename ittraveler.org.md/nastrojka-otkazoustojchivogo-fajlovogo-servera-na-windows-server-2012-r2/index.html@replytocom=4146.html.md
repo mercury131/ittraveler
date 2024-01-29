@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVИзменение UPN суффикса в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Управление репликацией Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
