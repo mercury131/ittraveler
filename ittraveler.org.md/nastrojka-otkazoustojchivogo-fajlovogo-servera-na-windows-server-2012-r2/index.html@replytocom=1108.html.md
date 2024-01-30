@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит изменений в Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Настройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записиАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

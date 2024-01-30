@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessПереход на репликацию SYSVOL по DFSПеренос базы данных Active Directory
+Related posts:Активируем LDAP over SSLАвтоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

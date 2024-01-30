@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

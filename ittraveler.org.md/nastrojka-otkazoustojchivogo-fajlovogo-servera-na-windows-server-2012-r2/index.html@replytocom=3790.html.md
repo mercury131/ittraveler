@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleУстановка и настройка дедупликации  на Windows Server 2012 R2Сброс пароля компьютера в домене без перезагрузки
+Related posts:Создание email рассылки через PowershellПередача и захват ролей FSMOУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
