@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Принудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

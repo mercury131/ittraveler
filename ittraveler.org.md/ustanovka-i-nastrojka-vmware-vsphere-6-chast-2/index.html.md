@@ -115,7 +115,7 @@
 Проверяем настройки, и запускаем процесс создания виртуальной машины.
 На этом базовую настройку Vcenter можно считать законченной.
 В следующей статье мы рассмотрим настройку ha и многое другое.
-Related posts:QEMU/KVM проброс физического диска гипевизора в виртуальную машинуУстановка и настройка VMWare Vsphere 6. Часть 1.LVM переезд с диска на диск в виртуальной среде.
+Related posts:Настройка ZFS в ProxmoxУстановка и настройка Citrix XenServer Часть 4.QEMU/KVM проброс физического диска гипевизора в виртуальную машину
  Виртуализация 
  Метки: vmware, vsphere  
                         
@@ -214,7 +214,7 @@ data-ad-slot="9117958896"
 data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
   
-Все права защищены. IT Traveler 2023 
+Все права защищены. IT Traveler 2024 
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});

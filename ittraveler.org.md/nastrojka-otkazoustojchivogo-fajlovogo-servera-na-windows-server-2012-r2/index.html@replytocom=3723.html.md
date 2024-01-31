@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTВключение корзины Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Сброс настроек GPO на стандартныеСоздание шаблонов Zabbix для Windows.Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Подключение к Office 365 через Powershell и зашифрованный парольОбновление схемы Active Directory
+Related posts:Установка RSAT на Windows 10 1809Перенос базы данных Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

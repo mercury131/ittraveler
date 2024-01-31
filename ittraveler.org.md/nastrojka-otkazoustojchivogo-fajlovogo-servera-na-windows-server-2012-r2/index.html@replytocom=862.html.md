@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Новые компьютеры не появляются на WSUS сервереАктивируем LDAP over SSL
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Передача и захват ролей FSMOЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

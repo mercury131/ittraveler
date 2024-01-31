@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматический аудит компьютеров в Active Directory через powershell.Сброс настроек GPO на стандартные
+Related posts:Включение корзины Active DirectoryНовые компьютеры не появляются на WSUS сервереСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

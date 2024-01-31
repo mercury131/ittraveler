@@ -101,7 +101,7 @@
 Январь 2015
 Декабрь 2014
 Календарь
-Август 2023
+Январь 2024
 Пн
 Вт
 Ср
@@ -109,7 +109,6 @@
 Пт
 Сб
 Вс
-&nbsp;123456
 &nbsp;
 &laquo; Окт
 &nbsp;
@@ -137,7 +136,7 @@ Windows Server
 Сети
                  
 12»Вперед »  
-Все права защищены. IT Traveler 2023 
+Все права защищены. IT Traveler 2024 
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});

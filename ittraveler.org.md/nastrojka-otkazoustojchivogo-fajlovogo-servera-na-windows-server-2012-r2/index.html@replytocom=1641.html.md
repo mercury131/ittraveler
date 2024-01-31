@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеУдаление Lync Server 2013Добавление UPN суффикса в Active Directory
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Настройка Kerberos авторизации в Apache2Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

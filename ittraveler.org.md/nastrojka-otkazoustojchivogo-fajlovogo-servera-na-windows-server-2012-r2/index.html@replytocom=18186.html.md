@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка Kerberos авторизации в Apache2Включение корзины Active Directory
+Related posts:Сброс пароля администратора Active DirectoryУправление репликацией Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

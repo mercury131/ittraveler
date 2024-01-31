@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Установка и настройка Lync 2013Установка и настройка дедупликации  на Windows Server 2012 R2Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

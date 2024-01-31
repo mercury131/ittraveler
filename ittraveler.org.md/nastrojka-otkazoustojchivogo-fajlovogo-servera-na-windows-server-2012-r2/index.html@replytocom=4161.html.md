@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиАудит изменений групповых политик через PowerShellПеренос базы данных Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматизируем бэкап баз данных MSSQL ExpressУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Удаление Lync Server 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

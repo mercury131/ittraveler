@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Добавление почтовых контактов в Office 365 через Powershell и CSVСброс настроек GPO на стандартные
+Related posts:Настройка HA кластера Hyper-VАудит изменений в Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

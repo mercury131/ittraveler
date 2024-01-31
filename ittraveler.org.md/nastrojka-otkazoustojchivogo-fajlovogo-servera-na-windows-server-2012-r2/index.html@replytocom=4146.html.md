@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание пользователей Active Directory через CSV файлСоздание шаблонов Zabbix для Windows.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Active Directory + Thunderbird = Общая адресная книгаДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

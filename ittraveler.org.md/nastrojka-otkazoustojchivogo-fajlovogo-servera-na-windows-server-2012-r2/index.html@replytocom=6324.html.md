@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПереход на репликацию SYSVOL по DFSНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Включение корзины Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

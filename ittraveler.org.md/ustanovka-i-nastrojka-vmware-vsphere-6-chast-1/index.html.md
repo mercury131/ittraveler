@@ -62,7 +62,7 @@
 Теперь можно подключиться к VCENTER через браузер.
 После перехода по ссылке и авторизации, вы попадете в интерфейс Vcenter.
 В следующей статье мы рассмотрим базовую настройку Vcenter и хостов ESXI.
-Related posts:Установка и настройка VMWare Vsphere 6. Часть 4Настройка ZFS в ProxmoxQEMU/KVM проброс физического диска гипевизора в виртуальную машину
+Related posts:Vsphere. Поиск виртуальных машин с толстыми дискамиУстановка и настройка Citrix XenServer Часть 1.LVM Добавляем место на диске в виртуальной среде
  Виртуализация 
  Метки: vmware, vsphere  
                         
@@ -119,7 +119,7 @@ data-ad-slot="9117958896"
 data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
   
-Все права защищены. IT Traveler 2023 
+Все права защищены. IT Traveler 2024 
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});

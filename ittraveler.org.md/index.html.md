@@ -104,6 +104,7 @@ data-ad-slot="9117958896"
 data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
 Облако тегов
+  
 Active Directory
 adrestore
 Apache2
@@ -148,10 +149,10 @@ XenServer
 Резервное копирование
 Репликация
 веб сервера
-восстановление удаленных данных
+восстановление удаленных данных 
             
 123&hellip;13»Вперед »  
-Все права защищены. IT Traveler 2023 
+Все права защищены. IT Traveler 2024 
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});

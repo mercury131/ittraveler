@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Подключение к Office 365 через Powershell и зашифрованный парольАвтоматическая активация пользователей Lync через Powershell
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

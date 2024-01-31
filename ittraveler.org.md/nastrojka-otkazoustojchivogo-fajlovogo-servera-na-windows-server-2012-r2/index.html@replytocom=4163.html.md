@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАудит изменений групповых политик через PowerShellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

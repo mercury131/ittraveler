@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Передача и захват ролей FSMOОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
