@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Изменение UPN суффикса в Active Directory через PowershellПереход на репликацию SYSVOL по DFS
+Related posts:Активируем LDAP over SSLПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

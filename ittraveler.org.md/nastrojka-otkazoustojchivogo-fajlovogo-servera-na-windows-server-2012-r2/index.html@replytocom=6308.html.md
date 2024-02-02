@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Передача и захват ролей FSMOПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Автоматическая активация пользователей Lync через PowershellПоиск старых почтовых ящиков в Exchange 2010Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryНастройка Kerberos авторизации в Apache2Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

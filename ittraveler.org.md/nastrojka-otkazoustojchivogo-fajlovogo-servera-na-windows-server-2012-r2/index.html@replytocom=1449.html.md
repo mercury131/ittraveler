@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellУправление репликацией Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Удаление Lync Server 2013Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Аудит DNS серверов на Windows Server 2008 R2 через PowershellСоздание пользователей Active Directory через CSV файл
+Related posts:Аудит изменений в Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
