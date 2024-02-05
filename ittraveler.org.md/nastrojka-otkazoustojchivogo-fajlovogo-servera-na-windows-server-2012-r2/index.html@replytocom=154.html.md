@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VСброс пароля администратора Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryДобавление UPN суффикса в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

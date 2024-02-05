@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПолучаем MD5 файла или переменной в PowershellУстановка RSAT на Windows 10 1809
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание email рассылки через PowershellВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

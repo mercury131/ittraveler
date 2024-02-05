@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка Lync 2013Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Сброс пароля компьютера в домене без перезагрузкиWindows WSL подключение к сетевым шарамАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

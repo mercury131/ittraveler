@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПоиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMO
+Related posts:Аудит изменений в Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит изменений в Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСброс пароля администратора Active DirectoryАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

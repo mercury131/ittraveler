@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Установка и настройка Ansible
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка HA кластера Hyper-VОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013Получаем MD5 файла или переменной в Powershell
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание шаблонов Zabbix для Windows.Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

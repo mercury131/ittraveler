@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание пользователей Active Directory через CSV файлАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс пароля администратора Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

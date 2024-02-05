@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Создание шаблонов Zabbix для Windows.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Включение корзины Active DirectoryПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

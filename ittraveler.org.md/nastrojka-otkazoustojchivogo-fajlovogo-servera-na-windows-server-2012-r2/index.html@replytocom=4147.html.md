@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryНастройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание пользователей Active Directory через CSV файлActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryОбновление Lync 2013 до Skype for BusinessЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Включение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

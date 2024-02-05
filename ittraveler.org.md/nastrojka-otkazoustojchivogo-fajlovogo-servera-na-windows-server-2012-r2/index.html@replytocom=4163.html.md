@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАктивируем LDAP over SSLЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание пользователей Active Directory через CSV файлПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

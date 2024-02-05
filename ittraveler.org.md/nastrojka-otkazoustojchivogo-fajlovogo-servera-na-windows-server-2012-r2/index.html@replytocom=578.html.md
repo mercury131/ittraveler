@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Восстановление объектов Active Directory: сборник сценариевОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

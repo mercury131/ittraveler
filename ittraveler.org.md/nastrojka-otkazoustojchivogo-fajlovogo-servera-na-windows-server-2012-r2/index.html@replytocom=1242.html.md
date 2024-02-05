@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxОбновление схемы Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryПереход на репликацию SYSVOL по DFSАктивируем LDAP over SSL
+Related posts:Восстановление объектов Active Directory: сборник сценариевУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

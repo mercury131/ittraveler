@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Сброс пароля администратора Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Установка RSAT на Windows 10 1809Сброс настроек GPO на стандартныеНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

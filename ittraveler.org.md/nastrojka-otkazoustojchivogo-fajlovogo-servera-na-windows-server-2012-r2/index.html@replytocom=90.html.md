@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматизируем бэкап баз данных MSSQL ExpressАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
