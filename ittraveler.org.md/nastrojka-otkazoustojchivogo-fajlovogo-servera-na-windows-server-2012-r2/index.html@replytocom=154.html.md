@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellСоздание email рассылки через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка AnsibleПеренос базы данных Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

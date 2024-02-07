@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellАудит изменений групповых политик через PowerShellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Windows WSL подключение к сетевым шарамДобавление UPN суффикса в Active DirectoryНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
