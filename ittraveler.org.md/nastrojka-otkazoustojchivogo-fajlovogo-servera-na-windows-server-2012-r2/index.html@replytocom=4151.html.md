@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Удаление Lync Server 2013Создание шаблонов Zabbix для Windows.
+Related posts:Установка и настройка AnsibleАвтоматизируем бэкап баз данных MSSQL ExpressWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

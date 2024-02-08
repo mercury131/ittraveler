@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеВключение корзины Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Установка RSAT на Windows 10 1809Аудит изменений в Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
