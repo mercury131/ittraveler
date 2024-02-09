@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАктивируем LDAP over SSLАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс пароля администратора Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

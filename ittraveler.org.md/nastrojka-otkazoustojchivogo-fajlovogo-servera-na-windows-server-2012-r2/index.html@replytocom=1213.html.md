@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Сброс пароля компьютера в домене без перезагрузкиОбновление Lync 2013 до Skype for Business
+Related posts:Windows WSL подключение к сетевым шарамНастройка Kerberos авторизации в Apache2Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
