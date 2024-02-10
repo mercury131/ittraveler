@@ -100,7 +100,7 @@
 Январь 2015
 Декабрь 2014
 Календарь
-Январь 2022
+Февраль 2024
 Пн
 Вт
 Ср
@@ -108,7 +108,7 @@
 Пт
 Сб
 Вс
-&nbsp;12
+&nbsp;1234
 &nbsp;
 &laquo; Окт
 &nbsp;
@@ -136,7 +136,7 @@ Windows Server
 Сети
                  
 1234»Вперед »  
-Все права защищены. IT Traveler 2022 
+Все права защищены. IT Traveler 2024 
                             
 jQuery(document).ready(function($){
 $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
