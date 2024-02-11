@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Аудит незаполненных полей в Active Directory через PowershellУправление репликацией Active Directory
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка RSAT на Windows 10 1809Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

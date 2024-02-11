@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Обновление Lync 2013 до Skype for BusinessСброс пароля администратора Active Directory
+Related posts:Передача и захват ролей FSMOУправление репликацией Active DirectoryНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

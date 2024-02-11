@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартные
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

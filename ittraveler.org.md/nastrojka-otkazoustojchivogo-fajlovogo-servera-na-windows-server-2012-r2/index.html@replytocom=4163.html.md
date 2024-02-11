@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНастройка Kerberos авторизации в Apache2Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleУстановка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.
+Related posts:Отключение Skype UI в Lync 2013Активируем LDAP over SSLПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

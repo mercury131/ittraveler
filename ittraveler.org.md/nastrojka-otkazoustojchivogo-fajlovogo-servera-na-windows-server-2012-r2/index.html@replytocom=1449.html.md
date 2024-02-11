@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеАудит доменных служб Active Directory в Windows Server 2008 R2Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка RSAT на Windows 10 1809Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Перенос базы данных Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Переход на репликацию SYSVOL по DFSАудит незаполненных полей в Active Directory через PowershellУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

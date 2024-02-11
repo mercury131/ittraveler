@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Создание email рассылки через PowershellСброс пароля администратора Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереАвтоматический аудит компьютеров в Active Directory через powershell.Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
