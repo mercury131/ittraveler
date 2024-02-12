@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПередача и захват ролей FSMOПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка RSAT на Windows 10 1809Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Решаем проблему внезапной блокировки учетной записиАудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

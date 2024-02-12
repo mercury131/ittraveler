@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка AnsibleСброс настроек GPO на стандартные
+Related posts:Перенос базы данных Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Создание пользователей Active Directory через CSV файлУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Active Directory + Thunderbird = Общая адресная книгаНовые компьютеры не появляются на WSUS сервереВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

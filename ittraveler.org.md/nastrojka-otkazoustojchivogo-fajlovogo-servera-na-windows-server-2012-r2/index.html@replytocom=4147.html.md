@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Принудительная синхронизация Office 365 и локальной Active DirectoryСброс настроек GPO на стандартные
+Related posts:Отключение Skype UI в Lync 2013Принудительная синхронизация контроллеров домена Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

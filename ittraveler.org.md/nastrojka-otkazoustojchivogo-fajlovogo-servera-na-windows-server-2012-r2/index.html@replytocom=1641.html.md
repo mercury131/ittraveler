@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Восстановление объектов Active Directory: сборник сценариев
+Related posts:Новые компьютеры не появляются на WSUS сервереУправление репликацией Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
