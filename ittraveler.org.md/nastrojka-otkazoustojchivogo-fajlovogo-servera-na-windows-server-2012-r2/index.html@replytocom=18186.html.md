@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПередача и захват ролей FSMOПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTВосстановление объектов Active Directory: сборник сценариевСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

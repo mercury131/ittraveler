@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаНовые компьютеры не появляются на WSUS сервереВосстановление объектов Active Directory: сборник сценариев
+Related posts:Передача и захват ролей FSMOПеренос базы данных Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

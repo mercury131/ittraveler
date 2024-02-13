@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСброс настроек GPO на стандартныеПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Новые компьютеры не появляются на WSUS сервереСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

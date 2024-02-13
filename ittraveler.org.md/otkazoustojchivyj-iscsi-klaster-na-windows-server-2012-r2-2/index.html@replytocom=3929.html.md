@@ -55,7 +55,7 @@
 Готово! Теперь указанные клиенты могут подключаться к кластеру ISCSI. Для подключения нужно использовать dns имя кластера.
 Удачной установки!
  
-Related posts:Установка и настройка Lync 2013Установка RSAT на Windows 10 1809Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectНастройка отказоустойчивого файлового сервера на Windows Server 2012 R2Установка RSAT на Windows 10 1809
         
              Windows, Windows Server 
              Метки: Cluster, ISCSI, Windows Server  

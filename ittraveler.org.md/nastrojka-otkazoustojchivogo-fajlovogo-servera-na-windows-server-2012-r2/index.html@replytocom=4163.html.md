@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryОбновление Lync 2013 до Skype for BusinessWindows WSL подключение к сетевым шарам
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Получаем MD5 файла или переменной в PowershellВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

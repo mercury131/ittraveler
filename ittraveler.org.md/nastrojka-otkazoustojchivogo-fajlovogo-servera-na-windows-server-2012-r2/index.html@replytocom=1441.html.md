@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Управление репликацией Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Получаем MD5 файла или переменной в PowershellСброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

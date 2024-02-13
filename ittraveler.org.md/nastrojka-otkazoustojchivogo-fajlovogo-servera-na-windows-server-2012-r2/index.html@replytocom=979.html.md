@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка дедупликации  на Windows Server 2012 R2Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Обновление схемы Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

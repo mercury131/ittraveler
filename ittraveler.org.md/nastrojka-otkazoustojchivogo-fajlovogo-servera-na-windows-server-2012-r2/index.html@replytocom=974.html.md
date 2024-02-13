@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

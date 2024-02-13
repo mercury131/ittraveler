@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиАудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Обновление схемы Active DirectoryУдаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
