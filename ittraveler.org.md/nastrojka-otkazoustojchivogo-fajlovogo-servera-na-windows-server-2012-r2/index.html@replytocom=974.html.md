@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольДобавление почтовых контактов в Office 365 через Powershell и CSVАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Удаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Передача и захват ролей FSMOАудит доменных служб Active Directory в Windows Server 2008 R2Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

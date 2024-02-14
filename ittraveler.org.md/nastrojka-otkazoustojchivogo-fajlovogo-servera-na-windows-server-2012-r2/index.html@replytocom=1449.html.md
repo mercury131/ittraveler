@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleСоздание пользователей Active Directory через CSV файлActive Directory + Thunderbird = Общая адресная книга
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Отключение Skype UI в Lync 2013Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Создание пользователей Active Directory через CSV файлСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

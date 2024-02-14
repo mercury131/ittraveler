@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматическая активация пользователей Lync через Powershell
+Related posts:Управление репликацией Active DirectoryОтключение Skype UI в Lync 2013Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

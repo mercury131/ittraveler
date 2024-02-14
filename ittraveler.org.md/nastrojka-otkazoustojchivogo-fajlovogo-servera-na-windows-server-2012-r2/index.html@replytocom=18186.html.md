@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTВосстановление объектов Active Directory: сборник сценариевСоздание шаблонов Zabbix для Windows.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПереход на репликацию SYSVOL по DFSКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

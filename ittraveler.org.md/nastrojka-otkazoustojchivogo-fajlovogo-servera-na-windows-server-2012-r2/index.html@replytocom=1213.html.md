@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryУдаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Новые компьютеры не появляются на WSUS сервереПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

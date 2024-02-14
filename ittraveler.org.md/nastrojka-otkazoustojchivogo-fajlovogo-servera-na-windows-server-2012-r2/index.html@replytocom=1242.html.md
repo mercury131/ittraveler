@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VПередача и захват ролей FSMOОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Перенос базы данных Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

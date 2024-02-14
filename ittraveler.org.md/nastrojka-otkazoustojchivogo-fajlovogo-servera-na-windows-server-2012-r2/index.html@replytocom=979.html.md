@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит изменений в Active Directory
+Related posts:Решаем проблему внезапной блокировки учетной записиПринудительная синхронизация Office 365 и локальной Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

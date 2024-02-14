@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Создание email рассылки через PowershellУстановка RSAT на Windows 10 1809
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Поиск старых почтовых ящиков в Exchange 2010Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

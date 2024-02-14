@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереПеренос базы данных Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание шаблонов Zabbix для Windows.Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

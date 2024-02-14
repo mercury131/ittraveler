@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Создание пользователей Active Directory через CSV файлВосстановление объектов Active Directory: сборник сценариев
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

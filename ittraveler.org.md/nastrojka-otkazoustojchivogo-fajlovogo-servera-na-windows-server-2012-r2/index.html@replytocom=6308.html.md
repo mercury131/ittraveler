@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessНастройка Kerberos авторизации в Apache2Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Добавление почтовых контактов в Office 365 через Powershell и CSVWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

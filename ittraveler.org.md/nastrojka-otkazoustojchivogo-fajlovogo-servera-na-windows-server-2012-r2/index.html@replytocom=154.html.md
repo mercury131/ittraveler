@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Обновление схемы Active Directory
+Related posts:Создание email рассылки через PowershellПринудительная синхронизация контроллеров домена Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
