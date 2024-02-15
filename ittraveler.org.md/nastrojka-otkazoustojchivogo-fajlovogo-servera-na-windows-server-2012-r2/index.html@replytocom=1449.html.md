@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Отключение Skype UI в Lync 2013Аудит изменений в Active Directory
+Related posts:Удаление Lync Server 2013Активируем LDAP over SSLИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

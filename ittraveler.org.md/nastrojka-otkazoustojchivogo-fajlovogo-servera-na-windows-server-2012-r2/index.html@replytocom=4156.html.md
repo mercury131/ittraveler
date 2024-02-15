@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOАудит доменных служб Active Directory в Windows Server 2008 R2Обновление схемы Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка Lync 2013Подключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
