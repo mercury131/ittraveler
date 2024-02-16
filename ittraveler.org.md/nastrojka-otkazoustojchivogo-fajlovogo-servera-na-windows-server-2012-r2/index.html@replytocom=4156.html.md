@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка Lync 2013Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

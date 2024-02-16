@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Активируем LDAP over SSLСброс пароля компьютера в домене без перезагрузки
+Related posts:Передача и захват ролей FSMOПолучаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
