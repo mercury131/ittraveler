@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxРешаем проблему внезапной блокировки учетной записи
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Восстановление объектов Active Directory: сборник сценариевИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

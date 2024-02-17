@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка AlwaysOn на MS SQL 2016Отключение Skype UI в Lync 2013
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

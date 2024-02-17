@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Подключение к Office 365 через Powershell и зашифрованный парольНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Windows WSL подключение к сетевым шарамПереход на репликацию SYSVOL по DFSБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

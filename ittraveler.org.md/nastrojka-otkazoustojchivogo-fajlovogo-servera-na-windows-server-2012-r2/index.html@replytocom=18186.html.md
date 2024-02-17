@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Установка RSAT на Windows 10 1809Аудит DNS серверов на Windows Server 2008 R2 через PowershellИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

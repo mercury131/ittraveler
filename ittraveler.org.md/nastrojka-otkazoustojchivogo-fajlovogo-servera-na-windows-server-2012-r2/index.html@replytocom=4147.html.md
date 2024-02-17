@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOПолучаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

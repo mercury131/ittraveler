@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Ansible
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка AnsibleПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
