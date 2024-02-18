@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessУстановка и настройка AlwaysOn на MS SQL 2016Добавление UPN суффикса в Active Directory
+Related posts:Удаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книгаАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

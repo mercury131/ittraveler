@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление UPN суффикса в Active Directory
+Related posts:Передача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

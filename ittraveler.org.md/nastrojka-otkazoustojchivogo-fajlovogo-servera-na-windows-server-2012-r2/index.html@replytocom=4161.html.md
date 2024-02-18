@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

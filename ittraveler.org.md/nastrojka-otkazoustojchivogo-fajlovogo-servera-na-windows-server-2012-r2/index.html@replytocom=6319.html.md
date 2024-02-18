@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Принудительная синхронизация контроллеров домена Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Обновление Lync 2013 до Skype for BusinessУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

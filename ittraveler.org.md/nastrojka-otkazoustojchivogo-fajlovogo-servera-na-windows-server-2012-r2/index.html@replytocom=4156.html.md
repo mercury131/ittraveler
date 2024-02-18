@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Управление репликацией Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание пользователей Active Directory через CSV файлПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

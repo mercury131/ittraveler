@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Перенос базы данных Active DirectoryСоздание email рассылки через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

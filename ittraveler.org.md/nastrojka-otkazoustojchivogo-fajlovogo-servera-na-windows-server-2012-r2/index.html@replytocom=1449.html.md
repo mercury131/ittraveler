@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Добавление UPN суффикса в Active DirectoryУстановка RSAT на Windows 10 1809Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

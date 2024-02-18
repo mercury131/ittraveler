@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка RSAT на Windows 10 1809
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПринудительная синхронизация Office 365 и локальной Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

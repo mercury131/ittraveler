@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Active Directory + Thunderbird = Общая адресная книгаВключение корзины Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

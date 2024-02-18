@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка HA кластера Hyper-V
+Related posts:Установка и настройка AnsibleНовые компьютеры не появляются на WSUS сервереНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

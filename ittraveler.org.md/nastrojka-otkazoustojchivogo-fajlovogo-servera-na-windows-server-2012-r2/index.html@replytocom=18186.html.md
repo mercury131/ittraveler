@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Аудит DNS серверов на Windows Server 2008 R2 через PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Windows WSL подключение к сетевым шарамНовые компьютеры не появляются на WSUS сервереАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

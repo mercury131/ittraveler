@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамНастройка растянутого кластера (stretch-cluster) на Windows server 2016Восстановление объектов Active Directory: сборник сценариев
+Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка AnsibleАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

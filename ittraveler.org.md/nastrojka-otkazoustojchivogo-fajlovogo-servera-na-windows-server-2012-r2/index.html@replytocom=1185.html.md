@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryДобавление UPN суффикса в Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание пользователей Active Directory через CSV файлСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

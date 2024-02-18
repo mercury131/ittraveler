@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка AnsibleПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Передача и захват ролей FSMOАудит изменений в Active DirectoryАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

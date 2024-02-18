@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxВключение корзины Active DirectoryУдаление Lync Server 2013
+Related posts:Обновление Lync 2013 до Skype for BusinessОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Включение корзины Active Directory
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Передача и захват ролей FSMOНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
