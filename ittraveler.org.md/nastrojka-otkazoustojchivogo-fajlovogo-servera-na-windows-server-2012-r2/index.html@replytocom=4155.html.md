@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.Перенос базы данных Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleНовые компьютеры не появляются на WSUS сервереНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Установка RSAT на Windows 10 1809Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

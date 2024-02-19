@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Решаем проблему внезапной блокировки учетной записи
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка AlwaysOn на MS SQL 2016Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

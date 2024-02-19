@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание пользователей Active Directory через CSV файл
+Related posts:Сброс настроек GPO на стандартныеСоздание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

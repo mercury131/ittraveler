@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка RSAT на Windows 10 1809Обновление схемы Active Directory
+Related posts:Настройка HA кластера Hyper-VСоздание пользователей Active Directory через CSV файлАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

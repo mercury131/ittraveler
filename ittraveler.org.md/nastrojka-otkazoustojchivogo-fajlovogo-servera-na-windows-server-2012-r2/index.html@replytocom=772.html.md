@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Новые компьютеры не появляются на WSUS сервереПринудительная синхронизация Office 365 и локальной Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

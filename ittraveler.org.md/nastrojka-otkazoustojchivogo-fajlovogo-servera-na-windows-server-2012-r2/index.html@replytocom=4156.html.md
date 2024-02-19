@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание пользователей Active Directory через CSV файлПеренос базы данных Active Directory
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Windows WSL подключение к сетевым шарамАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

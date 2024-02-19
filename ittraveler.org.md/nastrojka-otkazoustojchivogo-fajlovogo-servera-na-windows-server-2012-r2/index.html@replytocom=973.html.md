@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлНовые компьютеры не появляются на WSUS сервереАудит изменений в Active Directory
+Related posts:Настройка Kerberos авторизации в Apache2Получаем MD5 файла или переменной в PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

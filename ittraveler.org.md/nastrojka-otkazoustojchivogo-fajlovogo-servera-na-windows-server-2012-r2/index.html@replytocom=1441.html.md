@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Отключение Skype UI в Lync 2013Установка RSAT на Windows 10 1809Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

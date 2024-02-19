@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит DNS серверов на Windows Server 2008 R2 через PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Сброс настроек GPO на стандартныеПолучаем MD5 файла или переменной в PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

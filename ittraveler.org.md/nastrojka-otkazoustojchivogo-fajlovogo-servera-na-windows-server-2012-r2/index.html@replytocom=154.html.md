@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Включение корзины Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Настройка HA кластера Hyper-VЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

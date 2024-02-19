@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка AnsibleАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Получаем MD5 файла или переменной в PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

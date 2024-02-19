@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxWindows WSL подключение к сетевым шарам
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

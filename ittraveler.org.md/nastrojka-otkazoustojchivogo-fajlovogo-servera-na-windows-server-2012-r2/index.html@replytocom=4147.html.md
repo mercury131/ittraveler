@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryСоздание email рассылки через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Сброс настроек GPO на стандартныеЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

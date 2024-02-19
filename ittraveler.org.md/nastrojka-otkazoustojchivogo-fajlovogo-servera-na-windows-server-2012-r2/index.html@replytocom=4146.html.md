@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Новые компьютеры не появляются на WSUS сервереРешаем проблему внезапной блокировки учетной записиПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Отключение Skype UI в Lync 2013Аудит изменений в Active Directory
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Active Directory + Thunderbird = Общая адресная книгаСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

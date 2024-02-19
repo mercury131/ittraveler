@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Создание пользователей Active Directory через CSV файл
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

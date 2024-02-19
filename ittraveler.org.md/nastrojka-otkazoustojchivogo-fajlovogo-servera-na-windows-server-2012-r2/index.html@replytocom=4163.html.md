@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книгаАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Отключение Skype UI в Lync 2013Добавление UPN суффикса в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
