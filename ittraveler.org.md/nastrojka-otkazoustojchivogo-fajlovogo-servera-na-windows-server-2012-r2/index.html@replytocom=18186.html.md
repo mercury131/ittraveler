@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Восстановление объектов Active Directory: сборник сценариевПередача и захват ролей FSMO
+Related posts:Установка и настройка Lync 2013Windows WSL подключение к сетевым шарамОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

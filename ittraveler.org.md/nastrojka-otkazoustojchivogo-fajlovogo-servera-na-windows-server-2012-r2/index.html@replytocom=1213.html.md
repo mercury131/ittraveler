@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Lync 2013
+Related posts:Сброс настроек GPO на стандартныеНовые компьютеры не появляются на WSUS сервереУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

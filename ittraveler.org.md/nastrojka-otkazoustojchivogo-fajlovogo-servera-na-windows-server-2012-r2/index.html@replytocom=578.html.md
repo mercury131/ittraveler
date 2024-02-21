@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleСброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
