@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка AnsibleСброс пароля компьютера в домене без перезагрузки
+Related posts:Аудит изменений групповых политик через PowerShellWindows WSL подключение к сетевым шарамНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
