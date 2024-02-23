@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryПеренос базы данных Active DirectoryПередача и захват ролей FSMO
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка AnsibleКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
