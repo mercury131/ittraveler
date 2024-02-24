@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessУстановка и настройка Lync 2013Перенос базы данных Active Directory
+Related posts:Обновление Lync 2013 до Skype for BusinessПоиск старых почтовых ящиков в Exchange 2010Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

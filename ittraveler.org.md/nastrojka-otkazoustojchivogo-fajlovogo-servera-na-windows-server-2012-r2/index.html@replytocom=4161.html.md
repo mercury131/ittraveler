@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Сброс пароля администратора Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

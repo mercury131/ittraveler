@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматическая активация пользователей Lync через Powershell
+Related posts:Установка и настройка Lync 2013Аудит изменений групповых политик через PowerShellWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

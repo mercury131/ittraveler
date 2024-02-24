@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Назначение служб для сертификатов Exchange через Powershell.Установка и настройка кластера MSSQL 2012.
+Related posts:Передача и захват ролей FSMOАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

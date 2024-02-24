@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание шаблонов Zabbix для Windows.Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Аудит изменений в Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

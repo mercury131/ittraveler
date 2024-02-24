@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание шаблонов Zabbix для Windows.Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

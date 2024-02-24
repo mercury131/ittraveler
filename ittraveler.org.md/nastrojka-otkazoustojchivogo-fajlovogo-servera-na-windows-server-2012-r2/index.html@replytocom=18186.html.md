@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереПоиск старых почтовых ящиков в Exchange 2010Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Настройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере ProxmoxПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

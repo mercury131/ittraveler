@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSАудит незаполненных полей в Active Directory через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание шаблонов Zabbix для Windows.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

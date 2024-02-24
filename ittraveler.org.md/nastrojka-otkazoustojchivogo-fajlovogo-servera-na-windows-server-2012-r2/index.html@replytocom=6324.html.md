@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка AlwaysOn на MS SQL 2016Установка RSAT на Windows 10 1809
+Related posts:Новые компьютеры не появляются на WSUS сервереНастройка HA кластера Hyper-VАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

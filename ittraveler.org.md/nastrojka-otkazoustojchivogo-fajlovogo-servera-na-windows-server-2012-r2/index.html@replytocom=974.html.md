@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка кластера MSSQL 2012.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Управление репликацией Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

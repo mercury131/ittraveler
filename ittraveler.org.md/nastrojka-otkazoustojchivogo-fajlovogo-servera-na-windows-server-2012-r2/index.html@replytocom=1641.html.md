@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Установка RSAT на Windows 10 1809Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

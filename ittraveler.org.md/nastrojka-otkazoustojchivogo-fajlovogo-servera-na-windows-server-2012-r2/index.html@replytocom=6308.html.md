@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАудит незаполненных полей в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит незаполненных полей в Active Directory через PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

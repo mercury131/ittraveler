@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Добавление UPN суффикса в Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Сброс настроек GPO на стандартныеПоиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

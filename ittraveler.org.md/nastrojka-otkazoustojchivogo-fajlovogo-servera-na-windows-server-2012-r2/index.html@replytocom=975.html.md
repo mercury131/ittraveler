@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Аудит изменений в Active DirectoryВключение корзины Active Directory
+Related posts:Настройка Kerberos авторизации в Apache2Сброс настроек GPO на стандартныеПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

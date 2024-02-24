@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка Lync 2013
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание шаблонов Zabbix для Windows.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

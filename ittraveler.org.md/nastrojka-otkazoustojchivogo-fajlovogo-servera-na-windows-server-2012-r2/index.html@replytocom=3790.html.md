@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Новые компьютеры не появляются на WSUS сервереПереход на репликацию SYSVOL по DFS
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

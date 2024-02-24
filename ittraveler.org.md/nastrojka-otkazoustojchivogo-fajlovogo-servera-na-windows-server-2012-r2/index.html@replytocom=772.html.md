@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка HA кластера Hyper-V
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка RSAT на Windows 10 1809Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

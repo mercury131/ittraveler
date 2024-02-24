@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Обновление Lync 2013 до Skype for BusinessСоздание индивидуальных адресных книг в Office 365 и Exchange onlineПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
