@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellАудит незаполненных полей в Active Directory через PowershellПеренос базы данных Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryОтключение Skype UI в Lync 2013Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

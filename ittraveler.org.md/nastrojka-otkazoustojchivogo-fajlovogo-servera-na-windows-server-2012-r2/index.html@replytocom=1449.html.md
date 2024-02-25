@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПоиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013
+Related posts:Аудит незаполненных полей в Active Directory через PowershellВключение корзины Active DirectoryПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

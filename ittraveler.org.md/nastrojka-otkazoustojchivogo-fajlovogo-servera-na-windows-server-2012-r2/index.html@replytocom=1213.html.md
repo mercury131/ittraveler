@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание шаблонов Zabbix для Windows.Windows WSL подключение к сетевым шарам
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка дедупликации  на Windows Server 2012 R2Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

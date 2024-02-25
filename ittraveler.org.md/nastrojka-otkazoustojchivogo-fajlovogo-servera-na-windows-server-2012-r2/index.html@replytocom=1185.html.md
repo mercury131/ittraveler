@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessПоиск старых почтовых ящиков в Exchange 2010Установка и настройка кластера MSSQL 2012.
+Related posts:Настройка Kerberos авторизации в Apache2Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
