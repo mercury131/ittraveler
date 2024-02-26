@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка AnsibleАвтоматическая активация пользователей Lync через Powershell
+Related posts:Обновление схемы Active DirectoryНастройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

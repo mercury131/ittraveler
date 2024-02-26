@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлПереход на репликацию SYSVOL по DFSWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

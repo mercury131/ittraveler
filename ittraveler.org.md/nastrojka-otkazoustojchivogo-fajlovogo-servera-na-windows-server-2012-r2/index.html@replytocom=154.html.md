@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Новые компьютеры не появляются на WSUS сервереУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСоздание шаблонов Zabbix для Windows.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

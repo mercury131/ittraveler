@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryСброс настроек GPO на стандартныеАвтоматическая активация пользователей Lync через Powershell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

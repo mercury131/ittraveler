@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectНастройка HA кластера Hyper-VСброс пароля компьютера в домене без перезагрузки
+Related posts:Передача и захват ролей FSMOВключение корзины Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectДобавление UPN суффикса в Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Перенос базы данных Active DirectoryWindows WSL подключение к сетевым шарамУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

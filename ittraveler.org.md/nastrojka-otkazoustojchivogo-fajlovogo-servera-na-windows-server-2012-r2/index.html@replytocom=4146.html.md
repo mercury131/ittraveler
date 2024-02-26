@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryОтключение Skype UI в Lync 2013Создание шаблонов Zabbix для Windows.
+Related posts:Создание email рассылки через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellВключение корзины Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Передача и захват ролей FSMOОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

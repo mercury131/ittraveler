@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка RSAT на Windows 10 1809
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНовые компьютеры не появляются на WSUS сервереСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

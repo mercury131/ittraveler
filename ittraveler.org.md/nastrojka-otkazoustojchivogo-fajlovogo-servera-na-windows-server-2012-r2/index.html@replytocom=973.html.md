@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматизируем бэкап баз данных MSSQL ExpressПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Настройка HA кластера Hyper-VАвтоматическая активация пользователей Lync через PowershellНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

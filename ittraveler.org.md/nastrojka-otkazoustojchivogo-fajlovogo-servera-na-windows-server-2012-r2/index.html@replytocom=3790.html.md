@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Active Directory + Thunderbird = Общая адресная книга
+Related posts:Отключение Skype UI в Lync 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
