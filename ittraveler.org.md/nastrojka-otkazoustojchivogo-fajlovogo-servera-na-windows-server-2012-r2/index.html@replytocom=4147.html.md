@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСброс пароля компьютера в домене без перезагрузкиУдаление Lync Server 2013
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс настроек GPO на стандартныеАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

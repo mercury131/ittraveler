@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VАвтоматическая активация пользователей Lync через PowershellНастройка Kerberos авторизации в Apache2
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Изменение UPN суффикса в Active Directory через PowershellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

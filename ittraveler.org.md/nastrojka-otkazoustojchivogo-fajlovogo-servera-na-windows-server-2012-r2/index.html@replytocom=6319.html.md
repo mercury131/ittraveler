@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLОбновление Lync 2013 до Skype for BusinessПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка кластера MSSQL 2012.Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

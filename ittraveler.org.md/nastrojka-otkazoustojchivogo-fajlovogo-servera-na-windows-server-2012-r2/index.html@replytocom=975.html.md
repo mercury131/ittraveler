@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлПереход на репликацию SYSVOL по DFSWindows WSL подключение к сетевым шарам
+Related posts:Перенос базы данных Active DirectoryНастройка Kerberos авторизации в Apache2Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

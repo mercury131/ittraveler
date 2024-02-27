@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание пользователей Active Directory через CSV файлСброс пароля компьютера в домене без перезагрузкиУстановка и настройка Ansible
+Related posts:Активируем LDAP over SSLУстановка и настройка Scale-Out File Server + Storage Spaces DirectWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

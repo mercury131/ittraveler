@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книгаПеренос базы данных Active Directory
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматизируем бэкап баз данных MSSQL ExpressНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

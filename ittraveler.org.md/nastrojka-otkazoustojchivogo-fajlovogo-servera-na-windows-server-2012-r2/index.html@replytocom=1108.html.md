@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryWindows WSL подключение к сетевым шарамУправление репликацией Active Directory
+Related posts:Установка и настройка Lync 2013Аудит изменений групповых политик через PowerShellСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
