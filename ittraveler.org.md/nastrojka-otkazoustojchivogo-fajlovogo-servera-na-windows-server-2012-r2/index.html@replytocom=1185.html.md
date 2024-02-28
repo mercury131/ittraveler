@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка Lync 2013Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАудит изменений в Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

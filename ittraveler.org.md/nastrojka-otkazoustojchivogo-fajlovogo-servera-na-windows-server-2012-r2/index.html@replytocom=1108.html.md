@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Аудит изменений групповых политик через PowerShellСоздание email рассылки через Powershell
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУдаление Lync Server 2013Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

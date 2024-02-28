@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка кластера MSSQL 2012.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Обновление Lync 2013 до Skype for BusinessУдаление Lync Server 2013Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

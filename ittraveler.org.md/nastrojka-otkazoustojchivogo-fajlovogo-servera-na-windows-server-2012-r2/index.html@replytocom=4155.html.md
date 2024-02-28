@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Удаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Активируем LDAP over SSLПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
