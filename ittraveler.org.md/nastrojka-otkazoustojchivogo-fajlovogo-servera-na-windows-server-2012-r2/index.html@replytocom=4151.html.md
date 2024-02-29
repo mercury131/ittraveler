@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка RSAT на Windows 10 1809
+Related posts:Установка RSAT на Windows 10 1809Решаем проблему внезапной блокировки учетной записиУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

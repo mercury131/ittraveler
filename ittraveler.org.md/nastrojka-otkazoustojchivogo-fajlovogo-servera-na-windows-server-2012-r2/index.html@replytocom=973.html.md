@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевУдаление Lync Server 2013Новые компьютеры не появляются на WSUS сервере
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

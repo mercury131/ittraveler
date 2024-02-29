@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessУдаление Lync Server 2013Настройка Kerberos авторизации в Apache2
+Related posts:Получаем MD5 файла или переменной в PowershellСброс пароля администратора Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

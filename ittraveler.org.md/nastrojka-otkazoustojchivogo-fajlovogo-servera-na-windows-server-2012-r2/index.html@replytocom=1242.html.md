@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellActive Directory + Thunderbird = Общая адресная книгаСоздание email рассылки через Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевПеренос базы данных Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

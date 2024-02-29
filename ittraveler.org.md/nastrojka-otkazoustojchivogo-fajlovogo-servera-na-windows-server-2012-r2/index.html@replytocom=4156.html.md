@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AnsibleОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Обновление Lync 2013 до Skype for Business
+Related posts:Добавление UPN суффикса в Active DirectoryНастройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
