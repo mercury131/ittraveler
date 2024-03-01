@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Новые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка Lync 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

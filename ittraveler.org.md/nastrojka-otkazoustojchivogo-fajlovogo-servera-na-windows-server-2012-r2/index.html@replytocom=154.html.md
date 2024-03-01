@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУдаление Lync Server 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматизируем бэкап баз данных MSSQL ExpressАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

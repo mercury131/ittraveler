@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Перенос базы данных Active Directory
+Related posts:Включение корзины Active DirectoryНастройка Kerberos авторизации в Apache2Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Переход на репликацию SYSVOL по DFSУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Восстановление объектов Active Directory: сборник сценариевКастомизация гостевых ОС Windows в KVM на примере ProxmoxПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

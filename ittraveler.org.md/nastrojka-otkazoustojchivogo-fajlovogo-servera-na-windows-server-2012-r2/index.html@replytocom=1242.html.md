@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевПеренос базы данных Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Передача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

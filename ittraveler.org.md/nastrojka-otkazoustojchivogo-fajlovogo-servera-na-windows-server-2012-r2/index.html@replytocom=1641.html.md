@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамПринудительная синхронизация Office 365 и локальной Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка Scale-Out File Server + Storage Spaces DirectПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

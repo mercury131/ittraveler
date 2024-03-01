@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryСоздание email рассылки через PowershellВосстановление объектов Active Directory: сборник сценариев
+Related posts:Передача и захват ролей FSMOВключение корзины Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

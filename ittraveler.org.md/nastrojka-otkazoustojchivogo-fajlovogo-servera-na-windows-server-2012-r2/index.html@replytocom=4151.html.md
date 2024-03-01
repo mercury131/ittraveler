@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка RSAT на Windows 10 1809Решаем проблему внезапной блокировки учетной записиУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматическая активация пользователей Lync через PowershellАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

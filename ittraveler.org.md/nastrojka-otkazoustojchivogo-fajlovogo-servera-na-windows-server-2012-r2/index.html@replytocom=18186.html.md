@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевНастройка растянутого кластера (stretch-cluster) на Windows server 2016Новые компьютеры не появляются на WSUS сервере
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание пользователей Active Directory через CSV файлНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryНастройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариев
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

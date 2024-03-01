@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShellАктивируем LDAP over SSL
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
