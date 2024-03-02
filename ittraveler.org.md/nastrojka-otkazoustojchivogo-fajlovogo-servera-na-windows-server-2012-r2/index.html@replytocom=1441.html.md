@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Включение корзины Active DirectoryНастройка Kerberos авторизации в Apache2Сброс настроек GPO на стандартные
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
