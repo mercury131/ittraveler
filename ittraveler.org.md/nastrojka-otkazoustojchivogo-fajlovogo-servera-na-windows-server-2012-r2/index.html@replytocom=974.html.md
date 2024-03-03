@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Новые компьютеры не появляются на WSUS сервереСброс пароля администратора Active Directory
+Related posts:Управление репликацией Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

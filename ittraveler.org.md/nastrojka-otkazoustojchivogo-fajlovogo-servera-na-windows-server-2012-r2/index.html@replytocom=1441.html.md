@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013Автоматическая активация пользователей Lync через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Windows WSL подключение к сетевым шарамПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

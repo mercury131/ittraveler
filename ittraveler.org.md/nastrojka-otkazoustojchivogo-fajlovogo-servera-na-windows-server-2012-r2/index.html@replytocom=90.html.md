@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Создание шаблонов Zabbix для Windows.Настройка HA кластера Hyper-V
+Related posts:Управление репликацией Active DirectoryУстановка и настройка Lync 2013Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
