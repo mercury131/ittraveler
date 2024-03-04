@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryСоздание шаблонов Zabbix для Windows.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматический аудит компьютеров в Active Directory через powershell.Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

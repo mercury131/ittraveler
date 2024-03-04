@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка HA кластера Hyper-VСброс пароля компьютера в домене без перезагрузки
+Related posts:Добавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записиКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание email рассылки через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Перенос базы данных Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка кластера MSSQL 2012.Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

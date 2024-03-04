@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryСброс пароля компьютера в домене без перезагрузкиУдаление Lync Server 2013
+Related posts:Установка и настройка Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

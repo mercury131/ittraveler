@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVWindows WSL подключение к сетевым шарамОтключение Skype UI в Lync 2013
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active DirectoryАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

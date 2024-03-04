@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Новые компьютеры не появляются на WSUS сервереНастройка HA кластера Hyper-V
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Подключение к Office 365 через Powershell и зашифрованный парольАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

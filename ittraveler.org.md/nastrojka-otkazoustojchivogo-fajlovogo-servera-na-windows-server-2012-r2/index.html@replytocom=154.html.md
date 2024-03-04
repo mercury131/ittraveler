@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание email рассылки через Powershell
+Related posts:Передача и захват ролей FSMOПоиск старых почтовых ящиков в Exchange 2010Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Windows WSL подключение к сетевым шарамПолучаем MD5 файла или переменной в Powershell
+Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка дедупликации  на Windows Server 2012 R2Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка Kerberos авторизации в Apache2
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУправление репликацией Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

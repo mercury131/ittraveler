@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Переход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

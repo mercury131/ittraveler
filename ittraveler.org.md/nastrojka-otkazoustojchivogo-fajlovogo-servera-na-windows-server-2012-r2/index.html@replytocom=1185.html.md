@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПринудительная синхронизация контроллеров домена Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Изменение UPN суффикса в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервереУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
