@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOОшибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Создание email рассылки через Powershell
+Related posts:Установка и настройка Lync 2013Решаем проблему внезапной блокировки учетной записиВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

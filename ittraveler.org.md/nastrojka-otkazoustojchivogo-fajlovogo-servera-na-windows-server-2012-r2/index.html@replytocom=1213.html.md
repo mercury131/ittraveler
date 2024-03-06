@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПринудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Ansible
+Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка Lync 2013Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellАудит изменений в Active DirectoryСброс настроек GPO на стандартные
+Related posts:Получаем MD5 файла или переменной в PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

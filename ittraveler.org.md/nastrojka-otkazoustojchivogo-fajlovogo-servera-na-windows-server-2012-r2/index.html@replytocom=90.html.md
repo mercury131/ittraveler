@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Active Directory + Thunderbird = Общая адресная книгаСброс настроек GPO на стандартные
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

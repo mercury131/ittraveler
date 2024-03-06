@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиНастройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс настроек GPO на стандартные
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАудит DNS серверов на Windows Server 2008 R2 через PowershellОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

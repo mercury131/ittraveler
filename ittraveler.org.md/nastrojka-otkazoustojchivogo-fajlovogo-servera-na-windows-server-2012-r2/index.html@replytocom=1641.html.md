@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Новые компьютеры не появляются на WSUS сервере
+Related posts:Настройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариевСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

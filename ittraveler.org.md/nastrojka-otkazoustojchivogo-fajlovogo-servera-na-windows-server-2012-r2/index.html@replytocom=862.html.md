@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Назначение служб для сертификатов Exchange через Powershell.Настройка Kerberos авторизации в Apache2
+Related posts:Удаление Lync Server 2013Аудит изменений в Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
