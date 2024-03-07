@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryСброс пароля администратора Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Создание пользователей Active Directory через CSV файлПередача и захват ролей FSMOПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАудит незаполненных полей в Active Directory через PowershellАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит незаполненных полей в Active Directory через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
