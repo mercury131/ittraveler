@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOУстановка и настройка дедупликации  на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2
+Related posts:Сброс настроек GPO на стандартныеСоздание email рассылки через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

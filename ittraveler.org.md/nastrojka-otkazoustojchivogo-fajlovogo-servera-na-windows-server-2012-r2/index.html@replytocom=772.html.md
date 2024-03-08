@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMOАудит изменений групповых политик через PowerShell
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка AnsibleСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
