@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиСброс пароля администратора Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Передача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

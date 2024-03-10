@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLРешаем проблему внезапной блокировки учетной записиПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Активируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУстановка RSAT на Windows 10 1809Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка дедупликации  на Windows Server 2012 R2Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

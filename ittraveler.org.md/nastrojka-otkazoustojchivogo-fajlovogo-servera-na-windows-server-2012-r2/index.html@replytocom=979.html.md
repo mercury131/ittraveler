@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Автоматический аудит компьютеров в Active Directory через powershell.Удаление Lync Server 2013
+Related posts:Управление репликацией Active DirectoryНастройка HA кластера Hyper-VОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
