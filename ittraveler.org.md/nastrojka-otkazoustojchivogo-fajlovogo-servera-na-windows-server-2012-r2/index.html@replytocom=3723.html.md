@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание шаблонов Zabbix для Windows.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Добавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

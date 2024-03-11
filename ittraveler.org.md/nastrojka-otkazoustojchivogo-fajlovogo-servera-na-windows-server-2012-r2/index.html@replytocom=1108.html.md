@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Активируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Перенос базы данных Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

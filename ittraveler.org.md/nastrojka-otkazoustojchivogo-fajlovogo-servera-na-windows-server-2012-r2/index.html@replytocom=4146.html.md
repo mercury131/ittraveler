@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Активируем LDAP over SSL
+Related posts:Перенос базы данных Active DirectoryСоздание пользователей Active Directory через CSV файлВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

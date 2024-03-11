@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineДобавление почтовых контактов в Office 365 через Powershell и CSVСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
