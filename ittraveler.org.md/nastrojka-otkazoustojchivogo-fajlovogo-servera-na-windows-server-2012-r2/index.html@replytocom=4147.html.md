@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellСоздание email рассылки через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Переход на репликацию SYSVOL по DFSПодключение к Office 365 через Powershell и зашифрованный парольВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

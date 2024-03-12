@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryСоздание пользователей Active Directory через CSV файлВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка кластера MSSQL 2012.Изменение UPN суффикса в Active Directory через PowershellУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

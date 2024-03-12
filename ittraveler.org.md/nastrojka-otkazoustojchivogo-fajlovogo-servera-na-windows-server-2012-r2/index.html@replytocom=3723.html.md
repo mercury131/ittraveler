@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Установка RSAT на Windows 10 1809
+Related posts:Сброс пароля администратора Active DirectoryОтключение Skype UI в Lync 2013Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

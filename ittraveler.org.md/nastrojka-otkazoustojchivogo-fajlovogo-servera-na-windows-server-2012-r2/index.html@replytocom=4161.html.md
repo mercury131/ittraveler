@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Включение корзины Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Аудит незаполненных полей в Active Directory через PowershellПринудительная синхронизация контроллеров домена Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
