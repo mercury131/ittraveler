@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Установка и настройка Lync 2013Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка Lync 2013Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

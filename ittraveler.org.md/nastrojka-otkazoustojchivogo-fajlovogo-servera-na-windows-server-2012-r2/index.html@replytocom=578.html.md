@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellОбновление Lync 2013 до Skype for BusinessУстановка и настройка Lync 2013
+Related posts:Установка и настройка Lync 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
