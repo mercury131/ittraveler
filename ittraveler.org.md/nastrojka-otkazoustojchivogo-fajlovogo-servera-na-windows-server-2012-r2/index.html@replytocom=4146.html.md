@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматическая активация пользователей Lync через PowershellПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

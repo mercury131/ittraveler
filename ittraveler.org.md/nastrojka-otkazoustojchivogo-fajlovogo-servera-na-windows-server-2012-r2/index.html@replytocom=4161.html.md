@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellВключение корзины Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Аудит незаполненных полей в Active Directory через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

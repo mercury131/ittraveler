@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Перенос базы данных Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Создание шаблонов Zabbix для Windows.Обновление схемы Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
