@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Решаем проблему внезапной блокировки учетной записи
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка Lync 2013Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

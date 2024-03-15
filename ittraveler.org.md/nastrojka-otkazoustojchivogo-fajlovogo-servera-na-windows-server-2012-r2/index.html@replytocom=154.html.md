@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessВосстановление объектов Active Directory: сборник сценариевУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений групповых политик через PowerShellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

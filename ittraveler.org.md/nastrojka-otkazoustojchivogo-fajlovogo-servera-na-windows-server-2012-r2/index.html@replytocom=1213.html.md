@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessАудит изменений в Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Сброс пароля администратора Active DirectoryПеренос базы данных Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

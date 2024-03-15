@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Добавление почтовых контактов в Office 365 через Powershell и CSVУправление репликацией Active Directory
+Related posts:Отключение Skype UI в Lync 2013Получаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

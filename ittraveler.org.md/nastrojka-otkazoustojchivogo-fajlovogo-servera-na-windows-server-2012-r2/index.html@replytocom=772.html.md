@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Обновление схемы Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Lync 2013Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка AnsibleБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Получаем MD5 файла или переменной в PowershellНовые компьютеры не появляются на WSUS сервереАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

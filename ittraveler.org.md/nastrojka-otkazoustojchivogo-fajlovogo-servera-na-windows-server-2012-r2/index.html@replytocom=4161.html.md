@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит незаполненных полей в Active Directory через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVДобавление UPN суффикса в Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Переход на репликацию SYSVOL по DFSУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
