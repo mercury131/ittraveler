@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений групповых политик через PowerShellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

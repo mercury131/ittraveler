@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПеренос базы данных Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Настройка HA кластера Hyper-VУправление репликацией Active DirectoryОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

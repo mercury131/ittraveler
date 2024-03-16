@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка дедупликации  на Windows Server 2012 R2Управление репликацией Active Directory
+Related posts:Сброс пароля компьютера в домене без перезагрузкиОтключение Skype UI в Lync 2013Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

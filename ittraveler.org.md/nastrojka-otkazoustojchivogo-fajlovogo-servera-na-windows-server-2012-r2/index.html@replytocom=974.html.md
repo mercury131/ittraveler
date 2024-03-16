@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание пользователей Active Directory через CSV файлОтключение Skype UI в Lync 2013
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Активируем LDAP over SSLАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

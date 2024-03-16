@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка Lync 2013Управление репликацией Active Directory
+Related posts:Создание email рассылки через PowershellНастройка HA кластера Hyper-VАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

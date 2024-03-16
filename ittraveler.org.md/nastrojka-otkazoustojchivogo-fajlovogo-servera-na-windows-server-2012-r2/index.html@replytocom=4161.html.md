@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Создание шаблонов Zabbix для Windows.Переход на репликацию SYSVOL по DFSУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Сброс пароля администратора Active DirectoryАудит изменений групповых политик через PowerShellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

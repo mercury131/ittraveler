@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАудит изменений групповых политик через PowerShellПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Ошибка Database Mirroring login attempt by user ‘Domain\user.' failed with error: ‘Connection handsh...Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

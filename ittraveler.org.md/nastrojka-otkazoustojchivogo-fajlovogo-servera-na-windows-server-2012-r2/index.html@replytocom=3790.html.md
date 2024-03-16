@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка кластера MSSQL 2012.Аудит изменений в Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольРешаем проблему внезапной блокировки учетной записиОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Active Directory + Thunderbird = Общая адресная книгаАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Установка и настройка Lync 2013Активируем LDAP over SSLОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

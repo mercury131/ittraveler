@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTWindows WSL подключение к сетевым шарамАудит незаполненных полей в Active Directory через Powershell
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Создание индивидуальных адресных книг в Office 365 и Exchange onlineОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

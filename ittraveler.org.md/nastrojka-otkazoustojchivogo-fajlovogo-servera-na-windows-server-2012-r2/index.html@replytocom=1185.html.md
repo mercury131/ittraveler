@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellНовые компьютеры не появляются на WSUS сервереАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Аудит изменений в Active DirectoryНовые компьютеры не появляются на WSUS сервереУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellНазначение служб для сертификатов Exchange через Powershell.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Создание шаблонов Zabbix для Windows.Подключение к Office 365 через Powershell и зашифрованный парольАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

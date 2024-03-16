@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Ansible
+Related posts:Аудит изменений в Active DirectoryНастройка HA кластера Hyper-VУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

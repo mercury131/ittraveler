@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Отключение Skype UI в Lync 2013Получаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.
+Related posts:Передача и захват ролей FSMOАудит незаполненных полей в Active Directory через PowershellУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка AnsibleНастройка Kerberos авторизации в Apache2
+Related posts:Автоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

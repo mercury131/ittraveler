@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПеренос базы данных Active DirectoryУстановка и настройка Ansible
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка AlwaysOn на MS SQL 2016Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
