@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка HA кластера Hyper-VУправление репликацией Active DirectoryОбновление схемы Active Directory
+Related posts:Включение корзины Active DirectoryАвтоматическая активация пользователей Lync через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

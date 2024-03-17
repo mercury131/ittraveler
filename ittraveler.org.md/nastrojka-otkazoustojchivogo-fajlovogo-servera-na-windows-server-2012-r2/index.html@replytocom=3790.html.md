@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольРешаем проблему внезапной блокировки учетной записиОбновление Lync 2013 до Skype for Business
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление UPN суффикса в Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOАудит незаполненных полей в Active Directory через PowershellУстановка и настройка Ansible
+Related posts:Переход на репликацию SYSVOL по DFSНастройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

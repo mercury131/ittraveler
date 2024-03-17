@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Перенос базы данных Active DirectoryНастройка HA кластера Hyper-VУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Настройка HA кластера Hyper-VПоиск старых почтовых ящиков в Exchange 2010Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
