@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиОтключение Skype UI в Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Настройка HA кластера Hyper-VУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

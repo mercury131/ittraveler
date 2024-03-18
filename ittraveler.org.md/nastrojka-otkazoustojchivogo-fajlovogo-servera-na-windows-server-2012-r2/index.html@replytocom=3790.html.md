@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление UPN суффикса в Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Передача и захват ролей FSMOДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

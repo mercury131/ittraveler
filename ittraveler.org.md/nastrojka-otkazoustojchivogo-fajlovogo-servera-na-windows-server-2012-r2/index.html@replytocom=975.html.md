@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFSВключение корзины Active Directory
+Related posts:Настройка Kerberos авторизации в Apache2Изменение UPN суффикса в Active Directory через PowershellОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
