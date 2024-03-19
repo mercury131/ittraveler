@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Создание шаблонов Zabbix для Windows.Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПеренос базы данных Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

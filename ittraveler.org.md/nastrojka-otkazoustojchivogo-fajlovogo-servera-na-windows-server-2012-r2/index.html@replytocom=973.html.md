@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУстановка RSAT на Windows 10 1809Установка и настройка Ansible
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка RSAT на Windows 10 1809Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

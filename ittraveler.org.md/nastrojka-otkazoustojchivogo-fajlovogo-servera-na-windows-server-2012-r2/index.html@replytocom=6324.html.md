@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка Lync 2013Отключение Skype UI в Lync 2013
+Related posts:Windows WSL подключение к сетевым шарамУдаление Lync Server 2013Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
