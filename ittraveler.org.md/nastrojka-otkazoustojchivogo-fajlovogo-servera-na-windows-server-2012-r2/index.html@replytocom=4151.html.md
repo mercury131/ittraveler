@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryАктивируем LDAP over SSLУстановка и настройка кластера MSSQL 2012.
+Related posts:Создание шаблонов Zabbix для Windows.Управление репликацией Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

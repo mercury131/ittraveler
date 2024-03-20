@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Windows WSL подключение к сетевым шарамУдаление Lync Server 2013Сброс пароля компьютера в домене без перезагрузки
+Related posts:Восстановление объектов Active Directory: сборник сценариевПоиск старых почтовых ящиков в Exchange 2010Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
