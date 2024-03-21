@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереСброс настроек GPO на стандартныеАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Управление репликацией Active DirectoryСброс пароля администратора Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
