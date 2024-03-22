@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит изменений в Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Включение корзины Active DirectoryОтключение Skype UI в Lync 2013Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
