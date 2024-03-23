@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Создание шаблонов Zabbix для Windows.Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Переход на репликацию SYSVOL по DFSОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
