@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПолучаем MD5 файла или переменной в PowershellУстановка и настройка Ansible
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через PowershellНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

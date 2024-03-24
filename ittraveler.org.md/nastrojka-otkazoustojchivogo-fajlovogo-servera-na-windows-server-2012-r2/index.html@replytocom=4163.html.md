@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Обновление схемы Active DirectoryActive Directory + Thunderbird = Общая адресная книга
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАудит изменений в Active DirectoryДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
