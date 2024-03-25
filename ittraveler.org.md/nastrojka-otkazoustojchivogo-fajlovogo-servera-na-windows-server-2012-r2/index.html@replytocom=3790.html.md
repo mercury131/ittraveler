@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений групповых политик через PowerShellПолучаем MD5 файла или переменной в PowershellУстановка и настройка Lync 2013
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

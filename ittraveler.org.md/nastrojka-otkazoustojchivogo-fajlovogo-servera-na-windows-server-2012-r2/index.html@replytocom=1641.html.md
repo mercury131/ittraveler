@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Переход на репликацию SYSVOL по DFS
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTWindows WSL подключение к сетевым шарамАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля администратора Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Active Directory + Thunderbird = Общая адресная книгаНастройка растянутого кластера (stretch-cluster) на Windows server 2016Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

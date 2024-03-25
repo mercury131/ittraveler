@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка AnsibleПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание пользователей Active Directory через CSV файлАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

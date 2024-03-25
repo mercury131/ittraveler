@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка Lync 2013Установка RSAT на Windows 10 1809
+Related posts:Отключение Skype UI в Lync 2013Windows WSL подключение к сетевым шарамПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через PowershellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Scale-Out File Server + Storage Spaces DirectДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

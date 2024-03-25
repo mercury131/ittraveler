@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Получаем MD5 файла или переменной в Powershell
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка HA кластера Hyper-VПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

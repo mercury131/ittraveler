@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка Kerberos авторизации в Apache2Автоматическая активация пользователей Lync через PowershellПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка RSAT на Windows 10 1809Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

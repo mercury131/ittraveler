@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Настройка Kerberos авторизации в Apache2
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Настройка Kerberos авторизации в Apache2Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

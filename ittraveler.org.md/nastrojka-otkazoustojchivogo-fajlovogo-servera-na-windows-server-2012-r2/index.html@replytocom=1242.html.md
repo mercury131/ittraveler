@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Управление репликацией Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Отключение Skype UI в Lync 2013Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАудит изменений в Active DirectoryДобавление UPN суффикса в Active Directory
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTВосстановление объектов Active Directory: сборник сценариевДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
