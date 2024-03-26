@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Переход на репликацию SYSVOL по DFSНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Аудит изменений в Active DirectoryОбновление Lync 2013 до Skype for BusinessПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

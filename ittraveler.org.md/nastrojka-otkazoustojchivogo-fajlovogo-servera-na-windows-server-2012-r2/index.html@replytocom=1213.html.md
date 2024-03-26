@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Переход на репликацию SYSVOL по DFSАктивируем LDAP over SSLПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Переход на репликацию SYSVOL по DFSОтключение Skype UI в Lync 2013Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
