@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Передача и захват ролей FSMOСброс настроек GPO на стандартныеСоздание пользователей Active Directory через CSV файл
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

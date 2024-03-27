@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Аудит изменений в Active DirectoryОбновление Lync 2013 до Skype for BusinessПолучаем MD5 файла или переменной в Powershell
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка дедупликации  на Windows Server 2012 R2Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеПринудительная синхронизация контроллеров домена Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Восстановление объектов Active Directory: сборник сценариевИзменение UPN суффикса в Active Directory через PowershellПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Переход на репликацию SYSVOL по DFSВосстановление объектов Active Directory: сборник сценариев
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Отключение Skype UI в Lync 2013Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

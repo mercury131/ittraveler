@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Сброс настроек GPO на стандартныеАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Активируем LDAP over SSL
+Related posts:Обновление Lync 2013 до Skype for BusinessУдаление Lync Server 2013Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

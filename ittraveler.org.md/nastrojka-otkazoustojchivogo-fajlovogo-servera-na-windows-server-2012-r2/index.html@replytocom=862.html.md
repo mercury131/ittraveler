@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Решаем проблему внезапной блокировки учетной записиЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTПереход на репликацию SYSVOL по DFS
+Related posts:Аудит незаполненных полей в Active Directory через PowershellОбновление схемы Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

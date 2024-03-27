@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Изменение UPN суффикса в Active Directory через PowershellПодключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Восстановление объектов Active Directory: сборник сценариевОтключение Skype UI в Lync 2013Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

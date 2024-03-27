@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Новые компьютеры не появляются на WSUS сервереПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматический аудит компьютеров в Active Directory через powershell.Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

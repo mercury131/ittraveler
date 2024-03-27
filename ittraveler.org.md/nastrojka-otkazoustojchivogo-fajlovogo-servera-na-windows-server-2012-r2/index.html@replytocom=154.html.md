@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит изменений групповых политик через PowerShellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПринудительная синхронизация контроллеров домена Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Удаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книгаСброс настроек GPO на стандартные
+Related posts:Установка RSAT на Windows 10 1809Передача и захват ролей FSMOАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

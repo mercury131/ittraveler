@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление схемы Active DirectoryУдаление Lync Server 2013Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСброс настроек GPO на стандартныеАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
