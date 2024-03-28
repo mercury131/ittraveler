@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматическая активация пользователей Lync через PowershellУстановка и настройка кластера MSSQL 2012.
+Related posts:Переход на репликацию SYSVOL по DFSПолучаем MD5 файла или переменной в PowershellИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

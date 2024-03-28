@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Обновление Lync 2013 до Skype for BusinessУдаление Lync Server 2013Сброс пароля администратора Active Directory
+Related posts:Получаем MD5 файла или переменной в PowershellActive Directory + Thunderbird = Общая адресная книгаСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

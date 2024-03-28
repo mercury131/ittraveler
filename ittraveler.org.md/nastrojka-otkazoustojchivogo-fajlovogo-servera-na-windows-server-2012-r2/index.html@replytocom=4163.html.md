@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСброс настроек GPO на стандартныеАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Управление репликацией Active DirectoryАвтоматическая активация пользователей Lync через PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

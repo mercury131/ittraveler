@@ -165,7 +165,7 @@ LD-MoscowHR-RW
  
  
  
-Related posts:Установка и настройка Lync 2013Отключение Skype UI в Lync 2013Аудит изменений групповых политик через PowerShell
+Related posts:Перенос базы данных Active DirectoryНовые компьютеры не появляются на WSUS сервереСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
