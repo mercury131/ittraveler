@@ -273,30 +273,34 @@ body.custom-background { background-color: #cecece; }
 
 
 
-	<p>В данной статье я расскажу как настроить отказоустойчивый файловый сервер на <a href="../tag/windows-server/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Windows Server">windows server</a> 2012 R2 в домене <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a> <span id="more-270"></span>  Первым делом убедитесь что сервер введен в домен Active Directory, далее установите роли <a href="../tag/dfs/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DFS">dfs</a> и файлового сервера</p>
+	<p>В данной статье я расскажу как настроить отказоустойчивый файловый сервер на Windows Server 2012 R2 в домене Active Directory <span id="more-270"></span>  Первым делом убедитесь что сервер введен в домен Active Directory, далее установите роли DFS и файлового сервера</p>
 <p>Выберите следующие роли и установите их.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2c089008182b9740ff49658616eab008.png" alt="" width="673" height="475"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b1e2eb658ca473ba3f9387fd0f415c01.png" alt="" width="674" height="476"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2c089008182b9740ff49658616eab008.png" alt="" width="673" height="475" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b1e2eb658ca473ba3f9387fd0f415c01.png" alt="" width="674" height="476" /></p>
 <p>Далее создайте структуру папок на отдельном диске.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/732eb2500a6f3482bab32db50a957797.png" alt="" width="410" height="239"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/732eb2500a6f3482bab32db50a957797.png" alt="" width="410" height="239" /></p>
 <p>Теперь включим общий доступ.</p>
-<p>Выберите «расширенная настройка»</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8c0ad609ecf110fd74c816c9a25d9794.png" alt="" width="317" height="459"></p>
-<p>Далее выберите «Разрешения» и установите права как на скриншоте.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2328fc5fcd464f8b766728e42723da48.png" alt="" width="583" height="401"></p>
+<p>Выберите &#171;расширенная настройка&#187;</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8c0ad609ecf110fd74c816c9a25d9794.png" alt="" width="317" height="459" /></p>
+<p>Далее выберите &#171;Разрешения&#187; и установите права как на скриншоте.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2328fc5fcd464f8b766728e42723da48.png" alt="" width="583" height="401" /></p>
 <p>Теперь нам нужно создать структуру прав для наших каталогов в Active Directory.</p>
 <p>Для начала рассмотрим из чего состоит наша файловая структура.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d2c8e9be414eb9622f04fd9e641fcaf6.gif" alt="" width="428" height="268"></p>
-<p>Теперь на ее основе создадим в Active Directory OU — File Sharing</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d2c8e9be414eb9622f04fd9e641fcaf6.gif" alt="" width="428" height="268" /></p>
+<p>Теперь на ее основе создадим в Active Directory OU &#8212; File Sharing</p>
 <p>Переходим в консоль пользователи и компьютеры, и создаем OU</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/da7b393f680d9b73053216ffcdd938df.png" alt="" width="542" height="398"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4f865224a35e129a8626833ec04fb840.png" alt="" width="375" height="322"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/da7b393f680d9b73053216ffcdd938df.png" alt="" width="542" height="398" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4f865224a35e129a8626833ec04fb840.png" alt="" width="375" height="322" /></p>
 <p>Аналогичным путем создадим структуру наших папок</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8b4459060be7ac348fbb2cc93da90f83.png" alt="" width="174" height="260"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8b4459060be7ac348fbb2cc93da90f83.png" alt="" width="174" height="260" /></p>
 <p>Теперь создадим комплекты прав.</p>
-<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
-<!-- Home ittraveler --><br>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1890562251101921" data-ad-slot="9117958896" data-ad-format="auto"></ins><br>
+<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- Home ittraveler --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins><br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
@@ -314,29 +318,29 @@ body.custom-background { background-color: #cecece; }
 <p>LD-Office_Files-RO</p>
 <p>LD-Office_Files-RW</p>
 <p>LD-Office_Files-L</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/569715cc8eb3ad193ad920e3a1c4f9d9.png" alt="" width="366" height="154"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/569715cc8eb3ad193ad920e3a1c4f9d9.png" alt="" width="366" height="154" /></p>
 <p>Глобальные группы входят в локальные</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5025aeb8e42b39ae62496cc9af4918fb.png" alt="" width="356" height="401"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5025aeb8e42b39ae62496cc9af4918fb.png" alt="" width="356" height="401" /></p>
 <p>Теперь настроим права на папке.</p>
 <p>Откройте свойство папки и выберите вкладку безопасность</p>
 <p>Добавьте созданные локальные группы</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1f3c6885cbb894bcb265d29f8b071705.png" alt="" width="317" height="388"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/09b0f0ec32f02fa85ab2452669099c26.png" alt="" width="406" height="215"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1f3c6885cbb894bcb265d29f8b071705.png" alt="" width="317" height="388" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/09b0f0ec32f02fa85ab2452669099c26.png" alt="" width="406" height="215" /></p>
 <p>Расставьте права на чтение и запись</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d0db0fb2050521f8a3f4c3dadf4be9cf.gif" alt="" width="316" height="388"></p>
-<p>Теперь нажмите кнопку «Дополнительно»</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/879dcbf72eb9d37f7721a971059daeb5.png" alt="" width="322" height="465"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d0db0fb2050521f8a3f4c3dadf4be9cf.gif" alt="" width="316" height="388" /></p>
+<p>Теперь нажмите кнопку &#171;Дополнительно&#187;</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/879dcbf72eb9d37f7721a971059daeb5.png" alt="" width="322" height="465" /></p>
 <p>Теперь нужно установить права на листинг</p>
 <p>Выберите L группу и нажмите изменить</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8d481abcb15279966ff76e8196e62f0c.gif" alt="" width="656" height="442"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8d481abcb15279966ff76e8196e62f0c.gif" alt="" width="656" height="442" /></p>
 <p>Теперь установите параметры как на скриншоте ниже</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b35e15708a91f0d3067a551951217805.png" alt="" width="791" height="512"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b35e15708a91f0d3067a551951217805.png" alt="" width="791" height="512" /></p>
 <p>Обратите внимание что мы даем доступ только на листинг и только для данной папки.</p>
 <p>Это нужно для того чтобы пользователь получивший права на папку не смог попасть в каталоги ниже если у него нет соответствующих прав.</p>
 <p>Для корректной работы добавим в эту группу пользователей домена, чтобы они могли видеть корень каталога.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d99e883d4123f7f8db80bfbd70f838f2.png" alt="" width="368" height="409"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d99e883d4123f7f8db80bfbd70f838f2.png" alt="" width="368" height="409" /></p>
 <p>Также отключите наследование прав от корневого каталога диска.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/95641c23f5b02244f97feadbfbb78f88.png" alt="" width="664" height="450"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/95641c23f5b02244f97feadbfbb78f88.png" alt="" width="664" height="450" /></p>
 <p>По аналогии настроим права на каталог Moscow.</p>
 <p>Создадим группы:</p>
 <p>GD-Moscow-RO</p>
@@ -345,178 +349,182 @@ body.custom-background { background-color: #cecece; }
 <p>LD-Moscow-RW</p>
 <p>LD-Moscow-L</p>
 <p>В Active Directory это должно выглядеть так:</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b53cb89bffc4eec7dcbd0828011f2dfe.gif" alt="" width="556" height="400"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b53cb89bffc4eec7dcbd0828011f2dfe.gif" alt="" width="556" height="400" /></p>
 <p><span style="color: #000000;">Теперь настроим права на папку:</span></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0c5e69dc46366b0d5efcb47f8a10e31d.gif" alt="" width="314" height="386"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0c5e69dc46366b0d5efcb47f8a10e31d.gif" alt="" width="314" height="386" /></p>
 <p>Настроим листинг.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/eb00aeb65b8722b75164f0bdb158a545.gif" alt="" width="780" height="500"></p>
-<p>Теперь настроим нижний каталог — HR.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/eb00aeb65b8722b75164f0bdb158a545.gif" alt="" width="780" height="500" /></p>
+<p>Теперь настроим нижний каталог &#8212; HR.</p>
 <p>Создаем группы по аналогии.</p>
 <p>GD-MoscowHR-RO</p>
 <p>GD-MoscowHR-RW</p>
 <p>LD-MoscowHR-RO</p>
 <p>LD-MoscowHR-RW</p>
 <p>Должно получится так</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7689aae4d514c18b9cde21ced9e35672.png" alt="" width="352" height="97"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7689aae4d514c18b9cde21ced9e35672.png" alt="" width="352" height="97" /></p>
 <p>Теперь добавим группы GD-MoscowHR-RO и GD-MoscowHR-RW в группу LD-Moscow-L</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/16d4e408669c8c0810ec0e7c1eeb9ef0.png" alt="" width="364" height="405"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/16d4e408669c8c0810ec0e7c1eeb9ef0.png" alt="" width="364" height="405" /></p>
 <p>Это нужно для того чтобы пользователи у которых нет прав на папку Moscow могли попасть во вложенную папку HR.</p>
 <p>При этом открывать файлы в папке Moscow они не смогут.</p>
 <p>Настроим права на папку.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5f2f6e181bf1c5d6520cc87ba43e0fdb.png" alt="" width="317" height="388"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5f2f6e181bf1c5d6520cc87ba43e0fdb.png" alt="" width="317" height="388" /></p>
 <p>По аналогии создадим права на остальные папки.</p>
 <p>Теперь добавим пространство имен.</p>
 <p>Откроем консоль DFS и создадим пространство имен.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2fe51066e010faf4ec3153f1f36b83e4.png" alt="" width="554" height="239"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2fe51066e010faf4ec3153f1f36b83e4.png" alt="" width="554" height="239" /></p>
 <p>Указываем наш сервер.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d7f014083bcf7e5761904f6491c20d48.png" alt="" width="760" height="581"></p>
-<p> </p>
-<p> </p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d7f014083bcf7e5761904f6491c20d48.png" alt="" width="760" height="581" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>Указываем название пути DFS.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/58a31870dc418cdc7c2a3da235eab1b2.png" alt="" width="723" height="585"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/58a31870dc418cdc7c2a3da235eab1b2.png" alt="" width="723" height="585" /></p>
 <p>Включаем режим 2008.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4edd07c6362a52e16a13916fcf02fabd.png" alt="" width="723" height="584"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4edd07c6362a52e16a13916fcf02fabd.png" alt="" width="723" height="584" /></p>
 <p>Создаем пространство.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a6c1dedecff2127f556666fae055dbfd.png" alt="" width="723" height="577"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a6c1dedecff2127f556666fae055dbfd.png" alt="" width="723" height="577" /></p>
 <p>Теперь создадим папку.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e957fed0790a08992f4b1dcfab7b63cf.png" alt="" width="613" height="287"></p>
-<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
-<!-- Home ittraveler --><br>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1890562251101921" data-ad-slot="9117958896" data-ad-format="auto"></ins><br>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e957fed0790a08992f4b1dcfab7b63cf.png" alt="" width="613" height="287" /></p>
+<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- Home ittraveler --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins><br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-<p>Далее указываем путь к папке. Путь можно посмотреть тут, выбрав «open share».</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/50ef23c60c0f06a814280bb28b34359f.png" alt="" width="1006" height="392"></p>
+<p>Далее указываем путь к папке. Путь можно посмотреть тут, выбрав &#171;open share&#187;.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/50ef23c60c0f06a814280bb28b34359f.png" alt="" width="1006" height="392" /></p>
 <p>Создаем папку.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b1a1b122854ea864be758e03132ea16c.png" alt="" width="405" height="421"></p>
-<p>Теперь по данному пути — \\test.com\office\Office Мы видим нашу общую папку.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b1a1b122854ea864be758e03132ea16c.png" alt="" width="405" height="421" /></p>
+<p>Теперь по данному пути &#8212; \\test.com\office\Office Мы видим нашу общую папку.</p>
 <p>Теперь если добавить пользователя в группу GD-MoscowHR-RW, он сможет попасть в папку HR, но не сможет открывать или редактировать файлы в папке Moscow.</p>
 <p>В другие папки пользователь тоже попасть не сможет.</p>
 <p>Если мы добавим пользователя в группу GD-Moscow-RW, он будет иметь доступ на всю папку Moscow, на чтение и запись.</p>
 <p>Если мы добавим пользователя в группу GD-Office_Files-RW, он получит доступ ко всем каталогам.</p>
 <p>Теперь рассмотрим настройку ABE.</p>
 <p>Создайте следующую структуру в Active Directory.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/72673145f9455d4761133d85f375484d.gif" alt="" width="632" height="312"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/72673145f9455d4761133d85f375484d.gif" alt="" width="632" height="312" /></p>
 <p>Откройте общий доступ к папке.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5a491c857cada4b40fb9fd703f6d31ab.png" alt="" width="471" height="496"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5a491c857cada4b40fb9fd703f6d31ab.png" alt="" width="471" height="496" /></p>
 <p>Настройте права на папках.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/31ab677fe68f84a7382a50954c8fbabd.png" alt="" width="786" height="506"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0643db9a8c62a5a33099a1ec30eac265.png" alt="" width="325" height="466"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/63dcc87599fc41ac1dd35b5881910bee.png" alt="" width="318" height="462"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/31ab677fe68f84a7382a50954c8fbabd.png" alt="" width="786" height="506" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0643db9a8c62a5a33099a1ec30eac265.png" alt="" width="325" height="466" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/63dcc87599fc41ac1dd35b5881910bee.png" alt="" width="318" height="462" /></p>
 <p>И так далее.</p>
 <p>Теперь создайте папку в DFS.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/82ac13363d2ea1ed68f80be7e8641f6d.png" alt="" width="347" height="358"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/82ac13363d2ea1ed68f80be7e8641f6d.png" alt="" width="347" height="358" /></p>
 <p>Должно получится так.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a639704f70787b47ab5c750ada033af0.png" alt="" width="109" height="54"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a639704f70787b47ab5c750ada033af0.png" alt="" width="109" height="54" /></p>
 <p>Теперь включим ABE.</p>
-<p>В диспетчере сервера откройте «Файловые службы» — «Общие ресурсы».</p>
+<p>В диспетчере сервера откройте &#171;Файловые службы&#187; &#8212; &#171;Общие ресурсы&#187;.</p>
 <p>Выберите каталог IT, и нажмите свойства.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2d25da3ca1b703220bec6a35ab81d629.png" alt="" width="678" height="357"></p>
-<p>Далее выбираем параметры, и включаем функцию — «Перечисление на основе доступа».</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/afc5de52bf9155a6b1935feb43146435.png" alt="" width="574" height="507"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2d25da3ca1b703220bec6a35ab81d629.png" alt="" width="678" height="357" /></p>
+<p>Далее выбираем параметры, и включаем функцию &#8212; &#171;Перечисление на основе доступа&#187;.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/afc5de52bf9155a6b1935feb43146435.png" alt="" width="574" height="507" /></p>
 <p>Особенность функции ABE в том что она проверяет права пользователя до того как нужно показать папки в проводнике.</p>
 <p>Другими словами, пользователь видит только те папки на которые у него есть права.</p>
-<p>Для примера дадим пользователю support права на папку Support (добавим его в группу — GD-IT-Support-RW)</p>
-<p>Теперь перейдем по пути — \\test.com\office\IT</p>
+<p>Для примера дадим пользователю support права на папку Support (добавим его в группу &#8212; GD-IT-Support-RW)</p>
+<p>Теперь перейдем по пути &#8212; \\test.com\office\IT</p>
 <p>Как видите пользователь видит только папку Support.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/bbd2f3f0e81913e60c5300c82140078e.png" alt="" width="367" height="257"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/bbd2f3f0e81913e60c5300c82140078e.png" alt="" width="367" height="257" /></p>
 <p>Если мы добавим его в группу GD-IT-NetAdm-RO , то у него появится папка Network administrators с правами на чтение.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6e00816cfb7d5ba23d27c17f7598da99.png" alt="" width="354" height="237"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6e00816cfb7d5ba23d27c17f7598da99.png" alt="" width="354" height="237" /></p>
 <p>На этом настройка ABE закончена.</p>
 <p>Учтите, что если в вашей файловой структуре нужно давать права пользователям на под каталоги, минуя корневые папки, то ABE вам не подойдет, т.к. ABE просто скроет от пользователя корневую папку, через которую пользователь попадает в подкаталог.</p>
-<p>Перейдем в оснастку — Диспетчер ресурсов файлового сервера.</p>
+<p>Перейдем в оснастку &#8212; Диспетчер ресурсов файлового сервера.</p>
 <p>Настроим квоты.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3d3355ac2a0231d0c330d5162a599270.png" alt="" width="218" height="127"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3d3355ac2a0231d0c330d5162a599270.png" alt="" width="218" height="127" /></p>
 <p>Настроим мягкую квоту для папки Office_Files.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/116d1cfccf34f5e32af5f4371b4ab438.png" alt="" width="355" height="420"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/09855efabfcaee8fc34a58eafe02e339.png" alt="" width="423" height="509"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/116d1cfccf34f5e32af5f4371b4ab438.png" alt="" width="355" height="420" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/09855efabfcaee8fc34a58eafe02e339.png" alt="" width="423" height="509" /></p>
 <p>Настроим жесткую квоту для папки Support.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4b48a36fbe33ccf231d62892527ed821.png" alt="" width="358" height="424"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a43aff922d25cfcf0f0fefc06673c7d3.png" alt="" width="425" height="509"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4b48a36fbe33ccf231d62892527ed821.png" alt="" width="358" height="424" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a43aff922d25cfcf0f0fefc06673c7d3.png" alt="" width="425" height="509" /></p>
 <p>Теперь настроим блокировку файлов для папки Office_Files.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/498eec4e5b5ed159d6fdd73cb71e1655.png" alt="" width="485" height="204"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/76af222352a1aba65e6a39986e8527a6.png" alt="" width="354" height="400"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/498eec4e5b5ed159d6fdd73cb71e1655.png" alt="" width="485" height="204" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/76af222352a1aba65e6a39986e8527a6.png" alt="" width="354" height="400" /></p>
 <p>Выберем типы файлов, которые мы будем блокировать.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ef2a4e441d0ec6fa8b29d52a42c55602.png" alt="" width="424" height="514"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ef2a4e441d0ec6fa8b29d52a42c55602.png" alt="" width="424" height="514" /></p>
 <p>Настроим отправку сообщений по электронной почте.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/718644ac9db45e1efb0d601440e1e7aa.png" alt="" width="426" height="511"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/718644ac9db45e1efb0d601440e1e7aa.png" alt="" width="426" height="511" /></p>
 <p>Включим журнал.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fcbf9b47437519bedbe9a6f1f6caaa6f.png" alt="" width="427" height="515"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fcbf9b47437519bedbe9a6f1f6caaa6f.png" alt="" width="427" height="515" /></p>
 <p>Включим отчеты.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/18d704e5a4ee2d16c388ba7db264d393.png" alt="" width="426" height="510"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/18d704e5a4ee2d16c388ba7db264d393.png" alt="" width="426" height="510" /></p>
 <p>Учтите, без SMTP сервера отправка отчетов работать не будет.</p>
 <p>Если вы хотите изменить группы файлов, то это можно сделать тут:</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/16edfb931b35aa0d320b2a9a1eb94137.png" alt="" width="998" height="247"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/16edfb931b35aa0d320b2a9a1eb94137.png" alt="" width="998" height="247" /></p>
 <p>Создадим задачу управления файлами.</p>
-<p>Представим что у нас есть папка <a href="../tag/exchange/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Exchange">exchange</a>. в которой пользователи обмениваются файлами.</p>
+<p>Представим что у нас есть папка Exchange. в которой пользователи обмениваются файлами.</p>
 <p>Нам нужно сделать так, чтобы раз в период данная папка очищалась, а удаленные данные перемещались в папку Temp</p>
 <p>Создаем задачу.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ce7a8ea2c15fbb4e9cc1f13d7c704b3.png" alt="" width="375" height="282"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ce7a8ea2c15fbb4e9cc1f13d7c704b3.png" alt="" width="375" height="282" /></p>
 <p>Задаем имя задачи.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fd3513618892ca8ed3a02674e4034dae.png" alt="" width="394" height="490"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fd3513618892ca8ed3a02674e4034dae.png" alt="" width="394" height="490" /></p>
 <p>Задаем путь и область.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ae006f600993bfbb77cc476e7b5d9696.png" alt="" width="393" height="489"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ae006f600993bfbb77cc476e7b5d9696.png" alt="" width="393" height="489" /></p>
 <p>Задаем свойства управления папками.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/676a5e2d62d003a6f03dce1c2fabc66b.png" alt="" width="547" height="399"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/676a5e2d62d003a6f03dce1c2fabc66b.png" alt="" width="547" height="399" /></p>
 <p>Задаем срок действия папки.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b50ea990ef32b076404adfc2c8cd14de.png" alt="" width="394" height="492"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b50ea990ef32b076404adfc2c8cd14de.png" alt="" width="394" height="492" /></p>
 <p>Настраиваем уведомление.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f5ff76ff1b40ec7712fadcbe8b15d937.png" alt="" width="393" height="490"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/44dd6cc4e26adde3c26d5c134b4cb61f.png" alt="" width="423" height="522"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f5ff76ff1b40ec7712fadcbe8b15d937.png" alt="" width="393" height="490" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/44dd6cc4e26adde3c26d5c134b4cb61f.png" alt="" width="423" height="522" /></p>
 <p>Задаем условие.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d08b6d7ccb899ab335698b3b770fff81.png" alt="" width="396" height="492"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d08b6d7ccb899ab335698b3b770fff81.png" alt="" width="396" height="492" /></p>
 <p>Настраиваем расписание.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9d10ffbc42cb55ab599e402bf25aa837.png" alt="" width="393" height="490"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9d10ffbc42cb55ab599e402bf25aa837.png" alt="" width="393" height="490" /></p>
 <p>Готово!</p>
 <p>Теперь перейдем к настройке репликации.</p>
 <p>Настройте сервер реплику (роли и доступы), введите его в домен.</p>
 <p>Создаем на сервере реплике общую папку и отключаем наследование.</p>
-<p>Назовем ее Office_Files, она будет репликой папки — Office_Files с основного файлового сервера.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3e75890f2bdb9d2a728de3b8538b7bac.png" alt="" width="509" height="571"></p>
+<p>Назовем ее Office_Files, она будет репликой папки &#8212; Office_Files с основного файлового сервера.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3e75890f2bdb9d2a728de3b8538b7bac.png" alt="" width="509" height="571" /></p>
 <p>Переходим на основной файловый сервер, и открываем консоль DFS.</p>
-<p>Выбираем пространство имен, которое хотим реплицировать, и выбираем пункт «Добавить конечный объект папки».</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9171d4aa21bd637bdafec0053b17e091.png" alt="" width="404" height="195"></p>
+<p>Выбираем пространство имен, которое хотим реплицировать, и выбираем пункт &#171;Добавить конечный объект папки&#187;.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9171d4aa21bd637bdafec0053b17e091.png" alt="" width="404" height="195" /></p>
 <p>Указываем общую папку со 2-го сервера.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/70f6d9a3a6966e319b50cb76a67bd14d.png" alt="" width="416" height="197"></p>
-<p>На вопрос о создании группы репликации отвечаем — да.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/63d59705ba1b0ba9a8b0e14dba18f988.png" alt="" width="419" height="171"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/70f6d9a3a6966e319b50cb76a67bd14d.png" alt="" width="416" height="197" /></p>
+<p>На вопрос о создании группы репликации отвечаем &#8212; да.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/63d59705ba1b0ba9a8b0e14dba18f988.png" alt="" width="419" height="171" /></p>
 <p>Оставляем заполненное по-умолчанию.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b5e8cd0351356a00b7763d6f6473f352.png" alt="" width="615" height="494"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b5e8cd0351356a00b7763d6f6473f352.png" alt="" width="615" height="494" /></p>
 <p>Проверяем что указаны 2-а наших сервера, основной и резервный.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9de2204473da6d95109cd503d98d937a.png" alt="" width="617" height="496"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9de2204473da6d95109cd503d98d937a.png" alt="" width="617" height="496" /></p>
 <p>Указываем основной сервер.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dd339cfe438ce96701e3feba7e3e7384.png" alt="" width="617" height="496"></p>
-<p>Выбираем топологию — полная сетка.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/99f33c26020e05a9d7f51093a60f7d78.png" alt="" width="613" height="493"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dd339cfe438ce96701e3feba7e3e7384.png" alt="" width="617" height="496" /></p>
+<p>Выбираем топологию &#8212; полная сетка.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/99f33c26020e05a9d7f51093a60f7d78.png" alt="" width="613" height="493" /></p>
 <p>Выбираем пропускную способность канала между серверами.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2fb75c7eedbc867e9a13fbfe96618618.png" alt="" width="616" height="497"></p>
-<p>Проверяем все, и выбираем — создать.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/65743735b410723427928a7f4d217373.png" alt="" width="612" height="493"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2fb75c7eedbc867e9a13fbfe96618618.png" alt="" width="616" height="497" /></p>
+<p>Проверяем все, и выбираем &#8212; создать.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/65743735b410723427928a7f4d217373.png" alt="" width="612" height="493" /></p>
 <p>Если все прошло успешно, то вы увидите это:</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/307f518b91aa328d726e0a811efa99bb.png" alt="" width="617" height="496"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/307f518b91aa328d726e0a811efa99bb.png" alt="" width="617" height="496" /></p>
 <p>Для отказоустойчивости добавим пространство имен для отображения, на 2-м нашем сервере.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/919c1afccc6d498c779e81848bec5349.png" alt="" width="419" height="181"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/919c1afccc6d498c779e81848bec5349.png" alt="" width="419" height="181" /></p>
 <p>И выберем наше пространство имен.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3176cf3ab3b01e194aa893aa912743f7.png" alt="" width="372" height="419"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3176cf3ab3b01e194aa893aa912743f7.png" alt="" width="372" height="419" /></p>
 <p>Должно получится так.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a4853dca453b56d939e4866f552efdb6.png" alt="" width="338" height="96"></p>
-<p>Теперь добавьте 2-й в «серверы пространства имен» на основном сервере.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b04153c5c60561ecea3169cf88175028.png" alt="" width="787" height="467"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/a4853dca453b56d939e4866f552efdb6.png" alt="" width="338" height="96" /></p>
+<p>Теперь добавьте 2-й в &#171;серверы пространства имен&#187; на основном сервере.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b04153c5c60561ecea3169cf88175028.png" alt="" width="787" height="467" /></p>
 <p>Теперь пространство имен будет доступно на 2-х серверах.</p>
 <p>Также обратите внимание, что настройки диспетчера ресурсов файлового сервера, настройки ABE, не реплицируются на 2-й сервер.</p>
 <p>Настройку данного сервера нужно будет производить заново.</p>
-<p>Также помните, что DFS репликация файлов работает по принципу — кто последний тот и прав.</p>
+<p>Также помните, что DFS репликация файлов работает по принципу &#8212; кто последний тот и прав.</p>
 <p>Например, если 2 пользователя одновременно отредактируют или создадут один и тот же файл, то DFS реплицирует тот файл, который был создан последним.</p>
 <p>А предыдущий файл будет сохранен в папке DfsrPrivate\ConflictandDeleted на сервере разрешившем проблему.</p>
 <p>На этом все!  Удачной настройки!</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=76.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Сброс пароля администратора Active Directory" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Сброс пароля администратора Active Directory</div></div></a><a class="relpost-block-single" href="../index.html@p=158.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Создание индивидуальных адресных книг в Office 365 и Exchange online" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Создание индивидуальных адресных книг в Office 365 и Exchange online</div></div></a><a class="relpost-block-single" href="../index.html@p=103.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Перенос базы данных Active Directory" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Перенос базы данных Active Directory</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=168.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Добавление почтовых контактов в Office 365 через Powershell и CSV"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Добавление почтовых контактов в Office 365 через Powershell и CSV</div></div></a><a class="relpost-block-single" href="../index.html@p=88.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Управление репликацией Active Directory"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Управление репликацией Active Directory</div></div></a><a class="relpost-block-single" href="../index.html@p=584.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Автоматический аудит компьютеров в Active Directory через powershell."  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Автоматический аудит компьютеров в Active Directory через powershell.</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
         <div class="post-info">
 
             <div class="left"> <a href="../category/active-directory/index.html" rel="category tag">Active Directory</a>, <a href="../category/windows/index.html" rel="category tag">Windows</a>, <a href="../category/windows-server/index.html" rel="category tag">Windows Server</a> </div>
@@ -889,7 +897,7 @@ body.custom-background { background-color: #cecece; }
     <section id="comment-1213" class="comment odd alt thread-even depth-1 post-article" >
     
         <div class="comment-avatar">
-            <img alt='' src='http://1.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' loading='lazy'/>        </div>
+            <img alt='' src='http://0.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' loading='lazy'/>        </div>
          
         <div class="comment-text" style=" padding:15px; border:none">
             
@@ -1018,7 +1026,7 @@ body.custom-background { background-color: #cecece; }
     <section id="comment-1441" class="comment odd alt thread-even depth-1 post-article" >
     
         <div class="comment-avatar">
-            <img alt='' src='http://0.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' loading='lazy'/>        </div>
+            <img alt='' src='http://0.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' loading='lazy'/>        </div>
          
         <div class="comment-text" style=" padding:15px; border:none">
             
@@ -1501,7 +1509,7 @@ body.custom-background { background-color: #cecece; }
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='270' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='6324' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="05372b2863" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="209"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="3fa198431c" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="249"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->

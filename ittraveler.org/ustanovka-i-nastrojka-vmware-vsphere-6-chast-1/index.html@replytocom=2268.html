@@ -273,42 +273,46 @@ body.custom-background { background-color: #cecece; }
 
 
 
-	<p>В данном цикле статей, мы рассмотрим как с нуля внедрить <a href="../tag/vmware/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with vmware">vmware</a> <a href="../tag/vsphere/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with vsphere">vsphere</a> 6.<span id="more-352"></span></p>
+	<p>В данном цикле статей, мы рассмотрим как с нуля внедрить VMware Vsphere 6.<span id="more-352"></span></p>
 <p>В данной статье мы рассмотрим:</p>
 <p>Установку хоста ESXI</p>
 <p>Установку Platform Services Controller</p>
 <p>Установку Vcenter 6</p>
-<p> </p>
+<p>&nbsp;</p>
 <p style="text-align: center;"><strong>Установка ESXI.</strong></p>
 <p>Загрузитесь с установочного диска ESXI.</p>
 <p>Нажмите Enter в меню загрузки, и дождитесь пока загрузится образ ESXI</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/daa4b8bc52698afd0a4b5732d94675c4.png" alt="" width="826" height="353"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/daa4b8bc52698afd0a4b5732d94675c4.png" alt="" width="826" height="353" /></p>
 <p>После загрузки образа нажмите Enter, далее нажмите F11 для принятия пользовательского соглашения.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/036318d797594c54f7bb6c5ca15ce595.png" alt="" width="530" height="390"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/036318d797594c54f7bb6c5ca15ce595.png" alt="" width="530" height="390" /></p>
 <p>Далее выбираем диск для установки</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3e8dc7f878663bbd4085e16bc05d71b1.png" alt="" width="644" height="355"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3e8dc7f878663bbd4085e16bc05d71b1.png" alt="" width="644" height="355" /></p>
 <p>Далее выбираем раскладку клавиатуры</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5daab3bed08bacf22853dd5aeacb71db.png" alt="" width="408" height="271"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5daab3bed08bacf22853dd5aeacb71db.png" alt="" width="408" height="271" /></p>
 <p>Вводим root пароль</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/96d849da92c00acaf8dd562947d6badf.png" alt="" width="458" height="231"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/96d849da92c00acaf8dd562947d6badf.png" alt="" width="458" height="231" /></p>
 <p>Если в процессе установки вы увидите следующую ошибку:</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fd10d2e09145bee1ba0eb75a24ad83fa.png" alt="" width="560" height="334"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fd10d2e09145bee1ba0eb75a24ad83fa.png" alt="" width="560" height="334" /></p>
 <p>То ваш сервер не поддерживает аппаратную виртуализацию, и не сможет запускать 64 битные ОС.</p>
 <p>В конце мастера установки нажимаем F11 и ждем окончания установки.</p>
 <p>После завершения установки и перезагрузки, нажимаем F2 и переходим к настройке хоста.</p>
 <p>Переходим к настройке сети</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/74068d29f38de7ae8083dfaa0a09fc0e.png" alt="" width="318" height="345"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/74068d29f38de7ae8083dfaa0a09fc0e.png" alt="" width="318" height="345" /></p>
 <p>Указываем все сетевые адаптеры</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9ae7a488b7a3310590207d972bf5707a.png" alt="" width="620" height="328"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9ae7a488b7a3310590207d972bf5707a.png" alt="" width="620" height="328" /></p>
 <p>Устанавливаем VLAN</p>
 <p>Прописываем настройки ip</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b5fd746feadde74225b925cdcf93beb0.png" alt="" width="635" height="283"></p>
-<p>Указываем <a href="../tag/dns/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DNS">dns</a> сервера.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5d209ad37b9070e23a8bffde39bc3902.png" alt="" width="634" height="282"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b5fd746feadde74225b925cdcf93beb0.png" alt="" width="635" height="283" /></p>
+<p>Указываем DNS сервера.</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5d209ad37b9070e23a8bffde39bc3902.png" alt="" width="634" height="282" /></p>
 <p>Сохраняем настройки. На данном этапе настройка хоста ESXI завершена.</p>
-<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
-<!-- Home ittraveler --><br>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1890562251101921" data-ad-slot="9117958896" data-ad-format="auto"></ins><br>
+<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- Home ittraveler --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins><br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
@@ -317,65 +321,69 @@ body.custom-background { background-color: #cecece; }
 <p>Перед установкой создайте в локальной  DNS зоне A запись и PTR запись для Platform Services Controller</p>
 <p>Я создам запись psc.test1.local</p>
 <p>Теперь подключаем диск VMware-VCSA-all-6.0.0</p>
-<p>Установите с диска плагин — VMware-ClientIntegrationPlugin-6.0.0</p>
+<p>Установите с диска плагин &#8212; VMware-ClientIntegrationPlugin-6.0.0</p>
 <p>Далее запускаем файл vcsa-setup.html</p>
 <p>Я буду использовать браузер Google Chrome.</p>
 <p>Вы должны увидеть страницу установки</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3635619b92ab39b0b06a49763a7a0f1e.png" alt="" width="595" height="419"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3635619b92ab39b0b06a49763a7a0f1e.png" alt="" width="595" height="419" /></p>
 <p>Выбираем Install.</p>
 <p>Принимаем условия соглашения</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f37b328319ffdac7451d92c16c566065.png" alt="" width="875" height="569"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f37b328319ffdac7451d92c16c566065.png" alt="" width="875" height="569" /></p>
 <p>Вводим данные для подключения к серверу ESXI</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2ea68069cb4872138c71524f6982e463.png" alt="" width="880" height="567"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/2ea68069cb4872138c71524f6982e463.png" alt="" width="880" height="567" /></p>
 <p>Принимаем сертификат.</p>
 <p>Вводим название нашей виртуальной машины</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c0afb7bd8353a810ff4f4e7be146b010.png" alt="" width="688" height="333"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c0afb7bd8353a810ff4f4e7be146b010.png" alt="" width="688" height="333" /></p>
 <p>Далее выбираем External Platform Services Controller, т.к. в нашем случае контроллер будет устанавливаться отдельно.</p>
-<p>Создаем новый SSO домен. Внимание имя домена должно отличаться от имени домена <a href="../tag/active-directory/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with Active Directory">active directory</a>!</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ad3251f7d0c40c290998d13da79f990.png" alt="" width="847" height="419"></p>
+<p>Создаем новый SSO домен. Внимание имя домена должно отличаться от имени домена Active Directory!</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ad3251f7d0c40c290998d13da79f990.png" alt="" width="847" height="419" /></p>
 <p>Нажимаем Next, и включаем тонкие диски, если вам не нужно занимать все дисковое пространство сразу.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/16899607791b829bb1416c3db53c2b8d.png" alt="" width="870" height="550"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/16899607791b829bb1416c3db53c2b8d.png" alt="" width="870" height="550" /></p>
 <p>Настраиваем сеть виртуальной машины</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/38a9f3c4c8ab3698428eca496e1ca3df.png" alt="" width="762" height="461"></p>
-<p>Указываем NTP сервера, и включаем <a href="../tag/ssh/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with ssh">ssh</a> если необходимо управлять виртуальной машиной удаленно</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/915d9b69f295cc1b6a0af1019e17e850.png" alt="" width="510" height="130"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/38a9f3c4c8ab3698428eca496e1ca3df.png" alt="" width="762" height="461" /></p>
+<p>Указываем NTP сервера, и включаем SSH если необходимо управлять виртуальной машиной удаленно</p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/915d9b69f295cc1b6a0af1019e17e850.png" alt="" width="510" height="130" /></p>
 <p>Далее пойдет процесс загрузки VM на хост ESXI</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d9cf5d0860ab84ed86241542f6e86638.png" alt="" width="873" height="250"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d9cf5d0860ab84ed86241542f6e86638.png" alt="" width="873" height="250" /></p>
 <p>Дождитесь пока установка не закончится</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c4a55e09d4a62466f4e118e08759e74d.png" alt="" width="804" height="322"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c4a55e09d4a62466f4e118e08759e74d.png" alt="" width="804" height="322" /></p>
 <p style="text-align: center;"><strong>Установка Vcenter</strong></p>
 <p>Теперь снова запустим файл vcsa-setup.html и начнем установку Vcenter.</p>
 <p>Перед установкой создайте в локальной  DNS зоне A запись и PTR запись для Platform Services Controller</p>
 <p>Я создам запись vcenter.test1.local</p>
 <p>Доходим до шага настройки имени виртуальной машины</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6d00650a233ae1f3644012174bca2331.png" alt="" width="703" height="318"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6d00650a233ae1f3644012174bca2331.png" alt="" width="703" height="318" /></p>
 <p>Далее выбираем установку отдельного сервера Vcenter</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c951ba94d0c53a4b06cedabcb46e30c2.png" alt="" width="864" height="546"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c951ba94d0c53a4b06cedabcb46e30c2.png" alt="" width="864" height="546" /></p>
 <p>Вводим данные установленного ранее PSC контроллера</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/117c41b834ac90111655e6527b984868.png" alt="" width="858" height="392"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/117c41b834ac90111655e6527b984868.png" alt="" width="858" height="392" /></p>
 <p>Выбираем размер Vcenter (зависит от вашей планируемой инфраструктуры)</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b483ae89c8a444b17914d104ac4ceac0.png" alt="" width="869" height="321"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b483ae89c8a444b17914d104ac4ceac0.png" alt="" width="869" height="321" /></p>
 <p>Включаем тонкие диски если необходимо.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/73f3f0ea4cc77b18fb3218abd103a170.png" alt="" width="868" height="550"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/73f3f0ea4cc77b18fb3218abd103a170.png" alt="" width="868" height="550" /></p>
 <p>Если у вас нет оракла, то используем Postgres</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b91689280e2e612a5ed47cbba719d082.png" alt="" width="520" height="291"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b91689280e2e612a5ed47cbba719d082.png" alt="" width="520" height="291" /></p>
 <p>Указываем сетевые настройки, и включаем SSH для удаленного администрирования сервера через консоль.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4170ab182a01c29f3da82d94e2f92333.png" alt="" width="740" height="459"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3461d52ef544f434bf0b41c96367e50d.png" alt="" width="482" height="136"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4170ab182a01c29f3da82d94e2f92333.png" alt="" width="740" height="459" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/3461d52ef544f434bf0b41c96367e50d.png" alt="" width="482" height="136" /></p>
 <p>Подтверждаем установку и ждем ее завершения.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5c280d20a0ed5872e037d8b407b70a7b.png" alt="" width="822" height="254"></p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8cb64ed056b1b2a2b9598a2d4b284712.png" alt="" width="869" height="412"></p>
-<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br>
-<!-- Home ittraveler --><br>
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1890562251101921" data-ad-slot="9117958896" data-ad-format="auto"></ins><br>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5c280d20a0ed5872e037d8b407b70a7b.png" alt="" width="822" height="254" /></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8cb64ed056b1b2a2b9598a2d4b284712.png" alt="" width="869" height="412" /></p>
+<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- Home ittraveler --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins><br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
 <p>Теперь можно подключиться к VCENTER через браузер.</p>
 <p>После перехода по ссылке и авторизации, вы попадете в интерфейс Vcenter.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fc09a6bb813422cf6a637283a1fd0db7.png" alt="" width="1036" height="592"></p>
+<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fc09a6bb813422cf6a637283a1fd0db7.png" alt="" width="1036" height="592" /></p>
 <p>В следующей статье мы рассмотрим базовую настройку Vcenter и хостов ESXI.</p>
-<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=1192.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Запуск команд внутри гостевых ОС в гипервизоре KVM на примере Proxmox" style="background: transparent url(../wp-content/uploads/2020/04/qemu-enabled_bh05gc-150x150.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Запуск команд внутри гостевых ОС в гипервизоре KVM на примере Proxmox</div></div></a><a class="relpost-block-single" href="../index.html@p=1164.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Перенос виртуальной машины из Hyper-V в Proxmox (KVM)" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Перенос виртуальной машины из Hyper-V в Proxmox (KVM)</div></div></a><a class="relpost-block-single" href="../index.html@p=356.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка VMWare Vsphere 6. Часть 2" style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text" style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка VMWare Vsphere 6. Часть 2</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="../index.html@p=1276.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="QEMU/KVM проброс физического диска гипевизора в виртуальную машину"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">QEMU/KVM проброс физического диска гипевизора в виртуальную машину</div></div></a><a class="relpost-block-single" href="../index.html@p=356.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка VMWare Vsphere 6. Часть 2"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка VMWare Vsphere 6. Часть 2</div></div></a><a class="relpost-block-single" href="../index.html@p=457.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Настройка HA кластера Hyper-V"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Настройка HA кластера Hyper-V</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
         <div class="post-info">
 
             <div class="left"> <a href="../category/virtualizaciya/index.html" rel="category tag">Виртуализация</a> </div>
@@ -609,7 +617,7 @@ ESXI поставил на голое железо.</p>
 <p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='352' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='2268' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="f73fa8713a" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="79"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="114094d02c" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="105"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
 	
 <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->
