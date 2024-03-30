@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryАудит незаполненных полей в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Сброс пароля администратора Active DirectoryСброс настроек GPO на стандартныеСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

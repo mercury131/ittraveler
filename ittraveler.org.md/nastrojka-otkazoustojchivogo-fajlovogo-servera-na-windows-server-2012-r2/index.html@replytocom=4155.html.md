@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУстановка и настройка Lync 2013Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

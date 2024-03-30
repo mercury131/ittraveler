@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOОтключение Skype UI в Lync 2013Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Добавление UPN суффикса в Active DirectoryУправление репликацией Active DirectoryНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
