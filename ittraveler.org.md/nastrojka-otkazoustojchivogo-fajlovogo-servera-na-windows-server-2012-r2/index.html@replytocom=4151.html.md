@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryОбновление схемы Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Добавление UPN суффикса в Active DirectoryАудит незаполненных полей в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
