@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Установка и настройка кластера MSSQL 2012.Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Передача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

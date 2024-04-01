@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Обновление схемы Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Настройка HA кластера Hyper-VActive Directory + Thunderbird = Общая адресная книга
+Related posts:Решаем проблему внезапной блокировки учетной записиУстановка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

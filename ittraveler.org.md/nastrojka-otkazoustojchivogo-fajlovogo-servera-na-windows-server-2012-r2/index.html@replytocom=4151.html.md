@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryАудит незаполненных полей в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Перенос базы данных Active DirectoryУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
