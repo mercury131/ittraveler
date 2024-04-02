@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressРешаем проблему внезапной блокировки учетной записи
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

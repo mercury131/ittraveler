@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellПодключение к Office 365 через Powershell и зашифрованный парольУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Аудит изменений в Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

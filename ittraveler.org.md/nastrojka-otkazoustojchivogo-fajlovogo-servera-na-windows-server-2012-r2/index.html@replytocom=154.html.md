@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиУстановка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Автоматическая активация пользователей Lync через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

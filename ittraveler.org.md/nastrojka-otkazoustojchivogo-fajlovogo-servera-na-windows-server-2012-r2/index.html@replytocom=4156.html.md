@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка RSAT на Windows 10 1809Windows WSL подключение к сетевым шарам
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит незаполненных полей в Active Directory через PowershellСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

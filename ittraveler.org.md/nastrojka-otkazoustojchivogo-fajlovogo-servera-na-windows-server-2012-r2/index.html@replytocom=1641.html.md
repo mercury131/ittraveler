@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleПодключение к Office 365 через Powershell и зашифрованный парольВосстановление объектов Active Directory: сборник сценариев
+Related posts:Сброс настроек GPO на стандартныеАудит незаполненных полей в Active Directory через PowershellОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

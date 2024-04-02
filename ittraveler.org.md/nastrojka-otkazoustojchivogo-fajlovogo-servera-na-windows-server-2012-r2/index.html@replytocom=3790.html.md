@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Аудит изменений групповых политик через PowerShell
+Related posts:Включение корзины Active DirectoryИзменение UPN суффикса в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

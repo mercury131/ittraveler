@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматическая активация пользователей Lync через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Решаем проблему внезапной блокировки учетной записиАктивируем LDAP over SSL
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILActive Directory + Thunderbird = Общая адресная книгаКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка RSAT на Windows 10 1809
+Related posts:Настройка HA кластера Hyper-VАвтоматический аудит компьютеров в Active Directory через powershell.Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

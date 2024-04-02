@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Перенос базы данных Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Установка и настройка AnsibleАвтоматизируем бэкап баз данных MSSQL ExpressСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

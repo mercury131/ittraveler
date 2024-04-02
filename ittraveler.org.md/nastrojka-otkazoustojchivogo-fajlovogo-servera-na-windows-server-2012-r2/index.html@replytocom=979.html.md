@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Добавление почтовых контактов в Office 365 через Powershell и CSVWindows WSL подключение к сетевым шарам
+Related posts:Сброс настроек GPO на стандартныеАудит DNS серверов на Windows Server 2008 R2 через PowershellИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

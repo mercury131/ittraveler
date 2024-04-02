@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-VПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка Scale-Out File Server + Storage Spaces DirectНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

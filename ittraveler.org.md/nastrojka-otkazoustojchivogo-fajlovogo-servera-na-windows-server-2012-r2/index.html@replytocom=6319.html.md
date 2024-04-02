@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка кластера MSSQL 2012.Перенос базы данных Active Directory
+Related posts:Windows WSL подключение к сетевым шарамОбновление Lync 2013 до Skype for BusinessНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
