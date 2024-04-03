@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка Scale-Out File Server + Storage Spaces DirectНастройка Kerberos авторизации в Apache2
+Related posts:Windows WSL подключение к сетевым шарамПередача и захват ролей FSMOСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

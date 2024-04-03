@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит незаполненных полей в Active Directory через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Новые компьютеры не появляются на WSUS сервереВключение корзины Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

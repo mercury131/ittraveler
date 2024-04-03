@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Отключение Skype UI в Lync 2013Сброс настроек GPO на стандартные
+Related posts:Настройка Kerberos авторизации в Apache2Аудит незаполненных полей в Active Directory через PowershellУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

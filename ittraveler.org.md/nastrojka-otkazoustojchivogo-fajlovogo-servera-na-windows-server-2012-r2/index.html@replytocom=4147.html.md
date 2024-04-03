@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Создание пользователей Active Directory через CSV файлАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

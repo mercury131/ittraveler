@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматическая активация пользователей Lync через PowershellСоздание email рассылки через Powershell
+Related posts:Создание email рассылки через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

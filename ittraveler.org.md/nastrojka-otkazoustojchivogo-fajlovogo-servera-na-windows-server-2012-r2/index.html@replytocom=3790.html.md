@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryИзменение UPN суффикса в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка AnsibleДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

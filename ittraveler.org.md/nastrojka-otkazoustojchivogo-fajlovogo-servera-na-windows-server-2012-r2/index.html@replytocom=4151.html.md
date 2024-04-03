@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАвтоматизируем бэкап баз данных MSSQL ExpressСоздание шаблонов Zabbix для Windows.
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

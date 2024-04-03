@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит незаполненных полей в Active Directory через PowershellСброс пароля администратора Active Directory
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание email рассылки через PowershellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

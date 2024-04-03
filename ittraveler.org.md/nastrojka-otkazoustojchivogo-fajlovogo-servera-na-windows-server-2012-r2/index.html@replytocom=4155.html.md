@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Перенос базы данных Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка Kerberos авторизации в Apache2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

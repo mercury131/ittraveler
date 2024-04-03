@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка AnsibleОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryСоздание шаблонов Zabbix для Windows.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

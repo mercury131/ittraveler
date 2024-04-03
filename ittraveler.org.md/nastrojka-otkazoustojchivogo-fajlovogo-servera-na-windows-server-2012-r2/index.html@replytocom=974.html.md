@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПереход на репликацию SYSVOL по DFSПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILActive Directory + Thunderbird = Общая адресная книгаАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VАвтоматический аудит компьютеров в Active Directory через powershell.Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
+Related posts:Аудит незаполненных полей в Active Directory через PowershellОбновление Lync 2013 до Skype for BusinessНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

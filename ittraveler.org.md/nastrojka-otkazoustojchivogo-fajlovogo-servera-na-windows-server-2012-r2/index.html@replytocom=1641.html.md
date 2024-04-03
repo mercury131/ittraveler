@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеАудит незаполненных полей в Active Directory через PowershellОтключение Skype UI в Lync 2013
+Related posts:Создание шаблонов Zabbix для Windows.Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

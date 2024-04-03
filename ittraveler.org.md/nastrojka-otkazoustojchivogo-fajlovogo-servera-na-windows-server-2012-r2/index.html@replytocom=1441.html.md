@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка Lync 2013Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

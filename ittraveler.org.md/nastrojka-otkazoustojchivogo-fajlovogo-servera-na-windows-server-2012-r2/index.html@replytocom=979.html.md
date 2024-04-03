@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеАудит DNS серверов на Windows Server 2008 R2 через PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПолучаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

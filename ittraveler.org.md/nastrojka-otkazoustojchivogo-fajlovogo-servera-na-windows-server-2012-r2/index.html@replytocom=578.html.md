@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Обновление схемы Active DirectoryАудит незаполненных полей в Active Directory через PowershellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

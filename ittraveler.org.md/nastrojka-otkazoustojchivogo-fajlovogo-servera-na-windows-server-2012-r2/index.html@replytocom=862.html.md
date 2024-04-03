@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Аудит изменений в Active DirectoryУправление репликацией Active Directory
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание шаблонов Zabbix для Windows.Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

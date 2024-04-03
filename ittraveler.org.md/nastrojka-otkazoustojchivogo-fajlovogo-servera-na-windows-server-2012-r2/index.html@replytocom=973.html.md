@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Настройка Kerberos авторизации в Apache2
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Удаление Lync Server 2013Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
