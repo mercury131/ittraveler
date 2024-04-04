@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание шаблонов Zabbix для Windows.Добавление UPN суффикса в Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellПередача и захват ролей FSMOСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

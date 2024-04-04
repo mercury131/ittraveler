@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОбновление Lync 2013 до Skype for BusinessУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Перенос базы данных Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

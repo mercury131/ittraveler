@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамПередача и захват ролей FSMOСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматическая активация пользователей Lync через PowershellПередача и захват ролей FSMOПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
