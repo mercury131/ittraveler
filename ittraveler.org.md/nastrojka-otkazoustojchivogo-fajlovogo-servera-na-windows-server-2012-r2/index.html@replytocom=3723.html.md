@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellСоздание email рассылки через PowershellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Передача и захват ролей FSMOАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

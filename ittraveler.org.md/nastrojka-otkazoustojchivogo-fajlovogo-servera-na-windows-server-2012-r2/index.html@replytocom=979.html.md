@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryСброс настроек GPO на стандартныеНастройка HA кластера Hyper-V
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

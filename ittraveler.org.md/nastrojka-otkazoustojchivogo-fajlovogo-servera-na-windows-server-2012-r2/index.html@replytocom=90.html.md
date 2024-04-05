@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Передача и захват ролей FSMO
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

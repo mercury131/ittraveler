@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевКастомизация гостевых ОС Windows в KVM на примере ProxmoxОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

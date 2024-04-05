@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Windows WSL подключение к сетевым шарам
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressWindows WSL подключение к сетевым шарамСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

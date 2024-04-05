@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Настройка HA кластера Hyper-VПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Перенос базы данных Active DirectoryПереход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка AnsibleОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

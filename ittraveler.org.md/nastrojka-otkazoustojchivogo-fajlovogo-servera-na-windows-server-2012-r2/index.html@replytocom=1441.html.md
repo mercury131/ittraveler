@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOДобавление почтовых контактов в Office 365 через Powershell и CSVАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Отключение Skype UI в Lync 2013Новые компьютеры не появляются на WSUS сервереОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

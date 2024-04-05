@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереАудит незаполненных полей в Active Directory через PowershellПеренос базы данных Active Directory
+Related posts:Изменение UPN суффикса в Active Directory через PowershellСоздание пользователей Active Directory через CSV файлДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

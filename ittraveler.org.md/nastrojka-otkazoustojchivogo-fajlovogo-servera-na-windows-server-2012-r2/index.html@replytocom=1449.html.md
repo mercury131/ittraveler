@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSКастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит незаполненных полей в Active Directory через Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиСброс пароля компьютера в домене без перезагрузкиВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

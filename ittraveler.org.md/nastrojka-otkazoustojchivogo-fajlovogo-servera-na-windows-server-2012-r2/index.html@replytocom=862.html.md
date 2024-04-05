@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellПередача и захват ролей FSMOСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Установка RSAT на Windows 10 1809Перенос базы данных Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

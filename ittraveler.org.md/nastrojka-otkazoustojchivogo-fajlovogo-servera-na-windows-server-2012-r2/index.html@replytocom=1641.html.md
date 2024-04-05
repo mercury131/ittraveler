@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOАудит незаполненных полей в Active Directory через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Новые компьютеры не появляются на WSUS сервереПереход на репликацию SYSVOL по DFSУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
