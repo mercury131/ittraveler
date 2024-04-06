@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиСброс пароля компьютера в домене без перезагрузкиВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectВосстановление объектов Active Directory: сборник сценариевСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
