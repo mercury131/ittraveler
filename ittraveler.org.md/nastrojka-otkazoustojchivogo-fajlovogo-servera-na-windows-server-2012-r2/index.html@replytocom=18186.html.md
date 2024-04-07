@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание шаблонов Zabbix для Windows.Обновление Lync 2013 до Skype for Business
+Related posts:Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for BusinessActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

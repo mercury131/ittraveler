@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка RSAT на Windows 10 1809Аудит изменений в Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Аудит незаполненных полей в Active Directory через PowershellОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleНастройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Создание email рассылки через PowershellУстановка RSAT на Windows 10 1809Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleУдаление Lync Server 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Поиск старых почтовых ящиков в Exchange 2010Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
