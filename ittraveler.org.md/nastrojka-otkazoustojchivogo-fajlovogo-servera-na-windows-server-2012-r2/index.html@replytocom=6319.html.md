@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Создание email рассылки через PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Принудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

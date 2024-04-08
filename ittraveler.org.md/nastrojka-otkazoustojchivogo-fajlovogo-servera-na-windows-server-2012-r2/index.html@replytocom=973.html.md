@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Установка и настройка Lync 2013Решаем проблему внезапной блокировки учетной записи
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellWindows WSL подключение к сетевым шарамУстановка и настройка кластера MSSQL 2012.
+Related posts:Изменение UPN суффикса в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервереУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

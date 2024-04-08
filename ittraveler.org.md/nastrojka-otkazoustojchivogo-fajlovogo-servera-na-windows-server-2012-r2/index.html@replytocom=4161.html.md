@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
+Related posts:Передача и захват ролей FSMOАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

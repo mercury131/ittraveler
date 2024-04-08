@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for BusinessActive Directory + Thunderbird = Общая адресная книга
+Related posts:Обновление Lync 2013 до Skype for BusinessБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

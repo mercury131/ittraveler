@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлWindows WSL подключение к сетевым шарамВключение корзины Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание пользователей Active Directory через CSV файлОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

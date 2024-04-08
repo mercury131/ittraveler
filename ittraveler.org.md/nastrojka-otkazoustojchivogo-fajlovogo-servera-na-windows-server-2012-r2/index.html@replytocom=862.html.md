@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryУстановка RSAT на Windows 10 1809Отключение Skype UI в Lync 2013
+Related posts:Решаем проблему внезапной блокировки учетной записиУдаление Lync Server 2013Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

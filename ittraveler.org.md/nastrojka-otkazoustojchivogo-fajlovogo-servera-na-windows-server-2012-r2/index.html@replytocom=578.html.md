@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание email рассылки через PowershellУстановка и настройка Lync 2013
+Related posts:Перенос базы данных Active DirectoryУстановка RSAT на Windows 10 1809Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

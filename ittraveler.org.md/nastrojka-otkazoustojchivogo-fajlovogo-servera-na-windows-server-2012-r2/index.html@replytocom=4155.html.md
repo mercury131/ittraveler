@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOПодключение к Office 365 через Powershell и зашифрованный парольУправление репликацией Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

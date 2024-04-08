@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАудит доменных служб Active Directory в Windows Server 2008 R2Добавление UPN суффикса в Active Directory
+Related posts:Отключение Skype UI в Lync 2013Автоматическая активация пользователей Lync через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

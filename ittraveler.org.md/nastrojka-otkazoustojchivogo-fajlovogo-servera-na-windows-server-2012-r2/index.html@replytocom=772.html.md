@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУстановка и настройка AnsibleДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Аудит изменений групповых политик через PowerShellПринудительная синхронизация контроллеров домена Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

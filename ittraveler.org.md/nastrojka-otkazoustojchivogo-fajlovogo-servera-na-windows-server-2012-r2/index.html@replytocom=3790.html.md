@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Поиск старых почтовых ящиков в Exchange 2010Windows WSL подключение к сетевым шарам
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

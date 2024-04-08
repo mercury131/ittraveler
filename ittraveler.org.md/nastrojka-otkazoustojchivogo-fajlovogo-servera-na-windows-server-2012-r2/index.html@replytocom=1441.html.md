@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryАудит изменений в Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Добавление почтовых контактов в Office 365 через Powershell и CSVПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

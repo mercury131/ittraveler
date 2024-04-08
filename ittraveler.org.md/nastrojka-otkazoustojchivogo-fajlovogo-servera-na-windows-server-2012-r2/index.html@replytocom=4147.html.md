@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Настройка Kerberos авторизации в Apache2Установка RSAT на Windows 10 1809
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит DNS серверов на Windows Server 2008 R2 через PowershellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

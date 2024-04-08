@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessНастройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Решаем проблему внезапной блокировки учетной записиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

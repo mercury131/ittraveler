@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Scale-Out File Server + Storage Spaces DirectАудит изменений групповых политик через PowerShell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАудит изменений в Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

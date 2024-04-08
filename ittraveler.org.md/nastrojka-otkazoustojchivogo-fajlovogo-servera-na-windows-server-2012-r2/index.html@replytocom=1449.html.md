@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматическая активация пользователей Lync через PowershellВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

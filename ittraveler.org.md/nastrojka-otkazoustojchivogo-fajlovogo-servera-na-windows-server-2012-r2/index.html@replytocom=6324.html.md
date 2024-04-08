@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Управление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
