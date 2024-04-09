@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиУдаление Lync Server 2013Новые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Перенос базы данных Active DirectoryПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
