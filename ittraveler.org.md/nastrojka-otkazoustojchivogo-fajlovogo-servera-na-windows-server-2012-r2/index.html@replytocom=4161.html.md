@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSКак узнать WWN (World Wide Name)  в Windows Server 2012R2Управление репликацией Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Windows WSL подключение к сетевым шарамУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

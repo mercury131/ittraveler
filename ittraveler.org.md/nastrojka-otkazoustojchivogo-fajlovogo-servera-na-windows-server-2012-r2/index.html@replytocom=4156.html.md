@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАудит доменных служб Active Directory в Windows Server 2008 R2Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Установка и настройка кластера MSSQL 2012.Создание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

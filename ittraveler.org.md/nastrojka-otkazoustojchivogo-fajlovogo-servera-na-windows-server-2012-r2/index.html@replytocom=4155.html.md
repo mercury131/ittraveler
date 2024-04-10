@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит изменений групповых политик через PowerShell
+Related posts:Удаление Lync Server 2013Установка и настройка кластера MSSQL 2012.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

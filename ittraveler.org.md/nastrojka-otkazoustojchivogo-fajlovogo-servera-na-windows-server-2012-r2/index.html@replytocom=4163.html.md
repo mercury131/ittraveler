@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VНастройка Kerberos авторизации в Apache2Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Создание пользователей Active Directory через CSV файлПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

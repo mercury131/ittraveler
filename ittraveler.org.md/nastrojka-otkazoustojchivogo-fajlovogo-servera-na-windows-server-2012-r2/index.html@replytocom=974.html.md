@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание шаблонов Zabbix для Windows.Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка кластера MSSQL 2012.Аудит изменений в Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

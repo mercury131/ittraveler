@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматический аудит компьютеров в Active Directory через powershell.Сброс пароля компьютера в домене без перезагрузки
+Related posts:Получаем MD5 файла или переменной в PowershellСоздание пользователей Active Directory через CSV файлБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

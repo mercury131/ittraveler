@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиНовые компьютеры не появляются на WSUS сервереСоздание шаблонов Zabbix для Windows.
+Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка AlwaysOn на MS SQL 2016Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
