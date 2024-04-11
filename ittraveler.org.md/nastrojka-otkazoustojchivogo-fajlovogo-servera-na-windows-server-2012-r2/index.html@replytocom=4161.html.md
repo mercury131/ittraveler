@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Windows WSL подключение к сетевым шарамУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Установка и настройка кластера MSSQL 2012.Включение корзины Active DirectoryНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

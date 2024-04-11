@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellСоздание пользователей Active Directory через CSV файлБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПередача и захват ролей FSMOБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

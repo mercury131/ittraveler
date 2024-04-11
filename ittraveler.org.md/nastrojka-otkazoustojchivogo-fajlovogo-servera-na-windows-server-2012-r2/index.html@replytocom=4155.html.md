@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Установка и настройка кластера MSSQL 2012.Создание пользователей Active Directory через CSV файл
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Обновление схемы Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание пользователей Active Directory через CSV файлКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПередача и захват ролей FSMOСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
