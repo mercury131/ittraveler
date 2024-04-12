@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Активируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книгаНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

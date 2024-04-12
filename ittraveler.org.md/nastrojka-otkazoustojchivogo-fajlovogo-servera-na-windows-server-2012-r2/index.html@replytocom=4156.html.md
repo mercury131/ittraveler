@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений групповых политик через PowerShell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Передача и захват ролей FSMOАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

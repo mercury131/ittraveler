@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Обновление схемы Active DirectoryУдаление Lync Server 2013
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Сброс настроек GPO на стандартныеWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

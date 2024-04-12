@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПринудительная синхронизация Office 365 и локальной Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка кластера MSSQL 2012.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

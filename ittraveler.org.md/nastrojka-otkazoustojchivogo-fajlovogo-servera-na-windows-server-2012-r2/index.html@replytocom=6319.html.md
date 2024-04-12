@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Обновление Lync 2013 до Skype for BusinessОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

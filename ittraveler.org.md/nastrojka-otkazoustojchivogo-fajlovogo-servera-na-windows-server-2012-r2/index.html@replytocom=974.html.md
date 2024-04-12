@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellУстановка RSAT на Windows 10 1809Создание email рассылки через Powershell
+Related posts:Передача и захват ролей FSMOВосстановление объектов Active Directory: сборник сценариевНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

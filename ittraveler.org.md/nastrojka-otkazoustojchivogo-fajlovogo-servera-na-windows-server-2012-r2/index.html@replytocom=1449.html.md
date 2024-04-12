@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellСброс пароля компьютера в домене без перезагрузкиWindows WSL подключение к сетевым шарам
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПеренос базы данных Active DirectoryОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

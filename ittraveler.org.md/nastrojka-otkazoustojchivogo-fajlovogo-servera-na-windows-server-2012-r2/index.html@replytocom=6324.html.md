@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Удаление Lync Server 2013Создание шаблонов Zabbix для Windows.
+Related posts:Передача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

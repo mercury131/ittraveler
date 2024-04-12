@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Активируем LDAP over SSLУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит изменений групповых политик через PowerShellВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
