@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПередача и захват ролей FSMOАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиДобавление UPN суффикса в Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

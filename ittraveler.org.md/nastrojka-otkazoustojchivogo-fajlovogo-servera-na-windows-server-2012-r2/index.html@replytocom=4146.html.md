@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOНовые компьютеры не появляются на WSUS сервереРешаем проблему внезапной блокировки учетной записи
+Related posts:Отключение Skype UI в Lync 2013Создание пользователей Active Directory через CSV файлНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
