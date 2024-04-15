@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Получаем MD5 файла или переменной в PowershellУправление репликацией Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellДобавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

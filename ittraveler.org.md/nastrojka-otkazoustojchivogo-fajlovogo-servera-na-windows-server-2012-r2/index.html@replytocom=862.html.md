@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Сброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Решаем проблему внезапной блокировки учетной записиИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиОбновление Lync 2013 до Skype for BusinessКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Отключение Skype UI в Lync 2013Сброс пароля компьютера в домене без перезагрузкиПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

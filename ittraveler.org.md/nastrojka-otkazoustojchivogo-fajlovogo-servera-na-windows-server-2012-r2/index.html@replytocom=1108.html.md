@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Переход на репликацию SYSVOL по DFS
+Related posts:Сброс настроек GPO на стандартныеСоздание шаблонов Zabbix для Windows.Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
