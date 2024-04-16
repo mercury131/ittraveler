@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellДобавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Обновление схемы Active DirectoryПолучаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

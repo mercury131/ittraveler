@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка Lync 2013Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

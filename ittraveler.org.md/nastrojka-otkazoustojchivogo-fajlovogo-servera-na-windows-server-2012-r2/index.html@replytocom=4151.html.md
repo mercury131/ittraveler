@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Сброс пароля компьютера в домене без перезагрузкиПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольОбновление Lync 2013 до Skype for BusinessАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Переход на репликацию SYSVOL по DFS
+Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка Lync 2013Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
