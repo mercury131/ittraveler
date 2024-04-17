@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка Lync 2013Настройка HA кластера Hyper-V
+Related posts:Передача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

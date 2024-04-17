@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматизируем бэкап баз данных MSSQL ExpressВосстановление объектов Active Directory: сборник сценариев
+Related posts:Удаление Lync Server 2013Обновление схемы Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

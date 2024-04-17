@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryПолучаем MD5 файла или переменной в PowershellУстановка и настройка кластера MSSQL 2012.
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля компьютера в домене без перезагрузкиПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

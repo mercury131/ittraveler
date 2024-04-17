@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаСброс настроек GPO на стандартныеАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматическая активация пользователей Lync через PowershellАудит доменных служб Active Directory в Windows Server 2008 R2Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

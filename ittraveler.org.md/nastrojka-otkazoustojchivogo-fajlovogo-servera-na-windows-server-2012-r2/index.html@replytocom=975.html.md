@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка HA кластера Hyper-VУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

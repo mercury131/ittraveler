@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиВосстановление объектов Active Directory: сборник сценариевАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Создание индивидуальных адресных книг в Office 365 и Exchange onlineВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

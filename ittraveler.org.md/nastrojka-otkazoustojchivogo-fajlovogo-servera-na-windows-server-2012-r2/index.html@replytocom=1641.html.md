@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Решаем проблему внезапной блокировки учетной записиСброс настроек GPO на стандартныеЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

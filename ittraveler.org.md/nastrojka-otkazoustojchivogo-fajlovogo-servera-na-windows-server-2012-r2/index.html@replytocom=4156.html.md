@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Обновление схемы Active Directory
+Related posts:Установка и настройка кластера MSSQL 2012.Решаем проблему внезапной блокировки учетной записиСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
