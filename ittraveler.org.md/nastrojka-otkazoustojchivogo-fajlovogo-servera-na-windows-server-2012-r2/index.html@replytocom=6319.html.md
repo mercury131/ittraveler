@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеСоздание email рассылки через PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Включение корзины Active DirectoryУстановка RSAT на Windows 10 1809Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
