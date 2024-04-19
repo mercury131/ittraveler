@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryУстановка RSAT на Windows 10 1809Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Решаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

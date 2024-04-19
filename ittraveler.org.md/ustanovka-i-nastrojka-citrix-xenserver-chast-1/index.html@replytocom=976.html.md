@@ -112,7 +112,7 @@ XenServer поддерживает живую миграцию без общих
 В следующей статье мы рассмотрим интеграцию с Active Directory, настройку пулов серверов, настройку HA, и подключение общих хранилищ.
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка VMWare Vsphere 6. Часть 4Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Настройка ZFS в ProxmoxУстановка и настройка VMWare Vsphere 6. Часть 2Настройка HA кластера Hyper-V
         
              Виртуализация 
              Метки: XenServer, Виртуализация  
