@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Сброс пароля компьютера в домене без перезагрузкиБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Windows WSL подключение к сетевым шарамНазначение служб для сертификатов Exchange через Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

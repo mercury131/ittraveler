@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Аудит доменных служб Active Directory в Windows Server 2008 R2Переход на репликацию SYSVOL по DFS
+Related posts:Создание email рассылки через PowershellWindows WSL подключение к сетевым шарамОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание email рассылки через Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Включение корзины Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

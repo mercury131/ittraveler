@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFSСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

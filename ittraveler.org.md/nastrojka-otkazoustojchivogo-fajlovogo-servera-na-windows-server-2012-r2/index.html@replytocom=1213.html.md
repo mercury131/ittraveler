@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариевАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание индивидуальных адресных книг в Office 365 и Exchange onlineДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

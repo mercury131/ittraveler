@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOПодключение к Office 365 через Powershell и зашифрованный парольОтключение Skype UI в Lync 2013
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАктивируем LDAP over SSLОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

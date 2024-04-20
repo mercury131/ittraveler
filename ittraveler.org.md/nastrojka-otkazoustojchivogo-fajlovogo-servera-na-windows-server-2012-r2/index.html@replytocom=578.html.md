@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOПолучаем MD5 файла или переменной в PowershellДобавление UPN суффикса в Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

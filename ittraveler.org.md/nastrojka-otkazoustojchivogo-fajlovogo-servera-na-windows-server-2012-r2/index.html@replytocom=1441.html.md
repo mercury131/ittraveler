@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматическая активация пользователей Lync через PowershellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectНастройка Kerberos авторизации в Apache2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

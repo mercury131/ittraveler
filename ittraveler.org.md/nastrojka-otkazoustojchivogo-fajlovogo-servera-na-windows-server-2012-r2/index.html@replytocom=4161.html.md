@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Обновление схемы Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

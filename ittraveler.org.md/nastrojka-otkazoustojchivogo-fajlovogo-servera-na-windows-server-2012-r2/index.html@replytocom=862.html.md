@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка растянутого кластера (stretch-cluster) на Windows server 2016Включение корзины Active Directory
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineИзменение UPN суффикса в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

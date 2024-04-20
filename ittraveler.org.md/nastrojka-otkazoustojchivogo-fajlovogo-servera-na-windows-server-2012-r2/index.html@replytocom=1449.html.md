@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryДобавление UPN суффикса в Active Directory
+Related posts:Активируем LDAP over SSLПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

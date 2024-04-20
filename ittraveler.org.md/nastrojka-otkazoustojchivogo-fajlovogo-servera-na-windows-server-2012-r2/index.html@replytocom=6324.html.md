@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка дедупликации  на Windows Server 2012 R2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлКастомизация гостевых ОС Windows в KVM на примере ProxmoxОбновление схемы Active Directory
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка Lync 2013Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
