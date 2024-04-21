@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFSСоздание пользователей Active Directory через CSV файл
+Related posts:Установка и настройка AnsibleАктивируем LDAP over SSLWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
