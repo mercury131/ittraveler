@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Принудительная синхронизация контроллеров домена Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Новые компьютеры не появляются на WSUS сервереПоиск старых почтовых ящиков в Exchange 2010Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

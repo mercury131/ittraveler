@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАктивируем LDAP over SSLWindows WSL подключение к сетевым шарам
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка Scale-Out File Server + Storage Spaces DirectПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

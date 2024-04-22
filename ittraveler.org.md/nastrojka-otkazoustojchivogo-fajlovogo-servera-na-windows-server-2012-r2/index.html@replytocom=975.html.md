@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит DNS серверов на Windows Server 2008 R2 через PowershellВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

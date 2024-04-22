@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка кластера MSSQL 2012.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Установка RSAT на Windows 10 1809Установка и настройка дедупликации  на Windows Server 2012 R2Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

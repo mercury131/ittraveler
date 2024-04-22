@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Переход на репликацию SYSVOL по DFS
+Related posts:Создание email рассылки через PowershellПеренос базы данных Active DirectoryНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

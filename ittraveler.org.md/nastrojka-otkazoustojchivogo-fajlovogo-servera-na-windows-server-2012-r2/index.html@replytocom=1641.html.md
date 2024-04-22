@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Обновление Lync 2013 до Skype for Business
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПереход на репликацию SYSVOL по DFSСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

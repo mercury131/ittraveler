@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryАвтоматическая активация пользователей Lync через PowershellАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Решаем проблему внезапной блокировки учетной записиУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

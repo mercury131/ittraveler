@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILВосстановление объектов Active Directory: сборник сценариев
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание шаблонов Zabbix для Windows.Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryНовые компьютеры не появляются на WSUS сервереАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Восстановление объектов Active Directory: сборник сценариевСброс пароля компьютера в домене без перезагрузкиНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

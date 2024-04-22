@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryВосстановление объектов Active Directory: сборник сценариевАудит изменений групповых политик через PowerShell
+Related posts:Управление репликацией Active DirectoryАудит изменений в Active DirectoryУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

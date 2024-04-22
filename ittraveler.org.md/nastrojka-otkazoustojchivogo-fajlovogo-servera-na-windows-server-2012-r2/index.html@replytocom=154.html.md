@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание email рассылки через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Создание email рассылки через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

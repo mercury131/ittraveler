@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces DirectНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

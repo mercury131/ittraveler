@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Установка и настройка Lync 2013Получаем MD5 файла или переменной в Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевПереход на репликацию SYSVOL по DFSУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

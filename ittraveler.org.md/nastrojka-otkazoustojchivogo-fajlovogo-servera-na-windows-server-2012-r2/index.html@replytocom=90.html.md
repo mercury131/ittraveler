@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryНовые компьютеры не появляются на WSUS сервереПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Восстановление объектов Active Directory: сборник сценариевПеренос базы данных Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

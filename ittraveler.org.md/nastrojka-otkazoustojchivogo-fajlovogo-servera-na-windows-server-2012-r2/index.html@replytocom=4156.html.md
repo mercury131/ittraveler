@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Назначение служб для сертификатов Exchange через Powershell.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
