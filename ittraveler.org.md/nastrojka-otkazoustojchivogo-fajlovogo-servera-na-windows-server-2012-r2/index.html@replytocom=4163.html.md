@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOДобавление UPN суффикса в Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка кластера MSSQL 2012.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Автоматический аудит компьютеров в Active Directory через powershell.Автоматическая активация пользователей Lync через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Активируем LDAP over SSLАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

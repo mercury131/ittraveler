@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиАудит изменений в Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellНовые компьютеры не появляются на WSUS сервереПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

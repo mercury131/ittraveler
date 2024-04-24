@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellПередача и захват ролей FSMOПолучаем MD5 файла или переменной в Powershell
+Related posts:Установка RSAT на Windows 10 1809Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

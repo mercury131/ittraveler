@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс пароля компьютера в домене без перезагрузки
+Related posts:Обновление Lync 2013 до Skype for BusinessАудит DNS серверов на Windows Server 2008 R2 через PowershellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Включение корзины Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит изменений групповых политик через PowerShellПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

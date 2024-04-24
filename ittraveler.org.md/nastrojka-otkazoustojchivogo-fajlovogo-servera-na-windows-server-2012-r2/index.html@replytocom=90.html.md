@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Сброс пароля компьютера в домене без перезагрузкиНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Обновление схемы Active DirectoryПередача и захват ролей FSMOАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

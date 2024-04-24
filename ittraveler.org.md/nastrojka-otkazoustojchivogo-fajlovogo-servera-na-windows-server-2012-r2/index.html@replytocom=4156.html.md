@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellПринудительная синхронизация контроллеров домена Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVВключение корзины Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

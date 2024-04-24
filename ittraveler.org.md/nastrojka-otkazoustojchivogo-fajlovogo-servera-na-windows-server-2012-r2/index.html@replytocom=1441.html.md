@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАудит изменений групповых политик через PowerShellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПеренос базы данных Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

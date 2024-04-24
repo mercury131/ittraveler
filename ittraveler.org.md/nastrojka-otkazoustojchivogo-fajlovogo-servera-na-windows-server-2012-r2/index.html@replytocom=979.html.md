@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Добавление почтовых контактов в Office 365 через Powershell и CSVСброс пароля администратора Active Directory
+Related posts:Установка и настройка AnsibleАктивируем LDAP over SSLПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереСброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузки
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Сброс настроек GPO на стандартныеАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
