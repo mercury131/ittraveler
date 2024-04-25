@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАктивируем LDAP over SSLПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАудит изменений групповых политик через PowerShellСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

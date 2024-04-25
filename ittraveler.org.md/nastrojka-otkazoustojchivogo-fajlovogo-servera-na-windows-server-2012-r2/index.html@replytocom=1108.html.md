@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSСоздание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание email рассылки через Powershell
+Related posts:Удаление Lync Server 2013Настройка HA кластера Hyper-VУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

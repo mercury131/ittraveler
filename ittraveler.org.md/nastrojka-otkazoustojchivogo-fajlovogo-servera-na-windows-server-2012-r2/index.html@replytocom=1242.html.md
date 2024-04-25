@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Изменение UPN суффикса в Active Directory через PowershellУдаление Lync Server 2013
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание пользователей Active Directory через CSV файлНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

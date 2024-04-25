@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит изменений групповых политик через PowerShellПолучаем MD5 файла или переменной в Powershell
+Related posts:Установка и настройка AnsibleУстановка и настройка кластера MSSQL 2012.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

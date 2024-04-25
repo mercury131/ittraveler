@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСоздание пользователей Active Directory через CSV файлПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Удаление Lync Server 2013Установка и настройка AlwaysOn на MS SQL 2016Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

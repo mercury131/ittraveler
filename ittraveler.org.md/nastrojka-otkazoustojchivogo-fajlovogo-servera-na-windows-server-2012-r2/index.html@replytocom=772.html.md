@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Управление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Активируем LDAP over SSLКак узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
