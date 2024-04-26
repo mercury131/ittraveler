@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VWindows WSL подключение к сетевым шарамНастройка Kerberos авторизации в Apache2
+Related posts:Обновление Lync 2013 до Skype for BusinessWindows WSL подключение к сетевым шарамПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

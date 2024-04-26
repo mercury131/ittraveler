@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Установка и настройка AlwaysOn на MS SQL 2016Автоматическая активация пользователей Lync через Powershell
+Related posts:Создание email рассылки через PowershellВосстановление объектов Active Directory: сборник сценариевАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
