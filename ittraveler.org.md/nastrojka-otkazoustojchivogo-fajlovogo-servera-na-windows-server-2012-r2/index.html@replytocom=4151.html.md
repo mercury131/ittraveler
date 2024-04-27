@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Включение корзины Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Аудит изменений групповых политик через PowerShellПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

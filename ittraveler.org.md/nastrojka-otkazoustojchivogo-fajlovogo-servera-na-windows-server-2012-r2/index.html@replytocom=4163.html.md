@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПодключение к Office 365 через Powershell и зашифрованный парольWindows WSL подключение к сетевым шарам
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПередача и захват ролей FSMOУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

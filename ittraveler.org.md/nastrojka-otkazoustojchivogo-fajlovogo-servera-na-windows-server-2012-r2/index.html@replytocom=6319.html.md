@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевСоздание пользователей Active Directory через CSV файлУстановка и настройка Lync 2013
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Включение корзины Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

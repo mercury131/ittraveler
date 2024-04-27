@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Обновление Lync 2013 до Skype for BusinessВключение корзины Active Directory
+Related posts:Создание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервереУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
