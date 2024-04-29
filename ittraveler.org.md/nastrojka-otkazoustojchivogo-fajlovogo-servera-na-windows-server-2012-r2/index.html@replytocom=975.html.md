@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryСоздание email рассылки через PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Сброс пароля администратора Active DirectoryПеренос базы данных Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
