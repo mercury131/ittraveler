@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryПеренос базы данных Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка AnsibleАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

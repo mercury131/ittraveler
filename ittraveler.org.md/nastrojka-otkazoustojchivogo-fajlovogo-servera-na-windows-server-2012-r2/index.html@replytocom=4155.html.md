@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLУстановка и настройка AlwaysOn на MS SQL 2016Сброс пароля администратора Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryОтключение Skype UI в Lync 2013Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
