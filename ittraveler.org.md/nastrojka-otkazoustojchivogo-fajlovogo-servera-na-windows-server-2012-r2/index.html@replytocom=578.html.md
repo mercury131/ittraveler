@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellСброс пароля компьютера в домене без перезагрузкиАудит изменений групповых политик через PowerShell
+Related posts:Аудит изменений в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

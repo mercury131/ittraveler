@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПереход на репликацию SYSVOL по DFSПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

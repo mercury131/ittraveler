@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSАудит DNS серверов на Windows Server 2008 R2 через PowershellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Автоматическая активация пользователей Lync через PowershellОтключение Skype UI в Lync 2013Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеНастройка растянутого кластера (stretch-cluster) на Windows server 2016Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Новые компьютеры не появляются на WSUS сервереСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

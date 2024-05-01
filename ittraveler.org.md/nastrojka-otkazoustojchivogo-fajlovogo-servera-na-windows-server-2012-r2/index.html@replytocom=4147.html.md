@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит доменных служб Active Directory в Windows Server 2008 R2Передача и захват ролей FSMO
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Включение корзины Active DirectoryУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
