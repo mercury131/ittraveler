@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryУстановка и настройка кластера MSSQL 2012.Сброс настроек GPO на стандартные
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

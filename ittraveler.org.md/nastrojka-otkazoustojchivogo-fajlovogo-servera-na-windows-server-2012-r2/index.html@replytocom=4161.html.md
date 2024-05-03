@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Восстановление объектов Active Directory: сборник сценариевНовые компьютеры не появляются на WSUS сервере
+Related posts:Настройка HA кластера Hyper-VАудит изменений групповых политик через PowerShellУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
