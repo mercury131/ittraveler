@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.
+Related posts:Переход на репликацию SYSVOL по DFSСброс пароля администратора Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
