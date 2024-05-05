@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс пароля администратора Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Аудит изменений групповых политик через PowerShellПередача и захват ролей FSMOВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

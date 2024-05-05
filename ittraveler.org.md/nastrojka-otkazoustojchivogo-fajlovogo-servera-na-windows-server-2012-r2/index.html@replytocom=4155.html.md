@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка Lync 2013Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка HA кластера Hyper-VСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
