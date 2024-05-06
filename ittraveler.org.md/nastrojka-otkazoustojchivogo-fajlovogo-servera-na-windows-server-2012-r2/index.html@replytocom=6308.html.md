@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Автоматическая активация пользователей Lync через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Сброс настроек GPO на стандартныеActive Directory + Thunderbird = Общая адресная книгаWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

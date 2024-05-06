@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Обновление схемы Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Аудит изменений в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

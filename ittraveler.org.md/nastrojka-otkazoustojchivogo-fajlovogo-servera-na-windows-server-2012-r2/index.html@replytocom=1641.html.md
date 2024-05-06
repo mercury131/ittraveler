@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Добавление UPN суффикса в Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Добавление UPN суффикса в Active DirectoryНовые компьютеры не появляются на WSUS сервереУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

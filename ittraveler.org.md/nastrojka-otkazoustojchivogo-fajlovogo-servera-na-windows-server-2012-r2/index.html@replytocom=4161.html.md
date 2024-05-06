@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressИзменение UPN суффикса в Active Directory через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
