@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиПередача и захват ролей FSMOНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Настройка HA кластера Hyper-VНастройка Kerberos авторизации в Apache2Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
