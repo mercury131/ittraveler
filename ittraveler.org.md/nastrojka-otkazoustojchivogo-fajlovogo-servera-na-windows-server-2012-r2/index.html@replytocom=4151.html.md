@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Удаление Lync Server 2013Передача и захват ролей FSMO
+Related posts:Удаление Lync Server 2013Поиск старых почтовых ящиков в Exchange 2010Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
