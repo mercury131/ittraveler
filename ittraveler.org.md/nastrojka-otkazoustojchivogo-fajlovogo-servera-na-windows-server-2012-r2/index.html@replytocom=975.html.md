@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиСброс настроек GPO на стандартныеУстановка и настройка Lync 2013
+Related posts:Переход на репликацию SYSVOL по DFSАвтоматизируем бэкап баз данных MSSQL ExpressСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
