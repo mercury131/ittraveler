@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Аудит изменений в Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Переход на репликацию SYSVOL по DFSАудит изменений групповых политик через PowerShellОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

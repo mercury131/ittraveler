@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Назначение служб для сертификатов Exchange через Powershell.Обновление Lync 2013 до Skype for Business
+Related posts:Аудит изменений в Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
