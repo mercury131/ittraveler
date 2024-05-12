@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectНастройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление схемы Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellУправление репликацией Active DirectoryОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

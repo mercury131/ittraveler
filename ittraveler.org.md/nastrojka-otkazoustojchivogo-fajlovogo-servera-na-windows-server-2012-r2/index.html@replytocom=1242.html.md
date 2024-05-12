@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка AlwaysOn на MS SQL 2016Сброс настроек GPO на стандартные
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
