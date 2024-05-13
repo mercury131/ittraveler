@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Сброс настроек GPO на стандартныеАудит изменений групповых политик через PowerShellСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

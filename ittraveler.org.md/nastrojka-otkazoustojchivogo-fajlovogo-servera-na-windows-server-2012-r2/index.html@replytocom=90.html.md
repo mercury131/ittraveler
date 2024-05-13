@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервереНастройка HA кластера Hyper-V
+Related posts:Удаление Lync Server 2013Установка RSAT на Windows 10 1809Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
