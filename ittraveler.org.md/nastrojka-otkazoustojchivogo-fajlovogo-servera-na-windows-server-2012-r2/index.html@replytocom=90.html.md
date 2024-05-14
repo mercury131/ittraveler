@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Установка RSAT на Windows 10 1809Сброс пароля администратора Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПолучаем MD5 файла или переменной в PowershellДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

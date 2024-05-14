@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryУстановка RSAT на Windows 10 1809Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Создание email рассылки через PowershellПеренос базы данных Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

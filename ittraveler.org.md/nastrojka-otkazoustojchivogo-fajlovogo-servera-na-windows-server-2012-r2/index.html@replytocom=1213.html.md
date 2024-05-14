@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Передача и захват ролей FSMOПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Изменение UPN суффикса в Active Directory через PowershellСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
