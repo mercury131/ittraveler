@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Подключение к Office 365 через Powershell и зашифрованный парольСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Отключение Skype UI в Lync 2013Передача и захват ролей FSMOПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

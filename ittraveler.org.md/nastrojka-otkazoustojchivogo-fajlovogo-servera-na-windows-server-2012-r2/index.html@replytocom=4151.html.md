@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Принудительная синхронизация Office 365 и локальной Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Автоматическая активация пользователей Lync через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

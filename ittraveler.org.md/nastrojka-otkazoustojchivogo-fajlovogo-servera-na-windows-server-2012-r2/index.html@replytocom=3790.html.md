@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryНастройка Kerberos авторизации в Apache2Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Создание email рассылки через PowershellУстановка RSAT на Windows 10 1809Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

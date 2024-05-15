@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLСоздание индивидуальных адресных книг в Office 365 и Exchange onlineНастройка HA кластера Hyper-V
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Передача и захват ролей FSMOНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

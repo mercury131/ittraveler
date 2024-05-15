@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Получаем MD5 файла или переменной в PowershellСброс пароля администратора Active Directory
+Related posts:Сброс настроек GPO на стандартныеАудит изменений в Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

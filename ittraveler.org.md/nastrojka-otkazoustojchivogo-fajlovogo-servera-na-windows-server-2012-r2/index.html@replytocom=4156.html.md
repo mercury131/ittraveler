@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryОбновление схемы Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryРешаем проблему внезапной блокировки учетной записиПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

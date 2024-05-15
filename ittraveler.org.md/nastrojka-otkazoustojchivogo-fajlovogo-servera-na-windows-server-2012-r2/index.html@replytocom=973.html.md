@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит незаполненных полей в Active Directory через PowershellПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка HA кластера Hyper-VАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

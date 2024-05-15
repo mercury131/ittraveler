@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellПеренос базы данных Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Установка и настройка кластера MSSQL 2012.Настройка HA кластера Hyper-VДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

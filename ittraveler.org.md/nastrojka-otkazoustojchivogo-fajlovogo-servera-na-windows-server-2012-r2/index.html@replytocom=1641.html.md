@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПереход на репликацию SYSVOL по DFSОбновление Lync 2013 до Skype for Business
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

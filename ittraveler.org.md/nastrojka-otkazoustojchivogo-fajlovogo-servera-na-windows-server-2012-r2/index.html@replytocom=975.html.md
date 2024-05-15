@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевПереход на репликацию SYSVOL по DFSУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Решаем проблему внезапной блокировки учетной записиИзменение UPN суффикса в Active Directory через PowershellУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

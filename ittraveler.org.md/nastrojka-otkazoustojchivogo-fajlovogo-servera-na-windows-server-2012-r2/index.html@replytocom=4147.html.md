@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellУдаление Lync Server 2013Создание email рассылки через Powershell
+Related posts:Создание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
