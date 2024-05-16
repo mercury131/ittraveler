@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryОбновление схемы Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Обновление схемы Active DirectoryОбновление Lync 2013 до Skype for BusinessНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

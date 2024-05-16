@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLУправление репликацией Active DirectoryУстановка и настройка Ansible
+Related posts:Обновление схемы Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

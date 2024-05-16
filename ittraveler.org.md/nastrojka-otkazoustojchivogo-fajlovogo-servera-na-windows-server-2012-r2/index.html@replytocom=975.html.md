@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиИзменение UPN суффикса в Active Directory через PowershellУдаление Lync Server 2013
+Related posts:Активируем LDAP over SSLОбновление Lync 2013 до Skype for BusinessПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

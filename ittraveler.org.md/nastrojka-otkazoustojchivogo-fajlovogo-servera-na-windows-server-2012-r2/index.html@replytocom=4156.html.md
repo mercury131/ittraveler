@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryРешаем проблему внезапной блокировки учетной записиПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Создание email рассылки через PowershellАктивируем LDAP over SSLЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАктивируем LDAP over SSLНастройка Kerberos авторизации в Apache2
+Related posts:Создание пользователей Active Directory через CSV файлСброс настроек GPO на стандартныеСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

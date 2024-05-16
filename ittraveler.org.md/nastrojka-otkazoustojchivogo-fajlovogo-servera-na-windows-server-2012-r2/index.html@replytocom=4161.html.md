@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через PowershellПередача и захват ролей FSMO
+Related posts:Включение корзины Active DirectoryСброс пароля администратора Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
