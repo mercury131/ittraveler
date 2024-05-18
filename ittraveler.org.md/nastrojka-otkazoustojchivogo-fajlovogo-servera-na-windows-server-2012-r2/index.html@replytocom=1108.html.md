@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Управление репликацией Active DirectoryОбновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

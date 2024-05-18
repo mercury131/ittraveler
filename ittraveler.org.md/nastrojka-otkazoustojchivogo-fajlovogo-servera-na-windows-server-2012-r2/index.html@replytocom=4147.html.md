@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание email рассылки через PowershellУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

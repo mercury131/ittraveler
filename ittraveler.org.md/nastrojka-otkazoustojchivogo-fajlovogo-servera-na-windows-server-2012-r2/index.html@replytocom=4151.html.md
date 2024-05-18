@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Поиск старых почтовых ящиков в Exchange 2010Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Настройка HA кластера Hyper-VУстановка RSAT на Windows 10 1809Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

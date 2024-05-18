@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПеренос базы данных Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Создание пользователей Active Directory через CSV файлКастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

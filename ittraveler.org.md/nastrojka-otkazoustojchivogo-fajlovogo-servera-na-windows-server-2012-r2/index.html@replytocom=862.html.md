@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереАвтоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка AlwaysOn на MS SQL 2016Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

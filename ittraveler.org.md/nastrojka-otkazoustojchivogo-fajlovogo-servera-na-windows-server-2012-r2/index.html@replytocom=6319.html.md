@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит изменений групповых политик через PowerShellУстановка и настройка кластера MSSQL 2012.
+Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка AlwaysOn на MS SQL 2016Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

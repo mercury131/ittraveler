@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Установка RSAT на Windows 10 1809Аудит изменений групповых политик через PowerShell
+Related posts:Восстановление объектов Active Directory: сборник сценариевНастройка Kerberos авторизации в Apache2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

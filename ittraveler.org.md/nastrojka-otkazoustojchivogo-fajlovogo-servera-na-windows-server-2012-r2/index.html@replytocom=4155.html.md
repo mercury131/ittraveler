@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Установка и настройка AnsibleИзменение UPN суффикса в Active Directory через PowershellПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

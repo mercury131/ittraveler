@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереПодключение к Office 365 через Powershell и зашифрованный парольWindows WSL подключение к сетевым шарам
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

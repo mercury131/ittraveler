@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Активируем LDAP over SSLКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Восстановление объектов Active Directory: сборник сценариевОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

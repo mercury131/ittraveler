@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка AnsibleАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

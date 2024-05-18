@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПринудительная синхронизация контроллеров домена Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

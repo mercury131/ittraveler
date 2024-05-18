@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLПодключение к Office 365 через Powershell и зашифрованный парольКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка дедупликации  на Windows Server 2012 R2Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

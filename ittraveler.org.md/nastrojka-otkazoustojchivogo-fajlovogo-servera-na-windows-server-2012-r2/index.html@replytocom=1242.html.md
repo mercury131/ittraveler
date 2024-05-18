@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellПоиск старых почтовых ящиков в Exchange 2010Windows WSL подключение к сетевым шарам
+Related posts:Установка и настройка Lync 2013Удаление Lync Server 2013Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

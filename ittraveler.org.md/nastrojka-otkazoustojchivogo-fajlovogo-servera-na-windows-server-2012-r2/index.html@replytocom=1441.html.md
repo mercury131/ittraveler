@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка Scale-Out File Server + Storage Spaces DirectСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

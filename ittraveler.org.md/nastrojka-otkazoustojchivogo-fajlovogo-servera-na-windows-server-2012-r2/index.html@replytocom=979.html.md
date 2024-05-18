@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Windows WSL подключение к сетевым шарамУстановка и настройка Ansible
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПодключение к Office 365 через Powershell и зашифрованный парольСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
