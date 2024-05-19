@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013Сброс пароля администратора Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлПоиск старых почтовых ящиков в Exchange 2010Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

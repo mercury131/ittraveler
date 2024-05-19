@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryОбновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка кластера MSSQL 2012.Передача и захват ролей FSMOДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
