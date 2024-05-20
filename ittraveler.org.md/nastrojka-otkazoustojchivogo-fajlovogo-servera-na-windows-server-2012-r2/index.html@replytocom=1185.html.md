@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка AnsibleСоздание email рассылки через Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаРешаем проблему внезапной блокировки учетной записиВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

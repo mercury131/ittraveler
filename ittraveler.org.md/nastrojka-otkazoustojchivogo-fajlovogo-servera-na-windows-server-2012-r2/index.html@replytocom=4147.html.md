@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит изменений групповых политик через PowerShellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Перенос базы данных Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Обновление Lync 2013 до Skype for BusinessНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

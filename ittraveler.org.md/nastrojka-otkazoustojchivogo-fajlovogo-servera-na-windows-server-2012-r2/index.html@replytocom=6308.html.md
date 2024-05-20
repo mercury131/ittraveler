@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка и настройка кластера MSSQL 2012.
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Включение корзины Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

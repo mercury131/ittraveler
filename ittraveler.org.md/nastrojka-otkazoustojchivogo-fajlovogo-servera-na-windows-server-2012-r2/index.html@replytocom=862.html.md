@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Удаление Lync Server 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressРешаем проблему внезапной блокировки учетной записиДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

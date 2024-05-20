@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Удаление Lync Server 2013
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматический аудит компьютеров в Active Directory через powershell.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

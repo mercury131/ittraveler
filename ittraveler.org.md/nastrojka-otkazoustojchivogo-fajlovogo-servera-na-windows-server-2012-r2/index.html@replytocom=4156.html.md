@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУправление репликацией Active DirectoryСброс пароля администратора Active Directory
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСброс пароля администратора Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

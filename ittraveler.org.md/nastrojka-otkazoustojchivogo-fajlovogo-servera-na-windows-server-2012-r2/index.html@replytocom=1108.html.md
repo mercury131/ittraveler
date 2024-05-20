@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Передача и захват ролей FSMOДобавление UPN суффикса в Active Directory
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

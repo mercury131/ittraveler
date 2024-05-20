@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПеренос базы данных Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Windows WSL подключение к сетевым шарамВключение корзины Active DirectoryУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

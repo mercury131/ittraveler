@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryОтключение Skype UI в Lync 2013Установка и настройка Ansible
+Related posts:Управление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

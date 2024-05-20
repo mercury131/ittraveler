@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Включение корзины Active DirectoryАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

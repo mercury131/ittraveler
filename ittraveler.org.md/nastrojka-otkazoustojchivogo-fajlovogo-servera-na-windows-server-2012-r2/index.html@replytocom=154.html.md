@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVНастройка растянутого кластера (stretch-cluster) на Windows server 2016Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка и настройка Lync 2013Новые компьютеры не появляются на WSUS сервереУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка AnsibleОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
+Related posts:Изменение UPN суффикса в Active Directory через PowershellСоздание шаблонов Zabbix для Windows.Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryНастройка HA кластера Hyper-VЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Обновление схемы Active DirectoryСоздание email рассылки через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

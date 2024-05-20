@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOНастройка Kerberos авторизации в Apache2Windows WSL подключение к сетевым шарам
+Related posts:Установка и настройка кластера MSSQL 2012.Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

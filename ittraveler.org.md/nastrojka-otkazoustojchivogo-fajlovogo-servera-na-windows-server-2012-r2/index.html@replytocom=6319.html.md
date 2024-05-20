@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание email рассылки через Powershell
+Related posts:Новые компьютеры не появляются на WSUS сервереУстановка RSAT на Windows 10 1809Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записиУстановка и настройка Lync 2013
+Related posts:Аудит изменений групповых политик через PowerShellСброс настроек GPO на стандартныеПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

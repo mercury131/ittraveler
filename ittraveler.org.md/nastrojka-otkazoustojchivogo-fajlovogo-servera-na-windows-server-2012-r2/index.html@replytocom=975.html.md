@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАудит DNS серверов на Windows Server 2008 R2 через PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Удаление Lync Server 2013Аудит изменений в Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
