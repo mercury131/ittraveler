@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryСоздание email рассылки через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Восстановление объектов Active Directory: сборник сценариевАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

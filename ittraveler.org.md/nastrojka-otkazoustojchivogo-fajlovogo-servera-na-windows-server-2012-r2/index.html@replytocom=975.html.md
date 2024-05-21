@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Аудит изменений в Active DirectoryActive Directory + Thunderbird = Общая адресная книга
+Related posts:Создание шаблонов Zabbix для Windows.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

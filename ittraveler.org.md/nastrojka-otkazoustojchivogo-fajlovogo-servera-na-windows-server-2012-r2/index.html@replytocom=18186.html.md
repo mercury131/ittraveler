@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Включение корзины Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиАудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

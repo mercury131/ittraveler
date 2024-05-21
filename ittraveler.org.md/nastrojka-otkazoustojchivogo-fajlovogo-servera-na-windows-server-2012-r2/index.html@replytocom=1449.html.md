@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellСоздание шаблонов Zabbix для Windows.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

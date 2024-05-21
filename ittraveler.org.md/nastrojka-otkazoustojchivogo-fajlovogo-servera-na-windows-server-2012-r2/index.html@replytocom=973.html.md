@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Управление репликацией Active DirectoryСброс настроек GPO на стандартные
+Related posts:Получаем MD5 файла или переменной в PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

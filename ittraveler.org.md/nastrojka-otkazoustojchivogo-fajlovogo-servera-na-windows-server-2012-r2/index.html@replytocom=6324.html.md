@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиАвтоматическая активация пользователей Lync через PowershellУстановка RSAT на Windows 10 1809
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Отключение Skype UI в Lync 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

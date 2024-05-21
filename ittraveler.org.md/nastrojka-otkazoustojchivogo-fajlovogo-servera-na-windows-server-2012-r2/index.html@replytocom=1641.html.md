@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамКак узнать WWN (World Wide Name)  в Windows Server 2012R2Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Автоматический аудит компьютеров в Active Directory через powershell.Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

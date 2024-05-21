@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаРешаем проблему внезапной блокировки учетной записиВключение корзины Active Directory
+Related posts:Активируем LDAP over SSLАвтоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

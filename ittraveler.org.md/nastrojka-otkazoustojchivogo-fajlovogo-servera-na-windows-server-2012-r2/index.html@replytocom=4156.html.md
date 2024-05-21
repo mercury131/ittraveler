@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСброс пароля администратора Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Обновление Lync 2013 до Skype for BusinessУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

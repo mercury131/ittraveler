@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessСоздание пользователей Active Directory через CSV файлСброс пароля администратора Active Directory
+Related posts:Настройка HA кластера Hyper-VИзменение UPN суффикса в Active Directory через PowershellАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Обновление Lync 2013 до Skype for BusinessНастройка Kerberos авторизации в Apache2
+Related posts:Перенос базы данных Active DirectoryСброс пароля компьютера в домене без перезагрузкиУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

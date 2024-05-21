@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Включение корзины Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Установка и настройка кластера MSSQL 2012.Сброс пароля компьютера в домене без перезагрузкиСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматический аудит компьютеров в Active Directory через powershell.Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Получаем MD5 файла или переменной в PowershellСброс настроек GPO на стандартныеБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
