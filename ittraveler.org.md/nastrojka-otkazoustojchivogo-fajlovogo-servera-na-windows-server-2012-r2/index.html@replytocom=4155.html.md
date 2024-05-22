@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVСброс пароля компьютера в домене без перезагрузки
+Related posts:Сброс пароля администратора Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

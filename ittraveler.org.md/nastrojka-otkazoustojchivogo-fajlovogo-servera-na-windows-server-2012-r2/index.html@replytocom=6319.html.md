@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Аудит незаполненных полей в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариевДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

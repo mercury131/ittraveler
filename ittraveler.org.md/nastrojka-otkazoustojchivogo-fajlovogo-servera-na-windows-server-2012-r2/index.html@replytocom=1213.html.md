@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellПеренос базы данных Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Создание email рассылки через PowershellНазначение служб для сертификатов Exchange через Powershell.Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

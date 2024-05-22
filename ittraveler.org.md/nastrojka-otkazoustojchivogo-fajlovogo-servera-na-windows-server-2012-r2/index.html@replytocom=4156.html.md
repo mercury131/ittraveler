@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Обновление Lync 2013 до Skype for BusinessУстановка RSAT на Windows 10 1809
+Related posts:Установка и настройка Lync 2013Изменение UPN суффикса в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

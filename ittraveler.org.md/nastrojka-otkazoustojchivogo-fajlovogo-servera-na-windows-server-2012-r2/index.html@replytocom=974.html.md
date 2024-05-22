@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Сброс настроек GPO на стандартныеПеренос базы данных Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

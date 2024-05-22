@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка дедупликации  на Windows Server 2012 R2Обновление схемы Active Directory
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСброс настроек GPO на стандартныеУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

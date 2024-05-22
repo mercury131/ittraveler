@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Сброс пароля компьютера в домене без перезагрузкиСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация контроллеров домена Active DirectoryУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

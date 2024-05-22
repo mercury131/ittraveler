@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Установка и настройка Lync 2013Активируем LDAP over SSLПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

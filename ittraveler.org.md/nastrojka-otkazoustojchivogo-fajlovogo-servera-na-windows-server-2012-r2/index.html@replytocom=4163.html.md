@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОбновление Lync 2013 до Skype for BusinessОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

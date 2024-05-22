@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILИзменение UPN суффикса в Active Directory через PowershellСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

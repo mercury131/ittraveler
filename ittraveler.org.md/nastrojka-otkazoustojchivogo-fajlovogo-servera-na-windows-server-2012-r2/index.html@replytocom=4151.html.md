@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереСоздание пользователей Active Directory через CSV файлКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПодключение к Office 365 через Powershell и зашифрованный парольКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

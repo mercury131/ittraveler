@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиАудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Удаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книгаСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

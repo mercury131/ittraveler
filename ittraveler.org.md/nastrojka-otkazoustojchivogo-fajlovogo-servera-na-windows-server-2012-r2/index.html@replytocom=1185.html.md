@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLАвтоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-V
+Related posts:Передача и захват ролей FSMOWindows WSL подключение к сетевым шарамОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

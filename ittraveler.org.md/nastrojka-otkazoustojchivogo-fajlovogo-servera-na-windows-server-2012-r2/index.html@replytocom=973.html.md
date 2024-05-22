@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Включение корзины Active DirectoryПереход на репликацию SYSVOL по DFSДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

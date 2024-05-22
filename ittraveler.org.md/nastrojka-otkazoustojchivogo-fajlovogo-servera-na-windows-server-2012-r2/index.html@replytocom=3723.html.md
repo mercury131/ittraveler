@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryСброс пароля компьютера в домене без перезагрузкиУстановка и настройка кластера MSSQL 2012.
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСброс пароля компьютера в домене без перезагрузкиСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книга
+Related posts:Получаем MD5 файла или переменной в PowershellНастройка HA кластера Hyper-VАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

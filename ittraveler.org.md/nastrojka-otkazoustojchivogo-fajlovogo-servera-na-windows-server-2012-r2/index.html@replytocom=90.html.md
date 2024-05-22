@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellСброс настроек GPO на стандартныеБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Аудит изменений в Active DirectoryПолучаем MD5 файла или переменной в PowershellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
