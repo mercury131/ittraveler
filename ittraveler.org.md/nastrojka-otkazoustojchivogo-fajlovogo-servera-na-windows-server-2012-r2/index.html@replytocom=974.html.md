@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка HA кластера Hyper-V
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellОбновление Lync 2013 до Skype for BusinessАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книгаСброс настроек GPO на стандартные
+Related posts:Активируем LDAP over SSLСоздание индивидуальных адресных книг в Office 365 и Exchange onlineУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Передача и захват ролей FSMOАудит изменений групповых политик через PowerShellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

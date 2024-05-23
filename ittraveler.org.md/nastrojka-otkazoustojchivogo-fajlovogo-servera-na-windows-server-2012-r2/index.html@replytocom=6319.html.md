@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариевДобавление UPN суффикса в Active Directory
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVИзменение UPN суффикса в Active Directory через PowershellСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

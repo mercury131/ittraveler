@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОбновление Lync 2013 до Skype for BusinessОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Включение корзины Active DirectoryСброс пароля компьютера в домене без перезагрузкиДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

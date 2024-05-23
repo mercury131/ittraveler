@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Установка и настройка кластера MSSQL 2012.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

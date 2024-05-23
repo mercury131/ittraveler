@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellНастройка HA кластера Hyper-VАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Обновление Lync 2013 до Skype for BusinessНовые компьютеры не появляются на WSUS сервереБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

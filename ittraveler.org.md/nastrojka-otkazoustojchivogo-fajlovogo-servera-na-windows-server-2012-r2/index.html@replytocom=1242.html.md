@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Установка и настройка AnsibleActive Directory + Thunderbird = Общая адресная книга
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Переход на репликацию SYSVOL по DFSАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

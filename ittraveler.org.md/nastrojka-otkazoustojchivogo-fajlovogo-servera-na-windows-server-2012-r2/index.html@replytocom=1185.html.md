@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOWindows WSL подключение к сетевым шарамОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Аудит незаполненных полей в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

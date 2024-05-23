@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellНазначение служб для сертификатов Exchange через Powershell.Получаем MD5 файла или переменной в Powershell
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Создание шаблонов Zabbix для Windows.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

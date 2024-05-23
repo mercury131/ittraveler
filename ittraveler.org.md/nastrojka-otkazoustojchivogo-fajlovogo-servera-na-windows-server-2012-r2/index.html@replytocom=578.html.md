@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

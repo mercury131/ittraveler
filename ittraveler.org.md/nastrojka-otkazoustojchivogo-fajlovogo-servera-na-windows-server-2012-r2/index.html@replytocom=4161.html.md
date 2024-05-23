@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Создание шаблонов Zabbix для Windows.
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля администратора Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

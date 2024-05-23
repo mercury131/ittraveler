@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILИзменение UPN суффикса в Active Directory через PowershellСброс настроек GPO на стандартные
+Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка Lync 2013Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

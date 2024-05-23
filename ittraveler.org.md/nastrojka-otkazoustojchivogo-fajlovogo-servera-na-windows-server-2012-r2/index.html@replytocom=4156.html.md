@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Изменение UPN суффикса в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариев
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

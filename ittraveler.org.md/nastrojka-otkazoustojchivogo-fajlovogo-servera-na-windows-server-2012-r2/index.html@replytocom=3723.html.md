@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСброс пароля компьютера в домене без перезагрузкиСоздание email рассылки через Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление Lync 2013 до Skype for BusinessСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

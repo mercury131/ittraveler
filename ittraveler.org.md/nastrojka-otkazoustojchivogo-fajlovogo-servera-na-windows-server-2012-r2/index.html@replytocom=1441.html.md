@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryСброс пароля администратора Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Аудит изменений в Active DirectoryДобавление UPN суффикса в Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
