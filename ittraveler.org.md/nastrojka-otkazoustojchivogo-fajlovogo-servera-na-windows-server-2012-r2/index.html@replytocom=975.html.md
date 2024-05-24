@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Поиск старых почтовых ящиков в Exchange 2010Передача и захват ролей FSMO
+Related posts:Установка и настройка Lync 2013Активируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
