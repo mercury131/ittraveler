@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНазначение служб для сертификатов Exchange через Powershell.Автоматическая активация пользователей Lync через Powershell
+Related posts:Удаление Lync Server 2013Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

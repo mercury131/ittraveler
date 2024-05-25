@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиПринудительная синхронизация контроллеров домена Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryActive Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLСброс настроек GPO на стандартныеУстановка RSAT на Windows 10 1809
+Related posts:Обновление схемы Active DirectoryСброс настроек GPO на стандартныеПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

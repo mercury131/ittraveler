@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка AlwaysOn на MS SQL 2016Active Directory + Thunderbird = Общая адресная книга
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматический аудит компьютеров в Active Directory через powershell.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

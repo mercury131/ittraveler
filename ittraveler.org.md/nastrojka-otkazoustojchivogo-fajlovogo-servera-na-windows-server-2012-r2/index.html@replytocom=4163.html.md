@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2
+Related posts:Создание шаблонов Zabbix для Windows.Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

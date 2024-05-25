@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиАудит незаполненных полей в Active Directory через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Аудит изменений групповых политик через PowerShellОбновление Lync 2013 до Skype for BusinessСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

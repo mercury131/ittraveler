@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Активируем LDAP over SSLАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Настройка Kerberos авторизации в Apache2Удаление Lync Server 2013Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

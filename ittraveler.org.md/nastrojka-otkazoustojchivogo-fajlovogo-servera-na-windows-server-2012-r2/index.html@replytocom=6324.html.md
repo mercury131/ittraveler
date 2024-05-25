@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Передача и захват ролей FSMOНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка и настройка дедупликации  на Windows Server 2012 R2Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

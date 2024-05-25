@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевПринудительная синхронизация контроллеров домена Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Решаем проблему внезапной блокировки учетной записиПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

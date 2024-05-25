@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеАвтоматизируем бэкап баз данных MSSQL ExpressНастройка Kerberos авторизации в Apache2
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка Lync 2013Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

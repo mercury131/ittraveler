@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка кластера MSSQL 2012.
+Related posts:Установка и настройка кластера MSSQL 2012.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

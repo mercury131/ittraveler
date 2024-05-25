@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка RSAT на Windows 10 1809Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка кластера MSSQL 2012.Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

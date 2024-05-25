@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книгаРешаем проблему внезапной блокировки учетной записи
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Active Directory + Thunderbird = Общая адресная книгаБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

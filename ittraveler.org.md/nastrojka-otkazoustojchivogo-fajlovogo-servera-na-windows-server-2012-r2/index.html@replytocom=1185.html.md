@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Переход на репликацию SYSVOL по DFSУдаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

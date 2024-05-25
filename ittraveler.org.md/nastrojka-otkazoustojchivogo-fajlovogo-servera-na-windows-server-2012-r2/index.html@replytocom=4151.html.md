@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineНазначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
