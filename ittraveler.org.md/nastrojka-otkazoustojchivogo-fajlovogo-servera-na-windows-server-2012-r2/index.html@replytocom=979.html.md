@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиУдаление Lync Server 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Изменение UPN суффикса в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка Lync 2013
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПринудительная синхронизация контроллеров домена Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

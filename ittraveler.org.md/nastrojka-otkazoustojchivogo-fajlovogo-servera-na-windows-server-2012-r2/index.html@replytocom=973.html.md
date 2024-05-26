@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryActive Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через Powershell
+Related posts:Добавление UPN суффикса в Active DirectoryПереход на репликацию SYSVOL по DFSЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

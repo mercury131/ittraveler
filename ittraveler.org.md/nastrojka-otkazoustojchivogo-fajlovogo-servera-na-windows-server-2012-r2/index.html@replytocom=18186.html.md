@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Установка и настройка Lync 2013Получаем MD5 файла или переменной в Powershell
+Related posts:Получаем MD5 файла или переменной в PowershellОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

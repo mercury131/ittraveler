@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПоиск старых почтовых ящиков в Exchange 2010Сброс настроек GPO на стандартные
+Related posts:Настройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книгаАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

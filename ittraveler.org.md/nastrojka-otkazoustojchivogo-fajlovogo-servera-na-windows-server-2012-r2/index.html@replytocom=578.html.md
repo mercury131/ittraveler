@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellОбновление Lync 2013 до Skype for BusinessСброс пароля администратора Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Сброс настроек GPO на стандартныеСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Создание шаблонов Zabbix для Windows.Аудит изменений в Active Directory
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Новые компьютеры не появляются на WSUS сервереСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

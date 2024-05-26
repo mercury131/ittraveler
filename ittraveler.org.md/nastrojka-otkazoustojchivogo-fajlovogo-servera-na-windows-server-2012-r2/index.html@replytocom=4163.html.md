@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Создание пользователей Active Directory через CSV файлWindows WSL подключение к сетевым шарамОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

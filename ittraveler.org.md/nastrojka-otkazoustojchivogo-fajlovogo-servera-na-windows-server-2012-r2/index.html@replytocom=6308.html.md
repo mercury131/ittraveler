@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSУдаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Передача и захват ролей FSMOУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

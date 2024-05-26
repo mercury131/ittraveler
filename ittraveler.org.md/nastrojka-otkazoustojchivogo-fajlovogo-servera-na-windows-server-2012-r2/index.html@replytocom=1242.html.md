@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка Lync 2013
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка AlwaysOn на MS SQL 2016Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

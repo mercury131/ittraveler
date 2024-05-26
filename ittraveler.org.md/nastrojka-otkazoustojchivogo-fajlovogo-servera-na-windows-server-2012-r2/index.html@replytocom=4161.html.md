@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Получаем MD5 файла или переменной в PowershellНазначение служб для сертификатов Exchange через Powershell.Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

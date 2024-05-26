@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамНастройка HA кластера Hyper-VПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Управление репликацией Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

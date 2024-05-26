@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Удаление Lync Server 2013Создание email рассылки через Powershell
+Related posts:Аудит незаполненных полей в Active Directory через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

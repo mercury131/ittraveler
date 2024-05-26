@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Active Directory + Thunderbird = Общая адресная книгаБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматический аудит компьютеров в Active Directory через powershell.Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

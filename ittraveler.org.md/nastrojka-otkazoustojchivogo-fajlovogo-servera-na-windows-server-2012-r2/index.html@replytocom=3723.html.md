@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Получаем MD5 файла или переменной в PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Управление репликацией Active DirectoryWindows WSL подключение к сетевым шарамСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellВосстановление объектов Active Directory: сборник сценариевАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Создание пользователей Active Directory через CSV файлОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

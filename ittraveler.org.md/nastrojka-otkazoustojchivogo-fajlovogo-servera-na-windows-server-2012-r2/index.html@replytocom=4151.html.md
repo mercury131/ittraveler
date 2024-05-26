@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineНазначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарам
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит изменений групповых политик через PowerShellАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
