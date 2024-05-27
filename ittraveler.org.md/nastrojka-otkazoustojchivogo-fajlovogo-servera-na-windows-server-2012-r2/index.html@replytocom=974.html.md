@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлАудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит изменений групповых политик через PowerShellАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Сброс пароля администратора Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

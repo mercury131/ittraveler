@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Сброс настроек GPO на стандартные
+Related posts:Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFSПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

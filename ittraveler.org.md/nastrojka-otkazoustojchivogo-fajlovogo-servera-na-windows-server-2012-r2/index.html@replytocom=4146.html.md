@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Поиск старых почтовых ящиков в Exchange 2010Автоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Аудит изменений в Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматическая активация пользователей Lync через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

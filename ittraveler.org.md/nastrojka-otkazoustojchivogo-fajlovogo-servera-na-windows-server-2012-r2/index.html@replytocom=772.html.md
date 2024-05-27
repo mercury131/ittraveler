@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

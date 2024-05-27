@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка AlwaysOn на MS SQL 2016Переход на репликацию SYSVOL по DFS
+Related posts:Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFSУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

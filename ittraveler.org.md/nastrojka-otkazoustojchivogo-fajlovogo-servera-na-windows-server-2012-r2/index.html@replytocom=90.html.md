@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАудит DNS серверов на Windows Server 2008 R2 через PowershellОбновление схемы Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Управление репликацией Active DirectoryАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

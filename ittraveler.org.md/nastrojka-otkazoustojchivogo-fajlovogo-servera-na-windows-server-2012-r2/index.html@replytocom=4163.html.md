@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлWindows WSL подключение к сетевым шарамОбновление Lync 2013 до Skype for Business
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressИзменение UPN суффикса в Active Directory через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

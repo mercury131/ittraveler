@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Сброс настроек GPO на стандартныеСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

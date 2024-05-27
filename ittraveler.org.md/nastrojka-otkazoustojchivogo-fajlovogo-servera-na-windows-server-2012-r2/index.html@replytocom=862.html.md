@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Установка и настройка кластера MSSQL 2012.Поиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

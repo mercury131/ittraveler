@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Сброс настроек GPO на стандартныеОтключение Skype UI в Lync 2013
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Получаем MD5 файла или переменной в PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

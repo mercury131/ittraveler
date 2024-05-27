@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книгаАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Добавление почтовых контактов в Office 365 через Powershell и CSVПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

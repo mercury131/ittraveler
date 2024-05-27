@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Новые компьютеры не появляются на WSUS сервереСоздание пользователей Active Directory через CSV файл
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Получаем MD5 файла или переменной в PowershellДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
