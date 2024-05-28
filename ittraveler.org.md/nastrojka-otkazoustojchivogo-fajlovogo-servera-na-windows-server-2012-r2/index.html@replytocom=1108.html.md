@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellПеренос базы данных Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка кластера MSSQL 2012.Автоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

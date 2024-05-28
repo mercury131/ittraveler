@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFSПолучаем MD5 файла или переменной в Powershell
+Related posts:Активируем LDAP over SSLСоздание шаблонов Zabbix для Windows.Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

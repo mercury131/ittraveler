@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectВключение корзины Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Активируем LDAP over SSLWindows WSL подключение к сетевым шарамУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

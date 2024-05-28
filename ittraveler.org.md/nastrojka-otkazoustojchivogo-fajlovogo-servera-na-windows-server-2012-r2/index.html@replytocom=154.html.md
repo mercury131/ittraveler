@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Получаем MD5 файла или переменной в PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Восстановление объектов Active Directory: сборник сценариевОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

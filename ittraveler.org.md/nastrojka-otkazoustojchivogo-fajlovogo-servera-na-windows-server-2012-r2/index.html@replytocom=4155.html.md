@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Добавление почтовых контактов в Office 365 через Powershell и CSVПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Аудит изменений в Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Управление репликацией Active Directory
+Related posts:Добавление UPN суффикса в Active DirectoryНовые компьютеры не появляются на WSUS сервереActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

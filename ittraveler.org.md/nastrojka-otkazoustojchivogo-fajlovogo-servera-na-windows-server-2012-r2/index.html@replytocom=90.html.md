@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Настройка HA кластера Hyper-VОбновление Lync 2013 до Skype for BusinessУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

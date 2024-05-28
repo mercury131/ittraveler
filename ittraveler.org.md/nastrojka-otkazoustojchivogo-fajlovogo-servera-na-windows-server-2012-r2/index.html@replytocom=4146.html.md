@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Получаем MD5 файла или переменной в PowershellПеренос базы данных Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

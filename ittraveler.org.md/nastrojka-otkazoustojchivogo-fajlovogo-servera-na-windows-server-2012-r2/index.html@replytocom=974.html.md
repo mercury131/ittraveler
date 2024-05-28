@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлАудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Управление репликацией Active DirectoryНастройка Kerberos авторизации в Apache2Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

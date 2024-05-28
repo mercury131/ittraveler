@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Управление репликацией Active DirectoryАктивируем LDAP over SSL
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит DNS серверов на Windows Server 2008 R2 через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

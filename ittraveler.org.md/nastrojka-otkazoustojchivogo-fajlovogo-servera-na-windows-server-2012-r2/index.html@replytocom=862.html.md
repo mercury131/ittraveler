@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Поиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Принудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка Scale-Out File Server + Storage Spaces DirectСоздание email рассылки через Powershell
+Related posts:Установка и настройка Lync 2013Переход на репликацию SYSVOL по DFSОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
