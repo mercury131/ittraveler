@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файл
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПодключение к Office 365 через Powershell и зашифрованный парольПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

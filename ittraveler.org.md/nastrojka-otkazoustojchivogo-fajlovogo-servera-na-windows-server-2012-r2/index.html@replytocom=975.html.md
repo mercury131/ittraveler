@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит DNS серверов на Windows Server 2008 R2 через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Передача и захват ролей FSMOАудит доменных служб Active Directory в Windows Server 2008 R2Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

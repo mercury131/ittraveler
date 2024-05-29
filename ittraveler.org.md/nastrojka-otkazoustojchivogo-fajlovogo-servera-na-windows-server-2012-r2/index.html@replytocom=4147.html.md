@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLСоздание шаблонов Zabbix для Windows.Создание email рассылки через Powershell
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Добавление UPN суффикса в Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VОбновление Lync 2013 до Skype for BusinessУстановка RSAT на Windows 10 1809
+Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматическая активация пользователей Lync через PowershellСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

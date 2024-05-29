@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Настройка Kerberos авторизации в Apache2
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Сброс пароля компьютера в домене без перезагрузкиОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
