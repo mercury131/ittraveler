@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Добавление UPN суффикса в Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка AnsibleОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

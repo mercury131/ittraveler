@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellActive Directory + Thunderbird = Общая адресная книгаАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПеренос базы данных Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
