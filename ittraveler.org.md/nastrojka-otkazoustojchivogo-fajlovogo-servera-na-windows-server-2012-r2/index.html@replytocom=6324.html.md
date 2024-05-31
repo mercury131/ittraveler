@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПеренос базы данных Active DirectoryПереход на репликацию SYSVOL по DFS
+Related posts:Создание email рассылки через PowershellНастройка HA кластера Hyper-VСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
