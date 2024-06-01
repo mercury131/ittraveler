@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellОтключение Skype UI в Lync 2013Перенос базы данных Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Передача и захват ролей FSMOАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
