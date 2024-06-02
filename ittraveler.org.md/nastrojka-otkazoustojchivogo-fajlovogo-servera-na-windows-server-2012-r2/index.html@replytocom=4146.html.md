@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOАктивируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книга
+Related posts:Перенос базы данных Active DirectoryСброс пароля компьютера в домене без перезагрузкиКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

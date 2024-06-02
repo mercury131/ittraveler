@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellWindows WSL подключение к сетевым шарамПеренос базы данных Active Directory
+Related posts:Обновление схемы Active DirectoryWindows WSL подключение к сетевым шарамУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

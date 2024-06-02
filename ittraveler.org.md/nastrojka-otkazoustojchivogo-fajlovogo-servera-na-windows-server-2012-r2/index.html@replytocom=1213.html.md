@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryВключение корзины Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Управление репликацией Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

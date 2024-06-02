@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSСброс пароля администратора Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Установка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
