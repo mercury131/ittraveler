@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryСброс пароля компьютера в домене без перезагрузкиКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаНастройка Kerberos авторизации в Apache2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Добавление UPN суффикса в Active DirectoryАвтоматическая активация пользователей Lync через PowershellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

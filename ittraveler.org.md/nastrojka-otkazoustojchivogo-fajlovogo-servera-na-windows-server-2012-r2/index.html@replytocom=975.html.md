@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Создание шаблонов Zabbix для Windows.Отключение Skype UI в Lync 2013
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Отключение Skype UI в Lync 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

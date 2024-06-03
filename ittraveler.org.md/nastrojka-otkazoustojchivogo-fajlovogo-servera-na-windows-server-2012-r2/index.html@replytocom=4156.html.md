@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellСброс пароля администратора Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Удаление Lync Server 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

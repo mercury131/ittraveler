@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаВосстановление объектов Active Directory: сборник сценариевСоздание шаблонов Zabbix для Windows.
+Related posts:Создание пользователей Active Directory через CSV файлАудит изменений в Active DirectoryПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
