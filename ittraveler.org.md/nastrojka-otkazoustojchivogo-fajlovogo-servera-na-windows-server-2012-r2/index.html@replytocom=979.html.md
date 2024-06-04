@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Удаление Lync Server 2013Сброс настроек GPO на стандартные
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Активируем LDAP over SSLНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

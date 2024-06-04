@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка AnsibleУстановка RSAT на Windows 10 1809
+Related posts:Активируем LDAP over SSLНазначение служб для сертификатов Exchange через Powershell.Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

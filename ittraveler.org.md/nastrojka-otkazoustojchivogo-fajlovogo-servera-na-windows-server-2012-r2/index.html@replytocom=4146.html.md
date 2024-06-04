@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShellРешаем проблему внезапной блокировки учетной записи
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка HA кластера Hyper-VОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
