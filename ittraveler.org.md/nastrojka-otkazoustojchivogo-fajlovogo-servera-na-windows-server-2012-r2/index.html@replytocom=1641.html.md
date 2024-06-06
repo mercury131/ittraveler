@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка дедупликации  на Windows Server 2012 R2Аудит изменений в Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлСоздание email рассылки через PowershellОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

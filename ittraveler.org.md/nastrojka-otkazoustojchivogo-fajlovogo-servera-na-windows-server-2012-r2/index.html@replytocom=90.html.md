@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Windows WSL подключение к сетевым шарамУстановка и настройка Ansible
+Related posts:Windows WSL подключение к сетевым шарамПередача и захват ролей FSMOПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

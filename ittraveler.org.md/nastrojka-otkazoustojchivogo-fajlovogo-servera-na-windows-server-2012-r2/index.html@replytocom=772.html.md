@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOПринудительная синхронизация Office 365 и локальной Active DirectoryУправление репликацией Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Восстановление объектов Active Directory: сборник сценариевПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
