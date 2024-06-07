@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLПеренос базы данных Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматизируем бэкап баз данных MSSQL ExpressУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

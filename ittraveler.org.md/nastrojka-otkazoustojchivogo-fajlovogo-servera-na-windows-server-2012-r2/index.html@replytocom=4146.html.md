@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

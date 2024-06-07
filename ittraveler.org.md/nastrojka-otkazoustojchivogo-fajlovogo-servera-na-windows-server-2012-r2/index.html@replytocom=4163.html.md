@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleПринудительная синхронизация Office 365 и локальной Active DirectoryПеренос базы данных Active Directory
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILВосстановление объектов Active Directory: сборник сценариевВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

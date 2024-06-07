@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Управление репликацией Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Автоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-VПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

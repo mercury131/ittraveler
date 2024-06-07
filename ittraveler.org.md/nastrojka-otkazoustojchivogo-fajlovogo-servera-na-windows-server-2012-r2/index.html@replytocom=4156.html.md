@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VПоиск старых почтовых ящиков в Exchange 2010Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Передача и захват ролей FSMOНастройка Kerberos авторизации в Apache2Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

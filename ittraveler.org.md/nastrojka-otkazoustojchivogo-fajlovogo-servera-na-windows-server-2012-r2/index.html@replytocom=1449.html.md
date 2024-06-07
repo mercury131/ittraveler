@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Создание шаблонов Zabbix для Windows.
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка Lync 2013Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

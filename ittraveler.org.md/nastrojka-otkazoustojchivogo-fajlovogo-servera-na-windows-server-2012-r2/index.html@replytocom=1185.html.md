@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Lync 2013
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПеренос базы данных Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

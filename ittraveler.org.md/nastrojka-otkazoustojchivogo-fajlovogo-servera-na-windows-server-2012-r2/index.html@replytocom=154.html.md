@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Новые компьютеры не появляются на WSUS сервереОтключение Skype UI в Lync 2013Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

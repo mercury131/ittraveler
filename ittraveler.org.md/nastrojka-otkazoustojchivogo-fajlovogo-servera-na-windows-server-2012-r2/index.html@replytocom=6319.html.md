@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Аудит изменений групповых политик через PowerShellПеренос базы данных Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Изменение UPN суффикса в Active Directory через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений в Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

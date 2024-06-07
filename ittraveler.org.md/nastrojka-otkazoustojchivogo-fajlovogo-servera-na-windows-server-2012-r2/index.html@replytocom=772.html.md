@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Восстановление объектов Active Directory: сборник сценариевПолучаем MD5 файла или переменной в Powershell
+Related posts:Аудит изменений в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellСброс настроек GPO на стандартныеОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
+Related posts:Обновление схемы Active DirectoryУдаление Lync Server 2013Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

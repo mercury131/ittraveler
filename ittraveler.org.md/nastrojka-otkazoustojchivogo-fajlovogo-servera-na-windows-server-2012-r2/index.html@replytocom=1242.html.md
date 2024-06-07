@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Активируем LDAP over SSLУправление репликацией Active Directory
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений в Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

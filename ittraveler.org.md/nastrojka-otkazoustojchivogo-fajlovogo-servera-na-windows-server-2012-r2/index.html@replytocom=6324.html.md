@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере ProxmoxОбновление схемы Active Directory
+Related posts:Автоматическая активация пользователей Lync через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

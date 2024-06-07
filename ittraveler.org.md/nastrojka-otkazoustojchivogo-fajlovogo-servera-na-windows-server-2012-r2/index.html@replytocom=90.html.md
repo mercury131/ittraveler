@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамПередача и захват ролей FSMOПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Кастомизация гостевых ОС Windows в KVM на примере ProxmoxБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

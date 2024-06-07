@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016Восстановление объектов Active Directory: сборник сценариев
+Related posts:Получаем MD5 файла или переменной в PowershellСброс пароля компьютера в домене без перезагрузкиРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

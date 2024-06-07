@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиАктивируем LDAP over SSLАвтоматическая активация пользователей Lync через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Отключение Skype UI в Lync 2013Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

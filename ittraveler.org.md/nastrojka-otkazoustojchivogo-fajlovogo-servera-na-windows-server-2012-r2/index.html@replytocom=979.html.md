@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineПринудительная синхронизация Office 365 и локальной Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Добавление UPN суффикса в Active DirectoryПеренос базы данных Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

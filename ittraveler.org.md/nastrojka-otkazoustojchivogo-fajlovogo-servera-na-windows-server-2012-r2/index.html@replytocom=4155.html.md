@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольРешаем проблему внезапной блокировки учетной записиСоздание пользователей Active Directory через CSV файл
+Related posts:Создание пользователей Active Directory через CSV файлАудит незаполненных полей в Active Directory через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Включение корзины Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Создание шаблонов Zabbix для Windows.Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
