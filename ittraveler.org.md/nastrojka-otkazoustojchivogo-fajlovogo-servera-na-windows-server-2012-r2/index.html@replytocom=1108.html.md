@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений в Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressВключение корзины Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

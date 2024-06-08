@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Добавление UPN суффикса в Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка и настройка AlwaysOn на MS SQL 2016Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

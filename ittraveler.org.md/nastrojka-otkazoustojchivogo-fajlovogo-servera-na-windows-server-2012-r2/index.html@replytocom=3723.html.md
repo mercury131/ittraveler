@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Отключение Skype UI в Lync 2013Настройка Kerberos авторизации в Apache2
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Управление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

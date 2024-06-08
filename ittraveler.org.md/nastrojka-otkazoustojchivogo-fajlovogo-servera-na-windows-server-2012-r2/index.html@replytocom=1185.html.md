@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПеренос базы данных Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит изменений в Active DirectoryДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

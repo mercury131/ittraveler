@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryУдаление Lync Server 2013Установка и настройка Ansible
+Related posts:Обновление Lync 2013 до Skype for BusinessWindows WSL подключение к сетевым шарамАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
