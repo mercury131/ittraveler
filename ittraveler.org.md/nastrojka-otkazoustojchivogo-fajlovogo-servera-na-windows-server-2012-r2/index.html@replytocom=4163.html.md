@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка RSAT на Windows 10 1809Новые компьютеры не появляются на WSUS сервере
+Related posts:Изменение UPN суффикса в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книгаНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

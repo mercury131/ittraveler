@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка кластера MSSQL 2012.Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка AlwaysOn на MS SQL 2016Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

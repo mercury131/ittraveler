@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Active Directory + Thunderbird = Общая адресная книга
+Related posts:Автоматическая активация пользователей Lync через PowershellСброс пароля администратора Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

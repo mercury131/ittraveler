@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Управление репликацией Active Directory
+Related posts:Отключение Skype UI в Lync 2013Восстановление объектов Active Directory: сборник сценариевДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

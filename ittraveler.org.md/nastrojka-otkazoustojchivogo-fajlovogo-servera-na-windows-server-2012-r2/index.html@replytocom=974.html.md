@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessWindows WSL подключение к сетевым шарамАудит изменений в Active Directory
+Related posts:Обновление схемы Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Управление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Принудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Включение корзины Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

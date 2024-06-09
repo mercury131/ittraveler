@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryАвтоматизируем бэкап баз данных MSSQL ExpressДобавление UPN суффикса в Active Directory
+Related posts:Установка и настройка AnsibleУстановка и настройка дедупликации  на Windows Server 2012 R2Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

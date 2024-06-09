@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПолучаем MD5 файла или переменной в PowershellАудит изменений групповых политик через PowerShell
+Related posts:Новые компьютеры не появляются на WSUS сервереПринудительная синхронизация контроллеров домена Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Аудит изменений групповых политик через PowerShellАвтоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

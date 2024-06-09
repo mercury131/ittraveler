@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиСброс настроек GPO на стандартныеАудит незаполненных полей в Active Directory через Powershell
+Related posts:Активируем LDAP over SSLАвтоматическая активация пользователей Lync через PowershellАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
