@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellУправление репликацией Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание индивидуальных адресных книг в Office 365 и Exchange onlineWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

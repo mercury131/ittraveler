@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Сброс настроек GPO на стандартныеУдаление Lync Server 2013
+Related posts:Аудит незаполненных полей в Active Directory через PowershellСоздание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

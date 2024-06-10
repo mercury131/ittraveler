@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка Kerberos авторизации в Apache2Новые компьютеры не появляются на WSUS сервере
+Related posts:Установка и настройка Lync 2013Установка и настройка кластера MSSQL 2012.Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

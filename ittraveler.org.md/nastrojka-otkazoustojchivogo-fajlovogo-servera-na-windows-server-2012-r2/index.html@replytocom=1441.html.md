@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУправление репликацией Active DirectoryАктивируем LDAP over SSL
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Восстановление объектов Active Directory: сборник сценариевУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

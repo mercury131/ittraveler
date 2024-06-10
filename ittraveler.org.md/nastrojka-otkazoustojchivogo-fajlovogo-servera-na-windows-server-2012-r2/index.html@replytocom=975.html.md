@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellСброс пароля администратора Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит изменений групповых политик через PowerShellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

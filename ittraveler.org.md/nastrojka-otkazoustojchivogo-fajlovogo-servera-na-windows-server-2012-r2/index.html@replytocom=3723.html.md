@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Принудительная синхронизация контроллеров домена Active DirectoryАктивируем LDAP over SSL
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс пароля администратора Active DirectoryВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

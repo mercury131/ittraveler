@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellАвтоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через Powershell
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка Lync 2013Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

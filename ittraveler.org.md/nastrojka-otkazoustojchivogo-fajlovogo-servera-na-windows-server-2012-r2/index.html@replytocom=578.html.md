@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереПринудительная синхронизация контроллеров домена Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Установка и настройка кластера MSSQL 2012.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

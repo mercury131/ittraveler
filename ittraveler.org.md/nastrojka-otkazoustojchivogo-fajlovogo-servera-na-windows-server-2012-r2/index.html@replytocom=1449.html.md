@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressРешаем проблему внезапной блокировки учетной записиОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces DirectАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

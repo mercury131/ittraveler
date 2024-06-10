@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка AlwaysOn на MS SQL 2016Сброс пароля администратора Active Directory
+Related posts:Передача и захват ролей FSMOПодключение к Office 365 через Powershell и зашифрованный парольКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
