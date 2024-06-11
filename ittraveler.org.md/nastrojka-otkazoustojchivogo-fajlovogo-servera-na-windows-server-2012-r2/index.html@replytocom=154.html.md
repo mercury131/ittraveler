@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellСоздание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Управление репликацией Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

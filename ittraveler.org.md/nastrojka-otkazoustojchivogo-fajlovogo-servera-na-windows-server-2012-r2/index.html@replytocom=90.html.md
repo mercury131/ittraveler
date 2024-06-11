@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит изменений групповых политик через PowerShellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Сброс пароля администратора Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

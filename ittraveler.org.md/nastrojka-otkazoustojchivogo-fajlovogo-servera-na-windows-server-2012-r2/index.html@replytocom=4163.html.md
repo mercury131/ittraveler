@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleСоздание шаблонов Zabbix для Windows.Решаем проблему внезапной блокировки учетной записи
+Related posts:Обновление схемы Active DirectoryНастройка HA кластера Hyper-VУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаДобавление UPN суффикса в Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Назначение служб для сертификатов Exchange через Powershell.Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

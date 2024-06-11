@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит DNS серверов на Windows Server 2008 R2 через PowershellWindows WSL подключение к сетевым шарам
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

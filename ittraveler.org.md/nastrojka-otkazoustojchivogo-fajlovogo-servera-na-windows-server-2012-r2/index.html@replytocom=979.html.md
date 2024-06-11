@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLАвтоматическая активация пользователей Lync через PowershellКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСброс настроек GPO на стандартныеСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Решаем проблему внезапной блокировки учетной записиОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Получаем MD5 файла или переменной в PowershellВключение корзины Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

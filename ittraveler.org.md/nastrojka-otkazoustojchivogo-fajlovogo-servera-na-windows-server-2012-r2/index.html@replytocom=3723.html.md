@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс пароля администратора Active DirectoryВключение корзины Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений в Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
