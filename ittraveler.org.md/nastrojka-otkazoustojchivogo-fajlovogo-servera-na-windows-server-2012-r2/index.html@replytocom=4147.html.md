@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Обновление Lync 2013 до Skype for BusinessПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Удаление Lync Server 2013Создание шаблонов Zabbix для Windows.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

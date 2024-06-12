@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Сброс пароля администратора Active DirectoryАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

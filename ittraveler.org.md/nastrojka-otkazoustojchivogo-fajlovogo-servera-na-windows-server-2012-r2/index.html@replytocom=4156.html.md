@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка кластера MSSQL 2012.Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Установка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellОбновление схемы Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Добавление UPN суффикса в Active DirectoryАвтоматическая активация пользователей Lync через PowershellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
