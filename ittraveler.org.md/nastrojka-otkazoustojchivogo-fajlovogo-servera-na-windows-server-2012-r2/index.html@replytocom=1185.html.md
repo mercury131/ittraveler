@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПереход на репликацию SYSVOL по DFSПередача и захват ролей FSMO
+Related posts:Управление репликацией Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

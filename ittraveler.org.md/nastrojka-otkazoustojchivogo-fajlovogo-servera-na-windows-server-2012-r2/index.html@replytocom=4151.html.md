@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLАвтоматический аудит компьютеров в Active Directory через powershell.Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Scale-Out File Server + Storage Spaces DirectНастройка HA кластера Hyper-V
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressДобавление почтовых контактов в Office 365 через Powershell и CSVУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

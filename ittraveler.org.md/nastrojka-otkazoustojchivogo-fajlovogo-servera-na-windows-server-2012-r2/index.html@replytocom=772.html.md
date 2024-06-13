@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля администратора Active Directory
+Related posts:Установка и настройка AnsibleОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

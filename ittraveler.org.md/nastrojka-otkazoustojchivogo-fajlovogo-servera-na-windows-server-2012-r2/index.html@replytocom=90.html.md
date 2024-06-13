@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка дедупликации  на Windows Server 2012 R2Переход на репликацию SYSVOL по DFS
+Related posts:Настройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит изменений групповых политик через PowerShellАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Создание пользователей Active Directory через CSV файлЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

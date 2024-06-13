@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАудит изменений групповых политик через PowerShellВосстановление объектов Active Directory: сборник сценариев
+Related posts:Изменение UPN суффикса в Active Directory через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

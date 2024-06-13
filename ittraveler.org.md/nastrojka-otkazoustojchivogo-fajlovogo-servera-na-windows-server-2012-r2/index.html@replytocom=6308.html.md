@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание шаблонов Zabbix для Windows.
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Обновление Lync 2013 до Skype for BusinessУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
