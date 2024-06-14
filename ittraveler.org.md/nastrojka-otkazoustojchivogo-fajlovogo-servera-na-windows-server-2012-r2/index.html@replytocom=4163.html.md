@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLУдаление Lync Server 2013Настройка Kerberos авторизации в Apache2
+Related posts:Автоматическая активация пользователей Lync через PowershellНастройка HA кластера Hyper-VActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

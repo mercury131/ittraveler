@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryВключение корзины Active DirectoryУдаление Lync Server 2013
+Related posts:Создание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервереПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
