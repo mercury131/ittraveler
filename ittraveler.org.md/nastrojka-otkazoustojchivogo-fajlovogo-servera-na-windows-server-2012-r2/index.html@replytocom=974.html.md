@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryОбновление схемы Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Обновление Lync 2013 до Skype for BusinessПодключение к Office 365 через Powershell и зашифрованный парольДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

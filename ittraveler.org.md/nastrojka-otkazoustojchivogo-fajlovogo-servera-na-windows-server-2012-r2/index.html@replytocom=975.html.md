@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАудит незаполненных полей в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка кластера MSSQL 2012.Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

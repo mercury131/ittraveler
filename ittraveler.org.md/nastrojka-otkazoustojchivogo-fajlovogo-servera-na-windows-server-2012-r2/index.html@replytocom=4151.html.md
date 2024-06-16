@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellСоздание пользователей Active Directory через CSV файлПереход на репликацию SYSVOL по DFS
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Добавление UPN суффикса в Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
