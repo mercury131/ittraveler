@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryОтключение Skype UI в Lync 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Сброс настроек GPO на стандартныеНастройка HA кластера Hyper-VАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

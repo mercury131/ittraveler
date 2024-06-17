@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Настройка HA кластера Hyper-VНазначение служб для сертификатов Exchange через Powershell.Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

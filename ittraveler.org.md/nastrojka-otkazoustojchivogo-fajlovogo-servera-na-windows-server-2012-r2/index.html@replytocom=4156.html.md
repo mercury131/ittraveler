@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryРешаем проблему внезапной блокировки учетной записиПередача и захват ролей FSMO
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка дедупликации  на Windows Server 2012 R2Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

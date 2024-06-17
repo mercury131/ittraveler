@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАктивируем LDAP over SSLПолучаем MD5 файла или переменной в Powershell
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание пользователей Active Directory через CSV файлУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

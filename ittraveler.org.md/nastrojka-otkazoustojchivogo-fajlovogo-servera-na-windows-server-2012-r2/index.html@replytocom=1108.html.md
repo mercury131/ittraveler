@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Управление репликацией Active DirectoryПеренос базы данных Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Обновление Lync 2013 до Skype for BusinessАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

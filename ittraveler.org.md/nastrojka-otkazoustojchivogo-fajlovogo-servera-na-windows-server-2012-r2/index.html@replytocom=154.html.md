@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книга
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces DirectПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

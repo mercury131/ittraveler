@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУстановка и настройка Lync 2013Сброс настроек GPO на стандартные
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

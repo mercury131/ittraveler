@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание индивидуальных адресных книг в Office 365 и Exchange onlineУправление репликацией Active Directory
+Related posts:Сброс пароля администратора Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

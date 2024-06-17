@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Обновление Lync 2013 до Skype for BusinessАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

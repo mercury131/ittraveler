@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПереход на репликацию SYSVOL по DFSДобавление UPN суффикса в Active Directory
+Related posts:Отключение Skype UI в Lync 2013Настройка HA кластера Hyper-VОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

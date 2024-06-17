@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка кластера MSSQL 2012.Новые компьютеры не появляются на WSUS сервере
+Related posts:Активируем LDAP over SSLАудит незаполненных полей в Active Directory через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

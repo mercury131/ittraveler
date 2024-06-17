@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамУправление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит незаполненных полей в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

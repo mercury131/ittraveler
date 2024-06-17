@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс настроек GPO на стандартные
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс пароля компьютера в домене без перезагрузкиActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

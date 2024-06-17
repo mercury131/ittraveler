@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Решаем проблему внезапной блокировки учетной записиАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Установка и настройка Lync 2013Аудит незаполненных полей в Active Directory через PowershellАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

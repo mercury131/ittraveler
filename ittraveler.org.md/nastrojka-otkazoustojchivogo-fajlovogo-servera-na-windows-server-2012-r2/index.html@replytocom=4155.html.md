@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Принудительная синхронизация контроллеров домена Active DirectoryПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

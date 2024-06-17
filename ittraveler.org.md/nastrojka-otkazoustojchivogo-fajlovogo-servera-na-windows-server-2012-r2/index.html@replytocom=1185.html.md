@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит доменных служб Active Directory в Windows Server 2008 R2Active Directory + Thunderbird = Общая адресная книга
+Related posts:Активируем LDAP over SSLПоиск старых почтовых ящиков в Exchange 2010Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

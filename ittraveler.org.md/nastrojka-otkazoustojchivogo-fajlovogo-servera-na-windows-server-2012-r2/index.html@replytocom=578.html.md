@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxВключение корзины Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

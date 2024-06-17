@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматизируем бэкап баз данных MSSQL ExpressПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Обновление Lync 2013 до Skype for BusinessАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

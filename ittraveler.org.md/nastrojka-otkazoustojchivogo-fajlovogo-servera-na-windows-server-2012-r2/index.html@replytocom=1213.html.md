@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание пользователей Active Directory через CSV файлИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Новые компьютеры не появляются на WSUS сервереПереход на репликацию SYSVOL по DFSКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

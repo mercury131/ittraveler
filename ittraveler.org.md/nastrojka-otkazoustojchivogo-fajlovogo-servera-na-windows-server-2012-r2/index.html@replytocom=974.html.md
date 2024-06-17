@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessПодключение к Office 365 через Powershell и зашифрованный парольДобавление UPN суффикса в Active Directory
+Related posts:Аудит изменений в Active DirectoryПеренос базы данных Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

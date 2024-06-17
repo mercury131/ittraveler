@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений в Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Решаем проблему внезапной блокировки учетной записиУстановка и настройка AlwaysOn на MS SQL 2016Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
