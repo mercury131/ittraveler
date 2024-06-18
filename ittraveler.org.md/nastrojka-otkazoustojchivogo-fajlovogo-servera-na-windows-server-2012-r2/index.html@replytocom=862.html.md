@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Новые компьютеры не появляются на WSUS сервереДобавление почтовых контактов в Office 365 через Powershell и CSVПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

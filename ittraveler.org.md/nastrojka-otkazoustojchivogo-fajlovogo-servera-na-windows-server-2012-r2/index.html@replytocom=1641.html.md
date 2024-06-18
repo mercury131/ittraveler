@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Аудит незаполненных полей в Active Directory через PowershellАудит изменений в Active Directory
+Related posts:Сброс настроек GPO на стандартныеНастройка растянутого кластера (stretch-cluster) на Windows server 2016Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

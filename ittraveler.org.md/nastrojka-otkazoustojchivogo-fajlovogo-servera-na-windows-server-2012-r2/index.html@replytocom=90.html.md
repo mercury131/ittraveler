@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLУстановка и настройка AlwaysOn на MS SQL 2016Отключение Skype UI в Lync 2013
+Related posts:Удаление Lync Server 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

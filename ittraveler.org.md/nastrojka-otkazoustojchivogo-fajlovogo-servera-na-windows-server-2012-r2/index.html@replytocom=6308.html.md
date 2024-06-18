@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс пароля компьютера в домене без перезагрузкиActive Directory + Thunderbird = Общая адресная книга
+Related posts:Новые компьютеры не появляются на WSUS сервереИзменение UPN суффикса в Active Directory через PowershellАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

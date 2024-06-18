@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание пользователей Active Directory через CSV файлУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание email рассылки через PowershellРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

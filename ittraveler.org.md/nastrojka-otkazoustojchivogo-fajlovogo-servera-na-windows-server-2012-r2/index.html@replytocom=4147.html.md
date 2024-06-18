@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Настройка HA кластера Hyper-VОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILКак узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

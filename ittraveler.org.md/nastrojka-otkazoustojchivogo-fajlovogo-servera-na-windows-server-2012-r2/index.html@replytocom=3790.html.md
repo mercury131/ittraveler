@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит незаполненных полей в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

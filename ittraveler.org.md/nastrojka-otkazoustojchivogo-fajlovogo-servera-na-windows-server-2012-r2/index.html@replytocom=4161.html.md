@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеНастройка HA кластера Hyper-VАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Включение корзины Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
