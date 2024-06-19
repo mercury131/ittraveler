@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеУстановка и настройка AnsibleПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУдаление Lync Server 2013Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Управление репликацией Active Directory
+Related posts:Сброс пароля администратора Active DirectoryПолучаем MD5 файла или переменной в PowershellНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

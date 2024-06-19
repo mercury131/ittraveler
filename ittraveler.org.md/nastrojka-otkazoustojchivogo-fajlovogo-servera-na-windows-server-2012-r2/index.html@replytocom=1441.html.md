@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка AnsibleКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Управление репликацией Active DirectoryActive Directory + Thunderbird = Общая адресная книгаОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

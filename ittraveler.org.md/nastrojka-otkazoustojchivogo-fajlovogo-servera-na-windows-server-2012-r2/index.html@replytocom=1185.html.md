@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectWindows WSL подключение к сетевым шарамСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

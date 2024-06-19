@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание email рассылки через PowershellРешаем проблему внезапной блокировки учетной записи
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Сброс пароля администратора Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
