@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryПолучаем MD5 файла или переменной в PowershellНастройка HA кластера Hyper-V
+Related posts:Настройка Kerberos авторизации в Apache2Получаем MD5 файла или переменной в PowershellИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

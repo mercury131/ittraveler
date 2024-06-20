@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryActive Directory + Thunderbird = Общая адресная книгаОтключение Skype UI в Lync 2013
+Related posts:Включение корзины Active DirectoryНастройка Kerberos авторизации в Apache2Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
