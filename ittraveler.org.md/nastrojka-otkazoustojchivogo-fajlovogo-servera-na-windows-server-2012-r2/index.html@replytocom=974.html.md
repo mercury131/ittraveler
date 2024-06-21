@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАктивируем LDAP over SSLКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Active Directory + Thunderbird = Общая адресная книгаКастомизация гостевых ОС Windows в KVM на примере ProxmoxПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

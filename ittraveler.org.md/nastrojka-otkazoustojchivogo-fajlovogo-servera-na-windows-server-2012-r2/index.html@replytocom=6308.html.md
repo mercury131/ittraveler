@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка кластера MSSQL 2012.Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
