@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Перенос базы данных Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Переход на репликацию SYSVOL по DFSПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

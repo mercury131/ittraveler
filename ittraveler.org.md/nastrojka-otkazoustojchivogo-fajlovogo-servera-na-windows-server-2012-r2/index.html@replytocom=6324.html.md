@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Отключение Skype UI в Lync 2013Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание email рассылки через PowershellАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

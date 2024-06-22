@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСброс пароля компьютера в домене без перезагрузкиКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Установка и настройка AnsibleИзменение UPN суффикса в Active Directory через PowershellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

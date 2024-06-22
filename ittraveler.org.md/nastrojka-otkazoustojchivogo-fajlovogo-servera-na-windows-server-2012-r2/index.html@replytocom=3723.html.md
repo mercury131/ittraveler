@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматическая активация пользователей Lync через PowershellПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Назначение служб для сертификатов Exchange через Powershell.Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

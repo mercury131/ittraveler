@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОбновление схемы Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVWindows WSL подключение к сетевым шарамВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

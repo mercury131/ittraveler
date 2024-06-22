@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАктивируем LDAP over SSLУстановка и настройка кластера MSSQL 2012.
+Related posts:Перенос базы данных Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

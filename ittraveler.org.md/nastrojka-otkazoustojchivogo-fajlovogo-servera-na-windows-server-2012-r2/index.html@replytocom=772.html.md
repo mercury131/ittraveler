@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryИзменение UPN суффикса в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПереход на репликацию SYSVOL по DFSОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

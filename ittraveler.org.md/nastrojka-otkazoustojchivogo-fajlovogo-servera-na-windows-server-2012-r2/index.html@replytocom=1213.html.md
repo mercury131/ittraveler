@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Включение корзины Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

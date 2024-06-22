@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевИзменение UPN суффикса в Active Directory через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Active Directory + Thunderbird = Общая адресная книгаСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

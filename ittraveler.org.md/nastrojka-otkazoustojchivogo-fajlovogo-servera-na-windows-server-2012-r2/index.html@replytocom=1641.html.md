@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаАвтоматическая активация пользователей Lync через PowershellИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Установка RSAT на Windows 10 1809Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

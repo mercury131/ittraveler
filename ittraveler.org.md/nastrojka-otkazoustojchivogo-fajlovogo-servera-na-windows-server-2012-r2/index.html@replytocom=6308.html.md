@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка кластера MSSQL 2012.Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Управление репликацией Active DirectoryИзменение UPN суффикса в Active Directory через PowershellВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

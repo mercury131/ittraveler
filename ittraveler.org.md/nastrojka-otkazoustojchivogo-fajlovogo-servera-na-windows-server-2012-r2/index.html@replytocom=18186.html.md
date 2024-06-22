@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessПодключение к Office 365 через Powershell и зашифрованный парольСоздание шаблонов Zabbix для Windows.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

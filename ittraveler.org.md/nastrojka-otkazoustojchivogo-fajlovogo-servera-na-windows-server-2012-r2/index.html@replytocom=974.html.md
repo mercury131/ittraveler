@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаКастомизация гостевых ОС Windows в KVM на примере ProxmoxПередача и захват ролей FSMO
+Related posts:Создание пользователей Active Directory через CSV файлВключение корзины Active DirectoryАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

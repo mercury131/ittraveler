@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Поиск старых почтовых ящиков в Exchange 2010Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Обновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариевДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

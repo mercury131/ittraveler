@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка кластера MSSQL 2012.Аудит изменений в Active Directory
+Related posts:Включение корзины Active DirectoryУстановка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

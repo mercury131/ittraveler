@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматическая активация пользователей Lync через PowershellОтключение Skype UI в Lync 2013
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryИзменение UPN суффикса в Active Directory через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамНазначение служб для сертификатов Exchange через Powershell.Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Новые компьютеры не появляются на WSUS сервереОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

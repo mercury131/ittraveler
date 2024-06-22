@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces DirectПолучаем MD5 файла или переменной в Powershell
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс настроек GPO на стандартныеКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
