@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryИзменение UPN суффикса в Active Directory через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Настройка Kerberos авторизации в Apache2Аудит изменений групповых политик через PowerShellУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

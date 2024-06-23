@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлВключение корзины Active DirectoryАудит изменений в Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

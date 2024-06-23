@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryУстановка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Windows WSL подключение к сетевым шарамУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

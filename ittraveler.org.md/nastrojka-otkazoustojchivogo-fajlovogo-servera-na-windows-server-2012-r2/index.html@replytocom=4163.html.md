@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариевДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Аудит изменений групповых политик через PowerShellПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

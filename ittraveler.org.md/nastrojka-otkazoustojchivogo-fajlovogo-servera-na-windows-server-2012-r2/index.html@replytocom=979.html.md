@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Назначение служб для сертификатов Exchange через Powershell.Управление репликацией Active Directory
+Related posts:Настройка HA кластера Hyper-VДобавление UPN суффикса в Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

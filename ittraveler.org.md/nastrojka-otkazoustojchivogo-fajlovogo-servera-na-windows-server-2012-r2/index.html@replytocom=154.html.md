@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVWindows WSL подключение к сетевым шарамВосстановление объектов Active Directory: сборник сценариев
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПеренос базы данных Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
