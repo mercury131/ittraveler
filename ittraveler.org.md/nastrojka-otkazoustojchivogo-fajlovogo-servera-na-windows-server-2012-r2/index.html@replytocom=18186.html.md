@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит незаполненных полей в Active Directory через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Lync 2013Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

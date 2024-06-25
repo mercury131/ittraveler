@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Переход на репликацию SYSVOL по DFSУстановка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

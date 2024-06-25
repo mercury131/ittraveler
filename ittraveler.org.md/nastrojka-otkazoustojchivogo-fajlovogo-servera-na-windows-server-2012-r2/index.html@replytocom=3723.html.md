@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Автоматизируем бэкап баз данных MSSQL ExpressНовые компьютеры не появляются на WSUS сервере
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Сброс пароля администратора Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
