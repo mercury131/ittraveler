@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSАудит изменений в Active DirectoryАудит незаполненных полей в Active Directory через Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Решаем проблему внезапной блокировки учетной записиНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

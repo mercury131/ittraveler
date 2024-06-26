@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSУстановка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Установка и настройка Lync 2013Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
