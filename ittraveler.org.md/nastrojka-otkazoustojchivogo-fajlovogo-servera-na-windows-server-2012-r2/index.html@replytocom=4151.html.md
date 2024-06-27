@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Windows WSL подключение к сетевым шарамАвтоматическая активация пользователей Lync через Powershell
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Настройка Kerberos авторизации в Apache2Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиАвтоматизируем бэкап баз данных MSSQL ExpressУдаление Lync Server 2013
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Активируем LDAP over SSLСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

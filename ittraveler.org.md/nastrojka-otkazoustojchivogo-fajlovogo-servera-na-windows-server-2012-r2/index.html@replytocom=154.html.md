@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Включение корзины Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

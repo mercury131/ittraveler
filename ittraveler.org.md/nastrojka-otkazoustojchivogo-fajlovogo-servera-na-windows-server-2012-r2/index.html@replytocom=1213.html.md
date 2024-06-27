@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Поиск старых почтовых ящиков в Exchange 2010Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTWindows WSL подключение к сетевым шарамАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

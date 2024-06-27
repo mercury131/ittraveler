@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryПеренос базы данных Active DirectoryПередача и захват ролей FSMO
+Related posts:Сброс настроек GPO на стандартныеАудит доменных служб Active Directory в Windows Server 2008 R2Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

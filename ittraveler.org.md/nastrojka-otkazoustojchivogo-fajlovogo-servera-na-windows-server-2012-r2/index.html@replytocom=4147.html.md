@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Установка и настройка Lync 2013Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Аудит изменений групповых политик через PowerShellWindows WSL подключение к сетевым шарамВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

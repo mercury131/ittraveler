@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Аудит изменений групповых политик через PowerShellWindows WSL подключение к сетевым шарам
+Related posts:Active Directory + Thunderbird = Общая адресная книгаНазначение служб для сертификатов Exchange через Powershell.Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

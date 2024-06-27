@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиРешаем проблему внезапной блокировки учетной записиВосстановление объектов Active Directory: сборник сценариев
+Related posts:Отключение Skype UI в Lync 2013Обновление Lync 2013 до Skype for BusinessНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
