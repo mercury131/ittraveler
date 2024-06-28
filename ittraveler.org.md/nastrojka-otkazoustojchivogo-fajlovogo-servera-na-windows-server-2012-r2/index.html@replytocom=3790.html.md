@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Создание шаблонов Zabbix для Windows.
+Related posts:Автоматическая активация пользователей Lync через PowershellОбновление Lync 2013 до Skype for BusinessПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1135,7 +1135,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2024 
+                                                  Все права защищены. IT Traveler 2019 
                          
                         
 																														                    

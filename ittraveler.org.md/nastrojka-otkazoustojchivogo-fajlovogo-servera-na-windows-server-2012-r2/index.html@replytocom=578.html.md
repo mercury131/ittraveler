@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryСоздание пользователей Active Directory через CSV файлПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Настройка Kerberos авторизации в Apache2Настройка HA кластера Hyper-VОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1135,7 +1135,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2024 
+                                                  Все права защищены. IT Traveler 2019 
                          
                         
 																														                    

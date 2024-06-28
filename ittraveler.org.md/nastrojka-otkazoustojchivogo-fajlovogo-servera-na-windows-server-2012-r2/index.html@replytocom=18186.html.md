@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Настройка Kerberos авторизации в Apache2Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1135,7 +1135,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2024 
+                                                  Все права защищены. IT Traveler 2019 
                          
                         
 																														                    

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Обновление Lync 2013 до Skype for BusinessНовые компьютеры не появляются на WSUS сервере
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСоздание шаблонов Zabbix для Windows.Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1135,7 +1135,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2024 
+                                                  Все права защищены. IT Traveler 2019 
                          
                         
 																														                    

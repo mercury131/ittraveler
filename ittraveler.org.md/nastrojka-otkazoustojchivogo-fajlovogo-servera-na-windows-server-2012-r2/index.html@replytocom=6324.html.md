@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLНастройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит изменений групповых политик через PowerShell
+Related posts:Отключение Skype UI в Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1135,7 +1135,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2024 
+                                                  Все права защищены. IT Traveler 2019 
                          
                         
 																														                    
