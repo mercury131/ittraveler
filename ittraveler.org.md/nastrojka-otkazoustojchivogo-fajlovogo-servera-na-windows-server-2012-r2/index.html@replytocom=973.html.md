@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОтключение Skype UI в Lync 2013Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка дедупликации  на Windows Server 2012 R2Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
