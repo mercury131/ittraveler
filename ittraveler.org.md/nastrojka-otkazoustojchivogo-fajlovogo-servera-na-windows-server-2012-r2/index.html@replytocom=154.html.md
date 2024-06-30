@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryАвтоматическая активация пользователей Lync через PowershellПереход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка Lync 2013Удаление Lync Server 2013Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

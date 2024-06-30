@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиНастройка HA кластера Hyper-VПеренос базы данных Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellПереход на репликацию SYSVOL по DFSНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
