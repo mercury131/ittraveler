@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс пароля компьютера в домене без перезагрузкиАвтоматическая активация пользователей Lync через Powershell
+Related posts:Настройка HA кластера Hyper-VСоздание пользователей Active Directory через CSV файлПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1135,7 +1135,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2019 
+                                                  Все права защищены. IT Traveler 2024 
                          
                         
 																														                    

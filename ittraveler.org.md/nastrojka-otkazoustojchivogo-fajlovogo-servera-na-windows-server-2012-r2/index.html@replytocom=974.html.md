@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Удаление Lync Server 2013Создание шаблонов Zabbix для Windows.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Аудит изменений в Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
@@ -1135,7 +1135,7 @@ Email
                 
 
                     
-                                                  Все права защищены. IT Traveler 2019 
+                                                  Все права защищены. IT Traveler 2024 
                          
                         
 																														                    
