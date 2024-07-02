@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSСоздание пользователей Active Directory через CSV файлСброс пароля администратора Active Directory
+Related posts:Сброс пароля администратора Active DirectoryРешаем проблему внезапной блокировки учетной записиПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

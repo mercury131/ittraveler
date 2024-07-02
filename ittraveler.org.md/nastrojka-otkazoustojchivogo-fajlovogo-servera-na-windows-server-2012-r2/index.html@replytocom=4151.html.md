@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013
+Related posts:Новые компьютеры не появляются на WSUS сервереУправление репликацией Active DirectoryПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
