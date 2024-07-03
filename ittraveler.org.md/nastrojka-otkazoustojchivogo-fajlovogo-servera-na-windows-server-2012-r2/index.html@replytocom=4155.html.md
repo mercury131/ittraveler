@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryРешаем проблему внезапной блокировки учетной записиПереход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка Lync 2013Настройка HA кластера Hyper-VУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
