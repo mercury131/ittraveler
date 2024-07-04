@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Установка и настройка Lync 2013
+Related posts:Переход на репликацию SYSVOL по DFSРешаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

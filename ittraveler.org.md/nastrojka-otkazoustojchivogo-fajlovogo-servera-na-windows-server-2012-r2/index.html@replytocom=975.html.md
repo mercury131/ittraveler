@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка AnsibleАктивируем LDAP over SSLКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

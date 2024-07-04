@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Сброс пароля компьютера в домене без перезагрузкиДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

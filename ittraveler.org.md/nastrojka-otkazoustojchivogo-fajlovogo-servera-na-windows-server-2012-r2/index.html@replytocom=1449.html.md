@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматическая активация пользователей Lync через PowershellУстановка и настройка кластера MSSQL 2012.
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Сброс пароля администратора Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryСоздание шаблонов Zabbix для Windows.Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНастройка HA кластера Hyper-VАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
