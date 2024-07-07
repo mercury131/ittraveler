@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSОбновление Lync 2013 до Skype for BusinessАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Передача и захват ролей FSMOВосстановление объектов Active Directory: сборник сценариевОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

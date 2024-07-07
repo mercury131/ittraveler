@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиОбновление схемы Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Создание шаблонов Zabbix для Windows.Настройка HA кластера Hyper-VОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

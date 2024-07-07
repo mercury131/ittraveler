@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLДобавление почтовых контактов в Office 365 через Powershell и CSVActive Directory + Thunderbird = Общая адресная книга
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка кластера MSSQL 2012.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
