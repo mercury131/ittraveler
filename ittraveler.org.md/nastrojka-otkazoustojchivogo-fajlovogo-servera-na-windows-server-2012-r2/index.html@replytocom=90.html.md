@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка кластера MSSQL 2012.Установка и настройка Ansible
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryВосстановление объектов Active Directory: сборник сценариевАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

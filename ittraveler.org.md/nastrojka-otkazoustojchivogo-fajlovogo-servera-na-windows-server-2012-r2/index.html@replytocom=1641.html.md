@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Настройка HA кластера Hyper-VОбновление схемы Active Directory
+Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces DirectИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

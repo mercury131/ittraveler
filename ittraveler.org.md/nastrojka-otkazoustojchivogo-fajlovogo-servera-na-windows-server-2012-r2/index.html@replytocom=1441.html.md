@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryНастройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
+Related posts:Создание пользователей Active Directory через CSV файлОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

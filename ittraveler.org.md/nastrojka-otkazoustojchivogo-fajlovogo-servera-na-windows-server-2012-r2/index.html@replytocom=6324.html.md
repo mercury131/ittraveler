@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOВосстановление объектов Active Directory: сборник сценариевОбновление Lync 2013 до Skype for Business
+Related posts:Active Directory + Thunderbird = Общая адресная книгаСоздание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

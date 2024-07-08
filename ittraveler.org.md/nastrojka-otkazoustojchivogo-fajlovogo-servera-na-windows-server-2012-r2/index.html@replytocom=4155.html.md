@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание индивидуальных адресных книг в Office 365 и Exchange onlineПередача и захват ролей FSMO
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Решаем проблему внезапной блокировки учетной записиУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

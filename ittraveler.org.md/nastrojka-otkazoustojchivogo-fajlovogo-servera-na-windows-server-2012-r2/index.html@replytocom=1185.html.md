@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Управление репликацией Active Directory
+Related posts:Удаление Lync Server 2013Установка и настройка AnsibleАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

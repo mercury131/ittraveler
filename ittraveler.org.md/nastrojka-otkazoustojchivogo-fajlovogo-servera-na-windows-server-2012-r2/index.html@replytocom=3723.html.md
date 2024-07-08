@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПереход на репликацию SYSVOL по DFSНовые компьютеры не появляются на WSUS сервере
+Related posts:Удаление Lync Server 2013Установка и настройка AlwaysOn на MS SQL 2016Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

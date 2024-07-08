@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VОбновление Lync 2013 до Skype for BusinessПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Управление репликацией Active DirectoryПринудительная синхронизация контроллеров домена Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

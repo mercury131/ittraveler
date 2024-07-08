@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит незаполненных полей в Active Directory через PowershellАвтоматическая активация пользователей Lync через Powershell
+Related posts:Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFSWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
