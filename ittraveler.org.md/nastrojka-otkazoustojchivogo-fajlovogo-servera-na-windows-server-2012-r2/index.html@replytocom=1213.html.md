@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлАвтоматизируем бэкап баз данных MSSQL ExpressActive Directory + Thunderbird = Общая адресная книга
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАктивируем LDAP over SSLПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

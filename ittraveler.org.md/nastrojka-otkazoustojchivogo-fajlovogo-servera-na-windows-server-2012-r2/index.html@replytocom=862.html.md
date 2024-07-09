@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеАудит изменений в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Аудит изменений в Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
