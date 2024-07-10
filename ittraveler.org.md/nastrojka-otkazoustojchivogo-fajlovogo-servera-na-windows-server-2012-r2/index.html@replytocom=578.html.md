@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеНастройка HA кластера Hyper-VДобавление UPN суффикса в Active Directory
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПередача и захват ролей FSMOПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

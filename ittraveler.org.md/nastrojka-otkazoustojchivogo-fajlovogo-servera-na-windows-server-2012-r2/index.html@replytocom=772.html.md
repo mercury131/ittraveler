@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Установка и настройка кластера MSSQL 2012.Добавление почтовых контактов в Office 365 через Powershell и CSVОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

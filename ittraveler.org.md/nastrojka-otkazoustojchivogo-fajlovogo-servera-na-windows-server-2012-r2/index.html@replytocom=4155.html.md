@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryНастройка Kerberos авторизации в Apache2Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Переход на репликацию SYSVOL по DFSСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

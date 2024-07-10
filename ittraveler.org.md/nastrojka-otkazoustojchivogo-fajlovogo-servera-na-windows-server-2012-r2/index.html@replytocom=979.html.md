@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАудит изменений групповых политик через PowerShellНастройка Kerberos авторизации в Apache2
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАудит изменений в Active DirectoryСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

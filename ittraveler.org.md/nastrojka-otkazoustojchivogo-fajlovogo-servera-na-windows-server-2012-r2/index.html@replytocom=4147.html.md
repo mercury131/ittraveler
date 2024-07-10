@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Добавление UPN суффикса в Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Настройка Kerberos авторизации в Apache2Создание email рассылки через PowershellАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

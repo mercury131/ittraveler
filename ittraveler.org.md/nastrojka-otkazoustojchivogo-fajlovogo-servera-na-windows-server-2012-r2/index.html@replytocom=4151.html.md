@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Передача и захват ролей FSMOУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
