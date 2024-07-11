@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка AnsibleНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Настройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариевОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
