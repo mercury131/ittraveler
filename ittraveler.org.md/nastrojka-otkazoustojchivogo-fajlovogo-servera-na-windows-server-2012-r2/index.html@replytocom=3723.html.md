@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание email рассылки через PowershellWindows WSL подключение к сетевым шарам
+Related posts:Аудит незаполненных полей в Active Directory через PowershellПринудительная синхронизация контроллеров домена Active DirectoryОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

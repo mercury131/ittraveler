@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариевОтключение Skype UI в Lync 2013
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Удаление Lync Server 2013Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
