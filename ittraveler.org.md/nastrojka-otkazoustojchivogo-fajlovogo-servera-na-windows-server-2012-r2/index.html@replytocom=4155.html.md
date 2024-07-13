@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleИзменение UPN суффикса в Active Directory через PowershellУстановка RSAT на Windows 10 1809
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

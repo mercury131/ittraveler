@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Новые компьютеры не появляются на WSUS сервереУстановка RSAT на Windows 10 1809
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПеренос базы данных Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
