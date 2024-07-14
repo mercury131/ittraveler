@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Переход на репликацию SYSVOL по DFS
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание email рассылки через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

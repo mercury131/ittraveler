@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка Lync 2013Автоматическая активация пользователей Lync через Powershell
+Related posts:Установка RSAT на Windows 10 1809Новые компьютеры не появляются на WSUS сервереУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

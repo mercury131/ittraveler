@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Переход на репликацию SYSVOL по DFSПеренос базы данных Active DirectoryПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
