@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSПеренос базы данных Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Создание email рассылки через PowershellСброс пароля компьютера в домене без перезагрузкиСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

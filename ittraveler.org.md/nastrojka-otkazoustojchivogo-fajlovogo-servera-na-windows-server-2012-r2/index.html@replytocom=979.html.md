@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Обновление схемы Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Active Directory + Thunderbird = Общая адресная книгаСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

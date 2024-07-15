@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлВосстановление объектов Active Directory: сборник сценариевОбновление схемы Active Directory
+Related posts:Windows WSL подключение к сетевым шарамПоиск старых почтовых ящиков в Exchange 2010Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

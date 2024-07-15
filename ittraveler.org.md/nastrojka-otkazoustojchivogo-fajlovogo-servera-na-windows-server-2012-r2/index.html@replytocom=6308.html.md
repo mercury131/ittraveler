@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLСброс пароля администратора Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Windows WSL подключение к сетевым шарамСброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

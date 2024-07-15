@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryСброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузки
+Related posts:Обновление схемы Active DirectoryУстановка и настройка AnsibleПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Новые компьютеры не появляются на WSUS сервереУстановка и настройка Ansible
+Related posts:Решаем проблему внезапной блокировки учетной записиНастройка HA кластера Hyper-VОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

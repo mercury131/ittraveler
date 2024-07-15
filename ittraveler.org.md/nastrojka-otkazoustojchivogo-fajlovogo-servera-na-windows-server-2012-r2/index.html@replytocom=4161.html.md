@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Новые компьютеры не появляются на WSUS сервереУстановка и настройка Lync 2013
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУдаление Lync Server 2013Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
