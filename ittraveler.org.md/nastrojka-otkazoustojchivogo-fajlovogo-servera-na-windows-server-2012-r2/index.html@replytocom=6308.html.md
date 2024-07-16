@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамСброс настроек GPO на стандартныеСброс пароля компьютера в домене без перезагрузки
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАвтоматическая активация пользователей Lync через PowershellУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

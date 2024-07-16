@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellСброс пароля компьютера в домене без перезагрузкиСброс настроек GPO на стандартные
+Related posts:Переход на репликацию SYSVOL по DFSАвтоматическая активация пользователей Lync через PowershellПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
