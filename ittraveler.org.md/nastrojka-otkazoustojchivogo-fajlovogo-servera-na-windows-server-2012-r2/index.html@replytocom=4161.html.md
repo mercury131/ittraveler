@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryАудит незаполненных полей в Active Directory через PowershellДобавление UPN суффикса в Active Directory
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольВключение корзины Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Отключение Skype UI в Lync 2013Создание email рассылки через Powershell
+Related posts:Переход на репликацию SYSVOL по DFSУдаление Lync Server 2013Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
