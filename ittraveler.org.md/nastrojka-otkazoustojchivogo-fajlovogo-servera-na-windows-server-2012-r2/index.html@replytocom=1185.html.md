@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариевСоздание шаблонов Zabbix для Windows.
+Related posts:Автоматическая активация пользователей Lync через PowershellОбновление схемы Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

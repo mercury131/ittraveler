@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Ansible
+Related posts:Удаление Lync Server 2013Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

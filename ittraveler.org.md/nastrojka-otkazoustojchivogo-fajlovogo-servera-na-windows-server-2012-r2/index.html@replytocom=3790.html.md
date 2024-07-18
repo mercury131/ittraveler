@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлАудит изменений групповых политик через PowerShellКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Аудит изменений в Active DirectoryИзменение UPN суффикса в Active Directory через PowershellУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
