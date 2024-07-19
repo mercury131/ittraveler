@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellОбновление схемы Active DirectoryСоздание пользователей Active Directory через CSV файл
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Windows WSL подключение к сетевым шарамАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
