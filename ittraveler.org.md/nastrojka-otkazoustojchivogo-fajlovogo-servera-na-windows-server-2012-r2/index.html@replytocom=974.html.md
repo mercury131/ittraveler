@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПеренос базы данных Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

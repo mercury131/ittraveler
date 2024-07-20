@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСброс настроек GPO на стандартныеНовые компьютеры не появляются на WSUS сервере
+Related posts:Управление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
