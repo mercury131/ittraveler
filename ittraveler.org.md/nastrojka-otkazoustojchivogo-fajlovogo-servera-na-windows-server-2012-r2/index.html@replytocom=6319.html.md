@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлАвтоматическая активация пользователей Lync через PowershellРешаем проблему внезапной блокировки учетной записи
+Related posts:Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for BusinessПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

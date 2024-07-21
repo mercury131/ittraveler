@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Поиск старых почтовых ящиков в Exchange 2010Отказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

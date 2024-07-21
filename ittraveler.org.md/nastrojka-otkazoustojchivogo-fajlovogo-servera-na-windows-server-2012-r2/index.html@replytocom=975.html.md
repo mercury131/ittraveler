@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxВключение корзины Active DirectoryАудит изменений в Active Directory
+Related posts:Сброс пароля администратора Active DirectoryСоздание шаблонов Zabbix для Windows.Принудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлУправление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Получаем MD5 файла или переменной в PowershellПоиск старых почтовых ящиков в Exchange 2010Настройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

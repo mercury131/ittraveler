@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryНастройка Kerberos авторизации в Apache2Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Установка и настройка AnsibleУстановка и настройка Scale-Out File Server + Storage Spaces DirectActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

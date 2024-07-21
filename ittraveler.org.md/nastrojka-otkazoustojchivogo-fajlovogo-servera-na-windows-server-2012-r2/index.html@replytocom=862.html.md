@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереАудит незаполненных полей в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

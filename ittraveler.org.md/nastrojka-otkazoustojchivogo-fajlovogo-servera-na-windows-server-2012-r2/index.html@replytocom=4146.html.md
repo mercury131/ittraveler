@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Включение корзины Active DirectoryПередача и захват ролей FSMOДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

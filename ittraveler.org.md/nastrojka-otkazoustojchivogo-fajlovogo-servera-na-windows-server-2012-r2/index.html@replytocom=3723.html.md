@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Windows WSL подключение к сетевым шарам
+Related posts:Сброс пароля компьютера в домене без перезагрузкиЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

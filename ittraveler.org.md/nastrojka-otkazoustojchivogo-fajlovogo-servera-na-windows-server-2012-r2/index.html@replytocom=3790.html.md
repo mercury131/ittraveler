@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellСоздание пользователей Active Directory через CSV файлУстановка RSAT на Windows 10 1809
+Related posts:Аудит изменений в Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
