@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Lync 2013Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

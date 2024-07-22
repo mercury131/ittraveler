@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellСоздание пользователей Active Directory через CSV файлПолучаем MD5 файла или переменной в Powershell
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка Lync 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
