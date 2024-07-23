@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Перенос базы данных Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Передача и захват ролей FSMOСоздание индивидуальных адресных книг в Office 365 и Exchange onlineКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

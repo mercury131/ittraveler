@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryСброс пароля компьютера в домене без перезагрузкиПринудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПодключение к Office 365 через Powershell и зашифрованный парольЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
