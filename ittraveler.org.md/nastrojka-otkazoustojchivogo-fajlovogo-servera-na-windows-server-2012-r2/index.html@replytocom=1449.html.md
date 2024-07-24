@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOСоздание индивидуальных адресных книг в Office 365 и Exchange onlineКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Создание шаблонов Zabbix для Windows.Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

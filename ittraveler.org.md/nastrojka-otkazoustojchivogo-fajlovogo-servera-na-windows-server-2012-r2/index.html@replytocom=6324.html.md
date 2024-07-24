@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка AlwaysOn на MS SQL 2016
+Related posts:Получаем MD5 файла или переменной в PowershellАудит незаполненных полей в Active Directory через PowershellАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

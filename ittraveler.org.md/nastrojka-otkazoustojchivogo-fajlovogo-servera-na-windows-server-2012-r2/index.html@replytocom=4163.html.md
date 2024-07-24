@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Создание email рассылки через PowershellУстановка и настройка кластера MSSQL 2012.
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс настроек GPO на стандартныеКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

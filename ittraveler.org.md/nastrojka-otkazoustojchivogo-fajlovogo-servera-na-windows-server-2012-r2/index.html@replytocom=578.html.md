@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellПередача и захват ролей FSMOБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольActive Directory + Thunderbird = Общая адресная книгаПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

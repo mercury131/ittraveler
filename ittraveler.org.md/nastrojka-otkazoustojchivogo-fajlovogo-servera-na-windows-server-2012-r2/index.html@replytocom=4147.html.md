@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевСоздание индивидуальных адресных книг в Office 365 и Exchange onlineВключение корзины Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАвтоматическая активация пользователей Lync через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

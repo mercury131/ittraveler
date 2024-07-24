@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПереход на репликацию SYSVOL по DFSActive Directory + Thunderbird = Общая адресная книга
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Сброс настроек GPO на стандартныеУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
