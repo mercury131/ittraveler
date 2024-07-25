@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Сброс настроек GPO на стандартныеКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Активируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книгаНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

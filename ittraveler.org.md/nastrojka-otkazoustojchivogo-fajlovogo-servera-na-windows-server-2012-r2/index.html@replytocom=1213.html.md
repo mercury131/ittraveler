@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлПеренос базы данных Active DirectoryУправление репликацией Active Directory
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Сброс настроек GPO на стандартныеСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

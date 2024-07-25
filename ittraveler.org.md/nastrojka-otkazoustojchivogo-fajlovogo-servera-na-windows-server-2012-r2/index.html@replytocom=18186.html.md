@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Восстановление объектов Active Directory: сборник сценариевАудит незаполненных полей в Active Directory через Powershell
+Related posts:Добавление UPN суффикса в Active DirectoryНастройка HA кластера Hyper-VОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

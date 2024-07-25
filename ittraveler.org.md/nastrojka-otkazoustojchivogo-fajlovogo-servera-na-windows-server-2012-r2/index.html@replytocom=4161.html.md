@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Новые компьютеры не появляются на WSUS сервере
+Related posts:Аудит незаполненных полей в Active Directory через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
