@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит незаполненных полей в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка AnsibleСброс настроек GPO на стандартныеРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

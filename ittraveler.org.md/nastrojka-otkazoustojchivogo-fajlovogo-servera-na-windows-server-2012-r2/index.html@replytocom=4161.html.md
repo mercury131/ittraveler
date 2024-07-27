@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Переход на репликацию SYSVOL по DFSСброс настроек GPO на стандартные
+Related posts:Управление репликацией Active DirectoryДобавление UPN суффикса в Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

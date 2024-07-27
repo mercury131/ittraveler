@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryНастройка HA кластера Hyper-VНастройка Kerberos авторизации в Apache2
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Настройка Kerberos авторизации в Apache2Подключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

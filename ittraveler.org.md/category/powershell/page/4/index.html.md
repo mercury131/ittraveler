@@ -58,7 +58,7 @@ Set-ADForestMode –Identity contoso.com -ForestMode Windows2008R2Forest
 Январь 2015
 Декабрь 2014
 Календарь
-Февраль 2024
+Июль 2024
 Пн
 Вт
 Ср
@@ -66,7 +66,6 @@ Set-ADForestMode –Identity contoso.com -ForestMode Windows2008R2Forest
 Пт
 Сб
 Вс
-&nbsp;1234
 &nbsp;
 &laquo; Окт
 &nbsp;
