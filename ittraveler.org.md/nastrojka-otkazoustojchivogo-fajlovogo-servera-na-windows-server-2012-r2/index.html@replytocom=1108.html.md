@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиПередача и захват ролей FSMOАудит изменений групповых политик через PowerShell
+Related posts:Настройка HA кластера Hyper-VУдаление Lync Server 2013Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryWindows WSL подключение к сетевым шарамСброс пароля администратора Active Directory
+Related posts:Установка RSAT на Windows 10 1809Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

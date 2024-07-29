@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУстановка RSAT на Windows 10 1809Восстановление объектов Active Directory: сборник сценариев
+Related posts:Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFSПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

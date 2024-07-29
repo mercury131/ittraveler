@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Аудит незаполненных полей в Active Directory через PowershellСоздание пользователей Active Directory через CSV файл
+Related posts:Установка RSAT на Windows 10 1809Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
