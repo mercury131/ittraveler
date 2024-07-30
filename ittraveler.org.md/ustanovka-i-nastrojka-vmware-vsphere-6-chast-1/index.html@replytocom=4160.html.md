@@ -83,7 +83,7 @@
 Теперь можно подключиться к VCENTER через браузер.
 После перехода по ссылке и авторизации, вы попадете в интерфейс Vcenter.
 В следующей статье мы рассмотрим базовую настройку Vcenter и хостов ESXI.
-Related posts:Настройка HA кластера Hyper-VУстановка и настройка VMWare Vsphere 6. Часть 4Установка и настройка Citrix XenServer Часть 2.
+Related posts:Установка и настройка Citrix XenServer Часть 4.Установка и настройка Citrix XenServer Часть 1.Установка и настройка Citrix XenServer Часть 2.
         
              Виртуализация 
              Метки: vmware, vsphere  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка Ansible
+Related posts:Включение корзины Active DirectoryПередача и захват ролей FSMOWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

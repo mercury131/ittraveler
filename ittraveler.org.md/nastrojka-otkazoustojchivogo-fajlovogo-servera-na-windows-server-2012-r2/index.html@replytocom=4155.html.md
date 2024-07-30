@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Аудит доменных служб Active Directory в Windows Server 2008 R2Аудит изменений групповых политик через PowerShell
+Related posts:Обновление Lync 2013 до Skype for BusinessАктивируем LDAP over SSLУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
