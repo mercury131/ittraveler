@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУдаление Lync Server 2013Аудит изменений в Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАудит изменений в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

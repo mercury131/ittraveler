@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Создание шаблонов Zabbix для Windows.Windows WSL подключение к сетевым шарам
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит изменений в Active DirectoryСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

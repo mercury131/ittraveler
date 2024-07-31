@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellСоздание пользователей Active Directory через CSV файлСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПеренос базы данных Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

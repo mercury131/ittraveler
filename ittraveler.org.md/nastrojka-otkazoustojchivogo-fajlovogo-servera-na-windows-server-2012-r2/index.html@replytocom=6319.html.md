@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryОбновление схемы Active DirectoryАудит изменений в Active Directory
+Related posts:Перенос базы данных Active DirectoryУдаление Lync Server 2013Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

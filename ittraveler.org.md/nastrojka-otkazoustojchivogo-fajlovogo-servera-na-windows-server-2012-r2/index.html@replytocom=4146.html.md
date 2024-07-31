@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryУстановка и настройка кластера MSSQL 2012.Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Удаление Lync Server 2013Перенос базы данных Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

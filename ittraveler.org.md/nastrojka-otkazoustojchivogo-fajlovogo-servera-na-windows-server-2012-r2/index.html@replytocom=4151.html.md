@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление схемы Active Directory
+Related posts:Установка RSAT на Windows 10 1809Принудительная синхронизация Office 365 и локальной Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

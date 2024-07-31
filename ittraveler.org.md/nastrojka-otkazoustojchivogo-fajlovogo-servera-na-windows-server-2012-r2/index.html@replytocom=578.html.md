@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка кластера MSSQL 2012.
+Related posts:Перенос базы данных Active DirectoryПередача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

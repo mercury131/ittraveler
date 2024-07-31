@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Автоматическая активация пользователей Lync через PowershellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление Lync 2013 до Skype for BusinessУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

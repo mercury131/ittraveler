@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryПередача и захват ролей FSMOWindows WSL подключение к сетевым шарам
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Обновление Lync 2013 до Skype for BusinessДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

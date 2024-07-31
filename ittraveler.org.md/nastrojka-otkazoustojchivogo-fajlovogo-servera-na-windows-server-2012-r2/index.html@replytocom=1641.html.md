@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Настройка HA кластера Hyper-VПередача и захват ролей FSMOПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
