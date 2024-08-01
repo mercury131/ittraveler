@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VПередача и захват ролей FSMOПолучаем MD5 файла или переменной в Powershell
+Related posts:Отключение Skype UI в Lync 2013Создание email рассылки через PowershellАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
