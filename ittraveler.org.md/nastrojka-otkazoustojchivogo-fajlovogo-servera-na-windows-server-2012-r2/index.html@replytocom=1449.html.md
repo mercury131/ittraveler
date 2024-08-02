@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Управление репликацией Active DirectoryСоздание шаблонов Zabbix для Windows.Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

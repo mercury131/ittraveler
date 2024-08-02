@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleУстановка и настройка кластера MSSQL 2012.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Сброс настроек GPO на стандартныеПолучаем MD5 файла или переменной в PowershellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

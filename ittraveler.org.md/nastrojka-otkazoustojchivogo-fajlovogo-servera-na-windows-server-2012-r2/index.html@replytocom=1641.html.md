@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Создание email рассылки через PowershellАктивируем LDAP over SSL
+Related posts:Настройка Kerberos авторизации в Apache2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

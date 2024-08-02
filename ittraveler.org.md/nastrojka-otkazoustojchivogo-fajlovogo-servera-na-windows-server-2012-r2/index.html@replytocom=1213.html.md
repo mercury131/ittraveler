@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellПередача и захват ролей FSMOУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Новые компьютеры не появляются на WSUS сервереСоздание email рассылки через PowershellРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

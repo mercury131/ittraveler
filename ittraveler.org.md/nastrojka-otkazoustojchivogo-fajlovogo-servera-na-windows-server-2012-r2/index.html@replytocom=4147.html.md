@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Сброс настроек GPO на стандартныеУдаление Lync Server 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
