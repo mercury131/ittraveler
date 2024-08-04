@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПолучаем MD5 файла или переменной в PowershellСброс настроек GPO на стандартные
+Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
