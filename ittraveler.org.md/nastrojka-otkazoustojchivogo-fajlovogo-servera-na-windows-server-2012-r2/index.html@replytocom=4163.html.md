@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Получаем MD5 файла или переменной в Powershell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Новые компьютеры не появляются на WSUS сервереАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

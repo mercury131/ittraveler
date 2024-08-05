@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка Lync 2013Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Как узнать WWN (World Wide Name)  в Windows Server 2012R2Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellСброс пароля компьютера в домене без перезагрузкиСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Восстановление объектов Active Directory: сборник сценариевОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

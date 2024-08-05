@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleУдаление Lync Server 2013Active Directory + Thunderbird = Общая адресная книга
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

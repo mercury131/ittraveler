@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryActive Directory + Thunderbird = Общая адресная книгаАудит изменений групповых политик через PowerShell
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryWindows WSL подключение к сетевым шарамПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

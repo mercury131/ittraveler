@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Перенос базы данных Active DirectoryУстановка и настройка Ansible
+Related posts:Windows WSL подключение к сетевым шарамАудит незаполненных полей в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

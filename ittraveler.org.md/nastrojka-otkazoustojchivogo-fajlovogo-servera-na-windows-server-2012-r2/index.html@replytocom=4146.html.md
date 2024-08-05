@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений групповых политик через PowerShell
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Изменение UPN суффикса в Active Directory через PowershellРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

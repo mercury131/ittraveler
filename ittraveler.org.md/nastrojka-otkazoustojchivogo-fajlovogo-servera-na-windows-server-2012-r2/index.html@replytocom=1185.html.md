@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryСброс пароля компьютера в домене без перезагрузкиКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Получаем MD5 файла или переменной в PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Управление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

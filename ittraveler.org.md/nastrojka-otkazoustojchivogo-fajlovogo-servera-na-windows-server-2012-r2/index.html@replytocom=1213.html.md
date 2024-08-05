@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Передача и захват ролей FSMO
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание пользователей Active Directory через CSV файлЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

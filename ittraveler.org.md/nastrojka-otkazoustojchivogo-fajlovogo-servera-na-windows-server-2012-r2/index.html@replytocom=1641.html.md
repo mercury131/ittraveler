@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Обновление схемы Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Решаем проблему внезапной блокировки учетной записиПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

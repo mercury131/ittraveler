@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryОбновление схемы Active DirectoryУстановка и настройка Lync 2013
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryУстановка и настройка Scale-Out File Server + Storage Spaces DirectАудит незаполненных полей в Active Directory через Powershell
+Related posts:Включение корзины Active DirectoryСоздание шаблонов Zabbix для Windows.Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

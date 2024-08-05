@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellПереход на репликацию SYSVOL по DFSУстановка и настройка Lync 2013
+Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка AlwaysOn на MS SQL 2016Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

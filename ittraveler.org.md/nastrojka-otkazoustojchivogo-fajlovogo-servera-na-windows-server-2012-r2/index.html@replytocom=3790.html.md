@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка кластера MSSQL 2012.Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Создание шаблонов Zabbix для Windows.Windows WSL подключение к сетевым шарамНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

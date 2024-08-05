@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellОбновление схемы Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка растянутого кластера (stretch-cluster) на Windows server 2016Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

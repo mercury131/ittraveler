@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка RSAT на Windows 10 1809
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание email рассылки через PowershellАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

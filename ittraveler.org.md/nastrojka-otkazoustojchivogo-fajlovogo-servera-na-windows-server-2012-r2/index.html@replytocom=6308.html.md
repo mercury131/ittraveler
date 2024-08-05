@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Принудительная синхронизация Office 365 и локальной Active DirectoryНовые компьютеры не появляются на WSUS сервере
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
