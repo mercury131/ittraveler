@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Активируем LDAP over SSLЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Аудит изменений групповых политик через PowerShellУстановка и настройка дедупликации  на Windows Server 2012 R2Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

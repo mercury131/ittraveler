@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Изменение UPN суффикса в Active Directory через PowershellРешаем проблему внезапной блокировки учетной записи
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Добавление почтовых контактов в Office 365 через Powershell и CSVОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
