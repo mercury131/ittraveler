@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Перенос базы данных Active DirectoryУстановка и настройка кластера MSSQL 2012.
+Related posts:Windows WSL подключение к сетевым шарамОбновление схемы Active DirectoryActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

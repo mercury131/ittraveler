@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Обновление схемы Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаНастройка Kerberos авторизации в Apache2Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

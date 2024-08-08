@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellНастройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Установка и настройка Lync 2013Настройка Kerberos авторизации в Apache2Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

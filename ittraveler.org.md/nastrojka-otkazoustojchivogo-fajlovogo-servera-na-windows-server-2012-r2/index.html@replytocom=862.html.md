@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Windows WSL подключение к сетевым шарамНастройка HA кластера Hyper-V
+Related posts:Установка и настройка кластера MSSQL 2012.Добавление почтовых контактов в Office 365 через Powershell и CSVУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
