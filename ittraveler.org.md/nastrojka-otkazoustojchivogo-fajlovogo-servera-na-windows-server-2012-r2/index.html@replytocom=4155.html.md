@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка HA кластера Hyper-VСброс пароля компьютера в домене без перезагрузки
+Related posts:Активируем LDAP over SSLАудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

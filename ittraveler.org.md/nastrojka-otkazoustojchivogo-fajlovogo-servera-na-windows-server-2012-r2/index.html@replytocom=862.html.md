@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Добавление почтовых контактов в Office 365 через Powershell и CSVУправление репликацией Active Directory
+Related posts:Отключение Skype UI в Lync 2013Сброс настроек GPO на стандартныеДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка Lync 2013Автоматическая активация пользователей Lync через Powershell
+Related posts:Настройка Kerberos авторизации в Apache2Обновление Lync 2013 до Skype for BusinessАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиСброс пароля администратора Active DirectoryУправление репликацией Active Directory
+Related posts:Сброс пароля администратора Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

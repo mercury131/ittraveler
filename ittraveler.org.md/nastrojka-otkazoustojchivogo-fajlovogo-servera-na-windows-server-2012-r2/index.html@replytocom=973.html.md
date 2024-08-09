@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleДобавление UPN суффикса в Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Отключение Skype UI в Lync 2013Сброс пароля администратора Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамОбновление схемы Active DirectoryУстановка и настройка Lync 2013
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит изменений групповых политик через PowerShellАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

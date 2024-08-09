@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Перенос базы данных Active DirectoryВключение корзины Active Directory
+Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка AlwaysOn на MS SQL 2016Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

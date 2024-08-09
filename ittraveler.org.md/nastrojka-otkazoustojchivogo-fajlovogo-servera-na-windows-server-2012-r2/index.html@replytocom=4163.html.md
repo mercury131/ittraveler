@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Active Directory + Thunderbird = Общая адресная книгаПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольActive Directory + Thunderbird = Общая адресная книгаСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
