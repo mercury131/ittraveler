@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineАктивируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книга
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит изменений в Active DirectoryУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

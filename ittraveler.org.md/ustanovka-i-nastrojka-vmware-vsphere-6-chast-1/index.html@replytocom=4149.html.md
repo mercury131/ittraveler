@@ -83,7 +83,7 @@
 Теперь можно подключиться к VCENTER через браузер.
 После перехода по ссылке и авторизации, вы попадете в интерфейс Vcenter.
 В следующей статье мы рассмотрим базовую настройку Vcenter и хостов ESXI.
-Related posts:Установка и настройка Citrix XenServer Часть 4.Установка и настройка Citrix XenServer Часть 1.KVM восстановление qcow2 диска
+Related posts:Установка и настройка VMWare Vsphere 6. Часть 5Настройка ZFS в ProxmoxКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Виртуализация 
              Метки: vmware, vsphere  

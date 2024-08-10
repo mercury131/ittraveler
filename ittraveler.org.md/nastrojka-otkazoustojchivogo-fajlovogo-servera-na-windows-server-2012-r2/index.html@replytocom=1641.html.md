@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУдаление Lync Server 2013Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Передача и захват ролей FSMOОбновление Lync 2013 до Skype for BusinessАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
