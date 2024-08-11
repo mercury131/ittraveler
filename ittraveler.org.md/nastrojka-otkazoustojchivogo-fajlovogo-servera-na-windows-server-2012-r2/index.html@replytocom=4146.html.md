@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellНастройка HA кластера Hyper-VСброс пароля администратора Active Directory
+Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление схемы Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
