@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Настройка Kerberos авторизации в Apache2Новые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

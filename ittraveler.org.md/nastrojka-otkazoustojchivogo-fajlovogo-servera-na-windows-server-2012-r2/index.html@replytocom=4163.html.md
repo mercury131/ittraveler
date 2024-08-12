@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Удаление Lync Server 2013Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

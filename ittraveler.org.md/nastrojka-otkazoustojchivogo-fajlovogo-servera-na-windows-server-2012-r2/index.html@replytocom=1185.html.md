@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Обновление схемы Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Сброс пароля администратора Active DirectoryОбновление Lync 2013 до Skype for BusinessПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

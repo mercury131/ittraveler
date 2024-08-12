@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Создание email рассылки через PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание email рассылки через PowershellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

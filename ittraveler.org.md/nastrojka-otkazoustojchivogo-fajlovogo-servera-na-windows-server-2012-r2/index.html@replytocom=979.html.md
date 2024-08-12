@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VПринудительная синхронизация контроллеров домена Active DirectoryПереход на репликацию SYSVOL по DFS
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVДобавление UPN суффикса в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

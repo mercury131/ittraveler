@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Создание шаблонов Zabbix для Windows.Создание email рассылки через Powershell
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Аудит незаполненных полей в Active Directory через PowershellСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
