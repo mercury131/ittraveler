@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиНастройка Kerberos авторизации в Apache2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Передача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

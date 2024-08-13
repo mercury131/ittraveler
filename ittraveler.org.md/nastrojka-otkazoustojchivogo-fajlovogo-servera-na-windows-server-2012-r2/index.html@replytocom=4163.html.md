@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаАудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Ansible
+Related posts:Создание шаблонов Zabbix для Windows.Автоматическая активация пользователей Lync через PowershellСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
