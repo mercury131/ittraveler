@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Настройка HA кластера Hyper-VУстановка и настройка кластера MSSQL 2012.
+Related posts:Active Directory + Thunderbird = Общая адресная книгаОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

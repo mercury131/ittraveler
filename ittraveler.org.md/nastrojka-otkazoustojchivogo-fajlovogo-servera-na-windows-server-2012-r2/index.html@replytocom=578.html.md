@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Передача и захват ролей FSMOАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Включение корзины Active DirectoryСоздание индивидуальных адресных книг в Office 365 и Exchange onlineСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

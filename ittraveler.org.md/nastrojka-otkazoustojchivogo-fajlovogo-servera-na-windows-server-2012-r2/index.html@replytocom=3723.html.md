@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Обновление схемы Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Включение корзины Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

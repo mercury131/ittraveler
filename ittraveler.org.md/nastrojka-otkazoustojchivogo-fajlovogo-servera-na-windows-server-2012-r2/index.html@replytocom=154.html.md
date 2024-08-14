@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Установка и настройка AnsibleАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

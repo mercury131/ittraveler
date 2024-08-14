@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамУстановка и настройка AlwaysOn на MS SQL 2016Аудит изменений групповых политик через PowerShell
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматическая активация пользователей Lync через PowershellНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка кластера MSSQL 2012.
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILИзменение UPN суффикса в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

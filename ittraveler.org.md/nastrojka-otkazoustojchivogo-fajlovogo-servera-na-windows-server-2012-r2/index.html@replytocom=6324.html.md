@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАктивируем LDAP over SSLКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Установка и настройка Lync 2013Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

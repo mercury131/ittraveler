@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамОбновление Lync 2013 до Skype for BusinessНастройка Kerberos авторизации в Apache2
+Related posts:Включение корзины Active DirectoryСброс настроек GPO на стандартныеУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

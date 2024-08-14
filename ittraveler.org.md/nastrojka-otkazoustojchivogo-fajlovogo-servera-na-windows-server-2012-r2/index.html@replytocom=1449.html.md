@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryПолучаем MD5 файла или переменной в PowershellНастройка HA кластера Hyper-V
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Передача и захват ролей FSMOКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

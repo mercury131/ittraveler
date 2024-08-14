@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереНазначение служб для сертификатов Exchange через Powershell.Восстановление объектов Active Directory: сборник сценариев
+Related posts:Active Directory + Thunderbird = Общая адресная книгаАудит незаполненных полей в Active Directory через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

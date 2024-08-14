@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellПодключение к Office 365 через Powershell и зашифрованный парольОбновление схемы Active Directory
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файлРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

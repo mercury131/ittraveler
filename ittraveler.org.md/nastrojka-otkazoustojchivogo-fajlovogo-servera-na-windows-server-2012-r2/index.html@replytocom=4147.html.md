@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаСброс пароля компьютера в домене без перезагрузкиДобавление UPN суффикса в Active Directory
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineДобавление UPN суффикса в Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

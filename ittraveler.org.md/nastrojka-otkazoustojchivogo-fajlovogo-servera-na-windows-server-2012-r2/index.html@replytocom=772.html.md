@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУдаление Lync Server 2013
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressДобавление почтовых контактов в Office 365 через Powershell и CSVОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматический аудит компьютеров в Active Directory через powershell.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

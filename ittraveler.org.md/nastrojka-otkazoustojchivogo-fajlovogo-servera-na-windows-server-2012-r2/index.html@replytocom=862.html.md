@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Принудительная синхронизация контроллеров домена Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Обновление схемы Active DirectoryActive Directory + Thunderbird = Общая адресная книгаДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
