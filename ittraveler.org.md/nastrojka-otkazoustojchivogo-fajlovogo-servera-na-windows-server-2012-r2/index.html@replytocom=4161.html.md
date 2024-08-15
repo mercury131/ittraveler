@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация контроллеров домена Active DirectoryАвтоматическая активация пользователей Lync через PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

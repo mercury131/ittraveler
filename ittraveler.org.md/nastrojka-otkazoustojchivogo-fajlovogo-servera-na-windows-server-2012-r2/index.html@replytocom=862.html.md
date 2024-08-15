@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryActive Directory + Thunderbird = Общая адресная книгаДобавление UPN суффикса в Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Принудительная синхронизация Office 365 и локальной Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellАудит DNS серверов на Windows Server 2008 R2 через PowershellУдаление Lync Server 2013
+Related posts:Установка и настройка Lync 2013Создание email рассылки через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

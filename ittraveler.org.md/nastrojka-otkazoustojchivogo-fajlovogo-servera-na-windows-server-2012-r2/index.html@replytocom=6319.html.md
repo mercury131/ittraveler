@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellУстановка и настройка AnsibleАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Создание пользователей Active Directory через CSV файлСоздание шаблонов Zabbix для Windows.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

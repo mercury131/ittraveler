@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка AlwaysOn на MS SQL 2016Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
