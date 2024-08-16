@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryУправление репликацией Active DirectoryАудит изменений групповых политик через PowerShell
+Related posts:Создание email рассылки через PowershellСоздание пользователей Active Directory через CSV файлАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
