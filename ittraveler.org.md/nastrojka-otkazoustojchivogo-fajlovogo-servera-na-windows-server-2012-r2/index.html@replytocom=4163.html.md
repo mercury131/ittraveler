@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Настройка Kerberos авторизации в Apache2Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Обновление схемы Active DirectoryWindows WSL подключение к сетевым шарамАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

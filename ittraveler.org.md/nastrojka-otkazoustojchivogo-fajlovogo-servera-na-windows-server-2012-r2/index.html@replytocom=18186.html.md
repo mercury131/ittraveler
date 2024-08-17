@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАудит изменений групповых политик через PowerShellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

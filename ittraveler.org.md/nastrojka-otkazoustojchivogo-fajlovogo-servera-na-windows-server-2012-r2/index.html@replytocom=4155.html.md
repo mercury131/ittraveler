@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Создание пользователей Active Directory через CSV файлАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Сброс пароля администратора Active DirectoryАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

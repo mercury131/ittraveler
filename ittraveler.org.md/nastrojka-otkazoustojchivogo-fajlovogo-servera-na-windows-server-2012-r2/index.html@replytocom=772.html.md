@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Создание шаблонов Zabbix для Windows.Создание email рассылки через Powershell
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

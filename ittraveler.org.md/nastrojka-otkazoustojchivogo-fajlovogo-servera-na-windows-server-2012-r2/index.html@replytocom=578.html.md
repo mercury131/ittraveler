@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка HA кластера Hyper-V
+Related posts:Обновление Lync 2013 до Skype for BusinessКак узнать WWN (World Wide Name)  в Windows Server 2012R2Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

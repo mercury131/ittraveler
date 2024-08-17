@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиПередача и захват ролей FSMOСоздание шаблонов Zabbix для Windows.
+Related posts:Active Directory + Thunderbird = Общая адресная книгаДобавление почтовых контактов в Office 365 через Powershell и CSVИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаПринудительная синхронизация Office 365 и локальной Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Создание пользователей Active Directory через CSV файлУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

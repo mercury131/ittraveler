@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка дедупликации  на Windows Server 2012 R2Настройка Kerberos авторизации в Apache2
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПринудительная синхронизация контроллеров домена Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

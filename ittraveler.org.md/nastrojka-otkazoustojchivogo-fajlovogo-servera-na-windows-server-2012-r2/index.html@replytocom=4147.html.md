@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Управление репликацией Active Directory
+Related posts:Аудит изменений в Active DirectoryДобавление UPN суффикса в Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

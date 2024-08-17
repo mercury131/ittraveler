@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellУправление репликацией Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Новые компьютеры не появляются на WSUS сервереСоздание шаблонов Zabbix для Windows.Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

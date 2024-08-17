@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellПоиск старых почтовых ящиков в Exchange 2010Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Аудит изменений в Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

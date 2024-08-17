@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Аудит незаполненных полей в Active Directory через PowershellActive Directory + Thunderbird = Общая адресная книга
+Related posts:Удаление Lync Server 2013Аудит незаполненных полей в Active Directory через PowershellВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

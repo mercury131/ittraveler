@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryАудит изменений в Active DirectoryАктивируем LDAP over SSL
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка и настройка кластера MSSQL 2012.Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

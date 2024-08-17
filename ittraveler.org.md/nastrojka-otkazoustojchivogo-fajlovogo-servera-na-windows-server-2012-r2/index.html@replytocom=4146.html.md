@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellПолучаем MD5 файла или переменной в PowershellНастройка HA кластера Hyper-V
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Включение корзины Active DirectoryПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
