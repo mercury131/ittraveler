@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellВключение корзины Active DirectoryПередача и захват ролей FSMO
+Related posts:Решаем проблему внезапной блокировки учетной записиНазначение служб для сертификатов Exchange через Powershell.Аудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
