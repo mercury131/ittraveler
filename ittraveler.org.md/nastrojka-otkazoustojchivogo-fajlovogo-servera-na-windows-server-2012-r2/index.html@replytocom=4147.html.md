@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка кластера MSSQL 2012.Обновление Lync 2013 до Skype for Business
+Related posts:Создание пользователей Active Directory через CSV файлДобавление UPN суффикса в Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

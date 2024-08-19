@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryНовые компьютеры не появляются на WSUS сервереНастройка Kerberos авторизации в Apache2
+Related posts:Перенос базы данных Active DirectoryПередача и захват ролей FSMOАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

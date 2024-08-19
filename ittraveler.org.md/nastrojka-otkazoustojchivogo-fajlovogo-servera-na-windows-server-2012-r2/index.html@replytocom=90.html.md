@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellWindows WSL подключение к сетевым шарамПереход на репликацию SYSVOL по DFS
+Related posts:Управление репликацией Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
