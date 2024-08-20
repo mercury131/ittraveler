@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка дедупликации  на Windows Server 2012 R2Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка HA кластера Hyper-VПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VПоиск старых почтовых ящиков в Exchange 2010Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Обновление схемы Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

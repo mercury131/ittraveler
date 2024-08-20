@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлДобавление UPN суффикса в Active DirectoryПеренос базы данных Active Directory
+Related posts:Обновление Lync 2013 до Skype for BusinessУстановка и настройка AlwaysOn на MS SQL 2016Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

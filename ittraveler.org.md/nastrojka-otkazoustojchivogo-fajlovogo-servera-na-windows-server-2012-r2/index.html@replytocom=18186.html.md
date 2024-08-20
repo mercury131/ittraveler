@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Ansible
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит DNS серверов на Windows Server 2008 R2 через PowershellНастройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

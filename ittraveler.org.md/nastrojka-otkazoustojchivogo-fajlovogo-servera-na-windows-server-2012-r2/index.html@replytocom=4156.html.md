@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка кластера MSSQL 2012.Создание email рассылки через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

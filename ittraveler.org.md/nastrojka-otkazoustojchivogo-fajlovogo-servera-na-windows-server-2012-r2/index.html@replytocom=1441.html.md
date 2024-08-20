@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеВосстановление объектов Active Directory: сборник сценариевУстановка RSAT на Windows 10 1809
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Активируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

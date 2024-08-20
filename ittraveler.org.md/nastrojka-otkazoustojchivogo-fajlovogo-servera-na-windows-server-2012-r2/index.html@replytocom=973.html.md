@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Отключение Skype UI в Lync 2013
+Related posts:Управление репликацией Active DirectoryПередача и захват ролей FSMOПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

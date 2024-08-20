@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessСоздание шаблонов Zabbix для Windows.Перенос базы данных Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс пароля администратора Active DirectoryВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

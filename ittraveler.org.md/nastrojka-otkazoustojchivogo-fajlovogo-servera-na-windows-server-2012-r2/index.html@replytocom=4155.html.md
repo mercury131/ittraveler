@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Передача и захват ролей FSMOСброс настроек GPO на стандартныеПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

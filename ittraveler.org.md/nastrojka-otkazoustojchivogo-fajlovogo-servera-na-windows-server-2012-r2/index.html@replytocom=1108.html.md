@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VПеренос базы данных Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка кластера MSSQL 2012.Создание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

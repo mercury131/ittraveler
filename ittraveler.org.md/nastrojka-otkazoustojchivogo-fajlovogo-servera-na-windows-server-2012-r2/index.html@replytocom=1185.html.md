@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Аудит DNS серверов на Windows Server 2008 R2 через PowershellУстановка и настройка Lync 2013
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Назначение служб для сертификатов Exchange через Powershell.Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

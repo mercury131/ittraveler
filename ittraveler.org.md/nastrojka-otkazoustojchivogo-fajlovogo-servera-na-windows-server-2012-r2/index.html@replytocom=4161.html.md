@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILСброс настроек GPO на стандартныеАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Переход на репликацию SYSVOL по DFSWindows WSL подключение к сетевым шарамАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

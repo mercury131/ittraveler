@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Решаем проблему внезапной блокировки учетной записи
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание индивидуальных адресных книг в Office 365 и Exchange onlineАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

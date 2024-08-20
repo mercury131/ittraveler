@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineСброс настроек GPO на стандартныеАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУдаление Lync Server 2013Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

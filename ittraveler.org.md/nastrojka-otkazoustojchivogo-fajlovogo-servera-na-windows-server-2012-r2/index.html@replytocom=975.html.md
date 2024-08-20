@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Автоматический аудит компьютеров в Active Directory через powershell.Получаем MD5 файла или переменной в Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Windows WSL подключение к сетевым шарамНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

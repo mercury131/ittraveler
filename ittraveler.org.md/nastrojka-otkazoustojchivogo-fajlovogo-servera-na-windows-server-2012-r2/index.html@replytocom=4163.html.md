@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Сброс настроек GPO на стандартныеОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
+Related posts:Создание шаблонов Zabbix для Windows.Назначение служб для сертификатов Exchange через Powershell.Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

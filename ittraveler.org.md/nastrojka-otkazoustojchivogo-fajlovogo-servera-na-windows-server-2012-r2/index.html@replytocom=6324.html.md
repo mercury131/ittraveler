@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка Scale-Out File Server + Storage Spaces DirectНовые компьютеры не появляются на WSUS сервере
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка Scale-Out File Server + Storage Spaces DirectНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

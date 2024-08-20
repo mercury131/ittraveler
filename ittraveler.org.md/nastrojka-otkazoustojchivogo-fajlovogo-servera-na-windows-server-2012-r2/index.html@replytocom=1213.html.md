@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Создание email рассылки через PowershellУправление репликацией Active DirectoryОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

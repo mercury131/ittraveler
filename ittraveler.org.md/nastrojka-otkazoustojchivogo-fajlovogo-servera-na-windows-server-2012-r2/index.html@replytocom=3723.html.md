@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryУстановка и настройка AnsibleПереход на репликацию SYSVOL по DFS
+Related posts:Установка и настройка кластера MSSQL 2012.Переход на репликацию SYSVOL по DFSАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

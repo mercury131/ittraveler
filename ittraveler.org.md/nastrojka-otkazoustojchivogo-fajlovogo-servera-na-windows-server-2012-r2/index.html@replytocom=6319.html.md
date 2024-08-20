@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleКак узнать WWN (World Wide Name)  в Windows Server 2012R2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка и настройка AlwaysOn на MS SQL 2016Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

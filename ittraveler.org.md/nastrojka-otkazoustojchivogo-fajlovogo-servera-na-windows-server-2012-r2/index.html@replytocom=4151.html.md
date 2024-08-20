@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Установка и настройка кластера MSSQL 2012.Решаем проблему внезапной блокировки учетной записи
+Related posts:Обновление схемы Active DirectoryАудит изменений в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

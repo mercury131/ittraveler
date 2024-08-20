@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Установка RSAT на Windows 10 1809Изменение UPN суффикса в Active Directory через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellДобавление UPN суффикса в Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

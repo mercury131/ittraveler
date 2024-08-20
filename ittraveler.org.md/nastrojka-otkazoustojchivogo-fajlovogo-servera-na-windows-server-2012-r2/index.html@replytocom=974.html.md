@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Установка и настройка Lync 2013Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Включение корзины Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
