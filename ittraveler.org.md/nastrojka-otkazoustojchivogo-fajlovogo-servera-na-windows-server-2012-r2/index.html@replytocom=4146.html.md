@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellДобавление UPN суффикса в Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Создание шаблонов Zabbix для Windows.Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

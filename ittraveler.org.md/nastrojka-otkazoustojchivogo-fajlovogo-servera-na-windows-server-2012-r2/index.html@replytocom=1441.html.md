@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Активируем LDAP over SSLActive Directory + Thunderbird = Общая адресная книга
+Related posts:Решаем проблему внезапной блокировки учетной записиАктивируем LDAP over SSLВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

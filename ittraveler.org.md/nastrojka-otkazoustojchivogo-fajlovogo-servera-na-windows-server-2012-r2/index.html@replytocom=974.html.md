@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Обновление схемы Active Directory
+Related posts:Управление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записиВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

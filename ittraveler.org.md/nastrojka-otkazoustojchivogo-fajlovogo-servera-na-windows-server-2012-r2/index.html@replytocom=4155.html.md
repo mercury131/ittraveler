@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOСброс настроек GPO на стандартныеПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Сброс настроек GPO на стандартныеВосстановление объектов Active Directory: сборник сценариевПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

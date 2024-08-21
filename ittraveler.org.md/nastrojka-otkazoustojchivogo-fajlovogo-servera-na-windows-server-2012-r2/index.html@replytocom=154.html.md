@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Сброс пароля администратора Active DirectoryВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка AnsibleНастройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryПередача и захват ролей FSMOПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПеренос базы данных Active DirectoryОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

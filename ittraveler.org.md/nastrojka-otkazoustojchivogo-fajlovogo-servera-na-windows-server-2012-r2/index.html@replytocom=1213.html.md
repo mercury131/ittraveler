@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellУправление репликацией Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Настройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариевПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

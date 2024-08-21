@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Обновление схемы Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка Lync 2013Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
