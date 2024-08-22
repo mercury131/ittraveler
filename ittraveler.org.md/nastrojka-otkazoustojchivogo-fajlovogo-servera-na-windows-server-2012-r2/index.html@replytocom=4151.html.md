@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VАудит DNS серверов на Windows Server 2008 R2 через PowershellПереход на репликацию SYSVOL по DFS
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПоиск старых почтовых ящиков в Exchange 2010Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

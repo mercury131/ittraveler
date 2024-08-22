@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleНастройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записи
+Related posts:Сброс пароля компьютера в домене без перезагрузкиОтключение Skype UI в Lync 2013Настройка Kerberos авторизации в Apache2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

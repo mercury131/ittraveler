@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryРешаем проблему внезапной блокировки учетной записиВосстановление объектов Active Directory: сборник сценариев
+Related posts:Перенос базы данных Active DirectoryСброс пароля администратора Active DirectoryАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка Lync 2013Настройка Kerberos авторизации в Apache2
+Related posts:Настройка Kerberos авторизации в Apache2Обновление Lync 2013 до Skype for BusinessПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
