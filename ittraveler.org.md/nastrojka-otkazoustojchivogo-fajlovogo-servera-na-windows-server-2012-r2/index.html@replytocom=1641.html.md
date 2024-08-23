@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellСброс настроек GPO на стандартныеУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Автоматическая активация пользователей Lync через PowershellСброс пароля администратора Active DirectoryАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

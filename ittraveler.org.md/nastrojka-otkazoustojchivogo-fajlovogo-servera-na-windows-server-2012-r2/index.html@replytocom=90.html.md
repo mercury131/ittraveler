@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSАудит изменений групповых политик через PowerShellУстановка и настройка кластера MSSQL 2012.
+Related posts:Активируем LDAP over SSLНастройка HA кластера Hyper-VУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
