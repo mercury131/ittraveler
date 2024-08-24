@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellСброс пароля администратора Active DirectoryАктивируем LDAP over SSL
+Related posts:Передача и захват ролей FSMOОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

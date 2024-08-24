@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка HA кластера Hyper-VАктивируем LDAP over SSL
+Related posts:Получаем MD5 файла или переменной в PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

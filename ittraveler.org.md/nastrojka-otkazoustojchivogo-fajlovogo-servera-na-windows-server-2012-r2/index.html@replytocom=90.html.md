@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLНастройка HA кластера Hyper-VУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка и настройка кластера MSSQL 2012.Автоматический аудит компьютеров в Active Directory через powershell.Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

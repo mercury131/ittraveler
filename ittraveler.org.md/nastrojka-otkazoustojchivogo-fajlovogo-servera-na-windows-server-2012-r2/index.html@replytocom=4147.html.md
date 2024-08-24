@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка AlwaysOn на MS SQL 2016Установка и настройка Lync 2013
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Настройка HA кластера Hyper-VПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

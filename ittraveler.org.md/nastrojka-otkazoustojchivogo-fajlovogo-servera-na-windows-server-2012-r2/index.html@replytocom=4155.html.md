@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Lync 2013Настройка Kerberos авторизации в Apache2Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFSВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

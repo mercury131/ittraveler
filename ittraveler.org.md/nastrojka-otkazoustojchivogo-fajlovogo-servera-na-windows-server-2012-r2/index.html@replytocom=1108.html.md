@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание шаблонов Zabbix для Windows.Аудит изменений групповых политик через PowerShell
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматическая активация пользователей Lync через PowershellОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

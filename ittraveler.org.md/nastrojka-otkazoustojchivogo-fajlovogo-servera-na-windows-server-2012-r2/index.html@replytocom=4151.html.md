@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSНовые компьютеры не появляются на WSUS сервереСброс пароля компьютера в домене без перезагрузки
+Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка Lync 2013Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

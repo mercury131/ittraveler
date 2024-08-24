@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка кластера MSSQL 2012.Установка RSAT на Windows 10 1809
+Related posts:Управление репликацией Active DirectoryСброс пароля компьютера в домене без перезагрузкиУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

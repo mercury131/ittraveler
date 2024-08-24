@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Включение корзины Active DirectoryАвтоматическая активация пользователей Lync через Powershell
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Отключение Skype UI в Lync 2013Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
