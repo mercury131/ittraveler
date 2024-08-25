@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАудит изменений в Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Windows WSL подключение к сетевым шарамПринудительная синхронизация Office 365 и локальной Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
