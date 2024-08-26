@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольАудит незаполненных полей в Active Directory через PowershellНастройка Kerberos авторизации в Apache2
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольВключение корзины Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
