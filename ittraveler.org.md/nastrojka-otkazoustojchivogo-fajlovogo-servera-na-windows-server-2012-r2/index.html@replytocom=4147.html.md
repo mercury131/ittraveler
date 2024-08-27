@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольВключение корзины Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Настройка HA кластера Hyper-VПереход на репликацию SYSVOL по DFSВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

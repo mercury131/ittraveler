@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryВключение корзины Active DirectoryПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFSАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
