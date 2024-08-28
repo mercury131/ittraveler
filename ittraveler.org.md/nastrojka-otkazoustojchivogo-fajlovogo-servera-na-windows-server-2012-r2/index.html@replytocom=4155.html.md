@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryПереход на репликацию SYSVOL по DFSУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольСоздание пользователей Active Directory через CSV файлОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

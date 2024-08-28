@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматическая активация пользователей Lync через PowershellАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Сброс настроек GPO на стандартныеПоиск старых почтовых ящиков в Exchange 2010Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

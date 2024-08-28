@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSАудит изменений в Active DirectoryУстановка RSAT на Windows 10 1809
+Related posts:Сброс настроек GPO на стандартныеСоздание индивидуальных адресных книг в Office 365 и Exchange onlineАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

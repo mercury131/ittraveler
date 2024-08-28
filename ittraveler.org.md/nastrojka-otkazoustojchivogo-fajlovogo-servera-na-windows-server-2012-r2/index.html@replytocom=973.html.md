@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Переход на репликацию SYSVOL по DFSУстановка и настройка Ansible
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

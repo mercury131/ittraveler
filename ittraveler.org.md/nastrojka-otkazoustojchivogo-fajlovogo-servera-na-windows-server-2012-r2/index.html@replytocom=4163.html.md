@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиПодключение к Office 365 через Powershell и зашифрованный парольУдаление Lync Server 2013
+Related posts:Создание email рассылки через PowershellПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

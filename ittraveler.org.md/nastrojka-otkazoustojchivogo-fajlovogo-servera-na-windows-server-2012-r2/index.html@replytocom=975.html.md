@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Новые компьютеры не появляются на WSUS сервереОбновление схемы Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка AlwaysOn на MS SQL 2016Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

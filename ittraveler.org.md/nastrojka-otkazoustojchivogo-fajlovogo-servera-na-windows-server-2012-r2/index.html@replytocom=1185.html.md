@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Сброс настроек GPO на стандартныеАудит изменений групповых политик через PowerShell
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectПринудительная синхронизация Office 365 и локальной Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

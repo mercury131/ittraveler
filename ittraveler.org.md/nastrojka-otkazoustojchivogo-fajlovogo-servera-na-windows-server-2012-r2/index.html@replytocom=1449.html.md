@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryНовые компьютеры не появляются на WSUS сервереРешаем проблему внезапной блокировки учетной записи
+Related posts:Новые компьютеры не появляются на WSUS сервереУстановка и настройка Lync 2013Восстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
