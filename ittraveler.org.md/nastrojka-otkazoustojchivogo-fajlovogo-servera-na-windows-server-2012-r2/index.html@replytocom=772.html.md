@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Настройка HA кластера Hyper-VДобавление UPN суффикса в Active Directory
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

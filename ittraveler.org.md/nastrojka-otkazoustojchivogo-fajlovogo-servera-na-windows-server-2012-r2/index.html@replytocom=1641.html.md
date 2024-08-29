@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VУстановка RSAT на Windows 10 1809Сброс пароля компьютера в домене без перезагрузки
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка кластера MSSQL 2012.Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
