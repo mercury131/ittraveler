@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellПринудительная синхронизация контроллеров домена Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Установка и настройка AnsibleНастройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книга
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

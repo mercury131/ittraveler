@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПеренос базы данных Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Создание шаблонов Zabbix для Windows.Управление репликацией Active DirectoryУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
