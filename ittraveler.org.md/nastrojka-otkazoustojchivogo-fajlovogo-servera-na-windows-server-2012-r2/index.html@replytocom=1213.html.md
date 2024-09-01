@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеСоздание пользователей Active Directory через CSV файлДобавление UPN суффикса в Active Directory
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Восстановление объектов Active Directory: сборник сценариевАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Настройка Kerberos авторизации в Apache2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Восстановление объектов Active Directory: сборник сценариевУправление репликацией Active DirectoryКастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

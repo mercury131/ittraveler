@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressНастройка Kerberos авторизации в Apache2Создание шаблонов Zabbix для Windows.
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка AlwaysOn на MS SQL 2016Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellПодключение к Office 365 через Powershell и зашифрованный парольПеренос базы данных Active Directory
+Related posts:Переход на репликацию SYSVOL по DFSУдаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

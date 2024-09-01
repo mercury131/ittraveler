@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVАудит изменений в Active Directory
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectСброс пароля администратора Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

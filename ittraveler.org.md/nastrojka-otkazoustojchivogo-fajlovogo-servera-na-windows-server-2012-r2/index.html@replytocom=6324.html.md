@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleНастройка Kerberos авторизации в Apache2Active Directory + Thunderbird = Общая адресная книга
+Related posts:Автоматическая активация пользователей Lync через PowershellСоздание индивидуальных адресных книг в Office 365 и Exchange onlineОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Настройка HA кластера Hyper-VВосстановление объектов Active Directory: сборник сценариев
+Related posts:Установка и настройка AnsibleОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

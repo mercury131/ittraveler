@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

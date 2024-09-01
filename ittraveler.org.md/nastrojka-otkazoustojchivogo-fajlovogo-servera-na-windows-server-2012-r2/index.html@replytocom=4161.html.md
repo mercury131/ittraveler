@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxПолучаем MD5 файла или переменной в PowershellНовые компьютеры не появляются на WSUS сервере
+Related posts:Управление репликацией Active DirectoryОбновление схемы Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

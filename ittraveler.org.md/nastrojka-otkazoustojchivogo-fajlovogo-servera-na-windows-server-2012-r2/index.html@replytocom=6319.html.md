@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryНастройка HA кластера Hyper-VПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Аудит изменений групповых политик через PowerShellАудит DNS серверов на Windows Server 2008 R2 через PowershellАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

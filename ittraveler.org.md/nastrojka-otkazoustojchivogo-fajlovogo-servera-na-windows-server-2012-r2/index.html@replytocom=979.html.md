@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressКак узнать WWN (World Wide Name)  в Windows Server 2012R2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

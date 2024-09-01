@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryДобавление UPN суффикса в Active DirectoryСоздание email рассылки через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Установка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
