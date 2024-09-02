@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка дедупликации  на Windows Server 2012 R2Новые компьютеры не появляются на WSUS сервере
+Related posts:Активируем LDAP over SSLИзменение UPN суффикса в Active Directory через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

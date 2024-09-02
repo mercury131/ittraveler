@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryОбновление Lync 2013 до Skype for BusinessActive Directory + Thunderbird = Общая адресная книга
+Related posts:Отключение Skype UI в Lync 2013Изменение UPN суффикса в Active Directory через PowershellАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

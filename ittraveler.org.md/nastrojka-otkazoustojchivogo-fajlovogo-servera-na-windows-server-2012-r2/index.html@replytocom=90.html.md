@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереВосстановление объектов Active Directory: сборник сценариевБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка AnsibleУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

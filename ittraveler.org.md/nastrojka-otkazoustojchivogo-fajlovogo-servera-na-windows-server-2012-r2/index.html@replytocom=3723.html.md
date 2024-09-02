@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Удаление Lync Server 2013Новые компьютеры не появляются на WSUS сервере
+Related posts:Передача и захват ролей FSMOУстановка и настройка кластера MSSQL 2012.Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

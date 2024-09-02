@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Подключение к Office 365 через Powershell и зашифрованный парольСброс пароля компьютера в домене без перезагрузки
+Related posts:Переход на репликацию SYSVOL по DFSОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

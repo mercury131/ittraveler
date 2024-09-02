@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSУдаление Lync Server 2013Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Управление репликацией Active DirectoryАудит незаполненных полей в Active Directory через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
