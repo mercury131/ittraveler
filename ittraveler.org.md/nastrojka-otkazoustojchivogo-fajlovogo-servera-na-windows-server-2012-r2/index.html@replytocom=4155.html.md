@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Обновление схемы Active DirectoryОбновление Lync 2013 до Skype for Business
+Related posts:Новые компьютеры не появляются на WSUS сервереПолучаем MD5 файла или переменной в PowershellУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

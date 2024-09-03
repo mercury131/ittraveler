@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryНовые компьютеры не появляются на WSUS сервереСброс настроек GPO на стандартные
+Related posts:Установка и настройка Lync 2013Получаем MD5 файла или переменной в PowershellПринудительная синхронизация Office 365 и локальной Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
