@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSVОтключение Skype UI в Lync 2013
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Решаем проблему внезапной блокировки учетной записиИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
