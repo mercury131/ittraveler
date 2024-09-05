@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Активируем LDAP over SSL
+Related posts:Сброс настроек GPO на стандартныеСоздание пользователей Active Directory через CSV файлУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

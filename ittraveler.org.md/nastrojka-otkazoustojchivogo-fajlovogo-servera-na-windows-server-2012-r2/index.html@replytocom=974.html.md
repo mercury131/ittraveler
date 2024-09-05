@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Решаем проблему внезапной блокировки учетной записиИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПолучаем MD5 файла или переменной в PowershellАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
