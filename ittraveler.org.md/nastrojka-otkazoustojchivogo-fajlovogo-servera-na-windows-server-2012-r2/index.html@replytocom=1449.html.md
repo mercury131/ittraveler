@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка RSAT на Windows 10 1809Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Получаем MD5 файла или переменной в PowershellНастройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

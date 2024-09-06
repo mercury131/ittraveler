@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеСоздание пользователей Active Directory через CSV файлУдаление Lync Server 2013
+Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

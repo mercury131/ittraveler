@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаОбновление схемы Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСброс настроек GPO на стандартныеАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

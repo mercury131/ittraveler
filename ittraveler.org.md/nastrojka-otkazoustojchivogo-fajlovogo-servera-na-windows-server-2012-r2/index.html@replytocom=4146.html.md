@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка HA кластера Hyper-VУстановка и настройка Ansible
+Related posts:Настройка HA кластера Hyper-VОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Удаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
