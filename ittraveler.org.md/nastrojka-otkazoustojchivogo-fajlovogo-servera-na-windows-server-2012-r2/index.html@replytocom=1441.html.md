@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Windows WSL подключение к сетевым шарамДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

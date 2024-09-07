@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка Lync 2013Active Directory + Thunderbird = Общая адресная книга
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Назначение служб для сертификатов Exchange через Powershell.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

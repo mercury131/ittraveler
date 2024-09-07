@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryСоздание пользователей Active Directory через CSV файлУстановка и настройка кластера MSSQL 2012.
+Related posts:Включение корзины Active DirectoryПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

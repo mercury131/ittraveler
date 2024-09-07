@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Добавление почтовых контактов в Office 365 через Powershell и CSVНастройка Kerberos авторизации в Apache2
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

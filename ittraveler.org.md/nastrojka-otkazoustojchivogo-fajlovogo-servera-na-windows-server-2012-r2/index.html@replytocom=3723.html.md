@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Принудительная синхронизация контроллеров домена Active DirectoryПередача и захват ролей FSMO
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

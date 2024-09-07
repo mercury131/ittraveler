@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Автоматизируем бэкап баз данных MSSQL ExpressНастройка HA кластера Hyper-V
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellДобавление почтовых контактов в Office 365 через Powershell и CSVАудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

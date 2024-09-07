@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Назначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарам
+Related posts:Сброс пароля компьютера в домене без перезагрузкиУдаление Lync Server 2013Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПоиск старых почтовых ящиков в Exchange 2010Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольКастомизация гостевых ОС Windows в KVM на примере ProxmoxУдаление Lync Server 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

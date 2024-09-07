@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Ansible
+Related posts:Установка и настройка Lync 2013Установка RSAT на Windows 10 1809Как узнать WWN (World Wide Name)  в Windows Server 2012R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

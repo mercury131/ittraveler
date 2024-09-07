@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVActive Directory + Thunderbird = Общая адресная книгаСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

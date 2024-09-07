@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиСоздание индивидуальных адресных книг в Office 365 и Exchange onlineИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПередача и захват ролей FSMOАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

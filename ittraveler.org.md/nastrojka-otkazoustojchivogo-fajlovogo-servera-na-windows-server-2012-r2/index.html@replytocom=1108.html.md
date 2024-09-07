@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Получаем MD5 файла или переменной в Powershell
+Related posts:Передача и захват ролей FSMOРешаем проблему внезапной блокировки учетной записиАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

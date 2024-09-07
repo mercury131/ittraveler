@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматический аудит компьютеров в Active Directory через powershell.Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Создание шаблонов Zabbix для Windows.Удаление Lync Server 2013Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

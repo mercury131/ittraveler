@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Установка и настройка Lync 2013Windows WSL подключение к сетевым шарамПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

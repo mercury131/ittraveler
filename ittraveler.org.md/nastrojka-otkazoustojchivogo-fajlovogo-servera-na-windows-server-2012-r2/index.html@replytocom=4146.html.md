@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Удаление Lync Server 2013
+Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Настройка Kerberos авторизации в Apache2Передача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

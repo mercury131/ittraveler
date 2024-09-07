@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxСброс настроек GPO на стандартныеАудит незаполненных полей в Active Directory через Powershell
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILВключение корзины Active DirectoryОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

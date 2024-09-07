@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиНастройка Kerberos авторизации в Apache2Включение корзины Active Directory
+Related posts:Обновление Lync 2013 до Skype for BusinessПоиск старых почтовых ящиков в Exchange 2010Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

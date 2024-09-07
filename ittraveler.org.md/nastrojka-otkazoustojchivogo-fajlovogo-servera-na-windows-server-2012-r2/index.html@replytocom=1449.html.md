@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellНастройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010
+Related posts:Отключение Skype UI в Lync 2013Установка и настройка Scale-Out File Server + Storage Spaces DirectПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

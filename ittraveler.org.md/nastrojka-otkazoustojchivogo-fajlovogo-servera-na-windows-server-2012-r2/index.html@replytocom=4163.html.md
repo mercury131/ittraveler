@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка Lync 2013Сброс пароля компьютера в домене без перезагрузки
+Related posts:Сброс настроек GPO на стандартныеНазначение служб для сертификатов Exchange через Powershell.Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

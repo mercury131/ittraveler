@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка Lync 2013
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryНастройка Kerberos авторизации в Apache2Принудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
