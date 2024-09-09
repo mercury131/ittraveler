@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxРешаем проблему внезапной блокировки учетной записиСоздание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

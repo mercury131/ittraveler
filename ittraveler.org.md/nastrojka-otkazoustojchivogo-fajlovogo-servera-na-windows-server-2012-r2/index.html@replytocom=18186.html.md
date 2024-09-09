@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Удаление Lync Server 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Активируем LDAP over SSLНастройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

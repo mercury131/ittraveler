@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Установка RSAT на Windows 10 1809Удаление Lync Server 2013
+Related posts:Настройка HA кластера Hyper-VАвтоматизируем бэкап баз данных MSSQL ExpressАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

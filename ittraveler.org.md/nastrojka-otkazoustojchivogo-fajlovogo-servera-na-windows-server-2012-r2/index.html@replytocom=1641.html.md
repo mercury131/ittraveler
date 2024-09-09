@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSНастройка Kerberos авторизации в Apache2Установка и настройка Lync 2013
+Related posts:Добавление UPN суффикса в Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

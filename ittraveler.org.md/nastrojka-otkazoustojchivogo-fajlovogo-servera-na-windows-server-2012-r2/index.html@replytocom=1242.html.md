@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Обновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
