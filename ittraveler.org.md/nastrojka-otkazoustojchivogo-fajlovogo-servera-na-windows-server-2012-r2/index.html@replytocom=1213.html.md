@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Новые компьютеры не появляются на WSUS сервереПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Добавление UPN суффикса в Active DirectoryПолучаем MD5 файла или переменной в PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

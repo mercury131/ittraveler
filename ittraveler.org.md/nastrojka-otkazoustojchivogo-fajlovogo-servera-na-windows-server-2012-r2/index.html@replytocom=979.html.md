@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVWindows WSL подключение к сетевым шарамActive Directory + Thunderbird = Общая адресная книга
+Related posts:Аудит незаполненных полей в Active Directory через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
