@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Обновление схемы Active Directory
+Related posts:Управление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

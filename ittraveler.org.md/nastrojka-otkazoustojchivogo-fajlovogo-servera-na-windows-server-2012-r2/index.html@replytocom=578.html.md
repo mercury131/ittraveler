@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineКак узнать WWN (World Wide Name)  в Windows Server 2012R2Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

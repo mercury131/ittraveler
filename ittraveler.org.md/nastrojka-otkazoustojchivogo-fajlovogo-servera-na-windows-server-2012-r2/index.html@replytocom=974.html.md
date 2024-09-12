@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellСоздание пользователей Active Directory через CSV файлПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

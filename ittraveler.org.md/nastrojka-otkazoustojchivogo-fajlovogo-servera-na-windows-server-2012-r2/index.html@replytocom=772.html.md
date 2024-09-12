@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOУстановка и настройка AnsibleНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка Lync 2013Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

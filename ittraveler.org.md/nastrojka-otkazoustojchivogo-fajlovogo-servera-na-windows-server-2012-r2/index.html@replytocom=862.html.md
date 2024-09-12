@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамВключение корзины Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНовые компьютеры не появляются на WSUS сервереВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит изменений групповых политик через PowerShellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПередача и захват ролей FSMOИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

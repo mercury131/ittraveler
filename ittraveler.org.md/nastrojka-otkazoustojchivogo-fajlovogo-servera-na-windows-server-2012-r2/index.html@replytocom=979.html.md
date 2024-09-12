@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиСоздание индивидуальных адресных книг в Office 365 и Exchange onlineСоздание шаблонов Zabbix для Windows.
+Related posts:Создание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

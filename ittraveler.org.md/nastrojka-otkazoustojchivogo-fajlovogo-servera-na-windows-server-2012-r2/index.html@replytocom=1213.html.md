@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание email рассылки через Powershell
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineУстановка и настройка дедупликации  на Windows Server 2012 R2Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

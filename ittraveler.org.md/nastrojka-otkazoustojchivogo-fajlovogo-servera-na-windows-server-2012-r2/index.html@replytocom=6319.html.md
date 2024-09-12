@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Установка и настройка Scale-Out File Server + Storage Spaces DirectУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Установка RSAT на Windows 10 1809Поиск старых почтовых ящиков в Exchange 2010Перенос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

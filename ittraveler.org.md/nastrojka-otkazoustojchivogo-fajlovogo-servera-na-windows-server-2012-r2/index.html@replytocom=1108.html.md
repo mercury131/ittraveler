@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Передача и захват ролей FSMOУстановка и настройка Ansible
+Related posts:Отключение Skype UI в Lync 2013Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Установка и настройка Scale-Out File Server + Storage Spaces DirectОтключение Skype UI в Lync 2013
+Related posts:Настройка Kerberos авторизации в Apache2Управление репликацией Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

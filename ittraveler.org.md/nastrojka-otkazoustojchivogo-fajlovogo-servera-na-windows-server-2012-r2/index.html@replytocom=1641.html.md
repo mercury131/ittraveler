@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Восстановление объектов Active Directory: сборник сценариевНастройка HA кластера Hyper-V
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Активируем LDAP over SSLАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

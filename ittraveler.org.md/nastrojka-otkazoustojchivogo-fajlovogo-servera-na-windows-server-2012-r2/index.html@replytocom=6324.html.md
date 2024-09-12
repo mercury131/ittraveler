@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Установка и настройка дедупликации  на Windows Server 2012 R2Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Сброс настроек GPO на стандартныеАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

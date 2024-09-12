@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILУстановка RSAT на Windows 10 1809
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

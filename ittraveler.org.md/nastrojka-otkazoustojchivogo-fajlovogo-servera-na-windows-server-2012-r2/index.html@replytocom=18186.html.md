@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Получаем MD5 файла или переменной в PowershellАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка и настройка Scale-Out File Server + Storage Spaces DirectПередача и захват ролей FSMO
+Related posts:Обновление Lync 2013 до Skype for BusinessУстановка и настройка дедупликации  на Windows Server 2012 R2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

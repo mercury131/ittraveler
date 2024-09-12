@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryКастомизация гостевых ОС Windows в KVM на примере ProxmoxСоздание шаблонов Zabbix для Windows.
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книгаДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
