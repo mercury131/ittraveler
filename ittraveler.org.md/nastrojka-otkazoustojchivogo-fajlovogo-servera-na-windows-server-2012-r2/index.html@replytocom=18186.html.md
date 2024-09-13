@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Кастомизация гостевых ОС Windows в KVM на примере ProxmoxНастройка HA кластера Hyper-V
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУправление репликацией Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

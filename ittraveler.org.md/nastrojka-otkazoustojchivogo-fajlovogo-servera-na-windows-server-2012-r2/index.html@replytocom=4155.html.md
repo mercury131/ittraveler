@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VНазначение служб для сертификатов Exchange через Powershell.Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Восстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записиНовые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

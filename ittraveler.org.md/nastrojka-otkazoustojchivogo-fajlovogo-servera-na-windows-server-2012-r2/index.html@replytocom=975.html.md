@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книгаДобавление UPN суффикса в Active Directory
+Related posts:Отключение Skype UI в Lync 2013Управление репликацией Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

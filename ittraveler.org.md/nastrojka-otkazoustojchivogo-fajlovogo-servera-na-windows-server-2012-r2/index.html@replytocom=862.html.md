@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНовые компьютеры не появляются на WSUS сервереВключение корзины Active Directory
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVСоздание email рассылки через PowershellДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

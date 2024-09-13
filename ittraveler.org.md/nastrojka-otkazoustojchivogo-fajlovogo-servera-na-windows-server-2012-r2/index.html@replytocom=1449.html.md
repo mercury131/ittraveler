@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Управление репликацией Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Аудит изменений групповых политик через PowerShellСоздание пользователей Active Directory через CSV файлСоздание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

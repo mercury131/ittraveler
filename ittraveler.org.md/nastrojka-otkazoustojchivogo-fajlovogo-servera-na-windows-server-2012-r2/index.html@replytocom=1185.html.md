@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Передача и захват ролей FSMOПереход на репликацию SYSVOL по DFS
+Related posts:Настройка Kerberos авторизации в Apache2Автоматизируем бэкап баз данных MSSQL ExpressУстановка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

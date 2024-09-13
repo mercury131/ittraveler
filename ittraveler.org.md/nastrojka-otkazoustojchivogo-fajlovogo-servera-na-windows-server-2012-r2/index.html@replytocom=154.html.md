@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Добавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Создание email рассылки через PowershellУправление репликацией Active DirectoryДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

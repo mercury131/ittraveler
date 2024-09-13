@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Аудит доменных служб Active Directory в Windows Server 2008 R2Автоматизируем бэкап баз данных MSSQL Express
+Related posts:Установка и настройка AnsibleНастройка HA кластера Hyper-VОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

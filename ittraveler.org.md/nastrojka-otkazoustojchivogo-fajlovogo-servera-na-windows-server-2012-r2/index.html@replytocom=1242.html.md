@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessУстановка и настройка дедупликации  на Windows Server 2012 R2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Установка и настройка AlwaysOn на MS SQL 2016Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

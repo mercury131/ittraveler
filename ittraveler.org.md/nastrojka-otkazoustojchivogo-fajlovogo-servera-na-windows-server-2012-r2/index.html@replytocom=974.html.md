@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Настройка HA кластера Hyper-VРешаем проблему внезапной блокировки учетной записиАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

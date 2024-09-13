@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПередача и захват ролей FSMOИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Аудит изменений в Active DirectoryСброс настроек GPO на стандартныеБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
