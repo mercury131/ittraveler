@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellАудит изменений групповых политик через PowerShellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Сброс пароля компьютера в домене без перезагрузкиАудит изменений в Active DirectoryПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
