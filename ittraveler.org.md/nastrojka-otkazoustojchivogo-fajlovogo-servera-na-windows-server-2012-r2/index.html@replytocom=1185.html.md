@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryСоздание пользователей Active Directory через CSV файлУдаление Lync Server 2013
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Новые компьютеры не появляются на WSUS сервереАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

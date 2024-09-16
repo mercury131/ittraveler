@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Активируем LDAP over SSLСброс пароля администратора Active Directory
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Active Directory + Thunderbird = Общая адресная книгаАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

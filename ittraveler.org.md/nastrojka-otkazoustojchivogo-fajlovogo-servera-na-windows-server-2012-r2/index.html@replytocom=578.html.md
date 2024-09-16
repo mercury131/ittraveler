@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTНастройка Kerberos авторизации в Apache2
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Обновление Lync 2013 до Skype for BusinessПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

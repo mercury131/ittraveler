@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Изменение UPN суффикса в Active Directory через PowershellУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Автоматическая активация пользователей Lync через PowershellПеренос базы данных Active DirectoryДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

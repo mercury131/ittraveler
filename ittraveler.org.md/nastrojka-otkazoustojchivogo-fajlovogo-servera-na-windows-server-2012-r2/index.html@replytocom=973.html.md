@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Автоматизируем бэкап баз данных MSSQL ExpressСоздание шаблонов Zabbix для Windows.
+Related posts:Создание пользователей Active Directory через CSV файлПринудительная синхронизация контроллеров домена Active DirectoryОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

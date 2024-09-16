@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Создание шаблонов Zabbix для Windows.Active Directory + Thunderbird = Общая адресная книга
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

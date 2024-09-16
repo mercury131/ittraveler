@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление UPN суффикса в Active Directory
+Related posts:Создание шаблонов Zabbix для Windows.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

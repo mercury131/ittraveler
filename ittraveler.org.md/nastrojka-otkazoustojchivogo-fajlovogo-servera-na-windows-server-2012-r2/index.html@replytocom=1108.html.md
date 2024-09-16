@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиНастройка Kerberos авторизации в Apache2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
+Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Установка и настройка Ansible
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectРешаем проблему внезапной блокировки учетной записиАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.
+Related posts:Восстановление объектов Active Directory: сборник сценариевЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

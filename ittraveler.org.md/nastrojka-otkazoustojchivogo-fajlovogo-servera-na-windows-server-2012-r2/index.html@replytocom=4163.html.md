@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Обновление схемы Active DirectoryСброс пароля компьютера в домене без перезагрузки
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматизируем бэкап баз данных MSSQL ExpressВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

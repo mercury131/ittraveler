@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTРешаем проблему внезапной блокировки учетной записиУстановка и настройка кластера MSSQL 2012.
+Related posts:Аудит незаполненных полей в Active Directory через PowershellАвтоматический аудит компьютеров в Active Directory через powershell.Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryВключение корзины Active DirectoryБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVПереход на репликацию SYSVOL по DFSУстановка и настройка Scale-Out File Server + Storage Spaces Direct
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

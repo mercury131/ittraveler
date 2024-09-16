@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTСоздание email рассылки через Powershell
+Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellКак узнать WWN (World Wide Name)  в Windows Server 2012R2Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Настройка Kerberos авторизации в Apache2Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Windows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

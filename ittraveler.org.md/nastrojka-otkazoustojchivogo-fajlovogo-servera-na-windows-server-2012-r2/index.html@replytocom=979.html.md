@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryИзменение UPN суффикса в Active Directory через PowershellАудит незаполненных полей в Active Directory через Powershell
+Related posts:Изменение UPN суффикса в Active Directory через PowershellПолучаем MD5 файла или переменной в PowershellОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

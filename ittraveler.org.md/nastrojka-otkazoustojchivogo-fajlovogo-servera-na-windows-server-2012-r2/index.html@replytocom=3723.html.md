@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessОшибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressКастомизация гостевых ОС Windows в KVM на примере ProxmoxАудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

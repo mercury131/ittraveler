@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressУстановка RSAT на Windows 10 1809Перенос базы данных Active Directory
+Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Создание индивидуальных адресных книг в Office 365 и Exchange online
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

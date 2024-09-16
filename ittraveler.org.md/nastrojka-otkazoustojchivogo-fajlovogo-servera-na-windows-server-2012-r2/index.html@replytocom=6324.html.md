@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Активируем LDAP over SSL
+Related posts:Создание пользователей Active Directory через CSV файлУстановка и настройка дедупликации  на Windows Server 2012 R2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
