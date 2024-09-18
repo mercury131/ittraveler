@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Подключение к Office 365 через Powershell и зашифрованный парольWindows WSL подключение к сетевым шарам
+Related posts:Назначение служб для сертификатов Exchange через Powershell.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

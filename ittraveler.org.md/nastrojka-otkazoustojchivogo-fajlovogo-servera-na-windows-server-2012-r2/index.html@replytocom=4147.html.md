@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Установка и настройка кластера MSSQL 2012.Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка RSAT на Windows 10 1809Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

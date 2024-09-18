@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАудит доменных служб Active Directory в Windows Server 2008 R2Переход на репликацию SYSVOL по DFS
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Автоматическая активация пользователей Lync через PowershellУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Аудит изменений в Active Directory
+Related posts:Создание пользователей Active Directory через CSV файлНастройка Kerberos авторизации в Apache2Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

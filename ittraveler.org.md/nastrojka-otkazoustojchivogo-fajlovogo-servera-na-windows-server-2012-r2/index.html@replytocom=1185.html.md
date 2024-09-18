@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryУправление репликацией Active DirectoryОбновление схемы Active Directory
+Related posts:Обновление схемы Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Автоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

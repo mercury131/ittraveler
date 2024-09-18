@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеПередача и захват ролей FSMOАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка Scale-Out File Server + Storage Spaces DirectНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLОтключение Skype UI в Lync 2013Получаем MD5 файла или переменной в Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Добавление почтовых контактов в Office 365 через Powershell и CSVПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

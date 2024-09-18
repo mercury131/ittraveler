@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryСоздание пользователей Active Directory через CSV файлОбновление Lync 2013 до Skype for Business
+Related posts:Аудит изменений в Active DirectoryНастройка HA кластера Hyper-VАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
