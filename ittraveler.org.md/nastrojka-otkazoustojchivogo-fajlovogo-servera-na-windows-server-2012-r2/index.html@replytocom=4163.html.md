@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Кастомизация гостевых ОС Windows в KVM на примере ProxmoxАвтоматическая активация пользователей Lync через PowershellПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамСброс пароля администратора Active DirectoryУстановка и настройка Ansible
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Передача и захват ролей FSMOАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

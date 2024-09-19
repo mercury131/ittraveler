@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLНастройка HA кластера Hyper-VАвтоматическая активация пользователей Lync через Powershell
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

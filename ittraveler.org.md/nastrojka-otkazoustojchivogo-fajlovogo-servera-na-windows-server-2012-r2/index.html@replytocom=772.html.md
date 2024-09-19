@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Active Directory + Thunderbird = Общая адресная книгаНастройка Kerberos авторизации в Apache2
+Related posts:Настройка Kerberos авторизации в Apache2Установка и настройка Lync 2013Автоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
