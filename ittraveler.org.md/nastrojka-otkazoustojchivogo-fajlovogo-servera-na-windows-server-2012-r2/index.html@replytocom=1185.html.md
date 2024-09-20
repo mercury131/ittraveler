@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellНастройка Kerberos авторизации в Apache2Установка и настройка Scale-Out File Server + Storage Spaces Direct
+Related posts:Установка и настройка Lync 2013Создание пользователей Active Directory через CSV файлНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

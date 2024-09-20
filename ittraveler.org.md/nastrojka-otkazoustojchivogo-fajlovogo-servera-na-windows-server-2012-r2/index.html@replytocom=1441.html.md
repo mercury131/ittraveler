@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryАвтоматический аудит компьютеров в Active Directory через powershell.Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Настройка Kerberos авторизации в Apache2Установка RSAT на Windows 10 1809Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

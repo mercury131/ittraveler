@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАвтоматический аудит компьютеров в Active Directory через powershell.
+Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

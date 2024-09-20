@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевАвтоматический аудит компьютеров в Active Directory через powershell.Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Автоматическая активация пользователей Lync через PowershellПеренос базы данных Active DirectoryНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

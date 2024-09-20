@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleУстановка и настройка Scale-Out File Server + Storage Spaces DirectСброс настроек GPO на стандартные
+Related posts:Новые компьютеры не появляются на WSUS сервереАудит изменений в Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

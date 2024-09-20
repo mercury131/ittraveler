@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание пользователей Active Directory через CSV файлВосстановление объектов Active Directory: сборник сценариевПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Получаем MD5 файла или переменной в PowershellWindows WSL подключение к сетевым шарамПоиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

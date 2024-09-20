@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамОбновление Lync 2013 до Skype for BusinessАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Решаем проблему внезапной блокировки учетной записиПолучаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

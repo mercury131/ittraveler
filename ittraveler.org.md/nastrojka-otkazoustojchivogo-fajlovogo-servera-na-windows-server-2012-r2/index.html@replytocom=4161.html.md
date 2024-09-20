@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessПринудительная синхронизация контроллеров домена Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Аудит незаполненных полей в Active Directory через PowershellДобавление UPN суффикса в Active DirectoryУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryПоиск старых почтовых ящиков в Exchange 2010Создание шаблонов Zabbix для Windows.
+Related posts:Передача и захват ролей FSMOДобавление UPN суффикса в Active DirectoryЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
