@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Сброс пароля администратора Active DirectoryОтключение Skype UI в Lync 2013
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Аудит изменений в Active DirectoryПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

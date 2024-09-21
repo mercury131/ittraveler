@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиПолучаем MD5 файла или переменной в PowershellСоздание шаблонов Zabbix для Windows.
+Related posts:Управление репликацией Active DirectoryУстановка и настройка Lync 2013Новые компьютеры не появляются на WSUS сервере
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

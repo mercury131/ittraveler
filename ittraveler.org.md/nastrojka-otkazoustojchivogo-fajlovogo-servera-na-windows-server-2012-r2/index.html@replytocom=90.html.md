@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Отключение Skype UI в Lync 2013Сброс настроек GPO на стандартныеДобавление UPN суффикса в Active Directory
+Related posts:Обновление схемы Active DirectoryНастройка Kerberos авторизации в Apache2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectОтключение Skype UI в Lync 2013Установка RSAT на Windows 10 1809
+Related posts:Включение корзины Active DirectoryСоздание шаблонов Zabbix для Windows.Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
