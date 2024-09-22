@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryСоздание шаблонов Zabbix для Windows.Установка и настройка Ansible
+Related posts:Настройка Kerberos авторизации в Apache2Создание пользователей Active Directory через CSV файлСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
