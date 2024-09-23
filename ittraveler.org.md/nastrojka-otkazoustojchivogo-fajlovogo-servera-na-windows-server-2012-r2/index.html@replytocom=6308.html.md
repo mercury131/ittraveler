@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Включение корзины Active DirectoryАудит изменений в Active DirectoryНастройка Kerberos авторизации в Apache2
+Related posts:Передача и захват ролей FSMOПринудительная синхронизация Office 365 и локальной Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

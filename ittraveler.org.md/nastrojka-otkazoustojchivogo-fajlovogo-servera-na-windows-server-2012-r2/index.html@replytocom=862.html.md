@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellСброс пароля администратора Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Создание email рассылки через PowershellНастройка Kerberos авторизации в Apache2Автоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
