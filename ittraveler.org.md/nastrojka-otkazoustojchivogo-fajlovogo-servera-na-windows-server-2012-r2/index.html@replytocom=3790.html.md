@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический аудит компьютеров в Active Directory через powershell.Создание шаблонов Zabbix для Windows.Добавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Создание email рассылки через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
