@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellКастомизация гостевых ОС Windows в KVM на примере ProxmoxУправление репликацией Active Directory
+Related posts:Аудит изменений в Active DirectoryОтключение Skype UI в Lync 2013Сброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

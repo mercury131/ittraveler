@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VУстановка и настройка кластера MSSQL 2012.Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Установка и настройка AnsibleУдаление Lync Server 2013Назначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
