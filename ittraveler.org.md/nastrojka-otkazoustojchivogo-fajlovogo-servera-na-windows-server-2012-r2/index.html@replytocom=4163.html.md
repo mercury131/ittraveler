@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка Scale-Out File Server + Storage Spaces DirectПоиск старых почтовых ящиков в Exchange 2010
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Windows WSL подключение к сетевым шарамПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

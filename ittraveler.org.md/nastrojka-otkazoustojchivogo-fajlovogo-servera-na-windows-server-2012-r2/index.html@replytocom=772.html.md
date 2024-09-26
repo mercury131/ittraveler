@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressСоздание email рассылки через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Передача и захват ролей FSMOОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка кластера MSSQL 2012.Перенос базы данных Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНовые компьютеры не появляются на WSUS сервереАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

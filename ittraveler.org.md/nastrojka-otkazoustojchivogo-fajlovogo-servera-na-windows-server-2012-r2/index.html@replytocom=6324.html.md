@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка Scale-Out File Server + Storage Spaces DirectУстановка и настройка Ansible
+Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка кластера MSSQL 2012.Переход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

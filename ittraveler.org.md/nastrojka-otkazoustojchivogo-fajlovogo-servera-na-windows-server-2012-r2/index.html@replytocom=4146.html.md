@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleУдаление Lync Server 2013Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПолучаем MD5 файла или переменной в PowershellОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

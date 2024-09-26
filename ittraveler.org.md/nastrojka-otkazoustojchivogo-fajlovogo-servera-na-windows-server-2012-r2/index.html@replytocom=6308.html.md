@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryСоздание email рассылки через PowershellУдаление Lync Server 2013
+Related posts:Настройка Kerberos авторизации в Apache2Аудит изменений групповых политик через PowerShellОбновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

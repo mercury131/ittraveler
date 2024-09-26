@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineВосстановление объектов Active Directory: сборник сценариевВключение корзины Active Directory
+Related posts:Управление репликацией Active DirectoryСброс пароля компьютера в домене без перезагрузкиПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

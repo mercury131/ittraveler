@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellСброс пароля администратора Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Управление репликацией Active DirectoryWindows WSL подключение к сетевым шарам
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

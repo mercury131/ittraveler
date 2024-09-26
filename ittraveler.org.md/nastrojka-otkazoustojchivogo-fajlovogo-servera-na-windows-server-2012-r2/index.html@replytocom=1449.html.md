@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Поиск старых почтовых ящиков в Exchange 2010Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressКак узнать WWN (World Wide Name)  в Windows Server 2012R2Сброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

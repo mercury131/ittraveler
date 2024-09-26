@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Настройка Kerberos авторизации в Apache2Создание индивидуальных адресных книг в Office 365 и Exchange online
+Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Решаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

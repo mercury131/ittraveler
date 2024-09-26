@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellПоиск старых почтовых ящиков в Exchange 2010Удаление Lync Server 2013
+Related posts:Изменение UPN суффикса в Active Directory через PowershellДобавление UPN суффикса в Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
