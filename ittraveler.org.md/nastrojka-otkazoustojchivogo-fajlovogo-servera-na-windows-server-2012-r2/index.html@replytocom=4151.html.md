@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VУправление репликацией Active DirectoryСброс настроек GPO на стандартные
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Настройка Kerberos авторизации в Apache2Добавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

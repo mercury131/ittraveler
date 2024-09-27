@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryСброс пароля компьютера в домене без перезагрузкиПередача и захват ролей FSMO
+Related posts:Управление репликацией Active DirectoryПереход на репликацию SYSVOL по DFSАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
