@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Отключение Skype UI в Lync 2013Аудит изменений в Active Directory
+Related posts:Новые компьютеры не появляются на WSUS сервереActive Directory + Thunderbird = Общая адресная книгаВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

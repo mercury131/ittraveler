@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellПоиск старых почтовых ящиков в Exchange 2010Обновление схемы Active Directory
+Related posts:Переход на репликацию SYSVOL по DFSСоздание пользователей Active Directory через CSV файлУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

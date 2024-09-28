@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOАвтоматизируем бэкап баз данных MSSQL ExpressНастройка HA кластера Hyper-V
+Related posts:Восстановление объектов Active Directory: сборник сценариевДобавление почтовых контактов в Office 365 через Powershell и CSVПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

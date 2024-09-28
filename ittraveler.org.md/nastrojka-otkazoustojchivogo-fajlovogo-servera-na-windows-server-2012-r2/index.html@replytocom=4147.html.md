@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Scale-Out File Server + Storage Spaces DirectАвтоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Удаление Lync Server 2013
+Related posts:Аудит изменений групповых политик через PowerShellУдаление Lync Server 2013Аудит изменений в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

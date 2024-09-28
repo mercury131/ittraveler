@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILСоздание шаблонов Zabbix для Windows.
+Related posts:Настройка Kerberos авторизации в Apache2Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

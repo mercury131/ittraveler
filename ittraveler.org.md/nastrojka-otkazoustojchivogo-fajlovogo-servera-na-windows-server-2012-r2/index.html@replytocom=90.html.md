@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевНастройка Kerberos авторизации в Apache2Принудительная синхронизация Office 365 и локальной Active Directory
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Отключение Skype UI в Lync 2013Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

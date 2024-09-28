@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Аудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Active Directory + Thunderbird = Общая адресная книгаПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Установка и настройка Ansible
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Управление репликацией Active DirectoryПереход на репликацию SYSVOL по DFSАудит незаполненных полей в Active Directory через Powershell
+Related posts:Передача и захват ролей FSMOУстановка и настройка Lync 2013Изменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

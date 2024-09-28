@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellОтключение Skype UI в Lync 2013Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Настройка Kerberos авторизации в Apache2Установка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

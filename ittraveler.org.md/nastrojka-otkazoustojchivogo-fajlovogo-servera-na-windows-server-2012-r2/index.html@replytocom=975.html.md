@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Создание пользователей Active Directory через CSV файлАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Управление репликацией Active DirectoryАвтоматическая активация пользователей Lync через PowershellАудит изменений групповых политик через PowerShell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
