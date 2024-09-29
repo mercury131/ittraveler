@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Установка и настройка дедупликации  на Windows Server 2012 R2Установка и настройка кластера MSSQL 2012.
+Related posts:Принудительная синхронизация контроллеров домена Active DirectoryУстановка и настройка AnsibleПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

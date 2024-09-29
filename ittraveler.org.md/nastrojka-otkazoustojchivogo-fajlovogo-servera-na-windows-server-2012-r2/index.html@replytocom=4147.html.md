@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellУдаление Lync Server 2013Аудит изменений в Active Directory
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольУстановка RSAT на Windows 10 1809Добавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

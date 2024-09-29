@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Переход на репликацию SYSVOL по DFSСоздание пользователей Active Directory через CSV файлУправление репликацией Active Directory
+Related posts:Аудит изменений групповых политик через PowerShellУдаление Lync Server 2013Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
