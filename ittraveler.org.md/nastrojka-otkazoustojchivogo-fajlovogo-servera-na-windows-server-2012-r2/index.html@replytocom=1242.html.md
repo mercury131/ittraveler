@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellУдаление Lync Server 2013Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Сброс настроек GPO на стандартныеРешаем проблему внезапной блокировки учетной записиПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
