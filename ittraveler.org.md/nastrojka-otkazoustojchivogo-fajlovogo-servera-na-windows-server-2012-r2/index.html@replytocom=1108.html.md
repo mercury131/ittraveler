@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryУдаляем неисправный контроллер домена при помощи утилиты NTDSUTILНовые компьютеры не появляются на WSUS сервере
+Related posts:Как узнать WWN (World Wide Name)  в Windows Server 2012R2Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.Получаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

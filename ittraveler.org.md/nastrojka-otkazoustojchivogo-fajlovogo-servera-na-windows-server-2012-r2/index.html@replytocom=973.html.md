@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Передача и захват ролей FSMOАудит DNS серверов на Windows Server 2008 R2 через PowershellАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
+Related posts:Переход на репликацию SYSVOL по DFSWindows WSL подключение к сетевым шарамУдаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

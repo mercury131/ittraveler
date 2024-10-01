@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryАудит доменных служб Active Directory в Windows Server 2008 R2Новые компьютеры не появляются на WSUS сервере
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressРешаем проблему внезапной блокировки учетной записиПодключение к Office 365 через Powershell и зашифрованный пароль
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

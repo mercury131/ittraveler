@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTДобавление UPN суффикса в Active DirectoryСброс настроек GPO на стандартные
+Related posts:Сброс настроек GPO на стандартныеИзменение UPN суффикса в Active Directory через PowershellУстановка и настройка кластера MSSQL 2012.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

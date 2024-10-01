@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTУстановка и настройка AlwaysOn на MS SQL 2016
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Включение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellБыстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Сброс пароля администратора Active Directory
+Related posts:Настройка Kerberos авторизации в Apache2Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

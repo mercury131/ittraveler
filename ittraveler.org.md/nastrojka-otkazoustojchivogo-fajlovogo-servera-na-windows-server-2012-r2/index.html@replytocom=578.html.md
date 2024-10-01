@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание email рассылки через PowershellПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматизируем бэкап баз данных MSSQL ExpressПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

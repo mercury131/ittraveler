@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереНазначение служб для сертификатов Exchange через Powershell.Установка и настройка кластера MSSQL 2012.
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка AnsibleПеренос виртуальной машины из Hyper-V в Proxmox (KVM)
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

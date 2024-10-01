@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellОтключение Skype UI в Lync 2013Управление репликацией Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellРешаем проблему внезапной блокировки учетной записиАвтоматический аудит компьютеров в Active Directory через powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

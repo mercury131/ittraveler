@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Перенос базы данных Active DirectoryСоздание шаблонов Zabbix для Windows.
+Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Создание шаблонов Zabbix для Windows.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

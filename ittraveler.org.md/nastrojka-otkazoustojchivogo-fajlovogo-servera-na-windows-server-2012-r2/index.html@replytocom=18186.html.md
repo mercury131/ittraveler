@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessДобавление UPN суффикса в Active DirectoryWindows WSL подключение к сетевым шарам
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Получаем MD5 файла или переменной в PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

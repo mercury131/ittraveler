@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Изменение UPN суффикса в Active Directory через PowershellПередача и захват ролей FSMOАвтоматическая активация пользователей Lync через Powershell
+Related posts:Сброс настроек GPO на стандартныеУстановка и настройка AlwaysOn на MS SQL 2016Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

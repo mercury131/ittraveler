@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос базы данных Active DirectoryНастройка Kerberos авторизации в Apache2Обновление Lync 2013 до Skype for Business
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание шаблонов Zabbix для Windows.Установка RSAT на Windows 10 1809
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

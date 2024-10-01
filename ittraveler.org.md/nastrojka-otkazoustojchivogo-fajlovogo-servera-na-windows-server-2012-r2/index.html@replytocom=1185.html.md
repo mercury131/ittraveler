@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessОшибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Установка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Автоматическая активация пользователей Lync через PowershellОбновление схемы Active DirectoryСоздание шаблонов Zabbix для Windows.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellПринудительная синхронизация Office 365 и локальной Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит изменений групповых политик через PowerShellВключение корзины Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

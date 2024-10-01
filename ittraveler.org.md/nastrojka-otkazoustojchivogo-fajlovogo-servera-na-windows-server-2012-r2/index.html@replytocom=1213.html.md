@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AlwaysOn на MS SQL 2016Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

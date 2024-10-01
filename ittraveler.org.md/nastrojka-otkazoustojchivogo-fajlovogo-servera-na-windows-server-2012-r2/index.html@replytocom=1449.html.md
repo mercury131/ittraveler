@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTОбновление схемы Active Directory
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 1.Быстрое восстановление удаленных данных из Active Directory с помощью Active Directory Object Restor...Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

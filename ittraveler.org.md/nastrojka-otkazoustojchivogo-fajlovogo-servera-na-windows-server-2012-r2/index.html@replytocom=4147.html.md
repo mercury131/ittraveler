@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаРешаем проблему внезапной блокировки учетной записиНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Создание email рассылки через PowershellСброс пароля компьютера в домене без перезагрузкиУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
