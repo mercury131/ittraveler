@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Аудит изменений групповых политик через PowerShellВключение корзины Active Directory
+Related posts:Windows WSL подключение к сетевым шарамУдаление Lync Server 2013Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

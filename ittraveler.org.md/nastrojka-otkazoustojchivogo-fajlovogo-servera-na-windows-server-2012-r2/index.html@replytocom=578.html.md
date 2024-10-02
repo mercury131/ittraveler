@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление Lync 2013 до Skype for BusinessАвтоматизируем бэкап баз данных MSSQL ExpressПередача и захват ролей FSMO
+Related posts:Обновление схемы Active DirectoryДобавление UPN суффикса в Active DirectoryУправление репликацией Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

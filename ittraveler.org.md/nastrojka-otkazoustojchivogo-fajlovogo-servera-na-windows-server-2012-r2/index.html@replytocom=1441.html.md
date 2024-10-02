@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Назначение служб для сертификатов Exchange через Powershell.Новые компьютеры не появляются на WSUS сервереУдаление Lync Server 2013
+Related posts:Создание шаблонов Zabbix для Windows.Решаем проблему внезапной блокировки учетной записиАудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

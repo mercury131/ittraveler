@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...Управление репликацией Active DirectoryПолучаем MD5 файла или переменной в Powershell
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАвтоматическая активация пользователей Lync через PowershellПереход на репликацию SYSVOL по DFS
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

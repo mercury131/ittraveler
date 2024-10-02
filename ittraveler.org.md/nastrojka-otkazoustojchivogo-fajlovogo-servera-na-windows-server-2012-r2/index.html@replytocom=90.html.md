@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс настроек GPO на стандартныеИзменение UPN суффикса в Active Directory через PowershellУстановка и настройка кластера MSSQL 2012.
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Включение корзины Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

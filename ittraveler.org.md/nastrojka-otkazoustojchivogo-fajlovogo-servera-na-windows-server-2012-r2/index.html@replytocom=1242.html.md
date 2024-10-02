@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Сброс пароля компьютера в домене без перезагрузкиУстановка и настройка кластера MSSQL 2012.
+Related posts:Сброс пароля администратора Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

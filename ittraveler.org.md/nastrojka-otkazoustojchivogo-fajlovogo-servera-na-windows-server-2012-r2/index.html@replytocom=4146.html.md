@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка Kerberos авторизации в Apache2Добавление почтовых контактов в Office 365 через Powershell и CSVУстановка RSAT на Windows 10 1809
+Related posts:Удаление Lync Server 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
