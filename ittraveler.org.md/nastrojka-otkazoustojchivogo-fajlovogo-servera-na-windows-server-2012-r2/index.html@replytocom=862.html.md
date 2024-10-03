@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаWindows WSL подключение к сетевым шарамСоздание пользователей Active Directory через CSV файл
+Related posts:Создание шаблонов Zabbix для Windows.Создание email рассылки через PowershellАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

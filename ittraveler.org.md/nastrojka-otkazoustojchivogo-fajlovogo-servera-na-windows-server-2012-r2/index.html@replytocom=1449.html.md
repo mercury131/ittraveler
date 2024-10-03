@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Сброс пароля компьютера в домене без перезагрузкиПолучаем MD5 файла или переменной в PowershellПередача и захват ролей FSMO
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

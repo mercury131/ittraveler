@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Установка RSAT на Windows 10 1809Переход на репликацию SYSVOL по DFS
+Related posts:Перенос базы данных Active DirectoryКак узнать WWN (World Wide Name)  в Windows Server 2012R2Активируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

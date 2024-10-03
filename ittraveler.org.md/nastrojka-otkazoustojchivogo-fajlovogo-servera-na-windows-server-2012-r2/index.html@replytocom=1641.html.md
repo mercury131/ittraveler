@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellУстановка и настройка Lync 2013Управление репликацией Active Directory
+Related posts:Установка и настройка Lync 2013Подключение к Office 365 через Powershell и зашифрованный парольДобавление почтовых контактов в Office 365 через Powershell и CSV
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

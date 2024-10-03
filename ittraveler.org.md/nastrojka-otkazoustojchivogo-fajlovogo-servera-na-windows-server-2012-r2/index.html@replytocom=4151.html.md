@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellНастройка HA кластера Hyper-VСоздание пользователей Active Directory через CSV файл
+Related posts:Экспорт почтовых ящиков Exchange 2010 через Powershell и PSTВключение корзины Active DirectoryСоздание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

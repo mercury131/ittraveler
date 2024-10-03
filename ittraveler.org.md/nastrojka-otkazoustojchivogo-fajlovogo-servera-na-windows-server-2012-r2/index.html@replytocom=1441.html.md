@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Решаем проблему внезапной блокировки учетной записиАудит доменных служб Active Directory в Windows Server 2008 R2
+Related posts:Создание индивидуальных адресных книг в Office 365 и Exchange onlineОбновление схемы Active DirectoryДобавление UPN суффикса в Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Назначение служб для сертификатов Exchange через Powershell.
+Related posts:Изменение UPN суффикса в Active Directory через PowershellОбновление Lync 2013 до Skype for BusinessНастройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

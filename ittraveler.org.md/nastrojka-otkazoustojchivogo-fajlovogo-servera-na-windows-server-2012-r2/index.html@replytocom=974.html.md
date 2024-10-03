@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Active Directory + Thunderbird = Общая адресная книгаЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Обновление Lync 2013 до Skype for BusinessЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

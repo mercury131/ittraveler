@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressАвтоматическая активация пользователей Lync через PowershellПереход на репликацию SYSVOL по DFS
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 2Добавление UPN суффикса в Active DirectoryАвтоматизация создания адресных книг в Office 365 через Powershell Часть 1.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

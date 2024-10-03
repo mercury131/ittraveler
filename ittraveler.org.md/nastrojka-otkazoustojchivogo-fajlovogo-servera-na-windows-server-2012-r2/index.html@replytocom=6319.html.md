@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellИзменение UPN суффикса в Active Directory через PowershellНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Управление репликацией Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Аудит доменных служб Active Directory в Windows Server 2008 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

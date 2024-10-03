@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryНазначение служб для сертификатов Exchange через Powershell.Кастомизация гостевых ОС Windows в KVM на примере Proxmox
+Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка кластера MSSQL 2012.Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

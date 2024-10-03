@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание шаблонов Zabbix для Windows.Аудит DNS серверов на Windows Server 2008 R2 через PowershellСоздание email рассылки через Powershell
+Related posts:Восстановление объектов Active Directory: сборник сценариевСброс пароля администратора Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

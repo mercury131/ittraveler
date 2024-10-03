@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматизируем бэкап баз данных MSSQL ExpressПодключение к Office 365 через Powershell и зашифрованный парольНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Windows WSL подключение к сетевым шарамКастомизация гостевых ОС Windows в KVM на примере ProxmoxПолучаем MD5 файла или переменной в Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

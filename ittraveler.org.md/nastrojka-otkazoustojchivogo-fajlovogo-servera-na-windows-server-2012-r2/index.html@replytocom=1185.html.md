@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереСброс пароля компьютера в домене без перезагрузкиНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Автоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active DirectoryСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

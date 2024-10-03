@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryПринудительная синхронизация Office 365 и локальной Active DirectoryНастройка растянутого кластера (stretch-cluster) на Windows server 2016
+Related posts:Active Directory + Thunderbird = Общая адресная книгаИзменение UPN суффикса в Active Directory через PowershellАвтоматизируем бэкап баз данных MSSQL Express
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

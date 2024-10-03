@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаление Lync Server 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016Аудит незаполненных полей в Active Directory через Powershell
+Related posts:Аудит изменений в Active DirectoryПолучаем MD5 файла или переменной в PowershellНазначение служб для сертификатов Exchange через Powershell.
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
