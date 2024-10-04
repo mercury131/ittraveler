@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений в Active DirectoryПолучаем MD5 файла или переменной в PowershellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Автоматизация создания адресных книг в Office 365 через Powershell Часть 3.Управление репликацией Active DirectoryОтказоустойчивый ISCSI кластер на Windows Server 2012 R2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

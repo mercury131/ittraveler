@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Автоматическая активация пользователей Lync через PowershellДобавление UPN суффикса в Active DirectoryСброс пароля администратора Active Directory
+Related posts:Active Directory + Thunderbird = Общая адресная книгаУстановка и настройка кластера MSSQL 2012.Обновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

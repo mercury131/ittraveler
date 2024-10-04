@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевСброс пароля администратора Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Windows WSL подключение к сетевым шарамВключение корзины Active DirectoryИзменение UPN суффикса в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
