@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Добавление UPN суффикса в Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка AlwaysOn на MS SQL 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

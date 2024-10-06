@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Управление репликацией Active DirectoryУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Сброс пароля компьютера в домене без перезагрузкиНастройка Kerberos авторизации в Apache2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

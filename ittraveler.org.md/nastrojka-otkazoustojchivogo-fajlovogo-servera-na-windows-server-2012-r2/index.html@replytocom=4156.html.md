@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Подключение к Office 365 через Powershell и зашифрованный парольНастройка Kerberos авторизации в Apache2Принудительная синхронизация контроллеров домена Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressWindows WSL подключение к сетевым шарамАудит незаполненных полей в Active Directory через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

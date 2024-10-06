@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLАвтоматизируем бэкап баз данных MSSQL ExpressУдаление Lync Server 2013
+Related posts:Решаем проблему внезапной блокировки учетной записиПеренос виртуальной машины из Hyper-V в Proxmox (KVM)Сброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

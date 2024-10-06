@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Перенос базы данных Active DirectoryПодключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Автоматическая активация пользователей Lync через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Отключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

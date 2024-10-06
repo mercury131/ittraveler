@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Поиск старых почтовых ящиков в Exchange 2010Установка и настройка Scale-Out File Server + Storage Spaces DirectУправление репликацией Active Directory
+Related posts:Аудит изменений в Active DirectoryСоздание email рассылки через PowershellПеренос базы данных Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

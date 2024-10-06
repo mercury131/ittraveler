@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryWindows WSL подключение к сетевым шарамАудит незаполненных полей в Active Directory через Powershell
+Related posts:Переход на репликацию SYSVOL по DFSПринудительная синхронизация контроллеров домена Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
