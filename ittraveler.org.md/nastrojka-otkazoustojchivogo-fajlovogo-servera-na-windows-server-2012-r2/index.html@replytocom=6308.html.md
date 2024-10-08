@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Windows WSL подключение к сетевым шарамСброс пароля компьютера в домене без перезагрузкиАвтоматизируем бэкап баз данных MSSQL Express
+Related posts:Сброс пароля администратора Active DirectoryПеренос базы данных Active DirectoryСброс настроек GPO на стандартные
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

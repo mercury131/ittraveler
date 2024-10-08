@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит доменных служб Active Directory в Windows Server 2008 R2Windows WSL подключение к сетевым шарамУстановка и настройка дедупликации  на Windows Server 2012 R2
+Related posts:Настройка HA кластера Hyper-VКак узнать WWN (World Wide Name)  в Windows Server 2012R2Поиск старых почтовых ящиков в Exchange 2010
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

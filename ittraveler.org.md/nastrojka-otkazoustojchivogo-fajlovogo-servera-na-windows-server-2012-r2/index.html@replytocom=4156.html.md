@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Перенос базы данных Active Directory
+Related posts:Аудит DNS серверов на Windows Server 2008 R2 через PowershellПолучаем MD5 файла или переменной в PowershellАктивируем LDAP over SSL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

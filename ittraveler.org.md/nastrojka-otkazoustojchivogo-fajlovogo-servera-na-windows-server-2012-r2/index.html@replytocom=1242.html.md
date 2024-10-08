@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиWindows WSL подключение к сетевым шарамПереход на репликацию SYSVOL по DFS
+Related posts:Перенос базы данных Active DirectoryWindows WSL подключение к сетевым шарамАвтоматизация создания адресных книг в Office 365 через Powershell Часть 2
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

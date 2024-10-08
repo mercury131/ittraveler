@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Создание email рассылки через PowershellИзменение UPN суффикса в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Установка и настройка дедупликации  на Windows Server 2012 R2Обновление Lync 2013 до Skype for Business
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

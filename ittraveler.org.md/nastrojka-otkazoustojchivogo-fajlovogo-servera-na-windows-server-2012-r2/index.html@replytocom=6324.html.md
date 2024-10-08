@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Обновление схемы Active DirectoryWindows WSL подключение к сетевым шарамСоздание шаблонов Zabbix для Windows.
+Related posts:Установка и настройка AlwaysOn на MS SQL 2016Восстановление объектов Active Directory: сборник сценариевСброс пароля компьютера в домене без перезагрузки
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

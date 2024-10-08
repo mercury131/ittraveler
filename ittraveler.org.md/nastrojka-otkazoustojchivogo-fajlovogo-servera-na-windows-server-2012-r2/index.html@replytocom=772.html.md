@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Активируем LDAP over SSLДобавление UPN суффикса в Active DirectoryНастройка HA кластера Hyper-V
+Related posts:Решаем проблему внезапной блокировки учетной записиПоиск старых почтовых ящиков в Exchange 2010Ошибка Database Mirroring login attempt by user ‘Domain\user.’ failed with error: ‘Connection handsh...
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

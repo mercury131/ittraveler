@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка дедупликации  на Windows Server 2012 R2Обновление Lync 2013 до Skype for BusinessДобавление почтовых контактов в Office 365 через Powershell и CSV
+Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка Lync 2013Создание email рассылки через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиАудит незаполненных полей в Active Directory через PowershellНазначение служб для сертификатов Exchange через Powershell.
+Related posts:Создание шаблонов Zabbix для Windows.Установка и настройка дедупликации  на Windows Server 2012 R2Создание пользователей Active Directory через CSV файл
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

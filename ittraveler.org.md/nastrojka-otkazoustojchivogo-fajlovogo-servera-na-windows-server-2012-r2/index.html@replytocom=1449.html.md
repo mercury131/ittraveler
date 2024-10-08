@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление UPN суффикса в Active DirectoryУстановка и настройка AlwaysOn на MS SQL 2016Восстановление объектов Active Directory: сборник сценариев
+Related posts:Windows WSL подключение к сетевым шарамАктивируем LDAP over SSLОбновление схемы Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

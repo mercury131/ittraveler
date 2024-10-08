@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Новые компьютеры не появляются на WSUS сервереДобавление UPN суффикса в Active DirectoryРешаем проблему внезапной блокировки учетной записи
+Related posts:Active Directory + Thunderbird = Общая адресная книгаКак узнать WWN (World Wide Name)  в Windows Server 2012R2Кастомизация гостевых ОС Windows в KVM на примере Proxmox
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

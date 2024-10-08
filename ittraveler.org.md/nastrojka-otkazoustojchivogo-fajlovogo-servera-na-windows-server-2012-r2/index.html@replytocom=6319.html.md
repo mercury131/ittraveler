@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILНастройка растянутого кластера (stretch-cluster) на Windows server 2016Подключение к Office 365 через Powershell и зашифрованный пароль
+Related posts:Изменение UPN суффикса в Active Directory через PowershellАудит незаполненных полей в Active Directory через PowershellВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

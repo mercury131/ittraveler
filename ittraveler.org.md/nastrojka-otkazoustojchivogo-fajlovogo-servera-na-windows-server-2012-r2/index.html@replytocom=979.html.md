@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Добавление почтовых контактов в Office 365 через Powershell и CSVОтказоустойчивый ISCSI кластер на Windows Server 2012 R2Экспорт почтовых ящиков Exchange 2010 через Powershell и PST
+Related posts:Настройка HA кластера Hyper-VУстановка и настройка Lync 2013Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFSИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Подключение к Office 365 через Powershell и зашифрованный парольПередача и захват ролей FSMOОтключение Skype UI в Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

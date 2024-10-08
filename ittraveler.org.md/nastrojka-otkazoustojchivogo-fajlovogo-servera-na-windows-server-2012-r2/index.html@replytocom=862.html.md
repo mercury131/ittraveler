@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Восстановление объектов Active Directory: сборник сценариевСброс настроек GPO на стандартныеПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Управление репликацией Active DirectoryНастройка HA кластера Hyper-V
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

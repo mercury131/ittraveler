@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Удаляем неисправный контроллер домена при помощи утилиты NTDSUTILАудит доменных служб Active Directory в Windows Server 2008 R2Перенос базы данных Active Directory
+Related posts:Перенос виртуальной машины из Hyper-V в Proxmox (KVM)Восстановление объектов Active Directory: сборник сценариевРешаем проблему внезапной блокировки учетной записи
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

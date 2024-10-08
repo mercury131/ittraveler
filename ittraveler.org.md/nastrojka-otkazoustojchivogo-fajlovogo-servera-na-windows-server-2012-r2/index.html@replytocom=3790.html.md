@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VСоздание email рассылки через PowershellПринудительная синхронизация контроллеров домена Active Directory
+Related posts:Сброс пароля компьютера в домене без перезагрузкиСоздание шаблонов Zabbix для Windows.Аудит DNS серверов на Windows Server 2008 R2 через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
