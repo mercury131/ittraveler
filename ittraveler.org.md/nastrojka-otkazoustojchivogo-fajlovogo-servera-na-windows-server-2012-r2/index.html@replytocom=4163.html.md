@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка AnsibleОтключение Skype UI в Lync 2013Установка и настройка кластера MSSQL 2012.
+Related posts:Сброс пароля администратора Active DirectoryВосстановление объектов Active Directory: сборник сценариевУстановка и настройка Lync 2013
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
