@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Сброс пароля администратора Active DirectoryНастройка Kerberos авторизации в Apache2Как узнать WWN (World Wide Name)  в Windows Server 2012R2
+Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryПереход на репликацию SYSVOL по DFSАвтоматическая активация пользователей Lync через Powershell
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

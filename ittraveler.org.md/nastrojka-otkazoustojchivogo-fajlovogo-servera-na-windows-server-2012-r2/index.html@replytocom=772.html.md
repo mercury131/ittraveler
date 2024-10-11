@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит незаполненных полей в Active Directory через PowershellУстановка и настройка AlwaysOn на MS SQL 2016Перенос базы данных Active Directory
+Related posts:Автоматизируем бэкап баз данных MSSQL ExpressWindows WSL подключение к сетевым шарамЭкспорт почтовых ящиков Exchange 2010 через Powershell и PST
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

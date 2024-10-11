@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Принудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книгаУстановка и настройка кластера MSSQL 2012.
+Related posts:Решаем проблему внезапной блокировки учетной записиКастомизация гостевых ОС Windows в KVM на примере ProxmoxВосстановление объектов Active Directory: сборник сценариев
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

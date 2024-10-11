@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Аудит изменений групповых политик через PowerShellСоздание пользователей Active Directory через CSV файлИзменение UPN суффикса в Active Directory через Powershell
+Related posts:Windows WSL подключение к сетевым шарамСброс настроек GPO на стандартныеСброс пароля администратора Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

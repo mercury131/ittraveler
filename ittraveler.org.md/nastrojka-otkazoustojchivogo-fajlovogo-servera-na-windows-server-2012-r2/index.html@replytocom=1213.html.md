@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Решаем проблему внезапной блокировки учетной записиНовые компьютеры не появляются на WSUS сервереСоздание email рассылки через Powershell
+Related posts:Настройка растянутого кластера (stretch-cluster) на Windows server 2016Получаем MD5 файла или переменной в PowershellПринудительная синхронизация контроллеров домена Active Directory
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  

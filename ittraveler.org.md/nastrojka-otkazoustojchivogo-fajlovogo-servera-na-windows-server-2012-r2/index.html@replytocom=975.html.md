@@ -175,7 +175,7 @@ LD-MoscowHR-RW
 &nbsp;
 &nbsp;
 &nbsp;
-Related posts:Установка RSAT на Windows 10 1809Обновление схемы Active DirectoryАудит DNS серверов на Windows Server 2008 R2 через Powershell
+Related posts:Установка и настройка Lync 2013Удаление Lync Server 2013Настройка растянутого кластера (stretch-cluster) на Windows server 2016
         
              Active Directory, Windows, Windows Server 
              Метки: Active Directory, DFS, File-Server  
