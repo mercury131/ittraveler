@@ -1,18 +1,7 @@
-#                 	Отказоустойчивый ISCSI кластер на Windows Server 2012 R2                	  
-***            ***
+# Отказоустойчивый ISCSI кластер на Windows Server 2012 R2                	  
+***Дата: 19.05.2015 Автор Admin***
 
-			
-            
-		
-
-    
-
-
-
-
-	
-    	  Дата: 19.05.2015 Автор Admin  
-	В данной статье мы рассмотрим как настроить Отказоустойчивый ISCSI кластер на Windows Server 2012 R2.Для настройки нам понадобятся 2 сервера.
+В данной статье мы рассмотрим как настроить Отказоустойчивый ISCSI кластер на Windows Server 2012 R2.Для настройки нам понадобятся 2 сервера.
 Кластер в данной статье будет настраиваться по следующей схеме:
 Соответственно у вас должна быть сеть хранения данных, подключенная по FC, SAS или ISCSI (необходим ISCSI протокол версии не ниже iSCSI-3)
 Должна быть настроена LAN сеть на каждом узле кластера, и отдельная сеть между кластерами.
@@ -26,10 +15,10 @@
 Далее по желанию запускаем проверочные тесты.
 Вводим имя кластера и адреса.
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1890562251101921"
-     data-ad-slot="9117958896"
-     data-ad-format="auto">
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
 Создаем кластер. Обязательно добавляем все допустимые хранилища.
 &nbsp;
@@ -44,10 +33,10 @@
 Указываем название кластера и сетевые адреса.
 Выбираем диск кластера.
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1890562251101921"
-     data-ad-slot="9117958896"
-     data-ad-format="auto">
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
 Подтверждаем создание роли.
 Дожидаемся установки роли.
@@ -65,272 +54,78 @@
 Готово! Теперь указанные клиенты могут подключаться к кластеру ISCSI. Для подключения нужно использовать DNS имя кластера.
 Удачной установки!
 &nbsp;
-Related posts:Настройка HA кластера Hyper-VАудит незаполненных полей в Active Directory через PowershellУстановка и настройка Lync 2013
-        
-             Windows, Windows Server 
-             Метки: Cluster, ISCSI, Windows Server  
-        
-            
-        
-    
-
-
-
+Related posts:Автоматический перенос старых перемещаемых профилей в архив с помощью Powershell.Восстановление объектов Active Directory: сборник сценариевУдаление Lync Server 2013
+ Windows, Windows Server 
+ Метки: Cluster, ISCSI, Windows Server  
                         
-                    
-                    
-                
+Комментарии
         
-                
-	
-    	
+Саян
+  
+21.07.2016 в 04:26 - 
+Ответить                                
+Объясните пожалуйста у вас 2 или 3 узла в таком кластере, т.к. когда я создаю кластер из 2 серверов, то в списке у меня отображается только 1 узел.
         
-        	Комментарии
+Admin
+  
+24.04.2017 в 12:13 - 
+Ответить                                
+У меня 2 узла, странно что у вас отображается 1 узел, проверьте настройки серверов, подсети, в домене ли они, есть ли у них общее хранилище.
         
-		
-		 
-    
-    
+Вячеслав
+  
+04.04.2017 в 06:06 - 
+Ответить                                
+Редакция Windows 2012 должна быть Datacenter или достаточно Standard?
         
-                    
-         
-        
-            
-            
-                
-                Саян
-                  
-                21.07.2016 в 04:26 - 
-                Ответить                                
-                
-            
-    
-                      
-            Объясните пожалуйста у вас 2 или 3 узла в таком кластере, т.к. когда я создаю кластер из 2 серверов, то в списке у меня отображается только 1 узел.
-          
-        
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Admin
-                  
-                24.04.2017 в 12:13 - 
-                Ответить                                
-                
-            
-    
-                      
-            У меня 2 узла, странно что у вас отображается 1 узел, проверьте настройки серверов, подсети, в домене ли они, есть ли у них общее хранилище.
-          
-        
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Вячеслав
-                  
-                04.04.2017 в 06:06 - 
-                Ответить                                
-                
-            
-    
-                      
-            Редакция Windows 2012 должна быть Datacenter или достаточно Standard?
-          
-        
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Admin
-                  
-                24.04.2017 в 11:48 - 
-                Ответить                                
-                
-            
-    
-                      
-            Standard достаточно.
-          
-        
-        
-        
-
-
-    
-    
-
-	
-    
-
-
-
-
-
-
-
-
-	
-		
-		Добавить комментарий для Саян Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Admin
+  
+24.04.2017 в 11:48 - 
+Ответить                                
+Standard достаточно.
+Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
 Email 
 Сайт 
  
 &#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
-	
-
-
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1890562251101921"
-     data-ad-slot="9117958896"
-     data-ad-format="auto">
-
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
-
-
-
-
-
-			
-        
-        
-
-		
-
-        
-
-           
-    
-    
-
-
   
-
-
-	
-    
-
-		
-        
-             
-			
-
-                
-
-                    
-                                                  Все права защищены. IT Traveler 2024 
-                         
-                        
-																														                    
-                    
-
-				
-                
-                
-    
-			
-		                            
-	
-
-	
-                
-                
-			
-                
-		
-        
-	
-    
-
-
+Все права защищены. IT Traveler 2022 
+                            
 jQuery(document).ready(function($){
-  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
 });
-  
-
-
-
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter27780774 = new Ya.Metrika({
-                    id:27780774,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true,
-                    webvisor:true,
-                    trackHash:true
-                });
-            } catch(e) { }
-        });
-
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks");
-
-
-
-
-
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-58126221-1', 'auto');
-  ga('send', 'pageview');
-
-
-
-
-
-
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');

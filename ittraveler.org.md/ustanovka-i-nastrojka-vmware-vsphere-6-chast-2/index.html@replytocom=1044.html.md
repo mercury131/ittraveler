@@ -1,18 +1,7 @@
-#                 	Установка и настройка VMWare Vsphere 6. Часть 2                	  
-***            ***
+# Установка и настройка VMWare Vsphere 6. Часть 2                	  
+***Дата: 24.04.2015 Автор Admin***
 
-			
-            
-		
-
-    
-
-
-
-
-	
-    	  Дата: 24.04.2015 Автор Admin  
-	В данной статье мы рассмотрим базовую настройку Vcenter и хостов ESXI.
+В данной статье мы рассмотрим базовую настройку Vcenter и хостов ESXI.
 После первой авторизации в Vcenter под локальным пользователем, настроим доменную авторизацию.
 Переходим в раздел Administration -&gt; System Configuration
 Выбираем Nodes, и выделяем наш PSC контроллер.
@@ -126,293 +115,86 @@
 Проверяем настройки, и запускаем процесс создания виртуальной машины.
 На этом базовую настройку Vcenter можно считать законченной.
 В следующей статье мы рассмотрим настройку HA и многое другое.
-Related posts:Выполняем команды внутри гостевых ОС через PowerCLIУстановка и настройка Citrix XenServer Часть 4.Vsphere. Поиск виртуальных машин с толстыми дисками
-        
-             Виртуализация 
-             Метки: vmware, vsphere  
-        
-            
-        
-    
-
-
-
+Related posts:Установка и настройка Citrix XenServer Часть 2.QEMU/KVM проброс физического диска гипевизора в виртуальную машинуЗапуск команд внутри гостевых ОС в гипервизоре KVM на примере Proxmox
+ Виртуализация 
+ Метки: vmware, vsphere  
                         
-                    
-                    
-                
+Комментарии
         
-                
-	
-    	
+Александр
+  
+18.02.2016 в 12:38 - 
+Ответить                                
+Доброго времени суток. Не могу никак выделить виртуальной машинке 64Гб памяти &#8212; видит только 32 &#8212; лицензия интерпрайз плюс. Не подскажете куда мне смотреть?
         
-        	Комментарии
-        
-		
-		 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Александр
-                  
-                18.02.2016 в 12:38 - 
-                Ответить                                
-                
-            
-    
-                      
-            Доброго времени суток. Не могу никак выделить виртуальной машинке 64Гб памяти &#8212; видит только 32 &#8212; лицензия интерпрайз плюс. Не подскажете куда мне смотреть?
-          
-        
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Admin
-                  
-                18.02.2016 в 13:07 - 
-                Ответить                                
-                
-            
-    
-                      
-            Добрый день.
+Admin
+  
+18.02.2016 в 13:07 - 
+Ответить                                
+Добрый день.
 Не сталкивался с таким.
 Проверьте что лицензии установлены на гипервизоры и vcenter. Также проверьте hardware version у виртуальной машины.
 Ну проверьте что у вас точно есть 64 свободных гигабайта оперативки на хосте.
-          
         
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Александр
-                  
-                18.02.2016 в 13:24 - 
-                Ответить                                
-                
-            
-    
-                      
-            Проверил
+Александр
+  
+18.02.2016 в 13:24 - 
+Ответить                                
+Проверил
 &#8212; vCenter Standart
 -vSphere 6 Enterprise Plus
 -Hardware version 11
 в server 2008r2 память 64Гб доступно 32Гб
-          
         
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Александр
-                  
-                18.02.2016 в 13:59 - 
-                Ответить                                
-                
-            
-    
-                      
-            Разобрались)) системка то Standart, а у нее ограничение по памяти 32Гб ))
+Александр
+  
+18.02.2016 в 13:59 - 
+Ответить                                
+Разобрались)) системка то Standart, а у нее ограничение по памяти 32Гб ))
 остался последний вопрос можно ли как то выделить весь физический жеский диск системе как в Hype-V ? я сколько мучался только указанное колво Гб и постоянное красное сообщение что место использовано на диске
-          
         
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Admin
-                  
-                18.02.2016 в 20:51 - 
-                Ответить                                
-                
-            
-    
-                      
-            Так у вас в гостевой ОС проблема была. Я думал Вы не можете в vsphere установить 64 гига памяти.
+Admin
+  
+18.02.2016 в 20:51 - 
+Ответить                                
+Так у вас в гостевой ОС проблема была. Я думал Вы не можете в vsphere установить 64 гига памяти.
 По поводу диска, если есть СХД, отдайте с нее LUN по iscsi и все, ну или RAW диск можно подключить.
 Если СХД нет, то только вариант с большим диском.
-          
         
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Димка
-                  
-                27.04.2016 в 16:18 - 
-                Ответить                                
-                
-            
-    
-                      
-            День добрый, у меня на шаге :
+Димка
+  
+27.04.2016 в 16:18 - 
+Ответить                                
+День добрый, у меня на шаге :
 Переходим в раздел Groups
 Открываем нужную группу администрирования (в моем случае это группа Adminstrators)
 И добавляем в нее доменных пользователей или группы.
 Выходит ошибка:  cannot load the user for the selected domain
 Подскажите, пожалуйста, куда копать?
-          
         
+Admin
+  
+06.05.2016 в 23:25 - 
+Ответить                                
+Попробуйте проверить связь с Active Directory.
         
+Виктор
+  
+04.03.2019 в 19:40 - 
+Ответить                                
+Добрый вечер. А почему не используете Paravirtual SCSI  для виртуальной машины? И сразу не создаёте 2 диска, для дальнейшего распределения на c и d
         
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Admin
-                  
-                06.05.2016 в 23:25 - 
-                Ответить                                
-                
-            
-    
-                      
-            Попробуйте проверить связь с Active Directory.
-          
-        
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Виктор
-                  
-                04.03.2019 в 19:40 - 
-                Ответить                                
-                
-            
-    
-                      
-            Добрый вечер. А почему не используете Paravirtual SCSI  для виртуальной машины? И сразу не создаёте 2 диска, для дальнейшего распределения на c и d
-          
-        
-        
-        
-
-
-    
-    
-
- 
-    
-    
-        
-                    
-         
-        
-            
-            
-                
-                Admin
-                  
-                05.03.2019 в 10:47 - 
-                Ответить                                
-                
-            
-    
-                      
-            Добрый день.
+Admin
+  
+05.03.2019 в 10:47 - 
+Ответить                                
+Добрый день.
 LSI Logic SAS &#8212; можно использовать поумолчанию, т.к. он поддерживается большинством гостевых ОС из коробки и не имеет существенных ограничений.
 Но, в некоторых случаях использование Paravirtual SCSI может повысить производительость VM, примерно на 12%, но этот тип контроллера имеет ряд ограничений и обычно в гостевых ОС нет его поддержки из коробки, так что при установке ОС могут возникать проблемы.
 Из ограничений Paravirtual SCSI можно отметить:
-  Hot add or hot remove requires a bus rescan from within the guest.
-  Disks with snapshots might not experience performance gains when used on Paravirtual SCSI adapters if memory on the ESX host is over committed.
-  If you upgrade from RHEL 5 to an unsupported kernel, you might not be able to access data on the virtual machine&#8217;s PVSCSI disks. You can run vmware-config-tools.pl with the kernel-version parameter to regain access
+Hot add or hot remove requires a bus rescan from within the guest.
+Disks with snapshots might not experience performance gains when used on Paravirtual SCSI adapters if memory on the ESX host is over committed.
+If you upgrade from RHEL 5 to an unsupported kernel, you might not be able to access data on the virtual machine&#8217;s PVSCSI disks. You can run vmware-config-tools.pl with the kernel-version parameter to regain access
 также вот в этой статье можно ознакомиться со списком ОС, которые поддерживают загрузку с данного типа контроллера https://kb.vmware.com/s/article/1010398
 Вообще, я бы рекомендовал ставить ОС на обычный LSI SAS контроллер, а другие диски подключать к Paravirtual SCSI контроллеру (разумеется это имеет смысл если нужно повысить производительность этих дисков, а не диска с ОС)
 Но если честно, в реальной жизни, я большого толку от Paravirtual SCSI и этих +12% к производительности я не заметил.
@@ -420,146 +202,49 @@ LSI Logic SAS &#8212; можно использовать поумолчанию
 Так что перед тем как внедрять, тестируйте свой профиль нагрузки на каждом из адаптеров, возможно разницы вы и не заметите.
 Ну и по поводу нескольких дисков. А смысл? ведь всегда можно добавить диск при необходимости, далеко не во всех ситуациях нужно несколько разных дисков.
 В этом же плюс виртуализации, что ресурсы можно увеличивать динамически, по мере необходимости.
-          
-        
-        
-        
-
-
-    
-    
-
-	
-    
-
-
-
-
-
-
-
-
-	
-		
-		Добавить комментарий для Admin Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
 Email 
 Сайт 
  
 &#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
-	
-
-
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1890562251101921"
-     data-ad-slot="9117958896"
-     data-ad-format="auto">
-
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
-
-
-
-
-
-			
-        
-        
-
-		
-
-        
-
-           
-    
-    
-
-
   
-
-
-	
-    
-
-		
-        
-             
-			
-
-                
-
-                    
-                                                  Все права защищены. IT Traveler 2024 
-                         
-                        
-																														                    
-                    
-
-				
-                
-                
-    
-			
-		                            
-	
-
-	
-                
-                
-			
-                
-		
-        
-	
-    
-
-
+Все права защищены. IT Traveler 2024 
+                            
 jQuery(document).ready(function($){
-  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
 });
-  
-
-
-
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter27780774 = new Ya.Metrika({
-                    id:27780774,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true,
-                    webvisor:true,
-                    trackHash:true
-                });
-            } catch(e) { }
-        });
-
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks");
-
-
-
-
-
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-58126221-1', 'auto');
-  ga('send', 'pageview');
-
-
-
-
-
-
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');

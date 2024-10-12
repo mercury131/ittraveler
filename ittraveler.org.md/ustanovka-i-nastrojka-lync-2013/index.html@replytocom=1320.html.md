@@ -1,42 +1,14 @@
-#                 	Установка и настройка Lync 2013                	  
-***            ***
+# Установка и настройка Lync 2013                	  
+***Дата: 27.07.2015 Автор Admin***
 
-			
-            
-		
-
-    
-
-
-
-
-	
-    	  Дата: 27.07.2015 Автор Admin  
-	Если вам нужно развернуть в своей инфраструктуре Lync 2013, прошу под кат.
+Если вам нужно развернуть в своей инфраструктуре Lync 2013, прошу под кат.
 Ниже рассмотрена установка сервера Lync 2013 Standard
 1) Устанавливаем Silverlight, скачать его можно тут
 2) Запускаем Powershell от имени администратора и устанавливаем необходимые компоненты:
-
-		
-		
-			
-			
-			
 ```
 Add-WindowsFeature Web-Server, Web-Static-Content, Web-Default-Doc, Web-Scripting-Tools, Web-Windows-Auth, Web-Asp-Net, Web-Log-Libraries, Web-Http-Tracing, Web-Stat-Compression, Web-Default-Doc, Web-ISAPI-Ext, Web-ISAPI-Filter, Web-Http-Errors, Web-Http-Logging, Web-Net-Ext, Web-Client-Auth, Web-Filtering, Web-Mgmt-Console, Web-Asp-Net45, Web-Net-Ext45, Web-Dyn-Compression, Web-Mgmt-Console, Desktop-Experience
 ```
-			
-				
-					
-				
-					1
-				
-						Add-WindowsFeature Web-Server, Web-Static-Content, Web-Default-Doc, Web-Scripting-Tools, Web-Windows-Auth, Web-Asp-Net, Web-Log-Libraries, Web-Http-Tracing, Web-Stat-Compression, Web-Default-Doc, Web-ISAPI-Ext, Web-ISAPI-Filter, Web-Http-Errors, Web-Http-Logging, Web-Net-Ext, Web-Client-Auth, Web-Filtering, Web-Mgmt-Console, Web-Asp-Net45, Web-Net-Ext45, Web-Dyn-Compression, Web-Mgmt-Console, Desktop-Experience
-					
-				
-			
-		
-
+Add-WindowsFeature Web-Server, Web-Static-Content, Web-Default-Doc, Web-Scripting-Tools, Web-Windows-Auth, Web-Asp-Net, Web-Log-Libraries, Web-Http-Tracing, Web-Stat-Compression, Web-Default-Doc, Web-ISAPI-Ext, Web-ISAPI-Filter, Web-Http-Errors, Web-Http-Logging, Web-Net-Ext, Web-Client-Auth, Web-Filtering, Web-Mgmt-Console, Web-Asp-Net45, Web-Net-Ext45, Web-Dyn-Compression, Web-Mgmt-Console, Desktop-Experience
 3) Перезагружаемся
 4) Создаем DNS записи типа A в локальном домене:
 admin
@@ -55,10 +27,10 @@ sip
 10) Теперь установим средства администрирования.
 11) Теперь открываем пуск и запускаем мастер построения топологии
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1890562251101921"
-     data-ad-slot="9117958896"
-     data-ad-format="auto">
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
 Выбираем &#8212; создать топологию
 Указываем sip домен
@@ -104,10 +76,10 @@ sip
 По аналогии запрашиваем и назначаем сертификат &#171;OAuthTokenIssuer&#187;
 Должно получиться так:
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1890562251101921"
-     data-ad-slot="9117958896"
-     data-ad-format="auto">
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
 Возвращаемся в мастер развертывания и запускаем службы (шаг 4)
 Далее проверим обновления.
@@ -125,51 +97,17 @@ sip
 Для решения данной проблемы убедитесь что в домене создана srv dns запись из начала статьи.
 Далее перейдите на Exchange сервер и откройте Powershell
 Изменяем тип аутентификации у виртуального каталога Autodiscover
-
-		
-		
-			
-			
-			
 ```
 Get-AutodiscoverVirtualDirectory | Set-AutodiscoverVirtualDirectory  -BasicAuthentication $true
 ```
-			
-				
-					
-				
-					1
-				
-						Get-AutodiscoverVirtualDirectory | Set-AutodiscoverVirtualDirectory&nbsp;&nbsp;-BasicAuthentication $true
-					
-				
-			
-		
-
+Get-AutodiscoverVirtualDirectory | Set-AutodiscoverVirtualDirectory&nbsp;&nbsp;-BasicAuthentication $true
 Далее создайте либо используйте существующий адрес указывающий на Exchange сервер с ролью CAS.
 Я создал ews.test.com
 Теперь настроим EWS
-
-		
-		
-			
-			
-			
 ```
 Get-WebServicesVirtualDirectory | Set-WebServicesVirtualDirectory -ExternalUrl https://ews.external.com/EWS/exchange.asmx -InternalUrl https://ews.test.com/EWS/exchange.asmx -BasicAuthentication $true
 ```
-			
-				
-					
-				
-					1
-				
-						Get-WebServicesVirtualDirectory | Set-WebServicesVirtualDirectory -ExternalUrl https://ews.external.com/EWS/exchange.asmx -InternalUrl https://ews.test.com/EWS/exchange.asmx -BasicAuthentication $true
-					
-				
-			
-		
-
+Get-WebServicesVirtualDirectory | Set-WebServicesVirtualDirectory -ExternalUrl https://ews.external.com/EWS/exchange.asmx -InternalUrl https://ews.test.com/EWS/exchange.asmx -BasicAuthentication $true
 Соответственно измените адреса на свои.
 Так же важно чтобы адрес указанный в команде выше фигурировал в сертификате Exchange
 Например так:
@@ -187,3 +125,72 @@ Get-WebServicesVirtualDirectory | Set-WebServicesVirtualDirectory -ExternalUrl h
 На этом базовая настройка Lync server 2013 завершена.
 Удачной установки =)
 &nbsp;
+Related posts:Переход на репликацию SYSVOL по DFSУстановка и настройка дедупликации  на Windows Server 2012 R2Автоматический аудит компьютеров в Active Directory через powershell.
+ PowerShell, Windows, Windows Server 
+ Метки: Lync  
+                        
+Комментарии
+        
+Владимир
+  
+06.09.2016 в 08:06 - 
+Ответить                                
+Приветствую! Спасибо за дельную статью, очень помогла. есть вопрос по такому моменту:
+4) Создаем DNS записи типа A в локальном домене:
+admin
+dialin
+meet
+sip
+к какому IP их подвязывать?
+        
+Admin
+  
+24.04.2017 в 12:12 - 
+Ответить                                
+к ip сервера Lync
+Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+Email 
+Сайт 
+ 
+&#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1890562251101921"
+data-ad-slot="9117958896"
+data-ad-format="auto">
+(adsbygoogle = window.adsbygoogle || []).push({});
+  
+Все права защищены. IT Traveler 2022 
+                            
+jQuery(document).ready(function($){
+$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+});
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter27780774 = new Ya.Metrika({
+id:27780774,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-58126221-1', 'auto');
+ga('send', 'pageview');
