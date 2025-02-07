@@ -1,7 +1,13 @@
-# Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL                	  
-***Дата: 30.12.2014 Автор Admin***
+#                 	Удаляем неисправный контроллер домена при помощи утилиты NTDSUTIL                	  
+***            ***
 
-Нередки ситуации, когда системному администратору приходится вручную удалять контроллер домена из Active Directory. Такие ситуации возникают при физическом выходе из строя севера с ролью контроллера домена или другой нештатной ситуации. Естественно, наиболее предпочтительно удалить контроллер домена при помощи команды DCPROMO (подробно DCPROMO и ее параметрах) Однако, что же делать, если контроллер домена недоступен (выключен, сломался, недоступен по сети)?
+			
+            
+		
+    
+	
+    	  Дата: 30.12.2014 Автор Admin  
+	Нередки ситуации, когда системному администратору приходится вручную удалять контроллер домена из Active Directory. Такие ситуации возникают при физическом выходе из строя севера с ролью контроллера домена или другой нештатной ситуации. Естественно, наиболее предпочтительно удалить контроллер домена при помощи команды DCPROMO (подробно DCPROMO и ее параметрах) Однако, что же делать, если контроллер домена недоступен (выключен, сломался, недоступен по сети)?
 Естественно, нельзя просто удалить учетную запись контроллера домена при помощи оснастки Active Directory User and Computer. Для ручного удаления контроллера домена из Active Directory подойдет утилита NTDSUTIL.  NTDSUTIL – это утилита командной строки, которая предназначена для выполнения различных сложных операций с ActiveDirectory, в том числе процедур обслуживания,  управления и модификации Active Directory. Я уже писал об использовании Ntdsutil для создания снимков (snapshot) Active Directory.
 Следующая инструкция позволит вручную удалить неисправный контроллер домена.
 Примечание: при использовании NTDSUTIL не обязательно вводит команду целиком, достаточно ввести  информацию, позволяющую однозначно идентифицировать команду, например вместо того, чтобы набирать metadata cleanup, можно набрать met cle, или m c
@@ -47,53 +53,102 @@ Yes
 Удостоверьтесь, что в зоне не осталось никаких DNS записей, связанных с удаленным контроллером домена
 Вот и все, мы полностью удалили из DNS и Active Directory неисправный контроллер домена и все ресурсы, связанные с ним.
 Источник &#8212; http://winitpro.ru/index.php/2011/04/08/udalyaem-neispravnyj-kontroller-domena-pri-pomoshhi-utility-ntdsutil/
-Related posts:Управление репликацией Active DirectoryНастройка отказоустойчивого файлового сервера на Windows Server 2012 R2Автоматизация создания адресных книг в Office 365 через Powershell Часть 2
- Active Directory, Windows, Windows Server 
- Метки: Active Directory, NTDSUTIL, удаление контроллера домена  
+Related posts:Автоматическая активация пользователей Lync через PowershellЭкспорт почтовых ящиков Exchange 2010 через Powershell и PSTНовые компьютеры не появляются на WSUS сервере
+        
+             Active Directory, Windows, Windows Server 
+             Метки: Active Directory, NTDSUTIL, удаление контроллера домена  
+        
+            
+        
+    
                         
-Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+                    
+                    
+                
+        
+                
+	
+		
+		Добавить комментарий Отменить ответВаш адрес email не будет опубликован. Обязательные поля помечены *Комментарий * Имя 
 Email 
 Сайт 
  
 &#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+	
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto">
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
+			
+        
+        
+		
+        
+           
+    
+    
   
-Все права защищены. IT Traveler 2022 
-                            
+	
+    
+		
+        
+             
+			
+                
+                    
+                                                  Все права защищены. IT Traveler 2025 
+                         
+                        
+																														                    
+                    
+				
+                
+                
+    
+			
+		                            
+	
+	
+                
+                
+			
+                
+		
+        
+	
+    
 jQuery(document).ready(function($){
-$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
 });
-(function (d, w, c) {
-(w[c] = w[c] || []).push(function() {
-try {
-w.yaCounter27780774 = new Ya.Metrika({
-id:27780774,
-clickmap:true,
-trackLinks:true,
-accurateTrackBounce:true,
-webvisor:true,
-trackHash:true
-});
-} catch(e) { }
-});
-var n = d.getElementsByTagName("script")[0],
-s = d.createElement("script"),
-f = function () { n.parentNode.insertBefore(s, n); };
-s.type = "text/javascript";
-s.async = true;
-s.src = "https://mc.yandex.ru/metrika/watch.js";
-if (w.opera == "[object Opera]") {
-d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-58126221-1', 'auto');
-ga('send', 'pageview');
+  
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');

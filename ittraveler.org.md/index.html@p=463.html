@@ -1,93 +1,218 @@
-<!DOCTYPE html>
-<html lang="ru-RU"
-prefix="og: https://ogp.me/ns#" >
+﻿<!DOCTYPE html>
+
+<html dir="ltr" lang="ru-RU" prefix="og: https://ogp.me/ns#">
+
 <head>
+
+   
+
 <meta charset="UTF-8" />
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<link rel="shortcut icon" href="favicon.png"/>
-<link rel="stylesheet" href="http://ittraveler.org/wp-content/themes/diarjo-lite/style.css" media="screen" />
+
+
+
+
+	<link rel="shortcut icon" href="favicon.png"/>
+
+
+
+
+
+
+
+
+ <link rel="stylesheet" href="https://ittraveler.org/wp-content/themes/diarjo-lite/style.css" media="screen" /> 
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+
+
+
 <!--[if IE 8]>
-<script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/html5.js" type="text/javascript"></script>
-<script src="http://ittraveler.org/wp-content/themes/diarjo-lite/scripts/selectivizr-min.js" type="text/javascript"></script>
+
+    <script src="https://ittraveler.org/wp-content/themes/diarjo-lite/scripts/html5.js" type="text/javascript"></script>
+
+    <script src="https://ittraveler.org/wp-content/themes/diarjo-lite/scripts/selectivizr-min.js" type="text/javascript"></script>
+
 <![endif]-->
-<!-- All in One SEO 4.1.6.2 -->
-<title>Установка и настройка Citrix XenServer Часть 1. | IT Traveler</title>
-<meta name="description" content="В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.Перейдем к установке гипервизора. Скачиваем дистрибутив с официального сайта — тут. Посмотреть возможности XenServer можно на этой странице. Начнем. Загружаемся с установочного диска. Выбираем раскладку клавиатуры. Далее XenServer предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера" />
-<meta name="robots" content="max-image-preview:large" />
-<meta name="keywords" content="xenserver,виртуализация" />
-<link rel="canonical" href="ustanovka-i-nastrojka-citrix-xenserver-chast-1/index.html@replytocom=976.html" />
-<meta property="og:locale" content="ru_RU" />
-<meta property="og:site_name" content="IT Traveler | Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом..." />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Установка и настройка Citrix XenServer Часть 1. | IT Traveler" />
-<meta property="og:description" content="В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.Перейдем к установке гипервизора. Скачиваем дистрибутив с официального сайта — тут. Посмотреть возможности XenServer можно на этой странице. Начнем. Загружаемся с установочного диска. Выбираем раскладку клавиатуры. Далее XenServer предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера" />
-<meta property="og:url" content="http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-1/" />
-<meta property="article:published_time" content="2015-05-22T17:13:57+00:00" />
-<meta property="article:modified_time" content="2017-06-08T12:40:18+00:00" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Установка и настройка Citrix XenServer Часть 1. | IT Traveler" />
-<meta name="twitter:description" content="В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.Перейдем к установке гипервизора. Скачиваем дистрибутив с официального сайта — тут. Посмотреть возможности XenServer можно на этой странице. Начнем. Загружаемся с установочного диска. Выбираем раскладку клавиатуры. Далее XenServer предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера" />
-<meta name="google" content="nositelinkssearchbox" />
-<script type="application/ld+json" class="aioseo-schema">
-{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"http:\/\/ittraveler.org\/#website","url":"http:\/\/ittraveler.org\/","name":"IT Traveler","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","inLanguage":"ru-RU","publisher":{"@id":"http:\/\/ittraveler.org\/#organization"}},{"@type":"Organization","@id":"http:\/\/ittraveler.org\/#organization","name":"IT Traveler","url":"http:\/\/ittraveler.org\/"},{"@type":"BreadcrumbList","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/#listItem","position":1,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","url":"http:\/\/ittraveler.org\/"},"nextItem":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#listItem"},{"@type":"ListItem","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#listItem","position":2,"item":{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1.","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0446\u0438\u043a\u043b\u0435 \u0441\u0442\u0430\u0442\u0435\u0439, \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043d\u0430 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0435 XenServer.\u041f\u0435\u0440\u0435\u0439\u0434\u0435\u043c \u043a \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0430. \u0421\u043a\u0430\u0447\u0438\u0432\u0430\u0435\u043c \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u2014 \u0442\u0443\u0442. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 XenServer \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435. \u041d\u0430\u0447\u043d\u0435\u043c. \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c\u0441\u044f \u0441 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0430. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u0443 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u044b. \u0414\u0430\u043b\u0435\u0435 XenServer \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0430\u0435\u0442 \u0447\u0442\u043e \u0432\u0441\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430\u0445 \u0431\u0443\u0434\u0443\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u044b, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430","url":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/"},"previousItem":"http:\/\/ittraveler.org\/#listItem"}]},{"@type":"Person","@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author","url":"http:\/\/ittraveler.org\/author\/mercury131\/","name":"Admin","image":{"@type":"ImageObject","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#authorImage","url":"http:\/\/0.gravatar.com\/avatar\/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}},{"@type":"WebPage","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage","url":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1. | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0446\u0438\u043a\u043b\u0435 \u0441\u0442\u0430\u0442\u0435\u0439, \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043d\u0430 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0435 XenServer.\u041f\u0435\u0440\u0435\u0439\u0434\u0435\u043c \u043a \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0430. \u0421\u043a\u0430\u0447\u0438\u0432\u0430\u0435\u043c \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u2014 \u0442\u0443\u0442. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 XenServer \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435. \u041d\u0430\u0447\u043d\u0435\u043c. \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c\u0441\u044f \u0441 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0430. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u0443 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u044b. \u0414\u0430\u043b\u0435\u0435 XenServer \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0430\u0435\u0442 \u0447\u0442\u043e \u0432\u0441\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430\u0445 \u0431\u0443\u0434\u0443\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u044b, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430","inLanguage":"ru-RU","isPartOf":{"@id":"http:\/\/ittraveler.org\/#website"},"breadcrumb":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#breadcrumblist"},"author":"http:\/\/ittraveler.org\/author\/mercury131\/#author","creator":"http:\/\/ittraveler.org\/author\/mercury131\/#author","datePublished":"2015-05-22T17:13:57+03:00","dateModified":"2017-06-08T12:40:18+03:00"},{"@type":"Article","@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#article","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1. | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0446\u0438\u043a\u043b\u0435 \u0441\u0442\u0430\u0442\u0435\u0439, \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043d\u0430 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0435 XenServer.\u041f\u0435\u0440\u0435\u0439\u0434\u0435\u043c \u043a \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0430. \u0421\u043a\u0430\u0447\u0438\u0432\u0430\u0435\u043c \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u2014 \u0442\u0443\u0442. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 XenServer \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435. \u041d\u0430\u0447\u043d\u0435\u043c. \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c\u0441\u044f \u0441 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0430. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u0443 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u044b. \u0414\u0430\u043b\u0435\u0435 XenServer \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0430\u0435\u0442 \u0447\u0442\u043e \u0432\u0441\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430\u0445 \u0431\u0443\u0434\u0443\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u044b, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430","inLanguage":"ru-RU","headline":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1.","author":{"@id":"http:\/\/ittraveler.org\/author\/mercury131\/#author"},"publisher":{"@id":"http:\/\/ittraveler.org\/#organization"},"datePublished":"2015-05-22T17:13:57+03:00","dateModified":"2017-06-08T12:40:18+03:00","commentCount":3,"articleSection":"\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f, XenServer, \u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f","mainEntityOfPage":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage"},"isPartOf":{"@id":"http:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage"},"image":{"@type":"ImageObject","@id":"http:\/\/ittraveler.org\/#articleImage","url":"http:\/\/i.gyazo.com\/701a607a53add183fcb211b250ce6535.png"}}]}
-</script>
-<!-- All in One SEO -->
-<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel='dns-prefetch' href='http://s.w.org/' />
+
+
+
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO 4.7.8 - aioseo.com -->
+		<title>Установка и настройка Citrix XenServer Часть 1. | IT Traveler</title>
+	<meta name="description" content="В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.Перейдем к установке гипервизора. Скачиваем дистрибутив с официального сайта - тут. Посмотреть возможности XenServer можно на этой странице. Начнем. Загружаемся с установочного диска. Выбираем раскладку клавиатуры. Далее XenServer предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера" />
+	<meta name="robots" content="max-image-preview:large" />
+	<meta name="author" content="Admin"/>
+	<meta name="keywords" content="xenserver,виртуализация" />
+	<link rel="canonical" href="index.html@p=463.html" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.7.8" />
+		<meta property="og:locale" content="ru_RU" />
+		<meta property="og:site_name" content="IT Traveler | Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом..." />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Установка и настройка Citrix XenServer Часть 1. | IT Traveler" />
+		<meta property="og:description" content="В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.Перейдем к установке гипервизора. Скачиваем дистрибутив с официального сайта - тут. Посмотреть возможности XenServer можно на этой странице. Начнем. Загружаемся с установочного диска. Выбираем раскладку клавиатуры. Далее XenServer предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера" />
+		<meta property="og:url" content="https://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-1/" />
+		<meta property="article:published_time" content="2015-05-22T17:13:57+00:00" />
+		<meta property="article:modified_time" content="2017-06-08T12:40:18+00:00" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Установка и настройка Citrix XenServer Часть 1. | IT Traveler" />
+		<meta name="twitter:description" content="В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.Перейдем к установке гипервизора. Скачиваем дистрибутив с официального сайта - тут. Посмотреть возможности XenServer можно на этой странице. Начнем. Загружаемся с установочного диска. Выбираем раскладку клавиатуры. Далее XenServer предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера" />
+		<meta name="google" content="nositelinkssearchbox" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#article","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1. | IT Traveler","headline":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1.","author":{"@id":"https:\/\/ittraveler.org\/author\/mercury131\/#author"},"publisher":{"@id":"https:\/\/ittraveler.org\/#organization"},"image":{"@type":"ImageObject","url":"http:\/\/i.gyazo.com\/701a607a53add183fcb211b250ce6535.png","@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#articleImage"},"datePublished":"2015-05-22T20:13:57+03:00","dateModified":"2017-06-08T15:40:18+03:00","inLanguage":"ru-RU","commentCount":3,"mainEntityOfPage":{"@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage"},"isPartOf":{"@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage"},"articleSection":"\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f, XenServer, \u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f"},{"@type":"BreadcrumbList","@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/ittraveler.org\/#listItem","position":1,"name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430","item":"https:\/\/ittraveler.org\/","nextItem":{"@type":"ListItem","@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#listItem","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1."}},{"@type":"ListItem","@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#listItem","position":2,"name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1.","previousItem":{"@type":"ListItem","@id":"https:\/\/ittraveler.org\/#listItem","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430"}}]},{"@type":"Organization","@id":"https:\/\/ittraveler.org\/#organization","name":"IT Traveler","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","url":"https:\/\/ittraveler.org\/"},{"@type":"Person","@id":"https:\/\/ittraveler.org\/author\/mercury131\/#author","url":"https:\/\/ittraveler.org\/author\/mercury131\/","name":"Admin","image":{"@type":"ImageObject","@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#authorImage","url":"https:\/\/secure.gravatar.com\/avatar\/6f127973770f16313582605de016c606?s=96&d=mm&r=g","width":96,"height":96,"caption":"Admin"}},{"@type":"WebPage","@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#webpage","url":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/","name":"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 Citrix XenServer \u0427\u0430\u0441\u0442\u044c 1. | IT Traveler","description":"\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0446\u0438\u043a\u043b\u0435 \u0441\u0442\u0430\u0442\u0435\u0439, \u043c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u044b \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043d\u0430 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0435 XenServer.\u041f\u0435\u0440\u0435\u0439\u0434\u0435\u043c \u043a \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435 \u0433\u0438\u043f\u0435\u0440\u0432\u0438\u0437\u043e\u0440\u0430. \u0421\u043a\u0430\u0447\u0438\u0432\u0430\u0435\u043c \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 - \u0442\u0443\u0442. \u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 XenServer \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435. \u041d\u0430\u0447\u043d\u0435\u043c. \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c\u0441\u044f \u0441 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0430. \u0412\u044b\u0431\u0438\u0440\u0430\u0435\u043c \u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u0443 \u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u044b. \u0414\u0430\u043b\u0435\u0435 XenServer \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0430\u0435\u0442 \u0447\u0442\u043e \u0432\u0441\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0430\u0445 \u0431\u0443\u0434\u0443\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u044b, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0440\u0430\u0439\u0432\u0435\u0440\u0430","inLanguage":"ru-RU","isPartOf":{"@id":"https:\/\/ittraveler.org\/#website"},"breadcrumb":{"@id":"https:\/\/ittraveler.org\/ustanovka-i-nastrojka-citrix-xenserver-chast-1\/#breadcrumblist"},"author":{"@id":"https:\/\/ittraveler.org\/author\/mercury131\/#author"},"creator":{"@id":"https:\/\/ittraveler.org\/author\/mercury131\/#author"},"datePublished":"2015-05-22T20:13:57+03:00","dateModified":"2017-06-08T15:40:18+03:00"},{"@type":"WebSite","@id":"https:\/\/ittraveler.org\/#website","url":"https:\/\/ittraveler.org\/","name":"IT Traveler","description":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430 \u043e Powershell, Exchange, Windows, Linux, \u0438 \u043c\u043d\u043e\u0433\u043e\u043c \u0434\u0440\u0443\u0433\u043e\u043c...","inLanguage":"ru-RU","publisher":{"@id":"https:\/\/ittraveler.org\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента" href="feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев" href="comments/feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="IT Traveler &raquo; Лента комментариев к &laquo;Установка и настройка Citrix XenServer Часть 1.&raquo;" href="ustanovka-i-nastrojka-citrix-xenserver-chast-1/feed/index.html" />
 <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
-!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-</script>
-<style type="text/css">
-img.wp-smiley,
-img.emoji {
-display: inline !important;
-border: none !important;
-box-shadow: none !important;
-height: 1em !important;
-width: 1em !important;
-margin: 0 .07em !important;
-vertical-align: -0.1em !important;
-background: none !important;
-padding: 0 !important;
-}
-</style>
-<!-- <link rel='stylesheet' id='crayon-css'  href='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://ittraveler.org/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='easy-wp-page-nav-css'  href='http://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='template-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=5.8.3' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='prettyPhoto-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=5.8.3' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='font-awesome.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=5.8.3' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='bootstrap.theme.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=5.8.3' type='text/css' media='all' /> -->
-<!-- <link rel='stylesheet' id='bootstrap.min-css'  href='http://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=5.8.3' type='text/css' media='all' /> -->
-<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/lk8flrzc/5xnfo.css" media="all"/>
-<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=5.8.3' type='text/css' media='all' />
-<!-- <link rel='stylesheet' id='rpt_front_style-css'  href='http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/assets/css/front.css?ver=1.9.0' type='text/css' media='all' /> -->
-<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/q4ywfzv/5xb28.css" media="all"/>
-<!-- <link rel='stylesheet' id='lightboxStyle-css'  href='http://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' /> -->
-<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/fpb25mbt/5xb28.css" media="screen"/>
-<script src='wp-content/cache/wpfc-minified/qhz4e91/5xb28.js' type="text/javascript"></script>
-<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script> -->
-<!-- <script type='text/javascript' src='http://ittraveler.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> -->
-<script type='text/javascript' id='crayon_js-js-extra'>
 /* <![CDATA[ */
-var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/ittraveler.org\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
-var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ittraveler.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 /* ]]> */
 </script>
-<script src='wp-content/cache/wpfc-minified/dsx2h32j/5xb28.js' type="text/javascript"></script>
-<!-- <script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta' id='crayon_js-js'></script> -->
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/posts/463" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php@rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.8.3" />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<!-- <link rel='stylesheet' id='wp-block-library-css' href='https://ittraveler.org/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/knzz28ed/hg50z.css" media="all"/>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<!-- <link rel='stylesheet' id='easy-wp-page-nav-css' href='https://ittraveler.org/wp-content/plugins/easy-wp-page-navigation//css/easy-wp-pagenavigation.css?ver=1.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='rpt_front_style-css' href='https://ittraveler.org/wp-content/plugins/related-posts-thumbnails/assets/css/front.css?ver=4.2.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='template-css' href='https://ittraveler.org/wp-content/themes/diarjo-lite/css/template.css?ver=6.7.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='prettyPhoto-css' href='https://ittraveler.org/wp-content/themes/diarjo-lite/css/prettyPhoto.css?ver=6.7.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.theme.min-css' href='https://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.theme.min.css?ver=6.7.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome.min-css' href='https://ittraveler.org/wp-content/themes/diarjo-lite/css/font-awesome.min.css?ver=6.7.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='bootstrap.min-css' href='https://ittraveler.org/wp-content/themes/diarjo-lite/css/bootstrap.min.css?ver=6.7.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/qka8ph1y/hg50z.css" media="all"/>
+<link rel='stylesheet' id='google-fonts-css' href='https://fonts.googleapis.com/css?family=Delius+Swash+Caps%7CFjalla+One%7CRoboto+Slab%3A400%2C300%2C100%2C700&amp;ver=6.7.1' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='taxopress-frontend-css-css' href='https://ittraveler.org/wp-content/plugins/simple-tags/assets/frontend/css/frontend.css?ver=3.30.0' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/qvgept42/hg50z.css" media="all"/>
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<!-- <link rel='stylesheet' id='lightboxStyle-css' href='https://ittraveler.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="wp-content/cache/wpfc-minified/78561lwp/hg50z.css" media="screen"/>
+<script src='wp-content/cache/wpfc-minified/f1szuo2o/hg50z.js' type="text/javascript"></script>
+<!-- <script type="text/javascript" src="https://ittraveler.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script> -->
+<!-- <script type="text/javascript" src="https://ittraveler.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script> -->
+<!-- <script type="text/javascript" src="https://ittraveler.org/wp-content/plugins/simple-tags/assets/frontend/js/frontend.js?ver=3.30.0" id="taxopress-frontend-js-js"></script> -->
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/posts/463" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php@rsd" />
+<meta name="generator" content="WordPress 6.7.1" />
 <link rel='shortlink' href='index.html@p=463.html' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-citrix-xenserver-chast-1%252F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-citrix-xenserver-chast-1%252F&amp;format=xml" />
-<style type="text/css">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed@url=https%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-citrix-xenserver-chast-1%252F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed@url=https%253A%252F%252Fittraveler.org%252Fustanovka-i-nastrojka-citrix-xenserver-chast-1%252F&amp;format=xml" />
+        <style>
+            #related_posts_thumbnails li {
+                border-right: 1px solid #dddddd;
+                background-color: #ffffff            }
+
+            #related_posts_thumbnails li:hover {
+                background-color: #eeeeee;
+            }
+
+            .relpost_content {
+                font-size: 12px;
+                color: #333333;
+            }
+
+            .relpost-block-single {
+                background-color: #ffffff;
+                border-right: 1px solid #dddddd;
+                border-left: 1px solid #dddddd;
+                margin-right: -1px;
+            }
+
+            .relpost-block-single:hover {
+                background-color: #eeeeee;
+            }
+        </style>
+
+        <style type="text/css">
 .sfs-subscriber-count { width: 88px; overflow: hidden; height: 26px; color: #424242; font: 9px Verdana, Geneva, sans-serif; letter-spacing: 1px; }
 .sfs-count { width: 86px; height: 17px; line-height: 17px; margin: 0 auto; background: #ccc; border: 1px solid #909090; border-top-color: #fff; border-left-color: #fff; }
 .sfs-count span { display: inline-block; height: 11px; line-height: 12px; margin: 2px 1px 2px 2px; padding: 0 2px 0 3px; background: #e4e4e4; border: 1px solid #a2a2a2; border-bottom-color: #fff; border-right-color: #fff; }
@@ -95,208 +220,263 @@ var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Cl
 </style>
 <style type="text/css">#header, #footer, #sidebar .post-article, #back-to-top i, nav#mainmenu ul ul, #wp-calendar { background-color: #2D3032; } #sidebar h3.title, #sidebar a, #sidebar p, #sidebar li, #sidebar address,
 #sidebar dd, #sidebar blockquote, #sidebar td, #sidebar th, #sidebar label, #sidebar .textwidget, #footer h3.title, #footer a, #footer p, #footer li, #footer address,
-#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style>			<style>
-#related_posts_thumbnails li{
-border-right: 1px solid #dddddd;
-background-color: #ffffff			}
-#related_posts_thumbnails li:hover{
-background-color: #eeeeee;
-}
-.relpost_content{
-font-size:	12px;
-color: 		#333333;
-}
-.relpost-block-single{
-background-color: #ffffff;
-border-right: 1px solid  #dddddd;
-border-left: 1px solid  #dddddd;
-margin-right: -1px;
-}
-.relpost-block-single:hover{
-background-color: #eeeeee;
-}
-</style>
-<style type="text/css" id="custom-background-css">
+#footer dd, #footer blockquote, #footer td, #footer th, #footer label, #footer .textwidget, nav#mainmenu ul li a, #back-to-top i, #wp-calendar caption, #wp-calendar td a, #footer h4.title, #logo a, nav#widgetmenu li a { color: #ffffff; } nav#mainmenu ul ul li:last-of-type a, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit], #sidebar li, #footer li, #footer .widgets, ul.widget-category, ul.widget-category li a, ul.contact-info li, .bottom_widget ul.contact-info li, .tagcloud a, .socials a, #back-to-top i, nav#mainmenu ul li a, #sidebar ul.children, #sidebar ul.sub-menu, #wp-calendar th, #wp-calendar td, nav#widgetmenu ul, nav#widgetmenu li a, nav#widgetmenu li:last-of-type a, nav#widgetmenu li:last-of-type a:hover, #sidebar li, #footer li, #sidebar ul.children, #sidebar ul.children, #footer ul.sub-menu, #sidebar ul.sub-menu { border-color: #444649; } ::-moz-selection { background-color: #eb984e; } ::selection { background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit]{ background-color: #eb984e; } .skills .views, .filter, #searchform input[type=submit], .contact-form input[type=submit], #commentform input[type=submit] { border-color: #eb984e; } #subheader, nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a, nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, .post-article .link a:hover, .post-article .quote:hover, .filter li:hover, .filter li.active, ul.widget-category li a:hover, #wp-calendar #today, #wp-calendar #today a, .tagcloud a:hover, .tabs li a:hover, .tabs li.ui-tabs-active a, .tabs li.ui-state-active a, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .socials a:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .wip-pagination span, .wip-pagination span:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, .skills .views.active, .skills .views:hover, .theme-default .nivo-directionNav a:hover, .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { background-color: #e67e22; } a.more:hover, a:hover, #footer a:hover, #sidebar a:hover, .post-article .title a:hover, .post-info a:hover, .filterable-grid  h4.title a:hover, .filterable-grid  h4.title a:focus, #logo a:hover, #footer a:hover { color: #e67e22; } nav#mainmenu ul li a:hover,nav#mainmenu li:hover > a,nav#mainmenu ul li.current-menu-item > a, nav#mainmenu ul li.current_page_item > a, nav#mainmenu ul li.current-menu-parent > a, nav#mainmenu ul li.current_page_ancestor > a, nav#mainmenu ul li.current-menu-ancestor > a, nav#mainmenu ul ul li:last-of-type a:hover, nav#mainmenu ul ul li:last-of-type:hover > a, nav#mainmenu ul ul li.current-menu-item > a, nav#mainmenu ul ul li.current_page_item > a, nav#mainmenu ul ul li.current-menu-parent > a, nav#mainmenu ul ul li.current_page_ancestor > a, nav#mainmenu ul ul li.current-menu-ancestor > a, #back-to-top i.open, #back-to-top i:hover, ul.widget-category li a:hover, .tagcloud a:hover, .toggle_container h5.element:hover, .toggle_container h5.inactive, .toggle_container h5.inactive:hover, .toggle_container h5.element:hover:last-of-type, .toggle_container h5.inactive:last-of-type, .toggle_container h5.inactive:hover:last-of-type, .socials a:hover, #searchform input[type=submit]:hover, .contact-form input[type=submit]:hover, #commentform input[type=submit]:hover, nav#widgetmenu li a:hover, nav#widgetmenu li:hover > a , nav#widgetmenu li.current-menu-item > a, nav#widgetmenu li.current-menu-ancestor > a { border-color: #e67e22; } </style><style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #cecece; }
 </style>
+	
+
+
 </head>
+
+
+
 <body class="post-template-default single single-post postid-463 single-format-standard custom-background custombody" >
+
+
+
 <header id="header">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-<div id="logo">
-<a href="index.html" title="IT Traveler">
-IT Traveler
-</a>
-</div>
+
+
+
+    <div class="container">
+
+    
+
+        <div class="row">
+
+        
+
+        	<div class="col-md-12">
+
+            
+
+            	<div id="logo">
+
+                
+
+                    <a href="index.html" title="IT Traveler">
+
+                            
+
+                        IT Traveler
+                                
+
+                    </a>
+
+                
+
+                </div>
+
+				
 <p></p>
 Заметки одного системного администратора
-<nav id="mainmenu" >
-<ul id="menu-menyu" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.ittraveler.org">Главная</a></li>
-<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="category/windows/index.html">Windows</a></li>
-<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="category/linux/index.html">Linux</a></li>
-<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="category/webcloud/index.html">Web/Cloud</a></li>
-<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="category/virtualizaciya/index.html">Виртуализация</a></li>
-<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="category/seti/index.html">Сети</a></li>
+                <nav id="mainmenu" >
+
+               
+
+                	<ul id="menu-menyu" class="menu"><li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.ittraveler.org">Главная</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://ittraveler.org/category/windows/">Windows</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="http://ittraveler.org/category/linux/">Linux</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="http://ittraveler.org/category/webcloud/">Web/Cloud</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://ittraveler.org/category/virtualizaciya/">Виртуализация</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="http://ittraveler.org/category/seti/">Сети</a></li>
 <li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="index.html@p=776.html">Поддержать автора</a></li>
 </ul>
-</nav> 
-<div class="clear"></div>
-</div>
-</div>
-</div>
+                
+
+                </nav> 
+
+				
+
+                <div class="clear"></div>
+
+            
+
+            </div>
+
+            
+
+        </div>
+
+        
+
+    </div>
+
+    
+
 </header>
+
 <div class="container">
-<div class="row">
-<div class="col-md-12 full">
-<div class="row">
-<article class="post-463 post type-post status-publish format-standard hentry category-virtualizaciya tag-xenserver tag-virtualizaciya post-container col-md-12" >
-<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+	
+    <div class="row">
+   
+        <div class="col-md-12 full">
+            <div class="row">
+
+
+                <article class="post-463 post type-post status-publish format-standard hentry category-virtualizaciya tag-xenserver tag-virtualizaciya post-container col-md-12" >
+
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto"></ins>
-<script>
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins>
+    <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>                
-<div class="post-article post-title">	
-<h1 class="title icon-title"> 
-Установка и настройка Citrix XenServer Часть 1.                	<span><i class="fa fa-pencil-square-o"></i></span>
-</h1>
-</div>
+
+                    			
+            <div class="post-article post-title">	
+                <h1 class="title icon-title"> 
+                	Установка и настройка Citrix XenServer Часть 1.                	<span><i class="fa fa-pencil-square-o"></i></span>
+                </h1>
+			</div>
+            
+		
+
+    
 <div class="post-article">
-<div class="line"> <span> Дата: 22.05.2015 Автор Admin </span> </div>
-<p>В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.<span id="more-463"></span>Перейдем к установке гипервизора.</p>
+
+
+
+	
+
+
+    	<div class="line"> <span> Дата: 22.05.2015 Автор Admin </span> </div>
+
+
+
+	<p>В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.<span id="more-463"></span>Перейдем к установке гипервизора.</p>
 <p>Скачиваем дистрибутив с официального сайта &#8212; <a href="http://xenserver.org/open-source-virtualization-download.html" target="_blank" rel="noopener noreferrer">тут</a>.</p>
-<p>Посмотреть возможности <a href="tag/xenserver/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with XenServer">XenServer</a> можно на <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/open-source-virtualization-features.html" target="_blank" rel="noopener noreferrer">этой</a> странице.</p>
+<p>Посмотреть возможности XenServer можно на <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/open-source-virtualization-features.html" target="_blank" rel="noopener noreferrer">этой</a> странице.</p>
 <p>Начнем. Загружаемся с установочного диска.</p>
 <p>Выбираем раскладку клавиатуры.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/701a607a53add183fcb211b250ce6535.png" alt="" width="714" height="400" /></p>
-<p>Далее <a href="tag/xenserver/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with XenServer">XenServer</a> предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера нажав F9 если это необходимо.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d59936c08e5753a0e1c12e2e5e9b9ad5.png" alt="" width="713" height="399" /></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone" src="http://i.gyazo.com/701a607a53add183fcb211b250ce6535.png" alt="" width="714" height="400" /></p>
+<p>Далее XenServer предупреждает что все данные на дисках будут уничтожены, также возможно установить специальные драйвера нажав F9 если это необходимо.</p>
+<p><img decoding="async" class="alignnone" src="http://i.gyazo.com/d59936c08e5753a0e1c12e2e5e9b9ad5.png" alt="" width="713" height="399" /></p>
 <p>Принимаем соглашение.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/04c319d3ed9954a6a27c709f1d97b85a.png" alt="" width="712" height="395" /></p>
+<p><img decoding="async" class="alignnone" src="http://i.gyazo.com/04c319d3ed9954a6a27c709f1d97b85a.png" alt="" width="712" height="395" /></p>
 <p>Далее выбираем диск на котором будет располагаться хранилище виртуальных машин. Если необходимо хранилище которое будет расширяться динамически, выбираем Thin provisioning.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/af4e3493ff602e58c793cb4c0e67329a.png" alt="" width="716" height="396" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/af4e3493ff602e58c793cb4c0e67329a.png" alt="" width="716" height="396" /></p>
 <p>Далее выбираем путь файлов установки. В нашем случае это локальное хранилище.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8dd003c72b5ee8b082b9a4d98706a460.png" alt="" width="711" height="400" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/8dd003c72b5ee8b082b9a4d98706a460.png" alt="" width="711" height="400" /></p>
 <p>Если у вас отсутствует Supplemental Pack (дополнительные компоненты XenServer) нажимаем No.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/d7564dfe3987fc67a9b87cf2c6394104.png" alt="" width="710" height="397" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/d7564dfe3987fc67a9b87cf2c6394104.png" alt="" width="710" height="397" /></p>
 <p>Пропускаем проверку установочного диска, т.к. мы уверены что он на 100% рабочий =)</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/c8bfde28c6f03e31717b60282f17a800.png" alt="" width="715" height="401" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/c8bfde28c6f03e31717b60282f17a800.png" alt="" width="715" height="401" /></p>
 <p>Вводим пароль root.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/942a4ffb4a0905b576722e564a5b97e5.png" alt="" width="709" height="398" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/942a4ffb4a0905b576722e564a5b97e5.png" alt="" width="709" height="398" /></p>
 <p>Указываем сетевой интерфейс для управления сервером.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7b7425c482518d6ea110d92e8c0fd18e.png" alt="" width="714" height="399" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/7b7425c482518d6ea110d92e8c0fd18e.png" alt="" width="714" height="399" /></p>
 <p>Указываем сетевые настройки для управляющего интерфейса.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/916751701e7e0b8c7cc6c83804614e01.png" alt="" width="713" height="399" /></p>
-<p>Указываем Hostname и <a href="tag/dns/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with DNS">DNS</a> сервера.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/215ea8c49f5f239ee48dcbb3e6d6cbb2.png" alt="" width="715" height="397" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/916751701e7e0b8c7cc6c83804614e01.png" alt="" width="713" height="399" /></p>
+<p>Указываем Hostname и DNS сервера.</p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/215ea8c49f5f239ee48dcbb3e6d6cbb2.png" alt="" width="715" height="397" /></p>
 <p>Указываем временную зону.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/5a351a5e65e7c664041756344068e6d5.png" alt="" width="718" height="399" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/5a351a5e65e7c664041756344068e6d5.png" alt="" width="718" height="399" /></p>
 <p>Далее для синхронизации времени выбираем NTP.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/18628dd05e05f1bf4ea2fb6e1b25ab73.png" alt="" width="716" height="399" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/18628dd05e05f1bf4ea2fb6e1b25ab73.png" alt="" width="716" height="399" /></p>
 <p>Указываем адреса NTP серверов.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/fbfcb76ab8e9feafa69a8bfba99476f9.png" alt="" width="715" height="397" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/fbfcb76ab8e9feafa69a8bfba99476f9.png" alt="" width="715" height="397" /></p>
 <p>Подтверждаем установку XenServer.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4fe541d096da69e01938aee56739328e.png" alt="" width="714" height="403" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/4fe541d096da69e01938aee56739328e.png" alt="" width="714" height="403" /></p>
 <p>Ожидаем окончания установки.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/aed9982fdb0b6db4d1d660ab075ef870.png" alt="" width="720" height="403" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/aed9982fdb0b6db4d1d660ab075ef870.png" alt="" width="720" height="403" /></p>
 <p>После окончания установки перезагружаемся.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/aaff0f4321ee5d01159a41d500d96a6b.png" alt="" width="710" height="397" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/aaff0f4321ee5d01159a41d500d96a6b.png" alt="" width="710" height="397" /></p>
 <p>После загрузки сервера  устанавливаем Citrix XenCenter.  Актуальную версию можно найти <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/download.html" target="_blank" rel="noopener noreferrer">тут</a> (Windows Management Console).</p>
-<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
 <!-- Home ittraveler --><br />
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto"></ins><br />
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins><br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
 <p>Запускаем XenCenter, выбираем Add New Server.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/659c2b4a2dac96279abc04ee2f232bb1.png" alt="" width="398" height="150" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/659c2b4a2dac96279abc04ee2f232bb1.png" alt="" width="398" height="150" /></p>
 <p>Вводим ip адрес установленного сервера и логин с паролем.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/470cce033d3fa3ed2a10e6c93b9060f5.png" alt="" width="421" height="252" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/470cce033d3fa3ed2a10e6c93b9060f5.png" alt="" width="421" height="252" /></p>
 <p>После этого в консоли появится наш XenServer.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0d8684567029ba75f44e8117f8e7208c.png" alt="" width="214" height="136" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/0d8684567029ba75f44e8117f8e7208c.png" alt="" width="214" height="136" /></p>
 <p>Перейдем к установке SP1.</p>
 <p>Скачивам и распаковываем SP1. Скачать можно <a href="http://xenserver.org/overview-xenserver-open-source-virtualization/download.html" target="_blank" rel="noopener noreferrer">отсюда</a>.</p>
 <p>В меню XenCenter выбираем Tools &#8212; Install Update.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/1a389ab9c86c380b6a407f98da4368ba.png" alt="" width="177" height="136" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/1a389ab9c86c380b6a407f98da4368ba.png" alt="" width="177" height="136" /></p>
 <p>Выбираем SP1.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ef11f57c9b41e8fbc73f22efd7d104f.png" alt="" width="806" height="507" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/4ef11f57c9b41e8fbc73f22efd7d104f.png" alt="" width="806" height="507" /></p>
 <p>Выбираем Xen хост.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8bd0a62a66f9eb6b7171c9c03fdf34b2.png" alt="" width="815" height="517" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/8bd0a62a66f9eb6b7171c9c03fdf34b2.png" alt="" width="815" height="517" /></p>
 <p>Следующим шагом загружаем обновление на сервер. Заметьте, иконка сервера изменилась.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e795bfa765f474156872ebefb221bdcf.png" alt="" width="816" height="539" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/e795bfa765f474156872ebefb221bdcf.png" alt="" width="816" height="539" /></p>
 <p>Проходим проверку, и нажимаем Next.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/216e9ab994f9179e7ff2853fdd53238f.png" alt="" width="811" height="509" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/216e9ab994f9179e7ff2853fdd53238f.png" alt="" width="811" height="509" /></p>
 <p>Далее предоставим XenCenter возможность самому запустить процесс установки обновления. Нажимаем Install Update.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/26454cd67feba7d323ae584248d464f7.png" alt="" width="805" height="510" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/26454cd67feba7d323ae584248d464f7.png" alt="" width="805" height="510" /></p>
 <p>Ждем окончания установки.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/8004f12fd18cba7d6a1174f721c631fe.png" alt="" width="811" height="506" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/8004f12fd18cba7d6a1174f721c631fe.png" alt="" width="811" height="506" /></p>
 <p>Во время установки хост Xen будет перезагружен. После перезагрузки XenCenter запустит скрипты обновления и завершит установку.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/48bff77a06d06385a6966569b3b99b8a.png" alt="" width="812" height="512" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/48bff77a06d06385a6966569b3b99b8a.png" alt="" width="812" height="512" /></p>
 <p>На этом установка SP1 завершена. Можете обратить внимание что после установки SP1 , появляется поддержка windows 10.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/990017d52a01bce8c3a7c845841d9c1b.png" alt="" width="655" height="453" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/990017d52a01bce8c3a7c845841d9c1b.png" alt="" width="655" height="453" /></p>
 <p>Перейдем к настройкам сети. Открываем хост Xen и открываем раздел networking.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/cbf5ccc57cb2a54076f317226882dda5.png" alt="" width="449" height="150" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/cbf5ccc57cb2a54076f317226882dda5.png" alt="" width="449" height="150" /></p>
 <p>Нажимаем add network.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/38aaa8c1776f814bad3b6575e061571a.png" alt="" width="490" height="433" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/38aaa8c1776f814bad3b6575e061571a.png" alt="" width="490" height="433" /></p>
 <p>Далее мы создадим агрегированный сетевой адаптер, состоящий из 2-х физических.</p>
 <p>Выбираем Bonded network.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7c1988b5dd7902ef290f58aa10a0f9ee.png" alt="" width="676" height="390" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/7c1988b5dd7902ef290f58aa10a0f9ee.png" alt="" width="676" height="390" /></p>
 <p>Выбираем сетевые адаптеры и тип агрегации.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/9166a554108c58c3a1fd79a0fd9297bf.png" alt="" width="802" height="397" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/9166a554108c58c3a1fd79a0fd9297bf.png" alt="" width="802" height="397" /></p>
 <p>Если у вас всего 2 физических сетевых адаптера, XenCenter предупредит вас о том что интерфейс управления переместиться в агрегированный интерфейс.</p>
 <p>Создаем Bond.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f20206af131200593edb75393130ca4d.png" alt="" width="479" height="225" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/f20206af131200593edb75393130ca4d.png" alt="" width="479" height="225" /></p>
 <p>Интерфейс создан.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/f0536a47f517352419818d81d19e6502.png" alt="" width="180" height="109" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/f0536a47f517352419818d81d19e6502.png" alt="" width="180" height="109" /></p>
 <p>Теперь создадим сеть для виртуальных машин, сеть будет с определенным VLAN.</p>
 <p>Нажимаем Add network.</p>
 <p>Выбираем External Network.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/dab8f97f59ca74e31625c24173e8edbb.png" alt="" width="677" height="365" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/dab8f97f59ca74e31625c24173e8edbb.png" alt="" width="677" height="365" /></p>
 <p>Задаем имя сети.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0921209deaa6d31710fe42d22fdbe9b3.png" alt="" width="795" height="288" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/0921209deaa6d31710fe42d22fdbe9b3.png" alt="" width="795" height="288" /></p>
 <p>Указываем агрегированный интерфейс и VLAN. Также можно добавлять эту сеть автоматически для новых виртуальных машин.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0da754405f4b55494fdbd7dbd02d203c.png" alt="" width="799" height="323" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/0da754405f4b55494fdbd7dbd02d203c.png" alt="" width="799" height="323" /></p>
 <p>Теперь у нас есть сети для управления и виртуальных машин.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/040ab434f35e0b84d1584e22b95baf60.png" alt="" width="244" height="159" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/040ab434f35e0b84d1584e22b95baf60.png" alt="" width="244" height="159" /></p>
 <p>Теперь перейдем к созданию виртуальной машины.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/393a9ea5a783afddb4a9202373ebb6fc.png" alt="" width="251" height="262" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/393a9ea5a783afddb4a9202373ebb6fc.png" alt="" width="251" height="262" /></p>
 <p>Выбираем ОС.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/52049cfc11bc952909e69843e2d4076b.png" alt="" width="811" height="511" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/52049cfc11bc952909e69843e2d4076b.png" alt="" width="811" height="511" /></p>
 <p>Вводим имя.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0858c35dfae1673d79717c3e5a00f482.png" alt="" width="806" height="514" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/0858c35dfae1673d79717c3e5a00f482.png" alt="" width="806" height="514" /></p>
 <p>Выбираем установку с DVD привода хоста.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/eab4f743bc5609dc7e3ee1ce4fb71835.png" alt="" width="807" height="464" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/eab4f743bc5609dc7e3ee1ce4fb71835.png" alt="" width="807" height="464" /></p>
 <p>Выбираем хост Xen.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0e6087d4fd3fddd96479d0a42000fc80.png" alt="" width="806" height="387" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/0e6087d4fd3fddd96479d0a42000fc80.png" alt="" width="806" height="387" /></p>
 <p>Указываем ресурсы для VM.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/11c7dfb881b4009d5834d8dce8a40d2b.png" alt="" width="806" height="375" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/11c7dfb881b4009d5834d8dce8a40d2b.png" alt="" width="806" height="375" /></p>
 <p>Указываем хранилище.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/88afc0a8cc634621121b50983287eca1.png" alt="" width="806" height="456" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/88afc0a8cc634621121b50983287eca1.png" alt="" width="806" height="456" /></p>
 <p>Выбираем сеть.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/55f17af02b0c9da43097857f20d1efdb.png" alt="" width="808" height="410" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/55f17af02b0c9da43097857f20d1efdb.png" alt="" width="808" height="410" /></p>
 <p>Также при выборе сети, можно указать пропускную способность виртуальной машины.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6fa678e4564aee227dcd882deb614bd1.png" alt="" width="379" height="360" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/6fa678e4564aee227dcd882deb614bd1.png" alt="" width="379" height="360" /></p>
 <p>Проверяем введенные данные и создаем виртуальную машину.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/b271ef53593afbce534f7c886ed56875.png" alt="" width="804" height="511" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/b271ef53593afbce534f7c886ed56875.png" alt="" width="804" height="511" /></p>
 <p>Для управления VM перейдите в раздел Console.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/e52954b520bd64f9497e4402f612208e.png" alt="" width="1233" height="672" /></p>
-<p><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/e52954b520bd64f9497e4402f612208e.png" alt="" width="1233" height="672" /></p>
+<p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
 <!-- Home ittraveler --><br />
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto"></ins><br />
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins><br />
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
@@ -306,198 +486,310 @@ data-ad-format="auto"></ins><br />
 <p>Установка Windows проходит в обычном режиме, там Xen не меняет параметры загрузки.</p>
 <p>После установки VM установите Xen tools. Дистрибутивы linux, например Ubuntu, устанавливают xen tools на этапе установки ОС.</p>
 <p>В Windows нужно установить xen tools вручную. Сделать это можно подключив CD образ Xen tools в консоли Xen.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/4ecd118f54fa4f187882d95dd18d16dc.png" alt="" width="481" height="141" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/4ecd118f54fa4f187882d95dd18d16dc.png" alt="" width="481" height="141" /></p>
 <p>Добавим второй хост XEN.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/106a6e5a040eadc9fd8a7b91b757d66d.png" alt="" width="194" height="115" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/106a6e5a040eadc9fd8a7b91b757d66d.png" alt="" width="194" height="115" /></p>
 <p>Добавляем второй хост по аналогии.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/64a150358b9d8ba62ccde47ab65255a6.png" alt="" width="420" height="253" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/64a150358b9d8ba62ccde47ab65255a6.png" alt="" width="420" height="253" /></p>
 <p>Теперь у нас 2 хоста XenServer.</p>
 <p>&nbsp;</p>
 <p>Установите SP1 по аналогии.</p>
 <p>В последней версии Xen хосты находят обновления автоматически через XenCenter, и загружают обновления с ближайших хостов Xen.</p>
 <p>Продублируйте настройки сети на втором хосте.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/7d860f05674ae6e19cf1960d0aa75dcf.png" alt="" width="548" height="231" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/7d860f05674ae6e19cf1960d0aa75dcf.png" alt="" width="548" height="231" /></p>
 <p>Рассмотрим живую миграцию с хоста на хост.</p>
-<p><a href="tag/xenserver/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with XenServer">XenServer</a> поддерживает живую миграцию без общих хранилищ.</p>
+<p>XenServer поддерживает живую миграцию без общих хранилищ.</p>
 <p>Запускаем мастер миграции.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/338efa7fb44d0169cee6f010e3f3ca93.png" alt="" width="531" height="258" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/338efa7fb44d0169cee6f010e3f3ca93.png" alt="" width="531" height="258" /></p>
 <p>Выбираем какую виртуальную машину мы будем мигрировать на какой хост.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/26e743a1142ea0f6c37fd5baf3a3991d.png" alt="" width="720" height="360" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/26e743a1142ea0f6c37fd5baf3a3991d.png" alt="" width="720" height="360" /></p>
 <p>Далее будет выбрано локальное хранилище второго хоста Xen.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/33496f1420f09dac78f17d532ee36939.png" alt="" width="801" height="375" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/33496f1420f09dac78f17d532ee36939.png" alt="" width="801" height="375" /></p>
 <p>Далее выбираем сеть, куда VM будет мигрировать.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/6620b551160cbded91d875b030f1c233.png" alt="" width="801" height="295" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/6620b551160cbded91d875b030f1c233.png" alt="" width="801" height="295" /></p>
 <p>Далее выбираем Storage Network.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/40937ce05cb541e48874b1775db9d1c8.png" alt="" width="602" height="205" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/40937ce05cb541e48874b1775db9d1c8.png" alt="" width="602" height="205" /></p>
 <p>Как видите иконка VM изменилась. Теперь она в статусе миграции.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/0dcf3946bdc934f8f27835d8225adda0.png" alt="" width="242" height="202" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/0dcf3946bdc934f8f27835d8225adda0.png" alt="" width="242" height="202" /></p>
 <p>Как видите Vm успешно мигрировала на второй хост.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ccca6c371d9baa325ff27addf3e332f6.png" alt="" width="241" height="223" /></p>
-<p>Также  возможно администрировать  хост <a href="tag/xenserver/index.html" class="st_tag internal_tag " rel="tag" title="Posts tagged with XenServer">XenServer</a> напрямую, подключившись к консоли сервера.</p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/ccca6c371d9baa325ff27addf3e332f6.png" alt="" width="241" height="223" /></p>
+<p>Также  возможно администрировать  хост XenServer напрямую, подключившись к консоли сервера.</p>
 <p>Данных функций хватит для минимального управления хостом Xen.</p>
-<p><img loading="lazy" class="alignnone" src="http://i.gyazo.com/ad2f7b4373043cfea4cb1fc2b6c9c47e.png" alt="" width="327" height="401" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone" src="http://i.gyazo.com/ad2f7b4373043cfea4cb1fc2b6c9c47e.png" alt="" width="327" height="401" /></p>
 <p>В следующей статье мы рассмотрим интеграцию с Active Directory, настройку пулов серверов, настройку HA, и подключение общих хранилищ.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container"><a class="relpost-block-single" href="ustanovka-i-nastrojka-citrix-xenserver-chast-2/index.html@replytocom=31117.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Установка и настройка Citrix XenServer Часть 2."  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Установка и настройка Citrix XenServer Часть 2.</div></div></a><a class="relpost-block-single" href="index.html@p=1192.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Запуск команд внутри гостевых ОС в гипервизоре KVM на примере Proxmox"  style="background: transparent url(wp-content/uploads/2020/04/qemu-enabled_bh05gc-150x150.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Запуск команд внутри гостевых ОС в гипервизоре KVM на примере Proxmox</div></div></a><a class="relpost-block-single" href="index.html@p=750.html"><div class="relpost-custom-block-single" style="width: 150px; height: 225px;"><div class="relpost-block-single-image" alt="Выполняем команды внутри гостевых ОС через PowerCLI"  style="background: transparent url(http://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;"></div><div class="relpost-block-single-text"  style="font-family: Arial;  font-size: 12px;  color: #333333;">Выполняем команды внутри гостевых ОС через PowerCLI</div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
-<div class="post-info">
-<div class="left"> <a href="category/virtualizaciya/index.html" rel="category tag">Виртуализация</a> </div>
-<div class="right"> Метки: <a href="tag/xenserver/index.html" rel="tag">XenServer</a>, <a href="tag/virtualizaciya/index.html" rel="tag">Виртуализация</a>  </div>
-</div>
-<div class="clear"></div>
+<!-- relpost-thumb-wrapper --><div class="relpost-thumb-wrapper"><!-- filter-class --><div class="relpost-thumb-container"><h3>Related posts:</h3><div style="clear: both"></div><div style="clear: both"></div><!-- relpost-block-container --><div class="relpost-block-container relpost-block-column-layout" style="--relposth-columns: 3;--relposth-columns_t: 2; --relposth-columns_m: 2"><a href="index.html@p=356.html"class="relpost-block-single" ><div class="relpost-custom-block-single"><div class="relpost-block-single-image" aria-hidden="true" role="img" style="background: transparent url(https://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;aspect-ratio:1/1"></div><div class="relpost-block-single-text"  style="height: 75px;font-family: Arial;  font-size: 12px;  color: #333333;"><h2 class="relpost_card_title">Установка и настройка VMWare Vsphere 6. Часть 2</h2></div></div></a><a href="index.html@p=466.html"class="relpost-block-single" ><div class="relpost-custom-block-single"><div class="relpost-block-single-image" aria-hidden="true" role="img" style="background: transparent url(https://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;aspect-ratio:1/1"></div><div class="relpost-block-single-text"  style="height: 75px;font-family: Arial;  font-size: 12px;  color: #333333;"><h2 class="relpost_card_title">Установка и настройка Citrix XenServer Часть 2.</h2></div></div></a><a href="index.html@p=737.html"class="relpost-block-single" ><div class="relpost-custom-block-single"><div class="relpost-block-single-image" aria-hidden="true" role="img" style="background: transparent url(https://ittraveler.org/wp-content/plugins/related-posts-thumbnails/img/default.png) no-repeat scroll 0% 0%; width: 150px; height: 150px;aspect-ratio:1/1"></div><div class="relpost-block-single-text"  style="height: 75px;font-family: Arial;  font-size: 12px;  color: #333333;"><h2 class="relpost_card_title">Vsphere. Поиск виртуальных машин с толстыми дисками</h2></div></div></a></div><!-- close relpost-block-container --><div style="clear: both"></div></div><!-- close filter class --></div><!-- close relpost-thumb-wrapper --><div class="clear"></div>
+        <div class="post-info">
+
+            <div class="left"> <a href="category/virtualizaciya/index.html" rel="category tag">Виртуализация</a> </div>
+
+            <div class="right"> Метки: <a href="tag/xenserver/index.html" rel="tag">XenServer</a>, <a href="tag/virtualizaciya/index.html" rel="tag">Виртуализация</a>  </div>
+
+        </div>
+
+            
+
+        <div class="clear"></div>
+
+
+
+    
+
+
 <br>
+
+
 </div>                        
-<div style="clear:both"></div>
-</article>
-<div class='post-container col-md-12 comments-container'>
-<div class='comments-title'>
-<h3>Комментарии</h3>
-</div>
-<section id="comment-390" class="comment even thread-even depth-1 post-article" >
-<div class="comment-avatar">
-<img alt='' src='http://2.gravatar.com/avatar/8b8481f65a5e44c23e4aafea75b47ecc?s=80&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8b8481f65a5e44c23e4aafea75b47ecc?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>        </div>
-<div class="comment-text" style=" padding:15px; border:none">
-<header class="comment-author">
-<span class="author"><cite><a href='http://devgaming.ru' rel='external nofollow ugc' class='url'>Данил</a></cite></span>
-<time datetime="2015-06-09T14:11:54+03:00" class="comment-date">  
-<a href="ustanovka-i-nastrojka-citrix-xenserver-chast-1/index.html@replytocom=976.html#comment-390">09.06.2015 в 14:11</a> - 
-<a rel='nofollow' class='comment-reply-link' href='ustanovka-i-nastrojka-citrix-xenserver-chast-1/index.html@replytocom=390.html#respond' data-commentid="390" data-postid="463" data-belowelement="comment-390" data-respondelement="respond" data-replyto="Комментарий к записи Данил" aria-label='Комментарий к записи Данил'>Ответить</a>                                </time>
-</header>
-<p>Автор проделал огромную работу в плане визуализации и упрощения туториала. Более 50-ти скриншотов. Огромное спасибо.</p>
-</div>
-<div class="clear"></div>
-</section>
+                    <div style="clear:both"></div>
+                    
+                </article>
+        
+                
+	<div class='post-container col-md-12 comments-container'>
+    	
+        <div class='comments-title'>
+        	<h3>Комментарии</h3>
+        </div>
+		
+		 
+    <section id="comment-390" class="comment even thread-even depth-1 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='https://secure.gravatar.com/avatar/8b8481f65a5e44c23e4aafea75b47ecc?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8b8481f65a5e44c23e4aafea75b47ecc?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy' decoding='async'/>        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite><a href="http://devgaming.ru" class="url" rel="ugc external nofollow">Данил</a></cite></span>
+                <time datetime="2015-06-09T14:11:54+03:00" class="comment-date">  
+                <a href="index.html@p=463.html#comment-390">09.06.2015 в 14:11</a> - 
+                <a rel="nofollow" class="comment-reply-link" href="index.html@p=463.html#comment-390" data-commentid="390" data-postid="463" data-belowelement="comment-390" data-respondelement="respond" data-replyto="Комментарий к записи Данил" aria-label="Комментарий к записи Данил">Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Автор проделал огромную работу в плане визуализации и упрощения туториала. Более 50-ти скриншотов. Огромное спасибо.</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
 </li><!-- #comment-## -->
-<section id="comment-879" class="comment odd alt thread-odd thread-alt depth-1 post-article" >
-<div class="comment-avatar">
-<img alt='' src='http://2.gravatar.com/avatar/5bc268a46ff95ba648b7b2ba8acbf326?s=80&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/5bc268a46ff95ba648b7b2ba8acbf326?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>        </div>
-<div class="comment-text" style=" padding:15px; border:none">
-<header class="comment-author">
-<span class="author"><cite>Jack</cite></span>
-<time datetime="2016-01-16T17:39:51+03:00" class="comment-date">  
-<a href="ustanovka-i-nastrojka-citrix-xenserver-chast-1/index.html@replytocom=976.html#comment-879">16.01.2016 в 17:39</a> - 
-<a rel='nofollow' class='comment-reply-link' href='ustanovka-i-nastrojka-citrix-xenserver-chast-1/index.html@replytocom=879.html#respond' data-commentid="879" data-postid="463" data-belowelement="comment-879" data-respondelement="respond" data-replyto="Комментарий к записи Jack" aria-label='Комментарий к записи Jack'>Ответить</a>                                </time>
-</header>
-<p>Каким образом произвести подключение? Имеется сервер Win2012 с контроллером домена и сервер XenServer. Должны ли они находиться в одной подсети? И если хочу подключить оболочку XenCenter, на какой клиент её необходимо устанавливать? Спасибо</p>
-</div>
-<div class="clear"></div>
-</section>
+ 
+    <section id="comment-879" class="comment odd alt thread-odd thread-alt depth-1 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='https://secure.gravatar.com/avatar/5bc268a46ff95ba648b7b2ba8acbf326?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/5bc268a46ff95ba648b7b2ba8acbf326?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy' decoding='async'/>        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>Jack</cite></span>
+                <time datetime="2016-01-16T17:39:51+03:00" class="comment-date">  
+                <a href="index.html@p=463.html#comment-879">16.01.2016 в 17:39</a> - 
+                <a rel="nofollow" class="comment-reply-link" href="index.html@p=463.html#comment-879" data-commentid="879" data-postid="463" data-belowelement="comment-879" data-respondelement="respond" data-replyto="Комментарий к записи Jack" aria-label="Комментарий к записи Jack">Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Каким образом произвести подключение? Имеется сервер Win2012 с контроллером домена и сервер XenServer. Должны ли они находиться в одной подсети? И если хочу подключить оболочку XenCenter, на какой клиент её необходимо устанавливать? Спасибо</p>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
 <ul class="children">
-<section id="comment-976" class="comment byuser comment-author-mercury131 bypostauthor even depth-2 post-article" >
-<div class="comment-avatar">
-<img alt='' src='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy'/>        </div>
-<div class="comment-text" style=" padding:15px; border:none">
-<header class="comment-author">
-<span class="author"><cite>Admin</cite></span>
-<time datetime="2016-02-09T08:52:57+03:00" class="comment-date">  
-<a href="ustanovka-i-nastrojka-citrix-xenserver-chast-1/index.html@replytocom=976.html#comment-976">09.02.2016 в 08:52</a> - 
-<a rel='nofollow' class='comment-reply-link' href='ustanovka-i-nastrojka-citrix-xenserver-chast-1/index.html@replytocom=976.html#respond' data-commentid="976" data-postid="463" data-belowelement="comment-976" data-respondelement="respond" data-replyto="Комментарий к записи Admin" aria-label='Комментарий к записи Admin'>Ответить</a>                                </time>
-</header>
-<p>Не очень понял ваш вопрос.<br />
+ 
+    <section id="comment-976" class="comment byuser comment-author-mercury131 bypostauthor even depth-2 post-article" >
+    
+        <div class="comment-avatar">
+            <img alt='' src='https://secure.gravatar.com/avatar/6f127973770f16313582605de016c606?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6f127973770f16313582605de016c606?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' loading='lazy' decoding='async'/>        </div>
+         
+        <div class="comment-text" style=" padding:15px; border:none">
+            
+            <header class="comment-author">
+                
+                <span class="author"><cite>Admin</cite></span>
+                <time datetime="2016-02-09T08:52:57+03:00" class="comment-date">  
+                <a href="index.html@p=463.html#comment-976">09.02.2016 в 08:52</a> - 
+                <a rel="nofollow" class="comment-reply-link" href="index.html@p=463.html#comment-976" data-commentid="976" data-postid="463" data-belowelement="comment-976" data-respondelement="respond" data-replyto="Комментарий к записи Admin" aria-label="Комментарий к записи Admin">Ответить</a>                                </time>
+                
+            </header>
+    
+                      
+            <p>Не очень понял ваш вопрос.<br />
 Ну желательно чтобы была связь между КД и xenserver, иначе например вы авторизацию через AD на xen не сможете настроить.<br />
 Не обязательно чтобы они были в одной подсети, достаточно чтобы они могли пинговать друг друга.<br />
 А xencenter нужно ставить на машину с которой будете управлять гипервизором.</p>
-</div>
-<div class="clear"></div>
-</section>
+          
+        </div>
+        
+        <div class="clear"></div>
+
+
+    
+    </section>
+
 </li><!-- #comment-## -->
 </ul><!-- .children -->
 </li><!-- #comment-## -->
-</div>
+	
+    </div>
+
+
+
+
+
 <div class="clear"></div>
+
 <section class="col-md-12">
-<div id="respond" class="comment-respond">
-<h3 id="reply-title" class="comment-reply-title">Добавить комментарий <small><a rel="nofollow" id="cancel-comment-reply-link" href="ustanovka-i-nastrojka-citrix-xenserver-chast-1/index.html@replytocom=976.html#respond" style="display:none;">Отменить ответ</a></small></h3><form action="http://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Ваш адрес email не будет опубликован.</span></p><p class="comment-form-comment"><label for="comment">Комментарий</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" /></p>
-<p class="comment-form-email"><label for="email">Email</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" /></p>
-<p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Добавить комментарий <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html@p=463.html#respond" style="display:none;">Отменить ответ</a></small></h3><form action="https://ittraveler.org/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Ваш адрес email не будет опубликован.</span> <span class="required-field-message">Обязательные поля помечены <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Комментарий <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Имя</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" /></p>
+<p class="comment-form-email"><label for="email">Email</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" /></p>
+<p class="comment-form-url"><label for="url">Сайт</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" autocomplete="url" /></p>
 <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Комментировать" /> <input type='hidden' name='comment_post_ID' value='463' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="74c761191f" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="67"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
-<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="b424b7924f" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="249"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Home ittraveler -->
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto"></ins>
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 </section>
+
+
+			</div>
+        
+        </div>
+
+		
+
+        <div class="clear"></div>
+
+           
+    </div>
+    
 </div>
-</div>
-<div class="clear"></div>
-</div>
-</div>
+
 <div id="back-to-top"> <i class="fa fa-chevron-up"></i> </div>
+
 <footer id="footer">
-<div class="container">
-<div class="row" >
-<div class="col-md-12" >
-<div class="copyright">
-<p>
-Все права защищены. IT Traveler 2022 
-</p>
-</div>
-<div class="socials">
-<a href="feed/index.html" title="Rss" class="social rss"> <i class="fa fa-rss" ></i>  </a>                         
-</div>
-<div class="clear"></div>
-</div>
-</div>
-</div>
+	
+    <div class="container">
+
+		
+        <div class="row" >
+             
+			<div class="col-md-12" >
+
+                <div class="copyright">
+
+                    <p>
+                                                  Все права защищены. IT Traveler 2025 
+                         
+                        
+																														                    
+                    </p>
+
+				</div>
+                
+                
+    <div class="socials">
+			
+		<a href="feed/index.html" title="Rss" class="social rss"> <i class="fa fa-rss" ></i>  </a>                         
+	</div>
+
+	
+                <div class="clear"></div>
+                
+			</div>
+                
+		</div>
+        
+	</div>
+    
 </footer>
+
 <!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 0-->
 <script type="text/javascript">
 jQuery(document).ready(function($){
-$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"<-",next:"->",close:"Закрыть"});
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"<-",next:"->",close:"Закрыть"});
 });
 </script>
-<script type='text/javascript' src='wp-includes/js/comment-reply.min.js@ver=5.8.3' id='comment-reply-js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js@ver=1.12.1' id='jquery-ui-core-js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js@ver=1.12.1' id='jquery-ui-tabs-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=5.8.3' id='jquery.wip-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=5.8.3' id='jquery.tinynav-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=5.8.3' id='jquery.scrollTo-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=5.8.3' id='jquery.prettyPhoto-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=5.8.3' id='jquery.easing.1.3-js'></script>
-<script type='text/javascript' src='http://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9' id='jquery-colorbox-js'></script>
-<script type='text/javascript' src='wp-includes/js/wp-embed.min.js@ver=5.8.3' id='wp-embed-js'></script>
+<script type="text/javascript" src="https://ittraveler.org/wp-includes/js/comment-reply.min.js?ver=6.7.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="wp-includes/js/jquery/ui/core.min.js@ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="wp-includes/js/jquery/ui/tabs.min.js@ver=1.13.3" id="jquery-ui-tabs-js"></script>
+<script type="text/javascript" src="https://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.easing.1.3.js?ver=6.7.1" id="jquery.easing.1.3-js"></script>
+<script type="text/javascript" src="https://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.scrollTo.js?ver=6.7.1" id="jquery.scrollTo-js"></script>
+<script type="text/javascript" src="https://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.prettyPhoto.js?ver=6.7.1" id="jquery.prettyPhoto-js"></script>
+<script type="text/javascript" src="https://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.wip.js?ver=6.7.1" id="jquery.wip-js"></script>
+<script type="text/javascript" src="https://ittraveler.org/wp-content/themes/diarjo-lite/js/jquery.tinynav.js?ver=6.7.1" id="jquery.tinynav-js"></script>
+<script type="text/javascript" src="https://ittraveler.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9" id="jquery-colorbox-js"></script>
+<script defer type="text/javascript" src="https://ittraveler.org/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1738710298" id="akismet-frontend-js"></script>
+  
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
-(function (d, w, c) {
-(w[c] = w[c] || []).push(function() {
-try {
-w.yaCounter27780774 = new Ya.Metrika({
-id:27780774,
-clickmap:true,
-trackLinks:true,
-accurateTrackBounce:true,
-webvisor:true,
-trackHash:true
-});
-} catch(e) { }
-});
-var n = d.getElementsByTagName("script")[0],
-s = d.createElement("script"),
-f = function () { n.parentNode.insertBefore(s, n); };
-s.type = "text/javascript";
-s.async = true;
-s.src = "https://mc.yandex.ru/metrika/watch.js";
-if (w.opera == "[object Opera]") {
-d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(document, window, "yandex_metrika_callbacks");
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/27780774" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
 <script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-58126221-1', 'auto');
-ga('send', 'pageview');
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');
+
 </script>
+
+
 </body>
-</html><!-- WP Fastest Cache file was created in 1.7956600189209 seconds, on 28-01-22 5:07:27 -->
+
+</html><!-- WP Fastest Cache file was created in 0.30232620239258 seconds, on 08-02-25 1:05:06 --><!-- via php -->

@@ -1,7 +1,13 @@
-# Передача и захват ролей FSMO                	  
-***Дата: 30.12.2014 Автор Admin***
+#                 	Передача и захват ролей FSMO                	  
+***            ***
 
-При создании домена, по умолчанию все роли назначаются первому контроллеру домена в лесу. Переназначение ролей требуется крайне редко. Microsoft рекомендует использовать передачу ролей FSMO в следующих случаях:
+			
+            
+		
+    
+	
+    	  Дата: 30.12.2014 Автор Admin  
+	При создании домена, по умолчанию все роли назначаются первому контроллеру домена в лесу. Переназначение ролей требуется крайне редко. Microsoft рекомендует использовать передачу ролей FSMO в следующих случаях:
 • Плановое понижение роли контроллера домена, являющегося обладателем ролей FSMO, например с целью вывода сервера из эксплуатации;
 • Временное отключение контроллера домена, например для выполнения профилактических работ. В этом случае его роли должны быть назначены другому, работающему контроллеру домена. Это особенно необходимо при отключении эмулятора PDC. Временное отключение остальных хозяев операций в меньшей степени сказывается на работе AD.
 Захват ролей FSMO производится в следующих случаях:
@@ -60,53 +66,102 @@ seize pdc &#8212; захват роли эмулятора PDC.
 • По возможности не назначайте роль Infrastructure Master контроллеру домена, являющемуся сервером глобального каталога, поскольку в этом случае он не будет обновлять сведения об объектах. Причина такого поведения заключается в том, что сервер глобального каталога хранит частичные реплики всех объектов в лесу.
 • В случае захвата ролей FSMO контроллер домена, ранее исполнявший эти роли, ни в коем случае нельзя возвращать обратно, т.к.  при его появлении в сети возникнет конфликт, что может вызвать проблемы в работе домена. Кроме того, его необходимо удалить из Active Directory. В Windows Server 2008 и 2008 R2 это можно сделать, просто удалив объект сервера в оснастке  Active Directory Пользователи и компьютеры, а в Windows Server 2003 с помощью программы Ntdsutil , используя команду ntdsutil — metadata cleanup. Подробнее об этом можно почитать в техподдержке Microsoft  http://support.microsoft.com/kb/216498.
 Источник &#8212; http://windowsnotes.ru/activedirectory/peredacha-i-zaxvat-rolej-fsmo/
-Related posts:Получаем MD5 файла или переменной в PowershellПереход на репликацию SYSVOL по DFSНазначение служб для сертификатов Exchange через Powershell.
- Active Directory, Windows, Windows Server 
- Метки: Active Directory, fsmo, захват ролей  
+Related posts:Отказоустойчивый ISCSI кластер на Windows Server 2012 R2Создание пользователей Active Directory через CSV файлКастомизация гостевых ОС Windows в KVM на примере Proxmox
+        
+             Active Directory, Windows, Windows Server 
+             Метки: Active Directory, fsmo, захват ролей  
+        
+            
+        
+    
                         
-Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+                    
+                    
+                
+        
+                
+	
+		
+		Добавить комментарий Отменить ответВаш адрес email не будет опубликован. Обязательные поля помечены *Комментарий * Имя 
 Email 
 Сайт 
  
 &#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+	
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto">
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
+			
+        
+        
+		
+        
+           
+    
+    
   
-Все права защищены. IT Traveler 2022 
-                            
+	
+    
+		
+        
+             
+			
+                
+                    
+                                                  Все права защищены. IT Traveler 2025 
+                         
+                        
+																														                    
+                    
+				
+                
+                
+    
+			
+		                            
+	
+	
+                
+                
+			
+                
+		
+        
+	
+    
 jQuery(document).ready(function($){
-$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
 });
-(function (d, w, c) {
-(w[c] = w[c] || []).push(function() {
-try {
-w.yaCounter27780774 = new Ya.Metrika({
-id:27780774,
-clickmap:true,
-trackLinks:true,
-accurateTrackBounce:true,
-webvisor:true,
-trackHash:true
-});
-} catch(e) { }
-});
-var n = d.getElementsByTagName("script")[0],
-s = d.createElement("script"),
-f = function () { n.parentNode.insertBefore(s, n); };
-s.type = "text/javascript";
-s.async = true;
-s.src = "https://mc.yandex.ru/metrika/watch.js";
-if (w.opera == "[object Opera]") {
-d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-58126221-1', 'auto');
-ga('send', 'pageview');
+  
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');

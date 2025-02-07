@@ -1,158 +1,425 @@
-#  Настройка Mysql репликации Master &#8212; Master   
-***Рассмотрим настройку репликации Mysql. [...] ***
+#                 	 Восстановление пароля root на сервере Mysql   
+***            	***
 
- 23.06.2015 
- Linux, Ubuntu, Web/Cloud 
+                
+			
+	
+		
+    
+	Бывают ситуации когда тебе достался сервер Mysql, а пароль root ты не знаешь.
+Как быть в такой ситуации? Правильно, изменим пароль root. [...] 
+        
+             23.06.2015 
+             Linux, Ubuntu, Web/Cloud 
+        
+            
         
 	
- 
- Настройка связки веб серверов Nginx + Apache 
-В данной связке мы будем использовать 2 веб сервера, nginx будет обрабатывать статический контент, а динамический передавать Apache. [...] 
- 19.06.2015 
- Linux, Ubuntu, Web, Web/Cloud 
         
-	
- 
- Установка и настройка веб сервера Nginx 
-Рассмотрим установку веб сервера Nginx, ssl, и настройку сайтов. [...] 
- 17.06.2015 
- Linux, Ubuntu, Web, Web/Cloud 
-        
-	
- 
- Установка и настройка веб сервера Apache 2 
-В данной статье мы рассмотрим установку и настройку веб сервера Apache 2 на Ubuntu server 14.04 LTS.
-Также будет рассмотрена настройка сайтов на 80 и 443 портах и создание ssl сертификатов. [...] 
- 16.06.2015 
- Linux, Ubuntu, Web, Web/Cloud 
-        
-	
- 
- Установка и настройка Puppet. 
-Установка и настройка Puppet.
-В данной статье мы рассмотрим установку и настройку системы управления конфигурациями Puppet. [...] 
- 18.05.2015 
- Linux, Puppet, Ubuntu 
-        
-	
- 
- Настройка прокси сервера Tor на Ubuntu. 
-В данной статье мы рассмотрим установку и настройку прокси сервера Tor на Ubuntu. [...] 
- 12.05.2015 
- Linux, Ubuntu, Сети 
-        
-	
- 
- Установка и настройка Radius сервера на Ubuntu с веб интерфейсом. 
-В данной статье будет рассмотрено как установить Radius сервер FreeRadius с веб интерфейсом Daloradius [...] 
- 14.04.2015 
- Linux, Web, Сети 
-        
-	
- 
- LVM Добавляем место на диске в виртуальной среде 
-В данной статье мы рассмотрим как в режиме онлайн добавить свободное место на диске, в виртуальной среде. [...] 
- 13.02.2015 
- Linux, Виртуализация 
-        
-	
- 
- LVM переезд с диска на диск в виртуальной среде. 
-В данной статье я расскажу как в виртуальной среде переехать с диска на диск с помощью LVM [...] 
- 13.02.2015 
- Linux, Виртуализация 
-        
-Архивы
-Октябрь 2019
-Сентябрь 2019
-Июнь 2019
-Март 2019
-Декабрь 2018
-Август 2018
-Июль 2018
-Июнь 2018
-Май 2017
-Апрель 2017
-Июнь 2016
-Май 2016
-Октябрь 2015
-Август 2015
-Июль 2015
-Июнь 2015
-Май 2015
-Апрель 2015
-Март 2015
-Февраль 2015
-Январь 2015
-Декабрь 2014
-Календарь
-Январь 2022
-Пн
-Вт
-Ср
-Чт
-Пт
-Сб
-Вс
-&nbsp;12
-&nbsp;
-&laquo; Окт
-&nbsp;
-&nbsp;
-Рубрики
-Active Directory
-Asterisk
-Bash
-Cisco
-Cloud
-Debian
-Exchange
-GLPI Service Desk
-Linux
-Office 365
-PowerShell
-Puppet
-Ubuntu
-Web
-Web/Cloud
-Windows
-Windows Server
-Без рубрики
-Виртуализация
-Сети
+                
+            
+			
+		
+		
+            
+    
+							
+            	
                  
+                	 Настройка Mysql репликации Master &#8212; Master 
+                	
+                
+			
+	
+		
+    
+	Рассмотрим настройку репликации Mysql. [...] 
+        
+             23.06.2015 
+             Linux, Ubuntu, Web/Cloud 
+        
+            
+        
+	
+        
+                
+            
+			
+		
+		
+            
+    
+							
+            	
+                 
+                	 Настройка связки веб серверов Nginx + Apache 
+                	
+                
+			
+	
+		
+    
+	В данной связке мы будем использовать 2 веб сервера, nginx будет обрабатывать статический контент, а динамический передавать Apache. [...] 
+        
+             19.06.2015 
+             Linux, Ubuntu, Web, Web/Cloud 
+        
+            
+        
+	
+        
+                
+            
+			
+		
+		
+            
+    
+							
+            	
+                 
+                	 Установка и настройка веб сервера Nginx 
+                	
+                
+			
+	
+		
+    
+	Рассмотрим установку веб сервера Nginx, ssl, и настройку сайтов. [...] 
+        
+             17.06.2015 
+             Linux, Ubuntu, Web, Web/Cloud 
+        
+            
+        
+	
+        
+                
+            
+			
+		
+		
+            
+    
+							
+            	
+                 
+                	 Установка и настройка веб сервера Apache 2 
+                	
+                
+			
+	
+		
+    
+	В данной статье мы рассмотрим установку и настройку веб сервера Apache 2 на Ubuntu server 14.04 LTS.
+Также будет рассмотрена настройка сайтов на 80 и 443 портах и создание ssl сертификатов. [...] 
+        
+             16.06.2015 
+             Linux, Ubuntu, Web, Web/Cloud 
+        
+            
+        
+	
+        
+                
+            
+			
+		
+		
+            
+    
+							
+            	
+                 
+                	 Установка и настройка Puppet. 
+                	
+                
+			
+	
+		
+    
+	Установка и настройка Puppet.
+В данной статье мы рассмотрим установку и настройку системы управления конфигурациями Puppet. [...] 
+        
+             18.05.2015 
+             Linux, Puppet, Ubuntu 
+        
+            
+        
+	
+        
+                
+            
+			
+		
+		
+            
+    
+							
+            	
+                 
+                	 Настройка прокси сервера Tor на Ubuntu. 
+                	
+                
+			
+	
+		
+    
+	В данной статье мы рассмотрим установку и настройку прокси сервера Tor на Ubuntu. [...] 
+        
+             12.05.2015 
+             Linux, Ubuntu, Сети 
+        
+            
+        
+	
+        
+                
+            
+			
+		
+		
+            
+    
+							
+            	
+                 
+                	 Установка и настройка Radius сервера на Ubuntu с веб интерфейсом. 
+                	
+                
+			
+	
+		
+    
+	В данной статье будет рассмотрено как установить Radius сервер FreeRadius с веб интерфейсом Daloradius [...] 
+        
+             14.04.2015 
+             Linux, Web, Сети 
+        
+            
+        
+	
+        
+                
+            
+			
+		
+		
+            
+    
+							
+            	
+                 
+                	 LVM Добавляем место на диске в виртуальной среде 
+                	
+                
+			
+	
+		
+    
+	В данной статье мы рассмотрим как в режиме онлайн добавить свободное место на диске, в виртуальной среде. [...] 
+        
+             13.02.2015 
+             Linux, Виртуализация 
+        
+            
+        
+	
+        
+                
+            
+			
+		
+		
+            
+    
+							
+            	
+                 
+                	 LVM переезд с диска на диск в виртуальной среде. 
+                	
+                
+			
+	
+		
+    
+	В данной статье я расскажу как в виртуальной среде переехать с диска на диск с помощью LVM [...] 
+        
+             13.02.2015 
+             Linux, Виртуализация 
+        
+            
+        
+	
+        
+                
+            
+			
+		
+		        
+	        
+        
+        
+    
+        
+    
+	
+        
+            
+            
+            
+				Архивы
+			
+					Февраль 2025
+	Октябрь 2019
+	Сентябрь 2019
+	Июнь 2019
+	Март 2019
+	Декабрь 2018
+	Август 2018
+	Июль 2018
+	Июнь 2018
+	Май 2017
+	Апрель 2017
+	Июнь 2016
+	Май 2016
+	Октябрь 2015
+	Август 2015
+	Июль 2015
+	Июнь 2015
+	Май 2015
+	Апрель 2015
+	Март 2015
+	Февраль 2015
+	Январь 2015
+	Декабрь 2014
+			
+			Календарь
+	Февраль 2025
+	
+	
+		Пн
+		Вт
+		Ср
+		Чт
+		Пт
+		Сб
+		Вс
+	
+	
+	
+	
+		&nbsp;12
+	
+	
+		3456789
+	
+	
+		10111213141516
+	
+	
+		17181920212223
+	
+	
+		2425262728
+		&nbsp;
+	
+	
+	
+		&laquo; Окт
+		&nbsp;
+		&nbsp;
+	Рубрики
+			
+					Active Directory
+	Asterisk
+	Bash
+	Cisco
+	Cloud
+	Debian
+	Exchange
+	GLPI Service Desk
+	Linux
+	Office 365
+	PowerShell
+	Puppet
+	Ubuntu
+	Web
+	Web/Cloud
+	Windows
+	Windows Server
+	Без рубрики
+	Виртуализация
+	Сети
+			
+			                 
+            
+            
+        
+    
+	           
+    
+    
 « Назад«1234  
-Все права защищены. IT Traveler 2022 
-                            
+	
+    
+		
+        
+             
+			
+                
+                    
+                                                  Все права защищены. IT Traveler 2025 
+                         
+                        
+																		                    
+                    
+				
+                
+                
+    
+			
+		                            
+	
+	
+                
+                
+			
+                
+		
+        
+	
+    
 jQuery(document).ready(function($){
-$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
 });
-(function (d, w, c) {
-(w[c] = w[c] || []).push(function() {
-try {
-w.yaCounter27780774 = new Ya.Metrika({
-id:27780774,
-clickmap:true,
-trackLinks:true,
-accurateTrackBounce:true,
-webvisor:true,
-trackHash:true
-});
-} catch(e) { }
-});
-var n = d.getElementsByTagName("script")[0],
-s = d.createElement("script"),
-f = function () { n.parentNode.insertBefore(s, n); };
-s.type = "text/javascript";
-s.async = true;
-s.src = "https://mc.yandex.ru/metrika/watch.js";
-if (w.opera == "[object Opera]") {
-d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-58126221-1', 'auto');
-ga('send', 'pageview');
+  
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');

@@ -1,7 +1,13 @@
-# Управление репликацией Active Directory                	  
-***Дата: 30.12.2014 Автор Admin***
+#                 	Управление репликацией Active Directory                	  
+***            ***
 
-Обеспечение корректной репликации в лесу Active Directory – это одна из главных задач администратора AD. В этой статье попытаемся понять базовые принципы репликации базы Active Directory и методики диагностики неисправности. Стоит отметить,  что репликации — один из основополагающих принципов построения современной корпоративной сети на базе AD, так, например, мы уже говорили о репликации групповых политик в домене AD и репликации зон DNS.
+			
+            
+		
+    
+	
+    	  Дата: 30.12.2014 Автор Admin  
+	Обеспечение корректной репликации в лесу Active Directory – это одна из главных задач администратора AD. В этой статье попытаемся понять базовые принципы репликации базы Active Directory и методики диагностики неисправности. Стоит отметить,  что репликации — один из основополагающих принципов построения современной корпоративной сети на базе AD, так, например, мы уже говорили о репликации групповых политик в домене AD и репликации зон DNS.
 Для мониторинга репликации Active Directory в корпоративной среде Microsoft рекомендует использовать продукт SCOM (либо другие продукты мониторинга с похожим функционалом).  Кроме того, для  мониторинга репликации AD можно использовать утилиту repadmin (repadmin /showrepl * /csv) совместно с самописными скриптами анализа вывода этой утилиты. Типичные проблемы, связанные с ошибками репликации Active Directory,  — ситуации, когда объекты не появляются в одном или нескольких сайтах (например, только что созданный пользователь, группа или другой объект AD не доступны на контроллерах домена в других сайтах).
 Хорошая отправная точка для поиска неисправности в механизме репликации Active Directory – анализ журнала «Directory Services» на контроллерах домена. Конкретные действия будут зависеть от того, какие ошибки будут обнаружены в журнале, однако для разрешения проблем нужно достаточно четко понимать процессы репликации Active Directory.
 Одним из базовых элементов управлением трафиком репликации между контроллерами домена являются сайты Active Directory. Сайты связаны между собой особыми связями, называемыми «site link», которые определяют стоимость маршрутизации данных AD (элементы леса, домена, папка SYSVOL и т.д.) между различными сайтами. Расчет алгоритма управления и маршрутизации трафика репликации в лесу ведется службой KCC.
@@ -115,53 +121,102 @@ SyncAll terminated with no errors.
 C:\&gt;
 При наличии проблем с механизмом репликации Active Directory, нужно знать и уметь пользоваться утилитами repadmin, nslookup, dcdiag, крайне полезен при анализе журнал событий Directory Services. В особо сложный  и нестандартных ситуациях может помочь база знаний Microsoft KB, в которой описаны типовые проблемы и методики их решения. Поиск по базе KB обычно осуществляется по идентификаторам ошибок (Event ID), полученным из указанного журнала..
 Источник &#8212; http://winitpro.ru/index.php/2011/07/01/upravlenie-replikaciej-active-directory/ 
-Related posts:Настройка HA кластера Hyper-VАвтоматизация создания адресных книг в Office 365 через Powershell Часть 3.Ошибка ERR: CERT_COMMON_NAME_INVALID в Chrome при использовании SSL сертификата.
- Active Directory, Windows, Windows Server 
- Метки: Active Directory, Репликация  
+Related posts:Восстановление объектов Active Directory: сборник сценариевУстановка и настройка Lync 2013Сброс настроек GPO на стандартные
+        
+             Active Directory, Windows, Windows Server 
+             Метки: Active Directory, Репликация  
+        
+            
+        
+    
                         
-Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+                    
+                    
+                
+        
+                
+	
+		
+		Добавить комментарий Отменить ответВаш адрес email не будет опубликован. Обязательные поля помечены *Комментарий * Имя 
 Email 
 Сайт 
  
 &#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+	
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto">
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
+			
+        
+        
+		
+        
+           
+    
+    
   
-Все права защищены. IT Traveler 2022 
-                            
+	
+    
+		
+        
+             
+			
+                
+                    
+                                                  Все права защищены. IT Traveler 2025 
+                         
+                        
+																														                    
+                    
+				
+                
+                
+    
+			
+		                            
+	
+	
+                
+                
+			
+                
+		
+        
+	
+    
 jQuery(document).ready(function($){
-$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
 });
-(function (d, w, c) {
-(w[c] = w[c] || []).push(function() {
-try {
-w.yaCounter27780774 = new Ya.Metrika({
-id:27780774,
-clickmap:true,
-trackLinks:true,
-accurateTrackBounce:true,
-webvisor:true,
-trackHash:true
-});
-} catch(e) { }
-});
-var n = d.getElementsByTagName("script")[0],
-s = d.createElement("script"),
-f = function () { n.parentNode.insertBefore(s, n); };
-s.type = "text/javascript";
-s.async = true;
-s.src = "https://mc.yandex.ru/metrika/watch.js";
-if (w.opera == "[object Opera]") {
-d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-58126221-1', 'auto');
-ga('send', 'pageview');
+  
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');

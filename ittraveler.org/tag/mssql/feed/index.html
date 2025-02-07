@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MSSQL | IT Traveler</title>
-	<atom:link href="http://ittraveler.org/tag/mssql/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ittraveler.org</link>
+	<atom:link href="https://ittraveler.org/tag/mssql/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ittraveler.org</link>
 	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
 	<lastBuildDate>Sun, 16 Dec 2018 08:34:12 +0000</lastBuildDate>
 	<language>ru-RU</language>
@@ -18,35 +18,35 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Автоматизируем бэкап баз данных MSSQL Express</title>
-		<link>http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/</link>
-					<comments>http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/#comments</comments>
+		<link>https://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/</link>
+					<comments>https://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/#comments</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Tue, 26 May 2015 18:45:47 +0000</pubDate>
+		<pubDate>Tue, 26 May 2015 15:45:47 +0000</pubDate>
 				<category><![CDATA[Windows]]></category>
 		<category><![CDATA[Windows Server]]></category>
 		<category><![CDATA[MSSQL]]></category>
 		<category><![CDATA[Резервное копирование]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=484</guid>
 
-					<description><![CDATA[<p>В данной статье мы рассмотрим как настроить автоматическое резервное копирование баз данных MSSQL расположенных на бесплатном MSSQL Express. Для автоматизации резервного копирования напишем следующий sql скрипт: [crayon-61f43de4e3c85084136968/] Кодировка скрипта должны быть &#8212; UCS-2 Little Endian Рассмотрим параметры скрипта: Путь куда сохранять резервные копии указывается тут &#8212; C:\Backup\ Имя резервной копии будет начинаться с BASE_backup_ и</p>
-The post <a href="http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/">Автоматизируем бэкап баз данных MSSQL Express</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В данной статье мы рассмотрим как настроить автоматическое резервное копирование баз данных MSSQL расположенных на бесплатном MSSQL Express. Для автоматизации резервного копирования напишем следующий sql скрипт: declare @path varchar(max)=N'C:\Backup\BASE_backup_'+convert(varchar(max),getdate(),102) BACKUP DATABASE [BASE_NAME] TO DISK = @path WITH COPY_ONLY, NOFORMAT, NOINIT, NAME = N'BASE_NAME-Полная База данных Резервное копирование', SKIP, NOREWIND, NOUNLOAD, STATS = 10 GO Кодировка</p>
+The post <a href="https://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/">Автоматизируем бэкап баз данных MSSQL Express</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/feed/</wfw:commentRss>
 			<slash:comments>7</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Установка и настройка кластера MSSQL 2012.</title>
-		<link>http://ittraveler.org/ustanovka-i-nastrojka-klastera-mssql-2012/</link>
-					<comments>http://ittraveler.org/ustanovka-i-nastrojka-klastera-mssql-2012/#respond</comments>
+		<link>https://ittraveler.org/ustanovka-i-nastrojka-klastera-mssql-2012/</link>
+					<comments>https://ittraveler.org/ustanovka-i-nastrojka-klastera-mssql-2012/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Wed, 20 May 2015 18:50:30 +0000</pubDate>
+		<pubDate>Wed, 20 May 2015 15:50:30 +0000</pubDate>
 				<category><![CDATA[Windows]]></category>
 		<category><![CDATA[Windows Server]]></category>
 		<category><![CDATA[Cluster]]></category>
@@ -54,9 +54,9 @@ The post <a href="http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-ex
 		<guid isPermaLink="false">http://ittraveler.org/?p=452</guid>
 
 					<description><![CDATA[<p>В данной статье будет рассмотрена установка и настройка кластера MSSQL 2012. Устанавливаем на каждый сервер компонент отказоустойчивого кластера. Объединяем сервера в кластер. Как это сделать можно посмотреть тут. Запускаем мастер установки MSSQL 2012 и выбираем пункт &#8212; Новая установка отказоустойчивого кластера. Запускать мастер нужно под пользователем с правом заведения ПК в домен Active Directory. Вводим</p>
-The post <a href="http://ittraveler.org/ustanovka-i-nastrojka-klastera-mssql-2012/">Установка и настройка кластера MSSQL 2012.</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+The post <a href="https://ittraveler.org/ustanovka-i-nastrojka-klastera-mssql-2012/">Установка и настройка кластера MSSQL 2012.</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-klastera-mssql-2012/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/ustanovka-i-nastrojka-klastera-mssql-2012/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,7 +1,13 @@
-# Установка и настройка Citrix XenServer Часть 1.                	  
-***Дата: 22.05.2015 Автор Admin***
+#                 	Установка и настройка Citrix XenServer Часть 1.                	  
+***            ***
 
-В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.Перейдем к установке гипервизора.
+			
+            
+		
+    
+	
+    	  Дата: 22.05.2015 Автор Admin  
+	В данном цикле статей, мы рассмотрим установку и настройку виртуальной среды основанной на гипервизоре XenServer.Перейдем к установке гипервизора.
 Скачиваем дистрибутив с официального сайта &#8212; тут.
 Посмотреть возможности XenServer можно на этой странице.
 Начнем. Загружаемся с установочного диска.
@@ -24,10 +30,10 @@
 После окончания установки перезагружаемся.
 После загрузки сервера  устанавливаем Citrix XenCenter.  Актуальную версию можно найти тут (Windows Management Console).
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto">
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
 Запускаем XenCenter, выбираем Add New Server.
 Вводим ip адрес установленного сервера и логин с паролем.
@@ -69,10 +75,10 @@ data-ad-format="auto">
 Проверяем введенные данные и создаем виртуальную машину.
 Для управления VM перейдите в раздел Console.
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto">
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
 Далее установите ОС в обычном режиме.
 Важная особенность, XEN в зависимости от выбранной ОС, сам определяем параметры загрузки ядра ОС, поэтому при установке Ubuntu, вы сразу попадаете в режим установки.
@@ -101,75 +107,188 @@ XenServer поддерживает живую миграцию без общих
 В следующей статье мы рассмотрим интеграцию с Active Directory, настройку пулов серверов, настройку HA, и подключение общих хранилищ.
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка Citrix XenServer Часть 2.Запуск команд внутри гостевых ОС в гипервизоре KVM на примере ProxmoxВыполняем команды внутри гостевых ОС через PowerCLI
- Виртуализация 
- Метки: XenServer, Виртуализация  
+Related posts:Установка и настройка VMWare Vsphere 6. Часть 2Установка и настройка Citrix XenServer Часть 2.Vsphere. Поиск виртуальных машин с толстыми дисками
+        
+             Виртуализация 
+             Метки: XenServer, Виртуализация  
+        
+            
+        
+    
                         
-Комментарии
+                    
+                    
+                
         
-Данил
-  
-09.06.2015 в 14:11 - 
-Ответить                                
-Автор проделал огромную работу в плане визуализации и упрощения туториала. Более 50-ти скриншотов. Огромное спасибо.
+                
+	
+    	
         
-Jack
-  
-16.01.2016 в 17:39 - 
-Ответить                                
-Каким образом произвести подключение? Имеется сервер Win2012 с контроллером домена и сервер XenServer. Должны ли они находиться в одной подсети? И если хочу подключить оболочку XenCenter, на какой клиент её необходимо устанавливать? Спасибо
+        	Комментарии
         
-Admin
-  
-09.02.2016 в 08:52 - 
-Ответить                                
-Не очень понял ваш вопрос.
+		
+		 
+    
+    
+        
+                    
+         
+        
+            
+            
+                
+                Данил
+                  
+                09.06.2015 в 14:11 - 
+                Ответить                                
+                
+            
+    
+                      
+            Автор проделал огромную работу в плане визуализации и упрощения туториала. Более 50-ти скриншотов. Огромное спасибо.
+          
+        
+        
+        
+    
+    
+ 
+    
+    
+        
+                    
+         
+        
+            
+            
+                
+                Jack
+                  
+                16.01.2016 в 17:39 - 
+                Ответить                                
+                
+            
+    
+                      
+            Каким образом произвести подключение? Имеется сервер Win2012 с контроллером домена и сервер XenServer. Должны ли они находиться в одной подсети? И если хочу подключить оболочку XenCenter, на какой клиент её необходимо устанавливать? Спасибо
+          
+        
+        
+        
+    
+    
+ 
+    
+    
+        
+                    
+         
+        
+            
+            
+                
+                Admin
+                  
+                09.02.2016 в 08:52 - 
+                Ответить                                
+                
+            
+    
+                      
+            Не очень понял ваш вопрос.
 Ну желательно чтобы была связь между КД и xenserver, иначе например вы авторизацию через AD на xen не сможете настроить.
 Не обязательно чтобы они были в одной подсети, достаточно чтобы они могли пинговать друг друга.
 А xencenter нужно ставить на машину с которой будете управлять гипервизором.
-Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+          
+        
+        
+        
+    
+    
+	
+    
+	
+		
+		Добавить комментарий Отменить ответВаш адрес email не будет опубликован. Обязательные поля помечены *Комментарий * Имя 
 Email 
 Сайт 
  
 &#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+	
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto">
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
+			
+        
+        
+		
+        
+           
+    
+    
   
-Все права защищены. IT Traveler 2022 
-                            
+	
+    
+		
+        
+             
+			
+                
+                    
+                                                  Все права защищены. IT Traveler 2025 
+                         
+                        
+																														                    
+                    
+				
+                
+                
+    
+			
+		                            
+	
+	
+                
+                
+			
+                
+		
+        
+	
+    
 jQuery(document).ready(function($){
-$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
 });
-(function (d, w, c) {
-(w[c] = w[c] || []).push(function() {
-try {
-w.yaCounter27780774 = new Ya.Metrika({
-id:27780774,
-clickmap:true,
-trackLinks:true,
-accurateTrackBounce:true,
-webvisor:true,
-trackHash:true
-});
-} catch(e) { }
-});
-var n = d.getElementsByTagName("script")[0],
-s = d.createElement("script"),
-f = function () { n.parentNode.insertBefore(s, n); };
-s.type = "text/javascript";
-s.async = true;
-s.src = "https://mc.yandex.ru/metrika/watch.js";
-if (w.opera == "[object Opera]") {
-d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-58126221-1', 'auto');
-ga('send', 'pageview');
+  
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');

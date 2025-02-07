@@ -9,8 +9,8 @@
 
 <channel>
 	<title>powercli | IT Traveler</title>
-	<atom:link href="http://ittraveler.org/tag/powercli/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ittraveler.org</link>
+	<atom:link href="https://ittraveler.org/tag/powercli/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ittraveler.org</link>
 	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
 	<lastBuildDate>Wed, 22 Jun 2016 07:40:27 +0000</lastBuildDate>
 	<language>ru-RU</language>
@@ -18,35 +18,35 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Выполняем команды внутри гостевых ОС через PowerCLI</title>
-		<link>http://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/</link>
-					<comments>http://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/#respond</comments>
+		<link>https://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/</link>
+					<comments>https://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Wed, 22 Jun 2016 10:38:24 +0000</pubDate>
+		<pubDate>Wed, 22 Jun 2016 07:38:24 +0000</pubDate>
 				<category><![CDATA[PowerShell]]></category>
 		<category><![CDATA[Виртуализация]]></category>
 		<category><![CDATA[powercli]]></category>
 		<category><![CDATA[vsphere]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=750</guid>
 
-					<description><![CDATA[<p>Порой нужно запустить скрипт на множестве VM, или выполнить одну и туже команду. Под катом я расскажу как выполнять команды внутри гостевых ОС через PowerCLI Поможет нам скрипт: [crayon-61f43deb5c313615488379/] Заполняем переменные: $vcenter &#8212; ваш vcenter сервер $csv &#8212; путь к файлу с параметрами Создайте CSV файл с параметрами, следующего вида: vcenteruser;vcenterpass;guestuser;guestpass;vm;vcenter user;your_pass;localOSuser;PASS;vm01;vcenter.test.local user;your_pass;localOSuser;PASS;vm02;vcenter.test.local user;your_pass;localOSuser;PASS;vm03;vcenter.test.local user;your_pass;localOSuser;PASS;vm04;vcenter.test.local</p>
-The post <a href="http://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/">Выполняем команды внутри гостевых ОС через PowerCLI</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>Порой нужно запустить скрипт на множестве VM, или выполнить одну и туже команду. Под катом я расскажу как выполнять команды внутри гостевых ОС через PowerCLI Поможет нам скрипт: function Load-PowerCLI { Add-PSSnapin VMware.VimAutomation.Core Add-PSSnapin VMware.VimAutomation.Vds } Load-PowerCLI # Connect to Vcenter $vcenter="" Connect-VIServer -Server $vcenter #-User -Password $csv='C:\VM-invokeScript.csv' Import-Csv $csv -Delimiter ";"&#124; % { $vcenteruser</p>
+The post <a href="https://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/">Выполняем команды внутри гостевых ОС через PowerCLI</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-cherez-powercli/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Vsphere. Поиск виртуальных машин с толстыми дисками</title>
-		<link>http://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/</link>
-					<comments>http://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/#respond</comments>
+		<link>https://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/</link>
+					<comments>https://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Mon, 23 May 2016 23:41:53 +0000</pubDate>
+		<pubDate>Mon, 23 May 2016 20:41:53 +0000</pubDate>
 				<category><![CDATA[PowerShell]]></category>
 		<category><![CDATA[Виртуализация]]></category>
 		<category><![CDATA[powercli]]></category>
@@ -54,10 +54,10 @@ The post <a href="http://ittraveler.org/vypolnyaem-komandy-vnutri-gostevyx-os-ch
 		<category><![CDATA[vmware]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=737</guid>
 
-					<description><![CDATA[<p>Иногда, требуется найти на датасторе виртуальные машины с толстыми дисками. Это не вызывает проблем, если виртуальных машин немного, но если их тысяча? Под катом я покажу как через PowerCLI найти машины с толстыми дисками. В решении данной задачи нам поможет следующий скрипт: [crayon-61f43deb5d45f789919240/] Заполняем переменные: $vcenter &#8212; ваш сервер vcenter $datastore &#8212; ваш датастор Вывод</p>
-The post <a href="http://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/">Vsphere. Поиск виртуальных машин с толстыми дисками</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>Иногда, требуется найти на датасторе виртуальные машины с толстыми дисками. Это не вызывает проблем, если виртуальных машин немного, но если их тысяча? Под катом я покажу как через PowerCLI найти машины с толстыми дисками. В решении данной задачи нам поможет следующий скрипт: Add-PSSnapin VMware.VimAutomation.Core $vcenter="vcenter.test.local" $datastore="Datastore01" connect-VIServer -Server $vcenter #-User -Password get-datastore $datastore &#124; get-vm</p>
+The post <a href="https://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/">Vsphere. Поиск виртуальных машин с толстыми дисками</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/vsphere-poisk-virtualnyx-mashin-s-tolstymi-diskami/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

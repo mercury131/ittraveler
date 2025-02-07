@@ -9,158 +9,178 @@
 
 <channel>
 	<title>Linux | IT Traveler</title>
-	<atom:link href="http://ittraveler.org/category/linux/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ittraveler.org</link>
+	<atom:link href="https://ittraveler.org/category/linux/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ittraveler.org</link>
 	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
-	<lastBuildDate>Sun, 26 Apr 2020 16:13:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Feb 2025 12:04:11 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
-		<title>Установка и настройка Kafka кластера</title>
-		<link>http://ittraveler.org/ustanovka-i-nastrojka-kafka-klastera/</link>
-					<comments>http://ittraveler.org/ustanovka-i-nastrojka-kafka-klastera/#respond</comments>
+		<title>Восстановление ZFS пула при статусе FAULTED</title>
+		<link>https://ittraveler.org/vosstanovlenie-zfs-pula-pri-statuse-faulted/</link>
+					<comments>https://ittraveler.org/vosstanovlenie-zfs-pula-pri-statuse-faulted/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Mon, 28 Oct 2019 17:58:10 +0000</pubDate>
+		<pubDate>Fri, 07 Feb 2025 11:44:47 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[proxmox]]></category>
+		<category><![CDATA[zfs]]></category>
+		<guid isPermaLink="false">http://ittraveler.org/?p=1758</guid>
+
+					<description><![CDATA[<p>Если про какой-то причине ваш пул перешел в состояние FAULTED и при вызове zpool status POOLNAME вы видите ошибки: pool metadata is corrupted zfs zpool import zroot gives 4 times failed to load zpool zroot. Cannot import POOL: I/O error Destroy or re-create the pool from a backup source. Значит дело плохо. Виной может быть</p>
+The post <a href="https://ittraveler.org/vosstanovlenie-zfs-pula-pri-statuse-faulted/">Восстановление ZFS пула при статусе FAULTED</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
+		
+					<wfw:commentRss>https://ittraveler.org/vosstanovlenie-zfs-pula-pri-statuse-faulted/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Установка и настройка Kafka кластера</title>
+		<link>https://ittraveler.org/ustanovka-i-nastrojka-kafka-klastera/</link>
+					<comments>https://ittraveler.org/ustanovka-i-nastrojka-kafka-klastera/#respond</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Mon, 28 Oct 2019 14:58:10 +0000</pubDate>
 				<category><![CDATA[Bash]]></category>
 		<category><![CDATA[Debian]]></category>
 		<category><![CDATA[Linux]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=1293</guid>
 
-					<description><![CDATA[<p>В данной статье рассмотрим как настроить kafka кластер из 3-х серверов с поддержкой ssl. Действия описанные ниже выполняем на всех 3-х серверах. &#160; Добавляем правила Firewall для Kafka и Zookeeper [crayon-61f3d2085148a046267033/] [crayon-61f3d20851491651906996/] &#160; [crayon-61f3d20851493974264070/] [crayon-61f3d20851495518445674/] &#160; Активируем правила [crayon-61f3d20851497242158967/] &#160; Создаем пользователя для kafka [crayon-61f3d20851499216404675/] &#160; Устанавливаем Java [crayon-61f3d2085149b755340626/] &#160; Скачиваем последнюю версию Kafka [crayon-61f3d2085149c203631570/]</p>
-The post <a href="http://ittraveler.org/ustanovka-i-nastrojka-kafka-klastera/">Установка и настройка Kafka кластера</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В данной статье рассмотрим как настроить kafka кластер из 3-х серверов с поддержкой ssl. Действия описанные ниже выполняем на всех 3-х серверах. &#160; Добавляем правила Firewall для Kafka и Zookeeper sudo nano /etc/firewalld/services/zooKeeper.xml &#60;?xml version="1.0" encoding="utf-8"?&#62; &#60;service&#62; &#60;short&#62;ZooKeeper&#60;/short&#62; &#60;description&#62;Firewall rule for ZooKeeper ports&#60;/description&#62; &#60;port protocol="tcp" port="2888"/&#62; &#60;port protocol="tcp" port="3888"/&#62; &#60;port protocol="tcp" port="2181"/&#62; &#60;/service&#62; &#160; sudo</p>
+The post <a href="https://ittraveler.org/ustanovka-i-nastrojka-kafka-klastera/">Установка и настройка Kafka кластера</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-kafka-klastera/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/ustanovka-i-nastrojka-kafka-klastera/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>ZFS перенос корневого пула с ОС на новый диск, меньшего размера.</title>
-		<link>http://ittraveler.org/zfs-perenos-kornevogo-pula-s-os-na-novyj-disk-menshego-razmera/</link>
-					<comments>http://ittraveler.org/zfs-perenos-kornevogo-pula-s-os-na-novyj-disk-menshego-razmera/#respond</comments>
+		<link>https://ittraveler.org/zfs-perenos-kornevogo-pula-s-os-na-novyj-disk-menshego-razmera/</link>
+					<comments>https://ittraveler.org/zfs-perenos-kornevogo-pula-s-os-na-novyj-disk-menshego-razmera/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sun, 15 Sep 2019 14:47:45 +0000</pubDate>
+		<pubDate>Sun, 15 Sep 2019 11:47:45 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=1282</guid>
 
 					<description><![CDATA[<p>Понадобилось перенести ос, расположенную на zfs, на новый SSD диск меньшего размера. В этой статье я расскажу как это сделать.Обычно проблем с переносом нет, если оба диска имеют одинаковый размер, просто создаем в ZFS Raid1, ждем синхронизации данных и потом удаляем старый диск, но т.к в моем случае диск меньше (SSD 360 GB против HDD</p>
-The post <a href="http://ittraveler.org/zfs-perenos-kornevogo-pula-s-os-na-novyj-disk-menshego-razmera/">ZFS перенос корневого пула с ОС на новый диск, меньшего размера.</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+The post <a href="https://ittraveler.org/zfs-perenos-kornevogo-pula-s-os-na-novyj-disk-menshego-razmera/">ZFS перенос корневого пула с ОС на новый диск, меньшего размера.</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/zfs-perenos-kornevogo-pula-s-os-na-novyj-disk-menshego-razmera/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/zfs-perenos-kornevogo-pula-s-os-na-novyj-disk-menshego-razmera/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Как работать с LVM</title>
-		<link>http://ittraveler.org/kak-rabotat-s-lvm/</link>
-					<comments>http://ittraveler.org/kak-rabotat-s-lvm/#respond</comments>
+		<link>https://ittraveler.org/kak-rabotat-s-lvm/</link>
+					<comments>https://ittraveler.org/kak-rabotat-s-lvm/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sun, 15 Sep 2019 14:04:36 +0000</pubDate>
+		<pubDate>Sun, 15 Sep 2019 11:04:36 +0000</pubDate>
 				<category><![CDATA[Debian]]></category>
 		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Ubuntu]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=1278</guid>
 
-					<description><![CDATA[<p>В этой статье рассмотрим как работать с LVM, а именно как создать/расширить/удалить LVM. Чтобы создать LVM необходимо подготовить physical volumes, который состоит из физических дисков, на которых и будет располагаться Volume Group LVM. Создаем physical volumes на 3-х дисках: [crayon-61f3d20853b31709227188/] Посмотреть список physical volumes можно командой: [crayon-61f3d20853b36945542103/] также можно более детально посмотреть информацию о диске</p>
-The post <a href="http://ittraveler.org/kak-rabotat-s-lvm/">Как работать с LVM</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В этой статье рассмотрим как работать с LVM, а именно как создать/расширить/удалить LVM. Чтобы создать LVM необходимо подготовить physical volumes, который состоит из физических дисков, на которых и будет располагаться Volume Group LVM. Создаем physical volumes на 3-х дисках: pvcreate /dev/sdb /dev/sdc /dev/sdd Посмотреть список physical volumes можно командой: pvs также можно более детально посмотреть</p>
+The post <a href="https://ittraveler.org/kak-rabotat-s-lvm/">Как работать с LVM</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/kak-rabotat-s-lvm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/kak-rabotat-s-lvm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>QEMU/KVM проброс физического диска гипевизора в виртуальную машину</title>
-		<link>http://ittraveler.org/qemu-kvm-probros-fizicheskogo-diska-gipevizora-v-virtualnuyu-mashinu/</link>
-					<comments>http://ittraveler.org/qemu-kvm-probros-fizicheskogo-diska-gipevizora-v-virtualnuyu-mashinu/#respond</comments>
+		<link>https://ittraveler.org/qemu-kvm-probros-fizicheskogo-diska-gipevizora-v-virtualnuyu-mashinu/</link>
+					<comments>https://ittraveler.org/qemu-kvm-probros-fizicheskogo-diska-gipevizora-v-virtualnuyu-mashinu/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sun, 15 Sep 2019 13:09:13 +0000</pubDate>
+		<pubDate>Sun, 15 Sep 2019 10:09:13 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Виртуализация]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=1276</guid>
 
-					<description><![CDATA[<p>В этой статье мы рассмотрим как пробросить физический диск в VM.Выполняется эта процедура несколькими командами: Находим наш диск: [crayon-61f3d20853f66747766181/] [crayon-61f3d20853f6a075741776/] Находим путь к диску по id с помощью его serial number [crayon-61f3d20853f6d698155522/] Пробрасываем диск в VM с id 592 [crayon-61f3d20853f6f038592433/] Чтобы диск появился, vm необходимо выключить и включить.</p>
-The post <a href="http://ittraveler.org/qemu-kvm-probros-fizicheskogo-diska-gipevizora-v-virtualnuyu-mashinu/">QEMU/KVM проброс физического диска гипевизора в виртуальную машину</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В этой статье мы рассмотрим как пробросить физический диск в VM.Выполняется эта процедура несколькими командами: Находим наш диск: lshw -class disk -class storage *-disk description: ATA Disk product: ST3000DM001-1CH1 vendor: Seagate physical id: 0.0.0 bus info: scsi@3:0.0.0 logical name: /dev/sda version: CC27 serial: Z1F41BLC size: 2794GiB (3TB) configuration: ansiversion=5 sectorsize=4096 Находим путь к диску по</p>
+The post <a href="https://ittraveler.org/qemu-kvm-probros-fizicheskogo-diska-gipevizora-v-virtualnuyu-mashinu/">QEMU/KVM проброс физического диска гипевизора в виртуальную машину</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/qemu-kvm-probros-fizicheskogo-diska-gipevizora-v-virtualnuyu-mashinu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/qemu-kvm-probros-fizicheskogo-diska-gipevizora-v-virtualnuyu-mashinu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>KVM восстановление qcow2 диска</title>
-		<link>http://ittraveler.org/kvm-vosstanovlenie-qcow2-diska/</link>
-					<comments>http://ittraveler.org/kvm-vosstanovlenie-qcow2-diska/#respond</comments>
+		<link>https://ittraveler.org/kvm-vosstanovlenie-qcow2-diska/</link>
+					<comments>https://ittraveler.org/kvm-vosstanovlenie-qcow2-diska/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sun, 15 Sep 2019 13:01:01 +0000</pubDate>
+		<pubDate>Sun, 15 Sep 2019 10:01:01 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Виртуализация]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=1274</guid>
 
-					<description><![CDATA[<p>В данной статье я расскажу как можно восстановить поврежденный диск VM в формате qcow2Если при запуске виртуальной машины Вы получаете ошибку : [crayon-61f3d208541e9088423792/] то вероятно диск вашей VM поврежден. Чтобы это проверить выполните команду: [crayon-61f3d208541ee360482838/] В выводе будет информация поврежден файл или нет [crayon-61f3d208541f0423118546/] Насколько сильно поврежден диск можно узнать командой: [crayon-61f3d208541f2994811639/] Выполнить восстановление диска</p>
-The post <a href="http://ittraveler.org/kvm-vosstanovlenie-qcow2-diska/">KVM восстановление qcow2 диска</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В данной статье я расскажу как можно восстановить поврежденный диск VM в формате qcow2Если при запуске виртуальной машины Вы получаете ошибку : qcow2: Image is corrupt; cannot be opened read/write то вероятно диск вашей VM поврежден. Чтобы это проверить выполните команду: qemu-img info /data/vm_images/CentOS7/system.img В выводе будет информация поврежден файл или нет file format: qcow2</p>
+The post <a href="https://ittraveler.org/kvm-vosstanovlenie-qcow2-diska/">KVM восстановление qcow2 диска</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/kvm-vosstanovlenie-qcow2-diska/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/kvm-vosstanovlenie-qcow2-diska/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Docker Основные примеры использования.</title>
-		<link>http://ittraveler.org/docker-osnovnye-primery-ispolzovaniya/</link>
-					<comments>http://ittraveler.org/docker-osnovnye-primery-ispolzovaniya/#respond</comments>
+		<link>https://ittraveler.org/docker-osnovnye-primery-ispolzovaniya/</link>
+					<comments>https://ittraveler.org/docker-osnovnye-primery-ispolzovaniya/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sun, 15 Sep 2019 12:45:39 +0000</pubDate>
+		<pubDate>Sun, 15 Sep 2019 09:45:39 +0000</pubDate>
 				<category><![CDATA[Cloud]]></category>
 		<category><![CDATA[Debian]]></category>
 		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Web/Cloud]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=1269</guid>
 
-					<description><![CDATA[<p>В этой статье я хотел собрать основные рецепты и заметки по Docker, которые помогут познакомиться с ним и быстро начать работу. Начнем с установки, установить Doсker можно так: На Debian based: Ставим необходимые пакеты: [crayon-61f3d2085459b565478844/] Добавляем ключ GPG для репозитория Docker [crayon-61f3d2085459f383978291/] Добавляем репозиторий [crayon-61f3d208545a1769955452/] Ставим Docker [crayon-61f3d208545a3475224039/] Для установки Docker в Ubuntu повторяем те</p>
-The post <a href="http://ittraveler.org/docker-osnovnye-primery-ispolzovaniya/">Docker Основные примеры использования.</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В этой статье я хотел собрать основные рецепты и заметки по Docker, которые помогут познакомиться с ним и быстро начать работу. Начнем с установки, установить Doсker можно так: На Debian based: Ставим необходимые пакеты: sudo apt-get update sudo apt-get install \     apt-transport-https \     ca-certificates \     curl \     gnupg2 \     software-properties-common</p>
+The post <a href="https://ittraveler.org/docker-osnovnye-primery-ispolzovaniya/">Docker Основные примеры использования.</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/docker-osnovnye-primery-ispolzovaniya/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/docker-osnovnye-primery-ispolzovaniya/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Установка и настройка кластера MongoDB (replication set)</title>
-		<link>http://ittraveler.org/ustanovka-i-nastrojka-klastera-mongodb-replication-set/</link>
-					<comments>http://ittraveler.org/ustanovka-i-nastrojka-klastera-mongodb-replication-set/#respond</comments>
+		<link>https://ittraveler.org/ustanovka-i-nastrojka-klastera-mongodb-replication-set/</link>
+					<comments>https://ittraveler.org/ustanovka-i-nastrojka-klastera-mongodb-replication-set/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sun, 15 Sep 2019 12:23:15 +0000</pubDate>
+		<pubDate>Sun, 15 Sep 2019 09:23:15 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=1263</guid>
 
-					<description><![CDATA[<p>В этой статье мы рассмотрим как установить и настроить кластер MongoDB (replication set), создать базы, пользователей, включить авторизацию по ключу.   Установка MongoDB делается следующим образом:  на Ubuntu: Импортируем публичный ключ [crayon-61f3d20854d38531876260/] Создаем list файл с данными репозитория Создаем /etc/apt/sources.list.d/mongodb-org-4.0.list [crayon-61f3d20854d3d584229904/] Устанавливаем MongoDB [crayon-61f3d20854d3f931399428/] на CentOS: Создаем файл с данными по репозиторию /etc/yum.repos.d/mongodb-org-4.0.repo [crayon-61f3d20854d41342810646/] Устанавливаем</p>
-The post <a href="http://ittraveler.org/ustanovka-i-nastrojka-klastera-mongodb-replication-set/">Установка и настройка кластера MongoDB (replication set)</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В этой статье мы рассмотрим как установить и настроить кластер MongoDB (replication set), создать базы, пользователей, включить авторизацию по ключу.   Установка MongoDB делается следующим образом:  на Ubuntu: Импортируем публичный ключ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4 Создаем list файл с данными репозитория Создаем /etc/apt/sources.list.d/mongodb-org-4.0.list echo "deb [ arch=amd64 ] https://repo.mongodb.org/apt/ubuntu bionic/mongodb-org/4.0 multiverse" &#124;</p>
+The post <a href="https://ittraveler.org/ustanovka-i-nastrojka-klastera-mongodb-replication-set/">Установка и настройка кластера MongoDB (replication set)</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-klastera-mongodb-replication-set/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/ustanovka-i-nastrojka-klastera-mongodb-replication-set/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Запуск команд внутри гостевых ОС в гипервизоре KVM на примере Proxmox</title>
-		<link>http://ittraveler.org/zapusk-komand-vnutri-gostevyx-os-v-gipervizore-kvm-na-primere-proxmox/</link>
-					<comments>http://ittraveler.org/zapusk-komand-vnutri-gostevyx-os-v-gipervizore-kvm-na-primere-proxmox/#respond</comments>
+		<link>https://ittraveler.org/zapusk-komand-vnutri-gostevyx-os-v-gipervizore-kvm-na-primere-proxmox/</link>
+					<comments>https://ittraveler.org/zapusk-komand-vnutri-gostevyx-os-v-gipervizore-kvm-na-primere-proxmox/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Mon, 18 Mar 2019 11:08:31 +0000</pubDate>
+		<pubDate>Mon, 18 Mar 2019 08:08:31 +0000</pubDate>
 				<category><![CDATA[Bash]]></category>
 		<category><![CDATA[Debian]]></category>
 		<category><![CDATA[Linux]]></category>
@@ -169,20 +189,20 @@ The post <a href="http://ittraveler.org/ustanovka-i-nastrojka-klastera-mongodb-r
 		<guid isPermaLink="false">http://ittraveler.org/?p=1192</guid>
 
 					<description><![CDATA[<p>В VMware, с помощью Powercli, есть возможность запускать команды внутри гостевых ОС с помощью командлета Invoke-VMScript , это очень удобно, ведь с помощью этого механизма можно выполнить необходимые команды на сотне VM, не открывая на них консоль. Работая с KVM мне захотелось найти аналог данного механизма, чтобы запускать команды из консоли гипервизора порямо на гостевых</p>
-The post <a href="http://ittraveler.org/zapusk-komand-vnutri-gostevyx-os-v-gipervizore-kvm-na-primere-proxmox/">Запуск команд внутри гостевых ОС в гипервизоре KVM на примере Proxmox</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+The post <a href="https://ittraveler.org/zapusk-komand-vnutri-gostevyx-os-v-gipervizore-kvm-na-primere-proxmox/">Запуск команд внутри гостевых ОС в гипервизоре KVM на примере Proxmox</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/zapusk-komand-vnutri-gostevyx-os-v-gipervizore-kvm-na-primere-proxmox/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/zapusk-komand-vnutri-gostevyx-os-v-gipervizore-kvm-na-primere-proxmox/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Перенос виртуальной машины из Hyper-V в Proxmox (KVM)</title>
-		<link>http://ittraveler.org/perenos-virtualnoj-mashiny-iz-hyper-v-v-proxmox-kvm/</link>
-					<comments>http://ittraveler.org/perenos-virtualnoj-mashiny-iz-hyper-v-v-proxmox-kvm/#comments</comments>
+		<link>https://ittraveler.org/perenos-virtualnoj-mashiny-iz-hyper-v-v-proxmox-kvm/</link>
+					<comments>https://ittraveler.org/perenos-virtualnoj-mashiny-iz-hyper-v-v-proxmox-kvm/#comments</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Sat, 01 Dec 2018 16:04:40 +0000</pubDate>
+		<pubDate>Sat, 01 Dec 2018 13:04:40 +0000</pubDate>
 				<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Windows]]></category>
 		<category><![CDATA[Без рубрики]]></category>
@@ -192,34 +212,10 @@ The post <a href="http://ittraveler.org/zapusk-komand-vnutri-gostevyx-os-v-giper
 		<guid isPermaLink="false">http://ittraveler.org/?p=1164</guid>
 
 					<description><![CDATA[<p>В данной статье мы рассмотрим как можно перенести виртуальную машину из Hyper-V в Proxmox (KVM). Чтобы импортировать Vm из Hyper-V в Proxmox нужно конвертировать ее виртуальный диск. Делается это в два этапа. Первый этап это конвертирование диска Hyper-V в формат vhd. Откройте консоль Hyper-V и выберите пункт &#171;изменить диск&#187; Далее выберите диск вашей виртуальной машины</p>
-The post <a href="http://ittraveler.org/perenos-virtualnoj-mashiny-iz-hyper-v-v-proxmox-kvm/">Перенос виртуальной машины из Hyper-V в Proxmox (KVM)</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+The post <a href="https://ittraveler.org/perenos-virtualnoj-mashiny-iz-hyper-v-v-proxmox-kvm/">Перенос виртуальной машины из Hyper-V в Proxmox (KVM)</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/perenos-virtualnoj-mashiny-iz-hyper-v-v-proxmox-kvm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/perenos-virtualnoj-mashiny-iz-hyper-v-v-proxmox-kvm/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Установка и настройка Foreman + Puppet</title>
-		<link>http://ittraveler.org/ustanovka-i-nastrojka-foreman-puppet/</link>
-					<comments>http://ittraveler.org/ustanovka-i-nastrojka-foreman-puppet/#comments</comments>
-		
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Fri, 03 Aug 2018 15:15:51 +0000</pubDate>
-				<category><![CDATA[Bash]]></category>
-		<category><![CDATA[Debian]]></category>
-		<category><![CDATA[Linux]]></category>
-		<category><![CDATA[Puppet]]></category>
-		<category><![CDATA[Ubuntu]]></category>
-		<category><![CDATA[Web/Cloud]]></category>
-		<category><![CDATA[Foreman]]></category>
-		<guid isPermaLink="false">http://ittraveler.org/?p=1137</guid>
-
-					<description><![CDATA[<p>В данной статье мы рассмотрим как установить и настроить связку foreman + puppet, для  удобного управления конфигурациями Скачиваем и устанавливаем пакет для установки репозитория Puppet [crayon-61f3d20855d8e358738382/] Добавляем репозиторий Foreman Скачиваем установщик Foreman [crayon-61f3d20855d92325806639/] Удалите hostname сервера из /etc/hosts Запустите команду ping $(hostname -f) чтобы убедиться в корректности ip адреса (Адрес должен быть отличным от 127.0.0.1).</p>
-The post <a href="http://ittraveler.org/ustanovka-i-nastrojka-foreman-puppet/">Установка и настройка Foreman + Puppet</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
-		
-					<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-foreman-puppet/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
 		
 		
 			</item>

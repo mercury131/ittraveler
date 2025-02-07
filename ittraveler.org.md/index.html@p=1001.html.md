@@ -1,7 +1,13 @@
-# Настройка растянутого кластера (stretch-cluster) на Windows server 2016                	  
-***Дата: 06.07.2018 Автор Admin***
+#                 	Настройка растянутого кластера (stretch-cluster) на Windows server 2016                	  
+***            ***
 
-В данной статье мы рассмотрим как настроить отказоустойчивый растянутый кластер на базе Windows Server 2016.
+			
+            
+		
+    
+	
+    	  Дата: 06.07.2018 Автор Admin  
+	В данной статье мы рассмотрим как настроить отказоустойчивый растянутый кластер на базе Windows Server 2016.
 В нашем сценарии кластер будет растянут между двумя дата центрами, при этом между хранилищами с помощью технологии storage replica будет настроена репликация данных.
 Предположим у нас есть 2 сайта, в одном ДЦ у нас будет 2-е активные ноды кластера, в другом 2-е запасные, на случай отказа основного ДЦ.
 &nbsp;
@@ -25,19 +31,17 @@ Site LA:
 l-srv-cl1
 l-srv-cl2
 Редакция Windows Server должна быть Datacenter Edition, если у вас редакция Standard выполните следующий Powershell скрипт:
-```
 $Servers = 'm-srv-cl2','m-srv-cl1','l-srv-cl1','l-srv-cl2'  
+
 foreach($srv in $Servers){
+
 Invoke-Command -ComputerName $srv -ScriptBlock { DISM /online /Set-Edition:ServerDatacenter /ProductKey:CB7KF-BWN84-R7R2Y-793K2-8XDDG /AcceptEula /Quiet}
+
 }
-```
-$Servers = 'm-srv-cl2','m-srv-cl1','l-srv-cl1','l-srv-cl2'&nbsp;&nbsp;&nbsp;foreach($srv in $Servers){&nbsp;Invoke-Command -ComputerName $srv -ScriptBlock { DISM /online /Set-Edition:ServerDatacenter /ProductKey:CB7KF-BWN84-R7R2Y-793K2-8XDDG /AcceptEula /Quiet}&nbsp;}
 Далее после установки правильной редакции , установите необходимые роли и фичи следующим скриптом:
-```
 $Servers = 'm-srv-cl2','m-srv-cl1','l-srv-cl1','l-srv-cl2'  
+
 $Servers | foreach { Install-WindowsFeature -ComputerName $_ -Name Storage-Replica,Failover-Clustering,FS-FileServer -IncludeManagementTools -restart }
-```
-$Servers = 'm-srv-cl2','m-srv-cl1','l-srv-cl1','l-srv-cl2'&nbsp;&nbsp;&nbsp;$Servers | foreach { Install-WindowsFeature -ComputerName $_ -Name Storage-Replica,Failover-Clustering,FS-FileServer -IncludeManagementTools -restart }
 После установки ролей Storage-Replica,Failover-Clustering,FS-FileServer перейдем к настройке дисков.
 Подключите общее хранилище к каждому серверу внутри одного ДЦ
 Соблюдайте следующие требования:
@@ -80,13 +84,13 @@ $Servers = 'm-srv-cl2','m-srv-cl1','l-srv-cl1','l-srv-cl2'&nbsp;&nbsp;&nbsp;$Ser
 В качестве кворума будем использовать сетевую шару
 Далее просто укажите сетевой путь к шаре и завершите работу мастера.
 Далее добавим все хранилища в наш кластер
-```
 $Servers = 'm-srv-cl2','m-srv-cl1','l-srv-cl1','l-srv-cl2'  
+
 foreach($srv in $Servers){
+
 Invoke-Command -ComputerName $srv -ScriptBlock { Get-ClusterAvailableDisk -All | Add-ClusterDisk}
+
 }
-```
-$Servers = 'm-srv-cl2','m-srv-cl1','l-srv-cl1','l-srv-cl2'&nbsp;&nbsp;&nbsp;foreach($srv in $Servers){&nbsp;Invoke-Command -ComputerName $srv -ScriptBlock { Get-ClusterAvailableDisk -All | Add-ClusterDisk}&nbsp;}
 Назначим кластерному диску DATA букву, делать это нужно через интерфейс failover cluster manager
 &nbsp;
 По аналогии назначаем букву для второго диска LOG
@@ -144,53 +148,102 @@ $Servers = 'm-srv-cl2','m-srv-cl1','l-srv-cl1','l-srv-cl2'&nbsp;&nbsp;&nbsp;fore
 &nbsp;
 Таким образом мы успешно настроили отказоустойчивый растянутый кластер, который может пережить отказ одного ДЦ не прерывая при этом работу пользователей или приложений.
 &nbsp;
-Related posts:Мониторинг срока действия сертификатов Lets EncryptПринудительная синхронизация Office 365 и локальной Active DirectoryActive Directory + Thunderbird = Общая адресная книга
- PowerShell, Windows, Windows Server, Без рубрики 
- Метки: File-Server, Powershell, Windows Server  
+Related posts:Удаление Lync Server 2013Запуск команд внутри гостевых ОС в гипервизоре KVM на примере ProxmoxНастройка отказоустойчивого файлового сервера на Windows Server 2012 R2
+        
+             PowerShell, Windows, Windows Server, Без рубрики 
+             Метки: File-Server, Powershell, Windows Server  
+        
+            
+        
+    
                         
-Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+                    
+                    
+                
+        
+                
+	
+		
+		Добавить комментарий Отменить ответВаш адрес email не будет опубликован. Обязательные поля помечены *Комментарий * Имя 
 Email 
 Сайт 
  
 &#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+	
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto">
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
+			
+        
+        
+		
+        
+           
+    
+    
   
-Все права защищены. IT Traveler 2022 
-                            
+	
+    
+		
+        
+             
+			
+                
+                    
+                                                  Все права защищены. IT Traveler 2025 
+                         
+                        
+																														                    
+                    
+				
+                
+                
+    
+			
+		                            
+	
+	
+                
+                
+			
+                
+		
+        
+	
+    
 jQuery(document).ready(function($){
-$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
 });
-(function (d, w, c) {
-(w[c] = w[c] || []).push(function() {
-try {
-w.yaCounter27780774 = new Ya.Metrika({
-id:27780774,
-clickmap:true,
-trackLinks:true,
-accurateTrackBounce:true,
-webvisor:true,
-trackHash:true
-});
-} catch(e) { }
-});
-var n = d.getElementsByTagName("script")[0],
-s = d.createElement("script"),
-f = function () { n.parentNode.insertBefore(s, n); };
-s.type = "text/javascript";
-s.async = true;
-s.src = "https://mc.yandex.ru/metrika/watch.js";
-if (w.opera == "[object Opera]") {
-d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-58126221-1', 'auto');
-ga('send', 'pageview');
+  
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');

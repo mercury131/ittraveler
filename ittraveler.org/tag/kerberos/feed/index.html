@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kerberos | IT Traveler</title>
-	<atom:link href="http://ittraveler.org/tag/kerberos/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ittraveler.org</link>
+	<atom:link href="https://ittraveler.org/tag/kerberos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ittraveler.org</link>
 	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
 	<lastBuildDate>Thu, 28 May 2015 13:52:42 +0000</lastBuildDate>
 	<language>ru-RU</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Настройка Kerberos авторизации в Apache2</title>
-		<link>http://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/</link>
-					<comments>http://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/#respond</comments>
+		<link>https://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/</link>
+					<comments>https://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/#respond</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Fri, 20 Feb 2015 11:59:07 +0000</pubDate>
+		<pubDate>Fri, 20 Feb 2015 08:59:07 +0000</pubDate>
 				<category><![CDATA[Active Directory]]></category>
 		<category><![CDATA[Web]]></category>
 		<category><![CDATA[Web/Cloud]]></category>
@@ -33,10 +33,10 @@
 		<category><![CDATA[Kerberos]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=291</guid>
 
-					<description><![CDATA[<p>В данной статье мы рассмотрим настройку автоматической Kerberos авторизации в Apache2. Устанавливаем Kerberos [crayon-61f440a871a2b732904150/] Приводим файл /etc/krb5.conf к виду: [crayon-61f440a871a31363728872/] Проверяем что права доступа на файл /etc/krb5.conf &#8212; 644 (чтение всем пользователям) Проверяем можем ли мы авторизоваться в домене [crayon-61f440a871a33581802164/] где Administrator учетная запись в AD Смотрим вывод командой [crayon-61f440a871a35084319714/] Если вывод такой : [crayon-61f440a871a37711327267/]</p>
-The post <a href="http://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/">Настройка Kerberos авторизации в Apache2</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В данной статье мы рассмотрим настройку автоматической Kerberos авторизации в Apache2. Устанавливаем Kerberos apt-get install krb5-user Приводим файл /etc/krb5.conf к виду: [logging] default = FILE:/var/log/krb5libs.log kdc = FILE:/var/log/krb5kdc.log admin_server = FILE:/var/log/kadmind.log [libdefaults] default_realm = DOMAIN.LOCAL dns_lookup_realm = false dns_lookup_kdc = false ticket_lifetime = 24h forwardable = yes [realms] DOMAIN.LOCAL = { kdc = pdc.domain.local kdc</p>
+The post <a href="https://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/">Настройка Kerberos авторизации в Apache2</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/nastrojka-kerberos-avtorizacii-v-apache2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

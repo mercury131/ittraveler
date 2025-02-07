@@ -1,65 +1,38 @@
-# Установка и настройка сервера Git                	  
-***Дата: 15.05.2016 Автор Admin***
+#                 	Установка и настройка сервера Git                	  
+***            ***
 
-В данной статье мы рассмотрим как установить свой сервер git на ubuntu.
+			
+            
+		
+    
+	
+    	  Дата: 15.05.2016 Автор Admin  
+	В данной статье мы рассмотрим как установить свой сервер git на ubuntu.
 1) Устанавливаем Git
-```
 apt-get update
-```
-apt-get update
-```
-sudo apt-get install -y gitweb
-```
 sudo apt-get install -y gitweb
 2) Открываем файл  /etc/apache2/conf.d/gitweb
 Редактируем строку &#8212; Options FollowSymLinks +ExecCGI
 на Options +FollowSymLinks +ExecCGI
 3) Включаем модуль CGI
-```
-sudo a2enmod cgi
-```
 sudo a2enmod cgi
 4) Выполняем активацию конфига
-```
 ln -s /etc/apache2/conf.d/gitweb /etc/apache2/conf-available/gitweb.conf
-```
-ln -s /etc/apache2/conf.d/gitweb /etc/apache2/conf-available/gitweb.conf
-```
 a2enconf gitweb
-```
-a2enconf gitweb
-```
-service apache2 restart
-```
 service apache2 restart
 Теперь по пути &#8212; http://192.168.1.41/gitweb/ , где 192.168.1.41 это ip адрес вашего сервера, откроется Gitweb с пустыми проектами.
 Рассмотрим как создать новый репозиторий git.
 1) Создаем папку с репозиторием
-```
-mkdir /home/git
-```
 mkdir /home/git
 2) Переходим в созданный каталог &#8212; /home/git
-```
-cd /home/git
-```
  cd /home/git
 3) Создаем новый пустой репозиторий
-```
-git init
-```
 git init
 4) Далее загрузим в этот каталог свой файл с кодом, который нам нужно добавить в репозиторий.
 В качестве примера я загрузил файл index.php, загруженный файл лежит тут &#8212; /home/git/index.php
 5) Добавляем загруженный файл в репозиторий
-```
-git add index.php
-```
 git add index.php
 6) Сделаем commit, что мы добавили файл в репозиторий
-```
-git commit -m "I add this file"
-```
 git commit -m "I add this file"
 Чтобы увидеть проект в веб интерфейсе по адресу http://192.168.1.41/gitweb/ ,
 нужно изменить в конфиге /etc/gitweb.conf переменную, указывающую путь к проекту.
@@ -68,53 +41,102 @@ git commit -m "I add this file"
 $projectroot = &#171;/home/git&#187;;
 Теперь в веб интерфейсе GIT виден наш репозиторий.
 Удачной установки! =)
-Related posts:Настраиваем оповещение при подключении по SSH.Установка и настройка memcacheУстановка и настройка Sphinx
- Linux, Web, Web/Cloud 
- Метки: git, Ubuntu  
+Related posts:Настройка дисковых квот в UbuntuВосстановление пароля root на сервере MysqlНастройка связки веб серверов Nginx + Apache
+        
+             Linux, Web, Web/Cloud 
+             Метки: git, Ubuntu  
+        
+            
+        
+    
                         
-Добавить комментарий Отменить ответВаш адрес email не будет опубликован.Комментарий Имя 
+                    
+                    
+                
+        
+                
+	
+		
+		Добавить комментарий Отменить ответВаш адрес email не будет опубликован. Обязательные поля помечены *Комментарий * Имя 
 Email 
 Сайт 
  
 &#916;document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );	
+	
 <ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-1890562251101921"
-data-ad-slot="9117958896"
-data-ad-format="auto">
+     style="display:block"
+     data-ad-client="ca-pub-1890562251101921"
+     data-ad-slot="9117958896"
+     data-ad-format="auto">
 (adsbygoogle = window.adsbygoogle || []).push({});
+			
+        
+        
+		
+        
+           
+    
+    
   
-Все права защищены. IT Traveler 2022 
-                            
+	
+    
+		
+        
+             
+			
+                
+                    
+                                                  Все права защищены. IT Traveler 2025 
+                         
+                        
+																														                    
+                    
+				
+                
+                
+    
+			
+		                            
+	
+	
+                
+                
+			
+                
+		
+        
+	
+    
 jQuery(document).ready(function($){
-$("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8,current:" {current}  {total}",previous:"",close:"Закрыть"});
 });
-(function (d, w, c) {
-(w[c] = w[c] || []).push(function() {
-try {
-w.yaCounter27780774 = new Ya.Metrika({
-id:27780774,
-clickmap:true,
-trackLinks:true,
-accurateTrackBounce:true,
-webvisor:true,
-trackHash:true
-});
-} catch(e) { }
-});
-var n = d.getElementsByTagName("script")[0],
-s = d.createElement("script"),
-f = function () { n.parentNode.insertBefore(s, n); };
-s.type = "text/javascript";
-s.async = true;
-s.src = "https://mc.yandex.ru/metrika/watch.js";
-if (w.opera == "[object Opera]") {
-d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-58126221-1', 'auto');
-ga('send', 'pageview');
+  
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter27780774 = new Ya.Metrika({
+                    id:27780774,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-58126221-1', 'auto');
+  ga('send', 'pageview');

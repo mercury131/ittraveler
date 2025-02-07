@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Резервное копирование | IT Traveler</title>
-	<atom:link href="http://ittraveler.org/tag/rezervnoe-kopirovanie/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ittraveler.org</link>
+	<atom:link href="https://ittraveler.org/tag/rezervnoe-kopirovanie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ittraveler.org</link>
 	<description>Заметки одного системного администратора о Powershell, Exchange, Windows, Linux, и многом другом...</description>
 	<lastBuildDate>Sun, 16 Dec 2018 08:34:12 +0000</lastBuildDate>
 	<language>ru-RU</language>
@@ -18,44 +18,44 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Автоматизируем бэкап баз данных MSSQL Express</title>
-		<link>http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/</link>
-					<comments>http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/#comments</comments>
+		<link>https://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/</link>
+					<comments>https://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/#comments</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Tue, 26 May 2015 18:45:47 +0000</pubDate>
+		<pubDate>Tue, 26 May 2015 15:45:47 +0000</pubDate>
 				<category><![CDATA[Windows]]></category>
 		<category><![CDATA[Windows Server]]></category>
 		<category><![CDATA[MSSQL]]></category>
 		<category><![CDATA[Резервное копирование]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=484</guid>
 
-					<description><![CDATA[<p>В данной статье мы рассмотрим как настроить автоматическое резервное копирование баз данных MSSQL расположенных на бесплатном MSSQL Express. Для автоматизации резервного копирования напишем следующий sql скрипт: [crayon-61f3a1fbbb320381478669/] Кодировка скрипта должны быть &#8212; UCS-2 Little Endian Рассмотрим параметры скрипта: Путь куда сохранять резервные копии указывается тут &#8212; C:\Backup\ Имя резервной копии будет начинаться с BASE_backup_ и</p>
-The post <a href="http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/">Автоматизируем бэкап баз данных MSSQL Express</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В данной статье мы рассмотрим как настроить автоматическое резервное копирование баз данных MSSQL расположенных на бесплатном MSSQL Express. Для автоматизации резервного копирования напишем следующий sql скрипт: declare @path varchar(max)=N'C:\Backup\BASE_backup_'+convert(varchar(max),getdate(),102) BACKUP DATABASE [BASE_NAME] TO DISK = @path WITH COPY_ONLY, NOFORMAT, NOINIT, NAME = N'BASE_NAME-Полная База данных Резервное копирование', SKIP, NOREWIND, NOUNLOAD, STATS = 10 GO Кодировка</p>
+The post <a href="https://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/">Автоматизируем бэкап баз данных MSSQL Express</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/avtomatiziruem-bekap-baz-dannyx-mssql-express/feed/</wfw:commentRss>
 			<slash:comments>7</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Установка и настройка Citrix XenServer Часть 3.</title>
-		<link>http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-3/</link>
-					<comments>http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-3/#comments</comments>
+		<link>https://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-3/</link>
+					<comments>https://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-3/#comments</comments>
 		
 		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Tue, 26 May 2015 18:44:20 +0000</pubDate>
+		<pubDate>Tue, 26 May 2015 15:44:20 +0000</pubDate>
 				<category><![CDATA[Виртуализация]]></category>
 		<category><![CDATA[XenServer]]></category>
 		<category><![CDATA[Резервное копирование]]></category>
 		<guid isPermaLink="false">http://ittraveler.org/?p=476</guid>
 
-					<description><![CDATA[<p>В данной статье мы рассмотрим настройку резервного копирования хостов Xen и запущенных виртуальных машин. Настроим путь к хранилищу бэкапов. Открываем консоль хоста через XenCenter. Создадим папку, куда будет примонтировано хранилище резервных копий. [crayon-61f3a1fbbc8ec139893938/] Подключаем хранилище. [crayon-61f3a1fbbc8f1362241409/] Далее установите Xentools на каждую виртуальную машину. Теперь подготовим скрипты для бэкапа виртуальных машин использующих vss. (Данный скрипт подходит</p>
-The post <a href="http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-3/">Установка и настройка Citrix XenServer Часть 3.</a> first appeared on <a href="http://ittraveler.org">IT Traveler</a>.]]></description>
+					<description><![CDATA[<p>В данной статье мы рассмотрим настройку резервного копирования хостов Xen и запущенных виртуальных машин. Настроим путь к хранилищу бэкапов. Открываем консоль хоста через XenCenter. Создадим папку, куда будет примонтировано хранилище резервных копий. mkdir /mnt/backup Подключаем хранилище. mount -t cifs "//192.168.1.51/backup" -o username=admin,password=Password /mnt/backup Далее установите Xentools на каждую виртуальную машину. Теперь подготовим скрипты для бэкапа</p>
+The post <a href="https://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-3/">Установка и настройка Citrix XenServer Часть 3.</a> first appeared on <a href="https://ittraveler.org">IT Traveler</a>.]]></description>
 		
-					<wfw:commentRss>http://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-3/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
