@@ -210,7 +210,7 @@ umount /mnt/backup
 Будет рассмотрено создание LVM, EXT и ISO хранилищ.
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка VMWare Vsphere 6. Часть 1.Выполняем команды внутри гостевых ОС через PowerCLIНастройка ZFS в Proxmox
+Related posts:Настройка HA кластера Hyper-VКастомизация гостевых ОС Windows в KVM на примере ProxmoxУстановка и настройка VMWare Vsphere 6. Часть 1.
         
              Виртуализация 
              Метки: XenServer, Виртуализация, Резервное копирование  
