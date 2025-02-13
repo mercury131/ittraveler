@@ -210,7 +210,7 @@ umount /mnt/backup
 Будет рассмотрено создание LVM, EXT и ISO хранилищ.
 &nbsp;
 &nbsp;
-Related posts:Установка и настройка VMWare Vsphere 6. Часть 1.Установка и настройка Citrix XenServer Часть 1.Перенос виртуальной машины из Hyper-V в Proxmox (KVM)
+Related posts:Установка и настройка VMWare Vsphere 6. Часть 1.Установка и настройка Citrix XenServer Часть 2.Запуск команд внутри гостевых ОС в гипервизоре KVM на примере Proxmox
         
              Виртуализация 
              Метки: XenServer, Виртуализация, Резервное копирование  
